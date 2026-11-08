@@ -1,0 +1,464 @@
+{
+  "language_code": "zh-CN",
+  "language_basis": "explicit_document_header",
+  "document": "CharacterNames",
+  "source": {
+    "asset_file": "resources.assets",
+    "path_id": 2503,
+    "name": "CharacterNames",
+    "object_sha256": "9c0999cb5f29a66d0af5967f89c3cf20e793c5301df26e07616e2199536a94bd"
+  },
+  "entries": [
+    {
+      "key": "abram",
+      "text": "亚伯兰",
+      "line": 3
+    },
+    {
+      "key": "ai",
+      "text": "智能管家",
+      "line": 4
+    },
+    {
+      "key": "ano-blurred",
+      "text": "ano-blurred",
+      "line": 5
+    },
+    {
+      "key": "attendant",
+      "text": "服务员",
+      "line": 6
+    },
+    {
+      "key": "auntA",
+      "text": "大妈A",
+      "line": 7
+    },
+    {
+      "key": "auntB",
+      "text": "大妈B",
+      "line": 8
+    },
+    {
+      "key": "auntC",
+      "text": "大妈C",
+      "line": 9
+    },
+    {
+      "key": "baker",
+      "text": "店长",
+      "line": 10
+    },
+    {
+      "key": "boyA",
+      "text": "少年A",
+      "line": 11
+    },
+    {
+      "key": "boyB",
+      "text": "少年B",
+      "line": 12
+    },
+    {
+      "key": "c2-neko",
+      "text": "Neko",
+      "line": 13
+    },
+    {
+      "key": "car",
+      "text": "飙车酱",
+      "line": 14
+    },
+    {
+      "key": "car-rabbit-f",
+      "text": "飙车酱",
+      "line": 15
+    },
+    {
+      "key": "car-rabbit-s",
+      "text": "飙车酱",
+      "line": 16
+    },
+    {
+      "key": "cat",
+      "text": "维克斯（猫）",
+      "line": 17
+    },
+    {
+      "key": "classmate-a",
+      "text": "同学A",
+      "line": 18
+    },
+    {
+      "key": "classmate-b",
+      "text": "同学B",
+      "line": 19
+    },
+    {
+      "key": "classmate-c",
+      "text": "同学C",
+      "line": 20
+    },
+    {
+      "key": "customerA",
+      "text": "邻桌客人A",
+      "line": 21
+    },
+    {
+      "key": "customerB",
+      "text": "醉酒的邻桌客人B",
+      "line": 22
+    },
+    {
+      "key": "e-a",
+      "text": "e-a",
+      "line": 23
+    },
+    {
+      "key": "e-b",
+      "text": "e-b",
+      "line": 24
+    },
+    {
+      "key": "e-c",
+      "text": "e-c",
+      "line": 25
+    },
+    {
+      "key": "e-d",
+      "text": "e-d",
+      "line": 26
+    },
+    {
+      "key": "e-e",
+      "text": "e-e",
+      "line": 27
+    },
+    {
+      "key": "elf-kid",
+      "text": "图图",
+      "line": 28
+    },
+    {
+      "key": "elf-young",
+      "text": "精灵幼体",
+      "line": 29
+    },
+    {
+      "key": "eto",
+      "text": "爱托",
+      "line": 30
+    },
+    {
+      "key": "girl",
+      "text": "少女",
+      "line": 31
+    },
+    {
+      "key": "gov-a",
+      "text": "政要A",
+      "line": 32
+    },
+    {
+      "key": "gov-b",
+      "text": "政要B",
+      "line": 33
+    },
+    {
+      "key": "gov-c",
+      "text": "政要C",
+      "line": 34
+    },
+    {
+      "key": "hoppe",
+      "text": "荷珀",
+      "line": 35
+    },
+    {
+      "key": "hoppe-chef",
+      "text": "荷珀",
+      "line": 36
+    },
+    {
+      "key": "hoppe-lunar",
+      "text": "荷珀",
+      "line": 37
+    },
+    {
+      "key": "hoppe-ss-dry",
+      "text": "荷珀",
+      "line": 38
+    },
+    {
+      "key": "hoppe-ss-wet",
+      "text": "荷珀",
+      "line": 39
+    },
+    {
+      "key": "idol-b",
+      "text": "idol-b",
+      "line": 40
+    },
+    {
+      "key": "ilot",
+      "text": "伊洛",
+      "line": 41
+    },
+    {
+      "key": "ilot-jirai",
+      "text": "伊洛",
+      "line": 42
+    },
+    {
+      "key": "ilot-lunar",
+      "text": "伊洛",
+      "line": 43
+    },
+    {
+      "key": "ilot-maid",
+      "text": "伊洛",
+      "line": 44
+    },
+    {
+      "key": "ilot-psi",
+      "text": "伊洛",
+      "line": 45
+    },
+    {
+      "key": "ilot-ss-fish",
+      "text": "伊洛",
+      "line": 46
+    },
+    {
+      "key": "ilot-ss-nor",
+      "text": "伊洛",
+      "line": 47
+    },
+    {
+      "key": "jolly",
+      "text": "祖莉",
+      "line": 48
+    },
+    {
+      "key": "kakari",
+      "text": "喀卡莉特",
+      "line": 49
+    },
+    {
+      "key": "kakari-young",
+      "text": "喀卡莉特",
+      "line": 50
+    },
+    {
+      "key": "khoppe",
+      "text": "荷珀",
+      "line": 51
+    },
+    {
+      "key": "kilot",
+      "text": "伊洛",
+      "line": 52
+    },
+    {
+      "key": "kilot-ghost",
+      "text": "披着白布的学生",
+      "line": 53
+    },
+    {
+      "key": "kmona",
+      "text": "莫娜",
+      "line": 54
+    },
+    {
+      "key": "lab",
+      "text": "研究员",
+      "line": 55
+    },
+    {
+      "key": "lime",
+      "text": "莱姆",
+      "line": 56
+    },
+    {
+      "key": "lulua",
+      "text": "露露娅",
+      "line": 57
+    },
+    {
+      "key": "luna",
+      "text": "露娜",
+      "line": 58
+    },
+    {
+      "key": "mai-salt",
+      "text": "ms",
+      "line": 59
+    },
+    {
+      "key": "miner2",
+      "text": "矿工",
+      "line": 60
+    },
+    {
+      "key": "mona-ss",
+      "text": "莫娜",
+      "line": 61
+    },
+    {
+      "key": "noah",
+      "text": "诺亚",
+      "line": 62
+    },
+    {
+      "key": "noah-core",
+      "text": "諾亞",
+      "line": 63
+    },
+    {
+      "key": "police",
+      "text": "警察",
+      "line": 64
+    },
+    {
+      "key": "puno",
+      "text": "普约",
+      "line": 65
+    },
+    {
+      "key": "rat",
+      "text": "维克斯（老鼠）",
+      "line": 66
+    },
+    {
+      "key": "robot",
+      "text": "保姆机械人",
+      "line": 67
+    },
+    {
+      "key": "robot59427",
+      "text": "保姆机械人59427",
+      "line": 68
+    },
+    {
+      "key": "robot59563",
+      "text": "保姆机械人59563",
+      "line": 69
+    },
+    {
+      "key": "robot-staff",
+      "text": "机械店员",
+      "line": 70
+    },
+    {
+      "key": "rumil",
+      "text": "鲁米尔",
+      "line": 71
+    },
+    {
+      "key": "rumil-young",
+      "text": "鲁米尔",
+      "line": 72
+    },
+    {
+      "key": "saku",
+      "text": "樱璃",
+      "line": 73
+    },
+    {
+      "key": "saku-casual",
+      "text": "樱璃",
+      "line": 74
+    },
+    {
+      "key": "silo-man-angry",
+      "text": "silo-man-angry",
+      "line": 75
+    },
+    {
+      "key": "silo-woman-angry",
+      "text": "silo-woman-angry",
+      "line": 76
+    },
+    {
+      "key": "single-use",
+      "text": "single-use",
+      "line": 77
+    },
+    {
+      "key": "slime-ss",
+      "text": "宇宙巨星？",
+      "line": 78
+    },
+    {
+      "key": "s-wolf",
+      "text": "s-wolf",
+      "line": 79
+    },
+    {
+      "key": "system",
+      "text": "系统",
+      "line": 80
+    },
+    {
+      "key": "teacher",
+      "text": "老师",
+      "line": 81
+    },
+    {
+      "key": "tommy",
+      "text": "图图",
+      "line": 82
+    },
+    {
+      "key": "trailer",
+      "text": "次回预告",
+      "line": 83
+    },
+    {
+      "key": "uncleB",
+      "text": "大叔B",
+      "line": 84
+    },
+    {
+      "key": "uncleC",
+      "text": "大叔Ｃ",
+      "line": 85
+    },
+    {
+      "key": "uncleD",
+      "text": "大叔D",
+      "line": 86
+    },
+    {
+      "key": "unknown",
+      "text": "????",
+      "line": 87
+    },
+    {
+      "key": "v-hoppe",
+      "text": "荷珀",
+      "line": 88
+    },
+    {
+      "key": "v-ilot",
+      "text": "伊洛",
+      "line": 89
+    },
+    {
+      "key": "wolf",
+      "text": "维克斯（狼）",
+      "line": 90
+    },
+    {
+      "key": "yang",
+      "text": "杉杨",
+      "line": 91
+    },
+    {
+      "key": "yang-casual",
+      "text": "杉杨",
+      "line": 92
+    }
+  ],
+  "unparsed_lines": []
+}

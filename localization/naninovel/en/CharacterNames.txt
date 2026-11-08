@@ -1,0 +1,92 @@
+; Chinese (T) <zh-TW> to English <en> localization document for `CharacterNames` managed text document
+
+abram: Abram
+ai: AI Assistant
+ano-blurred: ano-blurred
+attendant: Clerk
+auntA: Auntie A
+auntB: Auntie B
+auntC: Auntie C
+baker: Shop Manager
+boyA: Youth A
+boyB: Youth B
+c2-neko: Neko
+car: Bolt
+car-rabbit-f: Bolt
+car-rabbit-s: Bolt
+cat: Vickers (Cat)
+classmate-a: Classmate A
+classmate-b: Classmate B
+classmate-c: Classmate C
+customerA: Customer A
+customerB: Drunk Customer B
+e-a: e-a
+e-b: e-b
+e-c: e-c
+e-d: e-d
+e-e: e-e
+elf-kid: Tommy
+elf-young: Elfling
+eto: Eto
+girl: Young Girl
+gov-a: Politician A
+gov-b: Politician B
+gov-c: Politician C
+hoppe: Hoppe
+hoppe-chef: Hoppe
+hoppe-lunar: 荷珀
+hoppe-ss-dry: Hoppe
+hoppe-ss-wet: Hoppe
+idol-b: Idol B
+ilot: Ilot
+ilot-jirai: Ilot
+ilot-lunar: 伊洛
+ilot-maid: Ilot
+ilot-psi: Ilot
+ilot-ss-fish: Ilot
+ilot-ss-nor: Ilot
+jolly: Jolly
+kakari: Kakari
+kakari-young: Kakari
+khoppe: Hoppe
+kilot: Ilot
+kilot-ghost: The Student Draped in White Cloth
+kmona: Mona
+lab: Researcher
+lime: Lime
+lulua: Lulua
+luna: Luna
+mai-salt: ms
+miner2: Miner
+mona-ss: Mona
+noah: Noah
+noah-core: 諾亞
+police: Policeman
+puno: Puno
+rat: Vickers (Mouse)
+robot: Nanny Robot
+robot59427: Nanny Robot 59427
+robot59563: Nanny Robot 59563
+robot-staff: Robot Staff
+rumil: Rumil
+rumil-young: Rumil
+saku: Cheri
+saku-casual: Cheri
+silo-man-angry: silo-man-angry
+silo-woman-angry: silo-woman-angry
+single-use: single-use
+slime-ss: Cosmic Superstar?
+s-wolf: s-wolf
+system: System
+teacher: Teacher
+tommy: Tommy
+trailer: Coming Soon
+uncleB: Uncle B
+uncleC: Uncle C
+uncleD: Uncle D
+unknown: ????
+v-hoppe: Hoppe
+v-ilot: Ilot
+wolf: Vickers (Wolf)
+yang: Angatu
+yang-casual: Angatu

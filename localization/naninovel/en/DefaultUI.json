@@ -1,0 +1,124 @@
+{
+  "language_code": "en",
+  "language_basis": "explicit_document_header",
+  "document": "DefaultUI",
+  "source": {
+    "asset_file": "resources.assets",
+    "path_id": 2478,
+    "name": "DefaultUI",
+    "object_sha256": "23c39b9d0e8d4ec11fa2013d2be6b886cbcc758c6fff30f1d9858fc9c5fa5afa"
+  },
+  "entries": [
+    {
+      "key": "General.Close",
+      "text": "CLOSE",
+      "line": 3
+    },
+    {
+      "key": "Naninovel.UI.ControlPanelTitleButton.ConfirmationMessage",
+      "text": "Are you sure you want to quit to the title screen?\\nAny unsaved game progress will be lost.",
+      "line": 4
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsFontDropdown.DefaultFontName",
+      "text": "Default",
+      "line": 5
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsFontSizeDropdown.Default",
+      "text": "Default",
+      "line": 6
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsFontSizeDropdown.ExtraLarge",
+      "text": "Extra Large",
+      "line": 7
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsFontSizeDropdown.Large",
+      "text": "Large",
+      "line": 8
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsFontSizeDropdown.Small",
+      "text": "Small",
+      "line": 9
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption1",
+      "text": "Very Low",
+      "line": 10
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption2",
+      "text": "Low",
+      "line": 11
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption3",
+      "text": "Medium",
+      "line": 12
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption4",
+      "text": "High",
+      "line": 13
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption5",
+      "text": "Very High",
+      "line": 14
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption6",
+      "text": "Ultra",
+      "line": 15
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsScreenModeDropdown.ExclusiveFullScreen",
+      "text": "Full Screen",
+      "line": 16
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsScreenModeDropdown.FullScreenWindow",
+      "text": "Full Screen Window",
+      "line": 17
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsScreenModeDropdown.MaximizedWindow",
+      "text": "Maximized Window",
+      "line": 18
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsScreenModeDropdown.Windowed",
+      "text": "Windowed",
+      "line": 19
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsSkipModeDropdown.Everything",
+      "text": "Everything",
+      "line": 20
+    },
+    {
+      "key": "Naninovel.UI.GameSettingsSkipModeDropdown.ReadOnly",
+      "text": "Read Only",
+      "line": 21
+    },
+    {
+      "key": "Naninovel.UI.GameStateSlot.EmptySlotLabel",
+      "text": "Empty",
+      "line": 22
+    },
+    {
+      "key": "Naninovel.UI.SaveLoadMenu.DeleteSaveSlotMessage",
+      "text": "Are you sure you want to delete save slot?",
+      "line": 23
+    },
+    {
+      "key": "Naninovel.UI.SaveLoadMenu.OverwriteSaveSlotMessage",
+      "text": "Are you sure you want to overwrite save slot?",
+      "line": 24
+    }
+  ],
+  "unparsed_lines": []
+}

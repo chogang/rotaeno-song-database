@@ -25,6 +25,7 @@ Rotaeno **2.99.0** 게임 파일에서 정적으로 추출한 곡·채보·팩 �
 - [`validation-report.json`](validation-report.json): 추출 및 무결성 검증 결과.
 - [`rea-evidence.json`](rea-evidence.json): 정적 분석 근거의 경로 삭제본.
 - [`tools/`](tools/): 추출·연결·검증 스크립트.
+- [`localization/`](localization/README.md): 언어별 번역 JSON, 번역 전용 DB, 곡명·팩 이름 및 Naninovel UI·캐릭터 이름 문서.
 
 개인 PC의 절대 경로는 빈 문자열로 삭제했습니다. 게임의 APK 내부 경로, 에셋 경로, 오브젝트 ID와 원본 해시는 유지했습니다. `rea-evidence.json`은 개인정보 제거를 위해 수정한 사본이므로 원래 Evidence의 서명·다이제스트 검증용 원본으로 사용할 수 없습니다.
 
@@ -90,6 +91,20 @@ node tools/validate_game.mjs
 - `source-apks.json`: 원본 APK 해시 목록. 로컬 `Path`는 빈 문자열이어도 됩니다.
 
 `supplement_game.py`는 원본 `base.apk`에서 버전을 읽습니다. 검증 스크립트는 `raw-objects/`의 추출 바이트도 확인합니다. 스크립트는 이 버전에서 확인한 오브젝트 구조와 개수에 맞춰져 있으며, 새로운 게임 버전에는 추가 검증이 필요합니다. 기존 생성 DB를 덮어씁니다.
+
+## 언어별 번역
+
+주 번역 테이블에서 원본 항목 2,462개(고유 키 2,459개)를 추출했습니다. 간체·번체 중국어, 영어, 한국어, 일본어, 인도네시아어, 태국어와 중국 서버 Override 슬롯을 보존했습니다. 별도로 7개 언어의 Naninovel 텍스트 문서 21개와 SDK 번역 문자열도 내보냈습니다.
+
+[한국어 원문 사전](localization/ko.json), [영어 원문 사전](localization/en.json), [곡명 번역 연결](localization/song-names.json), [상세 설명](localization/README.md)을 확인할 수 있습니다. 기존 DB에는 번역 테이블과 `localized_song_names` 뷰를 추가했습니다. 빈 값·중복 키·언어 코드 참조를 원문과 구분해 보존했습니다.
+
+번역 추출을 재현하려면 기존 파이프라인 이후 다음을 실행합니다.
+
+```sh
+python tools/extract_localization.py
+python tools/extract_managed_texts.py
+python tools/validate_localization.py
+```
 
 ## 한계
 

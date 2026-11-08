@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "source_object_sha256": "2cc05492efd84bc4b641c68a0a6c8ef12586f5e25dcc597d6b5931dd6e4fd1a9",
+  "source_entries": 2462,
+  "unique_keys": 2459,
+  "unique_text_keys": 2436,
+  "language_slots": 8,
+  "translation_cells": 19696,
+  "song_language_rows": 3496,
+  "managed_text_values": 2415,
+  "json_sqlite_parity": "ok",
+  "database_integrity": "ok",
+  "foreign_key_errors": 0,
+  "local_path_findings": 0,
+  "exported_files_scanned": 75
+}

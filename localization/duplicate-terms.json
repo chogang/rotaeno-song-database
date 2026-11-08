@@ -1,0 +1,173 @@
+{
+  "map_policy": "First serialized entry per key; runtime duplicate handling not asserted. All source entries preserved in all-terms.json and SQLite.",
+  "duplicates": {
+    "db/collectable/character_maimai_salt/Name": [
+      {
+        "entry_index": 616,
+        "key": "db/collectable/character_maimai_salt/Name",
+        "term_type": 0,
+        "values": [
+          "",
+          "莎露朵",
+          "莎露朵",
+          "Salt",
+          "ソルト",
+          "ソルト",
+          "Salt",
+          "ソルト"
+        ],
+        "flags": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "touch": [],
+        "byte_offset": 247476
+      },
+      {
+        "entry_index": 617,
+        "key": "db/collectable/character_maimai_salt/Name",
+        "term_type": 0,
+        "values": [
+          "",
+          "ソルト",
+          "ソルト",
+          "Salt",
+          "ソルト",
+          "ソルト",
+          "Salt",
+          "ソルト"
+        ],
+        "flags": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "touch": [],
+        "byte_offset": 247648
+      }
+    ],
+    "db/collectable/character_maimai_salt/dialogs/1": [
+      {
+        "entry_index": 618,
+        "key": "db/collectable/character_maimai_salt/dialogs/1",
+        "term_type": 0,
+        "values": [
+          "",
+          "我是ソルト。请多指教。",
+          "我是ソルト。請多指教。",
+          "It’s Salt. N-nice to meet you.",
+          "ソルト예요. 잘 부탁드려요.",
+          "ソルトなのです。よろしくです。",
+          "Aku Salt. Senang berkenalan!",
+          "ソルトค่ะ ฝากตัวด้วยนะคะ"
+        ],
+        "flags": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "touch": [],
+        "byte_offset": 247820
+      },
+      {
+        "entry_index": 619,
+        "key": "db/collectable/character_maimai_salt/dialogs/1",
+        "term_type": 0,
+        "values": [
+          "",
+          "我是ソルト。请多指教。",
+          "我是ソルト。請多指教。",
+          "It’s Salt. N-nice to meet you.",
+          "ソルト예요. 잘 부탁드려요.",
+          "ソルトなのです。よろしくです。",
+          "Aku Salt. Senang berkenalan!",
+          "ソルトค่ะ ฝากตัวด้วยนะคะ"
+        ],
+        "flags": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "touch": [],
+        "byte_offset": 248212
+      }
+    ],
+    "db/collectable/character_maimai_salt/dialogs/3": [
+      {
+        "entry_index": 621,
+        "key": "db/collectable/character_maimai_salt/dialogs/3",
+        "term_type": 0,
+        "values": [
+          "",
+          "无论是去各地旅行，还是在大吉岭，我都一样喜欢。",
+          "無論是去各地旅行，還是在大吉嶺，我都一樣喜歡。",
+          "I love traveling to all kinds of places, and I love Darjeeling too.",
+          "여러 곳을 여행하는 것도, 다즐링도 둘 다 좋아해요.",
+          "色んな所を旅するのも、ダージリンもどっちも好きなのです。",
+          "Aku suka bepergian ke berbagai tempat, dan aku juga suka Darjeeling. Aku suka keduanya!",
+          "ไม่ว่าจะเป็นการเดินทางไปยังที่ต่าง ๆ หรือดาร์จีลิง ソルトก็ชอบทั้งคู่เลยค่ะ"
+        ],
+        "flags": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "touch": [],
+        "byte_offset": 249176
+      },
+      {
+        "entry_index": 622,
+        "key": "db/collectable/character_maimai_salt/dialogs/3",
+        "term_type": 0,
+        "values": [
+          "",
+          "无论是去各地旅行，还是在大吉岭，我都一样喜欢。",
+          "無論是去各地旅行，還是在大吉嶺，我都一樣喜歡。",
+          "I love traveling to all kinds of places, and I love Darjeeling too.",
+          "여러 곳을 여행하는 것도, 다즐링도 둘 다 좋아해요.",
+          "色んな所を旅するのも、ダージリンもどっちも好きなのです。",
+          "Aku suka bepergian ke berbagai tempat, dan aku juga suka Darjeeling. Aku suka keduanya!",
+          "ไม่ว่าจะเป็นการเดินทางไปยังที่ต่าง ๆ หรือดาร์จีลิง ソルトก็ชอบทั้งคู่เลยค่ะ"
+        ],
+        "flags": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "touch": [],
+        "byte_offset": 249952
+      }
+    ]
+  }
+}

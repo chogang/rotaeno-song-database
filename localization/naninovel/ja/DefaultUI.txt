@@ -1,0 +1,24 @@
+; Chinese (T) <zh-TW> to Japanese <ja> localization document for `DefaultUI` managed text document
+
+General.Close: CLOSE
+Naninovel.UI.ControlPanelTitleButton.ConfirmationMessage: Are you sure you want to quit to the title screen?\nAny unsaved game progress will be lost.
+Naninovel.UI.GameSettingsFontDropdown.DefaultFontName: Default
+Naninovel.UI.GameSettingsFontSizeDropdown.Default: Default
+Naninovel.UI.GameSettingsFontSizeDropdown.ExtraLarge: Extra Large
+Naninovel.UI.GameSettingsFontSizeDropdown.Large: Large
+Naninovel.UI.GameSettingsFontSizeDropdown.Small: Small
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption1: Very Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption2: Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption3: Medium
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption4: High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption5: Very High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption6: Ultra
+Naninovel.UI.GameSettingsScreenModeDropdown.ExclusiveFullScreen: Full Screen
+Naninovel.UI.GameSettingsScreenModeDropdown.FullScreenWindow: Full Screen Window
+Naninovel.UI.GameSettingsScreenModeDropdown.MaximizedWindow: Maximized Window
+Naninovel.UI.GameSettingsScreenModeDropdown.Windowed: Windowed
+Naninovel.UI.GameSettingsSkipModeDropdown.Everything: Everything
+Naninovel.UI.GameSettingsSkipModeDropdown.ReadOnly: Read Only
+Naninovel.UI.GameStateSlot.EmptySlotLabel: Empty
+Naninovel.UI.SaveLoadMenu.DeleteSaveSlotMessage: Are you sure you want to delete save slot?
+Naninovel.UI.SaveLoadMenu.OverwriteSaveSlotMessage: Are you sure you want to overwrite save slot?

@@ -1,0 +1,675 @@
+{
+  "languages": [
+    {
+      "index": 0,
+      "name": "国服Override",
+      "code": "china",
+      "flags": 1
+    },
+    {
+      "index": 1,
+      "name": "简体中文",
+      "code": "zh-CN",
+      "flags": 0
+    },
+    {
+      "index": 2,
+      "name": "繁體中文",
+      "code": "zh-TW",
+      "flags": 0
+    },
+    {
+      "index": 3,
+      "name": "English",
+      "code": "en",
+      "flags": 0
+    },
+    {
+      "index": 4,
+      "name": "한국어",
+      "code": "ko",
+      "flags": 0
+    },
+    {
+      "index": 5,
+      "name": "日本語",
+      "code": "ja",
+      "flags": 0
+    },
+    {
+      "index": 6,
+      "name": "Bahasa Indonesia",
+      "code": "id",
+      "flags": 0
+    },
+    {
+      "index": 7,
+      "name": "ภาษาไทย",
+      "code": "th",
+      "flags": 0
+    }
+  ],
+  "terms": [
+    {
+      "entry_index": 125,
+      "key": "common/Rotaeno_Logo",
+      "term_type": 5,
+      "values": [
+        "Rotaeno ZHCN Dropshadow",
+        "Rotaeno EN Dropshadow",
+        "Rotaeno EN Dropshadow",
+        "Rotaeno EN Dropshadow",
+        "Rotaeno EN Dropshadow",
+        "Rotaeno EN Dropshadow",
+        "Rotaeno EN Dropshadow",
+        "Rotaeno EN Dropshadow"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 55344
+    },
+    {
+      "entry_index": 1752,
+      "key": "font/bold",
+      "term_type": 1,
+      "values": [
+        "NotoSansSC-Bold",
+        "NotoSansSC-Bold",
+        "NotoSansCJKtc-Bold",
+        "NotoSansCJKtc-Bold",
+        "NotoSansCJKtc-Bold",
+        "NotoSansJP-Bold",
+        "NotoSansCJKtc-Bold",
+        "NotoSansThai-Bold"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 801768
+    },
+    {
+      "entry_index": 1753,
+      "key": "font/light",
+      "term_type": 1,
+      "values": [
+        "NotoSansSC-Light",
+        "NotoSansSC-Light",
+        "NotoSansCJKtc-Light",
+        "NotoSansCJKtc-Light",
+        "NotoSansCJKtc-Light",
+        "NotoSansJP-Light",
+        "NotoSansCJKtc-Light",
+        "NotoSansThai-Light"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 801988
+    },
+    {
+      "entry_index": 1754,
+      "key": "font/regular",
+      "term_type": 1,
+      "values": [
+        "NotoSansSC-Regular",
+        "NotoSansSC-Regular",
+        "NotoSansCJKtc-Regular",
+        "NotoSansCJKtc-Regular",
+        "NotoSansCJKtc-Regular",
+        "NotoSansJP-Regular",
+        "NotoSansCJKtc-Regular",
+        "NotoSansThai-Regular"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 802208
+    },
+    {
+      "entry_index": 1972,
+      "key": "rhythmgame/animation-text/font",
+      "term_type": 1,
+      "values": [
+        "NotoSansCJKtc-Light",
+        "",
+        "chogokubosogothic_5",
+        "chogokubosogothic_5",
+        "chogokubosogothic_5",
+        "",
+        "",
+        ""
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 903856
+    },
+    {
+      "entry_index": 1999,
+      "key": "rhythmgame/sprites/good",
+      "term_type": 5,
+      "values": [
+        "good_zhcn",
+        "",
+        "Good",
+        "Good",
+        "Good",
+        "Good",
+        "",
+        ""
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 910236
+    },
+    {
+      "entry_index": 2000,
+      "key": "rhythmgame/sprites/miss",
+      "term_type": 5,
+      "values": [
+        "miss_zhcn",
+        "",
+        "Miss",
+        "Miss",
+        "Miss",
+        "Miss",
+        "",
+        ""
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 910348
+    },
+    {
+      "entry_index": 2001,
+      "key": "rhythmgame/sprites/perfect",
+      "term_type": 5,
+      "values": [
+        "perfect_zhcn",
+        "",
+        "Perfect",
+        "Perfect",
+        "Perfect",
+        "Perfect",
+        "",
+        ""
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 910460
+    },
+    {
+      "entry_index": 2002,
+      "key": "rhythmgame/sprites/perfectplus",
+      "term_type": 5,
+      "values": [
+        "perfect plus_zhcn",
+        "",
+        "PerfectPlus",
+        "PerfectPlus",
+        "PerfectPlus",
+        "PerfectPlus",
+        "",
+        ""
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 910592
+    },
+    {
+      "entry_index": 2254,
+      "key": "tmp-preset/bold",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Bold SDF - Material",
+        "NotoSansSC-Bold SDF - Material",
+        "NotoSansCJKtc-Bold SDF - Material",
+        "NotoSansCJKtc-Bold SDF - Material",
+        "NotoSansCJKtc-Bold SDF - Material",
+        "NotoSansJP-Bold SDF - Material",
+        "NotoSansCJKtc-Bold SDF - Material",
+        "NotoSansCJKtc-Bold SDF - Material"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1049780
+    },
+    {
+      "entry_index": 2255,
+      "key": "tmp-preset/bold-stroke",
+      "term_type": 6,
+      "values": [
+        "NotoSansCJKtc-Bold SDF - Stroke",
+        "NotoSansCJKtc-Bold SDF - Stroke",
+        "NotoSansCJKtc-Bold SDF - Stroke",
+        "NotoSansCJKtc-Bold SDF - Stroke",
+        "NotoSansCJKtc-Bold SDF - Stroke",
+        "NotoSansCJKtc-Bold SDF - Stroke",
+        "NotoSansCJKtc-Bold SDF - Stroke",
+        "NotoSansCJKtc-Bold SDF - Stroke"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1050132
+    },
+    {
+      "entry_index": 2256,
+      "key": "tmp-preset/bold/shadow-big",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Bold SDF - Shadow Big",
+        "NotoSansSC-Bold SDF - Shadow Big",
+        "NotoSansCJKtc-Bold SDF - Shadow Big",
+        "NotoSansCJKtc-Bold SDF - Shadow Big",
+        "NotoSansCJKtc-Bold SDF - Shadow Big",
+        "NotoSansJP-Bold SDF - Shadow Big",
+        "NotoSansCJKtc-Bold SDF - Shadow Big",
+        "NotoSansCJKtc-Bold SDF - Shadow Big"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1050472
+    },
+    {
+      "entry_index": 2257,
+      "key": "tmp-preset/bold/shadow-default",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Bold SDF - Shadow Default",
+        "NotoSansSC-Bold SDF - Shadow Default",
+        "NotoSansCJKtc-Bold SDF - Shadow Default",
+        "NotoSansCJKtc-Bold SDF - Shadow Default",
+        "NotoSansCJKtc-Bold SDF - Shadow Default",
+        "NotoSansJP-Bold SDF - Shadow Default",
+        "NotoSansCJKtc-Bold SDF - Shadow Default",
+        "NotoSansCJKtc-Bold SDF - Shadow Default"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1050836
+    },
+    {
+      "entry_index": 2258,
+      "key": "tmp-preset/bold/shadow-small",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Bold SDF - Shadow Small",
+        "NotoSansSC-Bold SDF - Shadow Small",
+        "NotoSansCJKtc-Bold SDF - Shadow Small",
+        "NotoSansCJKtc-Bold SDF - Shadow Small",
+        "NotoSansCJKtc-Bold SDF - Shadow Small",
+        "NotoSansJP-Bold SDF - Shadow Small",
+        "NotoSansCJKtc-Bold SDF - Shadow Small",
+        "NotoSansCJKtc-Bold SDF - Shadow Small"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1051236
+    },
+    {
+      "entry_index": 2259,
+      "key": "tmp-preset/bold/soft-shadow-big",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Bold SDF - soft-shadow-big",
+        "NotoSansSC-Bold SDF - soft-shadow-big",
+        "NotoSansCJKtc-Bold SDF - soft-shadow-big",
+        "NotoSansCJKtc-Bold SDF - soft-shadow-big",
+        "NotoSansCJKtc-Bold SDF - soft-shadow-big",
+        "NotoSansJP-Bold SDF - soft-shadow-big",
+        "NotoSansCJKtc-Bold SDF - soft-shadow-big",
+        "NotoSansCJKtc-Bold SDF - soft-shadow-big"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1051632
+    },
+    {
+      "entry_index": 2260,
+      "key": "tmp-preset/light",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Light SDF - Material",
+        "NotoSansSC-Light SDF - Material",
+        "NotoSansCJKtc-Light SDF - Material",
+        "NotoSansCJKtc-Light SDF - Material",
+        "NotoSansCJKtc-Light SDF - Material",
+        "NotoSansJP-Light SDF - Material",
+        "NotoSansCJKtc-Light SDF - Material",
+        "NotoSansCJKtc-Light SDF - Material"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1052044
+    },
+    {
+      "entry_index": 2261,
+      "key": "tmp-preset/light/shadow-default",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Light SDF - Shadow Default",
+        "NotoSansSC-Light SDF - Shadow Default",
+        "NotoSansCJKtc-Light SDF - Shadow Default",
+        "NotoSansCJKtc-Light SDF - Shadow Default",
+        "NotoSansCJKtc-Light SDF - Shadow Default",
+        "NotoSansJP-Light SDF - Shadow Default",
+        "NotoSansCJKtc-Light SDF - Shadow Default",
+        "NotoSansCJKtc-Light SDF - Shadow Default"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1052396
+    },
+    {
+      "entry_index": 2262,
+      "key": "tmp-preset/light/shadow-small",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Light SDF - Shadow Small",
+        "NotoSansSC-Light SDF - Shadow Small",
+        "NotoSansCJKtc-Light SDF - Shadow Small",
+        "NotoSansCJKtc-Light SDF - Shadow Small",
+        "NotoSansCJKtc-Light SDF - Shadow Small",
+        "NotoSansJP-Light SDF - Shadow Small",
+        "NotoSansCJKtc-Light SDF - Shadow Small",
+        "NotoSansCJKtc-Light SDF - Shadow Small"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1052808
+    },
+    {
+      "entry_index": 2263,
+      "key": "tmp-preset/regular",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Regular SDF - Material",
+        "NotoSansSC-Regular SDF - Material",
+        "NotoSansCJKtc-Regular SDF - Material",
+        "NotoSansCJKtc-Regular SDF - Material",
+        "NotoSansCJKtc-Regular SDF - Material",
+        "NotoSansJP-Regular SDF - Material",
+        "NotoSansCJKtc-Regular SDF - Material",
+        "NotoSansCJKtc-Regular SDF - Material"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1053208
+    },
+    {
+      "entry_index": 2264,
+      "key": "tmp-preset/regular/shadow-default",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Regular SDF - Shadow Default",
+        "NotoSansSC-Regular SDF - Shadow Default",
+        "NotoSansCJKtc-Regular SDF - Shadow Default",
+        "NotoSansCJKtc-Regular SDF - Shadow Default",
+        "NotoSansCJKtc-Regular SDF - Shadow Default",
+        "NotoSansJP-Regular SDF - Shadow Default",
+        "NotoSansCJKtc-Regular SDF - Shadow Default",
+        "NotoSansCJKtc-Regular SDF - Shadow Default"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1053576
+    },
+    {
+      "entry_index": 2265,
+      "key": "tmp-preset/regular/shadow-small",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Regular SDF - Shadow Small",
+        "NotoSansSC-Regular SDF - Shadow Small",
+        "NotoSansCJKtc-Regular SDF - Shadow Small",
+        "NotoSansCJKtc-Regular SDF - Shadow Small",
+        "NotoSansCJKtc-Regular SDF - Shadow Small",
+        "NotoSansJP-Regular SDF - Shadow Small",
+        "NotoSansCJKtc-Regular SDF - Shadow Small",
+        "NotoSansCJKtc-Regular SDF - Shadow Small"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1054012
+    },
+    {
+      "entry_index": 2266,
+      "key": "tmp-preset/regular/soft-shadow-big",
+      "term_type": 6,
+      "values": [
+        "NotoSansSC-Regular SDF - soft-shadow-big",
+        "NotoSansSC-Regular SDF - soft-shadow-big",
+        "NotoSansCJKtc-Regular SDF - soft-shadow-big",
+        "NotoSansCJKtc-Regular SDF - soft-shadow-big",
+        "NotoSansCJKtc-Regular SDF - soft-shadow-big",
+        "NotoSansJP-Regular SDF - soft-shadow-big",
+        "NotoSansCJKtc-Regular SDF - soft-shadow-big",
+        "NotoSansCJKtc-Regular SDF - soft-shadow-big"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1054424
+    },
+    {
+      "entry_index": 2412,
+      "key": "version/2.11/deemo-logo",
+      "term_type": 5,
+      "values": [
+        "collab-deemo2-CN-icon",
+        "collab-deemo2-CN-icon",
+        "collab-deemo2-icon",
+        "collab-deemo2-icon",
+        "collab-deemo2-icon",
+        "collab-deemo2-icon",
+        "collab-deemo2-icon",
+        "collab-deemo2-icon"
+      ],
+      "flags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "touch": [],
+      "byte_offset": 1144120
+    }
+  ]
+}

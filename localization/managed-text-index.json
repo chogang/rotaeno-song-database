@@ -1,0 +1,288 @@
+{
+  "documents": [
+    {
+      "language_code": "en",
+      "language_basis": "explicit_document_header",
+      "document": "DefaultUI",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2478,
+        "name": "DefaultUI",
+        "object_sha256": "23c39b9d0e8d4ec11fa2013d2be6b886cbcc758c6fff30f1d9858fc9c5fa5afa"
+      },
+      "entry_count": 22,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "th",
+      "language_basis": "explicit_document_header",
+      "document": "DefaultUI",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2479,
+        "name": "DefaultUI",
+        "object_sha256": "e6b025c6b2740943d32de852431004cfd56d41fa38a6dc64fc837249eb5e63ef"
+      },
+      "entry_count": 22,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "en",
+      "language_basis": "explicit_document_header",
+      "document": "Locales",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2480,
+        "name": "Locales",
+        "object_sha256": "fbe62a41875252a14cc85699ae2f6d594aa9ecc1d1b2681dcf110b339e37f69d"
+      },
+      "entry_count": 233,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "zh-CN",
+      "language_basis": "explicit_document_header",
+      "document": "Locales",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2481,
+        "name": "Locales",
+        "object_sha256": "25346ef1c873d72c7865ae8c5ecb59b69892f319269352554d04fe2116779d13"
+      },
+      "entry_count": 233,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "zh-CN",
+      "language_basis": "explicit_document_header",
+      "document": "DefaultUI",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2483,
+        "name": "DefaultUI",
+        "object_sha256": "7decde2d57e13c5f613e57196909d7bba8ac630a414cac0719445737b951b20b"
+      },
+      "entry_count": 22,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "zh-TW",
+      "language_basis": "base_document; source locale inferred from translated sibling headers",
+      "document": "Locales",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2484,
+        "name": "Locales",
+        "object_sha256": "cfd4d5fee669ca4580e70761d25ea65f0c035973b6a9ee5182f060f1ef2f9143"
+      },
+      "entry_count": 233,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "id",
+      "language_basis": "explicit_document_header",
+      "document": "DefaultUI",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2485,
+        "name": "DefaultUI",
+        "object_sha256": "a9beb4c13e7bdd3752ff63446c59c6d73d717a6e2d7f77a724e64610e731ab43"
+      },
+      "entry_count": 22,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "en",
+      "language_basis": "explicit_document_header",
+      "document": "CharacterNames",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2486,
+        "name": "CharacterNames",
+        "object_sha256": "9d0d33f081d1ce6ec2d8866e1d35b292c6a6113d0ca81d95b94a01ea7f737dee"
+      },
+      "entry_count": 90,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "id",
+      "language_basis": "explicit_document_header",
+      "document": "CharacterNames",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2487,
+        "name": "CharacterNames",
+        "object_sha256": "8ec9b36bb282f5d8160a22389ad34b8f98d485f0f90d10f377e6fab099807162"
+      },
+      "entry_count": 90,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "zh-TW",
+      "language_basis": "base_document; source locale inferred from translated sibling headers",
+      "document": "CharacterNames",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2488,
+        "name": "CharacterNames",
+        "object_sha256": "42a8f2a4c0b17c775aec0d301630321df7e2455b6b1f85b5ca96ddcfcf756276"
+      },
+      "entry_count": 90,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "th",
+      "language_basis": "explicit_document_header",
+      "document": "CharacterNames",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2489,
+        "name": "CharacterNames",
+        "object_sha256": "24e6b10caab22996ce2416d31fefbf2057bc8c9d66f907855820a58ef72faeb3"
+      },
+      "entry_count": 90,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "id",
+      "language_basis": "explicit_document_header",
+      "document": "Locales",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2492,
+        "name": "Locales",
+        "object_sha256": "cbebb4b53ca94e3aaba41157ef4ca41fb42233e0487bcbe2d7b0839f13ded0fa"
+      },
+      "entry_count": 233,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "ko",
+      "language_basis": "explicit_document_header",
+      "document": "Locales",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2493,
+        "name": "Locales",
+        "object_sha256": "8e53e8c76de4b3f898005613df5b06bb9518397af3fb1107179369236729873f"
+      },
+      "entry_count": 233,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "ja",
+      "language_basis": "explicit_document_header",
+      "document": "Locales",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2494,
+        "name": "Locales",
+        "object_sha256": "485fc4bb3f373b4f041bfe5641360bd6f9420b8686b8c2ed04d7181ae55553c6"
+      },
+      "entry_count": 233,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "ja",
+      "language_basis": "explicit_document_header",
+      "document": "DefaultUI",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2496,
+        "name": "DefaultUI",
+        "object_sha256": "0c4362da5bf4350600f0f03d684dcc4c5ffa852fd5384a7f692a751ed400a448"
+      },
+      "entry_count": 22,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "ko",
+      "language_basis": "explicit_document_header",
+      "document": "CharacterNames",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2497,
+        "name": "CharacterNames",
+        "object_sha256": "5d8ecdcb4454c919e1cde5cd29740c5b298dd9b7b147e0f10d9576f39120ceb7"
+      },
+      "entry_count": 90,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "ko",
+      "language_basis": "explicit_document_header",
+      "document": "DefaultUI",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2498,
+        "name": "DefaultUI",
+        "object_sha256": "996fba4050fd5585bbe510f2c70e65d3d61a1b1f0cd9b72008a66322eb571b18"
+      },
+      "entry_count": 22,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "zh-TW",
+      "language_basis": "base_document; source locale inferred from translated sibling headers",
+      "document": "DefaultUI",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2499,
+        "name": "DefaultUI",
+        "object_sha256": "d873c1eff26ac1b03878954ef1df19187a572f25e2c9ce498f1f8e50cc108582"
+      },
+      "entry_count": 22,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "zh-CN",
+      "language_basis": "explicit_document_header",
+      "document": "CharacterNames",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2503,
+        "name": "CharacterNames",
+        "object_sha256": "9c0999cb5f29a66d0af5967f89c3cf20e793c5301df26e07616e2199536a94bd"
+      },
+      "entry_count": 90,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "th",
+      "language_basis": "explicit_document_header",
+      "document": "Locales",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2506,
+        "name": "Locales",
+        "object_sha256": "ff8230f9f18fea1106eb475202bada2308573117df7d504f97f0c95ee1c9e18d"
+      },
+      "entry_count": 233,
+      "unparsed_line_count": 0
+    },
+    {
+      "language_code": "ja",
+      "language_basis": "explicit_document_header",
+      "document": "CharacterNames",
+      "source": {
+        "asset_file": "resources.assets",
+        "path_id": 2507,
+        "name": "CharacterNames",
+        "object_sha256": "f95ec9cdd4a2a6790a1a1ee4b5e47bb59d1cc2398c80b8c7f6eec09057bbcdb5"
+      },
+      "entry_count": 90,
+      "unparsed_line_count": 0
+    }
+  ],
+  "document_count": 21,
+  "entry_count": 2415,
+  "language_codes": [
+    "en",
+    "id",
+    "ja",
+    "ko",
+    "th",
+    "zh-CN",
+    "zh-TW"
+  ]
+}

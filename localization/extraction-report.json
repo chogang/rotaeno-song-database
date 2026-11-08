@@ -1,0 +1,115 @@
+{
+  "source": {
+    "asset_file": "resources.assets",
+    "path_id": 16126,
+    "name": "I2Languages",
+    "sha256": "2cc05492efd84bc4b641c68a0a6c8ef12586f5e25dcc597d6b5931dd6e4fd1a9",
+    "byte_size": 1164128
+  },
+  "term_count": 2462,
+  "unique_keys": 2459,
+  "duplicate_keys": [
+    "db/collectable/character_maimai_salt/Name",
+    "db/collectable/character_maimai_salt/dialogs/1",
+    "db/collectable/character_maimai_salt/dialogs/3"
+  ],
+  "text_term_count": 2439,
+  "unique_text_keys": 2436,
+  "asset_reference_term_count": 23,
+  "language_slot_count": 8,
+  "translation_cell_count": 19696,
+  "term_type_counts": {
+    "0": 2439,
+    "5": 6,
+    "1": 4,
+    "6": 13
+  },
+  "languages": [
+    {
+      "index": 0,
+      "name": "国服Override",
+      "code": "china",
+      "flags": 1,
+      "nonempty_text_values": 172,
+      "empty_text_values": 2267
+    },
+    {
+      "index": 1,
+      "name": "简体中文",
+      "code": "zh-CN",
+      "flags": 0,
+      "nonempty_text_values": 1961,
+      "empty_text_values": 478
+    },
+    {
+      "index": 2,
+      "name": "繁體中文",
+      "code": "zh-TW",
+      "flags": 0,
+      "nonempty_text_values": 2061,
+      "empty_text_values": 378
+    },
+    {
+      "index": 3,
+      "name": "English",
+      "code": "en",
+      "flags": 0,
+      "nonempty_text_values": 2024,
+      "empty_text_values": 415
+    },
+    {
+      "index": 4,
+      "name": "한국어",
+      "code": "ko",
+      "flags": 0,
+      "nonempty_text_values": 1966,
+      "empty_text_values": 473
+    },
+    {
+      "index": 5,
+      "name": "日本語",
+      "code": "ja",
+      "flags": 0,
+      "nonempty_text_values": 1897,
+      "empty_text_values": 542
+    },
+    {
+      "index": 6,
+      "name": "Bahasa Indonesia",
+      "code": "id",
+      "flags": 0,
+      "nonempty_text_values": 1918,
+      "empty_text_values": 521
+    },
+    {
+      "index": 7,
+      "name": "ภาษาไทย",
+      "code": "th",
+      "flags": 0,
+      "nonempty_text_values": 1916,
+      "empty_text_values": 523
+    }
+  ],
+  "song_name_keys_found": 436,
+  "song_name_keys_missing": [
+    "2-close-for-words"
+  ],
+  "nonzero_term_flags": 0,
+  "touch_array_count": 0,
+  "parse_settings": {
+    "table_end_offset": 1163200,
+    "uninterpreted_configuration_bytes": 928,
+    "source_prefix_values": [
+      0,
+      0,
+      1
+    ],
+    "case_insensitive_terms": false,
+    "missing_translation_policy": 1,
+    "app_name_term": "-"
+  },
+  "integrity": "ok",
+  "inferred_song_name_language_reference_cells": 381,
+  "song_name_reference_cycles": 0,
+  "language_reference_policy": "A song-name cell equal to a known language code is interpreted as a reference to that slot. This is an analyst inference; raw cells are preserved. Empty resolved values use original_title in display_titles."
+}

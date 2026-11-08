@@ -1,0 +1,464 @@
+{
+  "language_code": "ja",
+  "language_basis": "explicit_document_header",
+  "document": "CharacterNames",
+  "source": {
+    "asset_file": "resources.assets",
+    "path_id": 2507,
+    "name": "CharacterNames",
+    "object_sha256": "f95ec9cdd4a2a6790a1a1ee4b5e47bb59d1cc2398c80b8c7f6eec09057bbcdb5"
+  },
+  "entries": [
+    {
+      "key": "abram",
+      "text": "アブラン",
+      "line": 3
+    },
+    {
+      "key": "ai",
+      "text": "AIアシスタント",
+      "line": 4
+    },
+    {
+      "key": "ano-blurred",
+      "text": "ano-blurred",
+      "line": 5
+    },
+    {
+      "key": "attendant",
+      "text": "店員",
+      "line": 6
+    },
+    {
+      "key": "auntA",
+      "text": "おばちゃんA",
+      "line": 7
+    },
+    {
+      "key": "auntB",
+      "text": "おばちゃんB",
+      "line": 8
+    },
+    {
+      "key": "auntC",
+      "text": "おばちゃんC",
+      "line": 9
+    },
+    {
+      "key": "baker",
+      "text": "店長",
+      "line": 10
+    },
+    {
+      "key": "boyA",
+      "text": "少年A",
+      "line": 11
+    },
+    {
+      "key": "boyB",
+      "text": "少年B",
+      "line": 12
+    },
+    {
+      "key": "c2-neko",
+      "text": "Neko",
+      "line": 13
+    },
+    {
+      "key": "car",
+      "text": "カール",
+      "line": 14
+    },
+    {
+      "key": "car-rabbit-f",
+      "text": "カール",
+      "line": 15
+    },
+    {
+      "key": "car-rabbit-s",
+      "text": "カール",
+      "line": 16
+    },
+    {
+      "key": "cat",
+      "text": "ヴィッカス（ネコ）",
+      "line": 17
+    },
+    {
+      "key": "classmate-a",
+      "text": "同級生A",
+      "line": 18
+    },
+    {
+      "key": "classmate-b",
+      "text": "同級生B",
+      "line": 19
+    },
+    {
+      "key": "classmate-c",
+      "text": "同級生C",
+      "line": 20
+    },
+    {
+      "key": "customerA",
+      "text": "隣の席の客A",
+      "line": 21
+    },
+    {
+      "key": "customerB",
+      "text": "酔っぱらった隣の席の客B",
+      "line": 22
+    },
+    {
+      "key": "e-a",
+      "text": "e-a",
+      "line": 23
+    },
+    {
+      "key": "e-b",
+      "text": "e-b",
+      "line": 24
+    },
+    {
+      "key": "e-c",
+      "text": "e-c",
+      "line": 25
+    },
+    {
+      "key": "e-d",
+      "text": "e-d",
+      "line": 26
+    },
+    {
+      "key": "e-e",
+      "text": "e-e",
+      "line": 27
+    },
+    {
+      "key": "elf-kid",
+      "text": "アキ",
+      "line": 28
+    },
+    {
+      "key": "elf-young",
+      "text": "エルフの幼体",
+      "line": 29
+    },
+    {
+      "key": "eto",
+      "text": "エト",
+      "line": 30
+    },
+    {
+      "key": "girl",
+      "text": "少女",
+      "line": 31
+    },
+    {
+      "key": "gov-a",
+      "text": "政府高官A",
+      "line": 32
+    },
+    {
+      "key": "gov-b",
+      "text": "政府高官B",
+      "line": 33
+    },
+    {
+      "key": "gov-c",
+      "text": "政府高官C",
+      "line": 34
+    },
+    {
+      "key": "hoppe",
+      "text": "ホッパ",
+      "line": 35
+    },
+    {
+      "key": "hoppe-chef",
+      "text": "ホッパ",
+      "line": 36
+    },
+    {
+      "key": "hoppe-lunar",
+      "text": "荷珀",
+      "line": 37
+    },
+    {
+      "key": "hoppe-ss-dry",
+      "text": "ホッパ",
+      "line": 38
+    },
+    {
+      "key": "hoppe-ss-wet",
+      "text": "ホッパ",
+      "line": 39
+    },
+    {
+      "key": "idol-b",
+      "text": "アイドルB",
+      "line": 40
+    },
+    {
+      "key": "ilot",
+      "text": "イロ",
+      "line": 41
+    },
+    {
+      "key": "ilot-jirai",
+      "text": "イロ",
+      "line": 42
+    },
+    {
+      "key": "ilot-lunar",
+      "text": "伊洛",
+      "line": 43
+    },
+    {
+      "key": "ilot-maid",
+      "text": "イロ",
+      "line": 44
+    },
+    {
+      "key": "ilot-psi",
+      "text": "イロ",
+      "line": 45
+    },
+    {
+      "key": "ilot-ss-fish",
+      "text": "イロ",
+      "line": 46
+    },
+    {
+      "key": "ilot-ss-nor",
+      "text": "イロ",
+      "line": 47
+    },
+    {
+      "key": "jolly",
+      "text": "ジュリ",
+      "line": 48
+    },
+    {
+      "key": "kakari",
+      "text": "カカリト",
+      "line": 49
+    },
+    {
+      "key": "kakari-young",
+      "text": "カカリト",
+      "line": 50
+    },
+    {
+      "key": "khoppe",
+      "text": "ホッパ",
+      "line": 51
+    },
+    {
+      "key": "kilot",
+      "text": "イロ",
+      "line": 52
+    },
+    {
+      "key": "kilot-ghost",
+      "text": "白い布を被っている学生",
+      "line": 53
+    },
+    {
+      "key": "kmona",
+      "text": "モナ",
+      "line": 54
+    },
+    {
+      "key": "lab",
+      "text": "研究員",
+      "line": 55
+    },
+    {
+      "key": "lime",
+      "text": "ライム",
+      "line": 56
+    },
+    {
+      "key": "lulua",
+      "text": "ルルア",
+      "line": 57
+    },
+    {
+      "key": "luna",
+      "text": "ルナ",
+      "line": 58
+    },
+    {
+      "key": "mai-salt",
+      "text": "ms",
+      "line": 59
+    },
+    {
+      "key": "miner2",
+      "text": "鉱夫",
+      "line": 60
+    },
+    {
+      "key": "mona-ss",
+      "text": "モナ",
+      "line": 61
+    },
+    {
+      "key": "noah",
+      "text": "ノア",
+      "line": 62
+    },
+    {
+      "key": "noah-core",
+      "text": "諾亞",
+      "line": 63
+    },
+    {
+      "key": "police",
+      "text": "警察",
+      "line": 64
+    },
+    {
+      "key": "puno",
+      "text": "プノ",
+      "line": 65
+    },
+    {
+      "key": "rat",
+      "text": "ヴィッカス（ネズミ）",
+      "line": 66
+    },
+    {
+      "key": "robot",
+      "text": "保育ロボット",
+      "line": 67
+    },
+    {
+      "key": "robot59427",
+      "text": "保育ロボット59427",
+      "line": 68
+    },
+    {
+      "key": "robot59563",
+      "text": "保育ロボット59563",
+      "line": 69
+    },
+    {
+      "key": "robot-staff",
+      "text": "ロボット店員",
+      "line": 70
+    },
+    {
+      "key": "rumil",
+      "text": "ルーミル",
+      "line": 71
+    },
+    {
+      "key": "rumil-young",
+      "text": "ルーミル",
+      "line": 72
+    },
+    {
+      "key": "saku",
+      "text": "サクリ",
+      "line": 73
+    },
+    {
+      "key": "saku-casual",
+      "text": "サクリ",
+      "line": 74
+    },
+    {
+      "key": "silo-man-angry",
+      "text": "silo-man-angry",
+      "line": 75
+    },
+    {
+      "key": "silo-woman-angry",
+      "text": "silo-woman-angry",
+      "line": 76
+    },
+    {
+      "key": "single-use",
+      "text": "single-use",
+      "line": 77
+    },
+    {
+      "key": "slime-ss",
+      "text": "宇宙のスーパースター？",
+      "line": 78
+    },
+    {
+      "key": "s-wolf",
+      "text": "s-wolf",
+      "line": 79
+    },
+    {
+      "key": "system",
+      "text": "システム",
+      "line": 80
+    },
+    {
+      "key": "teacher",
+      "text": "先生",
+      "line": 81
+    },
+    {
+      "key": "tommy",
+      "text": "アキ",
+      "line": 82
+    },
+    {
+      "key": "trailer",
+      "text": "次回予告",
+      "line": 83
+    },
+    {
+      "key": "uncleB",
+      "text": "おじさんB",
+      "line": 84
+    },
+    {
+      "key": "uncleC",
+      "text": "おじさんC",
+      "line": 85
+    },
+    {
+      "key": "uncleD",
+      "text": "おじさんD",
+      "line": 86
+    },
+    {
+      "key": "unknown",
+      "text": "????",
+      "line": 87
+    },
+    {
+      "key": "v-hoppe",
+      "text": "ホッパ",
+      "line": 88
+    },
+    {
+      "key": "v-ilot",
+      "text": "イロ",
+      "line": 89
+    },
+    {
+      "key": "wolf",
+      "text": "ヴィッカス（オオカミ）",
+      "line": 90
+    },
+    {
+      "key": "yang",
+      "text": "アンガツ",
+      "line": 91
+    },
+    {
+      "key": "yang-casual",
+      "text": "アンガツ",
+      "line": 92
+    }
+  ],
+  "unparsed_lines": []
+}

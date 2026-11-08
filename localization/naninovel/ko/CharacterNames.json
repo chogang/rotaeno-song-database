@@ -1,0 +1,464 @@
+{
+  "language_code": "ko",
+  "language_basis": "explicit_document_header",
+  "document": "CharacterNames",
+  "source": {
+    "asset_file": "resources.assets",
+    "path_id": 2497,
+    "name": "CharacterNames",
+    "object_sha256": "5d8ecdcb4454c919e1cde5cd29740c5b298dd9b7b147e0f10d9576f39120ceb7"
+  },
+  "entries": [
+    {
+      "key": "abram",
+      "text": "아브람",
+      "line": 3
+    },
+    {
+      "key": "ai",
+      "text": "AI 집사",
+      "line": 4
+    },
+    {
+      "key": "ano-blurred",
+      "text": "ano-blurred",
+      "line": 5
+    },
+    {
+      "key": "attendant",
+      "text": "종업원",
+      "line": 6
+    },
+    {
+      "key": "auntA",
+      "text": "아주머니A",
+      "line": 7
+    },
+    {
+      "key": "auntB",
+      "text": "아주머니B",
+      "line": 8
+    },
+    {
+      "key": "auntC",
+      "text": "아주머니C",
+      "line": 9
+    },
+    {
+      "key": "baker",
+      "text": "점장",
+      "line": 10
+    },
+    {
+      "key": "boyA",
+      "text": "소년A",
+      "line": 11
+    },
+    {
+      "key": "boyB",
+      "text": "소년B",
+      "line": 12
+    },
+    {
+      "key": "c2-neko",
+      "text": "Neko",
+      "line": 13
+    },
+    {
+      "key": "car",
+      "text": "카루쨩",
+      "line": 14
+    },
+    {
+      "key": "car-rabbit-f",
+      "text": "카루쨩",
+      "line": 15
+    },
+    {
+      "key": "car-rabbit-s",
+      "text": "카루쨩",
+      "line": 16
+    },
+    {
+      "key": "cat",
+      "text": "비커스(고양이)",
+      "line": 17
+    },
+    {
+      "key": "classmate-a",
+      "text": "반 친구A",
+      "line": 18
+    },
+    {
+      "key": "classmate-b",
+      "text": "반 친구B",
+      "line": 19
+    },
+    {
+      "key": "classmate-c",
+      "text": "반 친구C",
+      "line": 20
+    },
+    {
+      "key": "customerA",
+      "text": "옆 테이블 손님A",
+      "line": 21
+    },
+    {
+      "key": "customerB",
+      "text": "취한 옆 테이블 손님B",
+      "line": 22
+    },
+    {
+      "key": "e-a",
+      "text": "e-a",
+      "line": 23
+    },
+    {
+      "key": "e-b",
+      "text": "e-b",
+      "line": 24
+    },
+    {
+      "key": "e-c",
+      "text": "e-c",
+      "line": 25
+    },
+    {
+      "key": "e-d",
+      "text": "e-d",
+      "line": 26
+    },
+    {
+      "key": "e-e",
+      "text": "e-e",
+      "line": 27
+    },
+    {
+      "key": "elf-kid",
+      "text": "투투",
+      "line": 28
+    },
+    {
+      "key": "elf-young",
+      "text": "정령 유체",
+      "line": 29
+    },
+    {
+      "key": "eto",
+      "text": "에토",
+      "line": 30
+    },
+    {
+      "key": "girl",
+      "text": "소녀",
+      "line": 31
+    },
+    {
+      "key": "gov-a",
+      "text": "고위 관료A",
+      "line": 32
+    },
+    {
+      "key": "gov-b",
+      "text": "고위 관료B",
+      "line": 33
+    },
+    {
+      "key": "gov-c",
+      "text": "고위 관료C",
+      "line": 34
+    },
+    {
+      "key": "hoppe",
+      "text": "호페",
+      "line": 35
+    },
+    {
+      "key": "hoppe-chef",
+      "text": "호페",
+      "line": 36
+    },
+    {
+      "key": "hoppe-lunar",
+      "text": "荷珀",
+      "line": 37
+    },
+    {
+      "key": "hoppe-ss-dry",
+      "text": "호페",
+      "line": 38
+    },
+    {
+      "key": "hoppe-ss-wet",
+      "text": "호페",
+      "line": 39
+    },
+    {
+      "key": "idol-b",
+      "text": "아이돌B",
+      "line": 40
+    },
+    {
+      "key": "ilot",
+      "text": "이로",
+      "line": 41
+    },
+    {
+      "key": "ilot-jirai",
+      "text": "이로",
+      "line": 42
+    },
+    {
+      "key": "ilot-lunar",
+      "text": "伊洛",
+      "line": 43
+    },
+    {
+      "key": "ilot-maid",
+      "text": "이로",
+      "line": 44
+    },
+    {
+      "key": "ilot-psi",
+      "text": "이로",
+      "line": 45
+    },
+    {
+      "key": "ilot-ss-fish",
+      "text": "이로",
+      "line": 46
+    },
+    {
+      "key": "ilot-ss-nor",
+      "text": "이로",
+      "line": 47
+    },
+    {
+      "key": "jolly",
+      "text": "줄리",
+      "line": 48
+    },
+    {
+      "key": "kakari",
+      "text": "카카릿",
+      "line": 49
+    },
+    {
+      "key": "kakari-young",
+      "text": "카카릿",
+      "line": 50
+    },
+    {
+      "key": "khoppe",
+      "text": "호페",
+      "line": 51
+    },
+    {
+      "key": "kilot",
+      "text": "이로",
+      "line": 52
+    },
+    {
+      "key": "kilot-ghost",
+      "text": "하얀 천을 두른 학생",
+      "line": 53
+    },
+    {
+      "key": "kmona",
+      "text": "모나",
+      "line": 54
+    },
+    {
+      "key": "lab",
+      "text": "연구원",
+      "line": 55
+    },
+    {
+      "key": "lime",
+      "text": "라임",
+      "line": 56
+    },
+    {
+      "key": "lulua",
+      "text": "루루아",
+      "line": 57
+    },
+    {
+      "key": "luna",
+      "text": "루나",
+      "line": 58
+    },
+    {
+      "key": "mai-salt",
+      "text": "ms",
+      "line": 59
+    },
+    {
+      "key": "miner2",
+      "text": "광부",
+      "line": 60
+    },
+    {
+      "key": "mona-ss",
+      "text": "모나",
+      "line": 61
+    },
+    {
+      "key": "noah",
+      "text": "노아",
+      "line": 62
+    },
+    {
+      "key": "noah-core",
+      "text": "諾亞",
+      "line": 63
+    },
+    {
+      "key": "police",
+      "text": "경찰",
+      "line": 64
+    },
+    {
+      "key": "puno",
+      "text": "푸요",
+      "line": 65
+    },
+    {
+      "key": "rat",
+      "text": "비커스(쥐)",
+      "line": 66
+    },
+    {
+      "key": "robot",
+      "text": "로봇 집사",
+      "line": 67
+    },
+    {
+      "key": "robot59427",
+      "text": "로봇 집사 59427",
+      "line": 68
+    },
+    {
+      "key": "robot59563",
+      "text": "로봇 집사 59563",
+      "line": 69
+    },
+    {
+      "key": "robot-staff",
+      "text": "로봇 직원",
+      "line": 70
+    },
+    {
+      "key": "rumil",
+      "text": "루밀",
+      "line": 71
+    },
+    {
+      "key": "rumil-young",
+      "text": "루밀",
+      "line": 72
+    },
+    {
+      "key": "saku",
+      "text": "세리",
+      "line": 73
+    },
+    {
+      "key": "saku-casual",
+      "text": "세리",
+      "line": 74
+    },
+    {
+      "key": "silo-man-angry",
+      "text": "silo-man-angry",
+      "line": 75
+    },
+    {
+      "key": "silo-woman-angry",
+      "text": "silo-woman-angry",
+      "line": 76
+    },
+    {
+      "key": "single-use",
+      "text": "single-use",
+      "line": 77
+    },
+    {
+      "key": "slime-ss",
+      "text": "우주적 슈퍼스타?",
+      "line": 78
+    },
+    {
+      "key": "s-wolf",
+      "text": "s-wolf",
+      "line": 79
+    },
+    {
+      "key": "system",
+      "text": "시스템",
+      "line": 80
+    },
+    {
+      "key": "teacher",
+      "text": "선생님",
+      "line": 81
+    },
+    {
+      "key": "tommy",
+      "text": "투투",
+      "line": 82
+    },
+    {
+      "key": "trailer",
+      "text": "다음 화 미리보기",
+      "line": 83
+    },
+    {
+      "key": "uncleB",
+      "text": "아저씨B",
+      "line": 84
+    },
+    {
+      "key": "uncleC",
+      "text": "아저씨C",
+      "line": 85
+    },
+    {
+      "key": "uncleD",
+      "text": "아저씨D",
+      "line": 86
+    },
+    {
+      "key": "unknown",
+      "text": "????",
+      "line": 87
+    },
+    {
+      "key": "v-hoppe",
+      "text": "호페",
+      "line": 88
+    },
+    {
+      "key": "v-ilot",
+      "text": "이로",
+      "line": 89
+    },
+    {
+      "key": "wolf",
+      "text": "비커스(늑대)",
+      "line": 90
+    },
+    {
+      "key": "yang",
+      "text": "앙가투",
+      "line": 91
+    },
+    {
+      "key": "yang-casual",
+      "text": "앙가투",
+      "line": 92
+    }
+  ],
+  "unparsed_lines": []
+}

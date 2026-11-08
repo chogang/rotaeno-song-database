@@ -1,0 +1,8 @@
+{
+  "NetError": "ネットワークエラー、再試行してください",
+  "NoVerification": "認証なし",
+  "EnterGame": "入る",
+  "ExitGame": "出る",
+  "Retry": "リトライ",
+  "OnVerified": "TapTapで認証されました！"
+}

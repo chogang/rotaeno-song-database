@@ -1,0 +1,92 @@
+; Chinese (T) <zh-TW> to Korean <ko> localization document for `CharacterNames` managed text document
+
+abram: 아브람
+ai: AI 집사
+ano-blurred: ano-blurred
+attendant: 종업원
+auntA: 아주머니A
+auntB: 아주머니B
+auntC: 아주머니C
+baker: 점장
+boyA: 소년A
+boyB: 소년B
+c2-neko: Neko
+car: 카루쨩
+car-rabbit-f: 카루쨩
+car-rabbit-s: 카루쨩
+cat: 비커스(고양이)
+classmate-a: 반 친구A
+classmate-b: 반 친구B
+classmate-c: 반 친구C
+customerA: 옆 테이블 손님A
+customerB: 취한 옆 테이블 손님B
+e-a: e-a
+e-b: e-b
+e-c: e-c
+e-d: e-d
+e-e: e-e
+elf-kid: 투투
+elf-young: 정령 유체
+eto: 에토
+girl: 소녀
+gov-a: 고위 관료A
+gov-b: 고위 관료B
+gov-c: 고위 관료C
+hoppe: 호페
+hoppe-chef: 호페
+hoppe-lunar: 荷珀
+hoppe-ss-dry: 호페
+hoppe-ss-wet: 호페
+idol-b: 아이돌B
+ilot: 이로
+ilot-jirai: 이로
+ilot-lunar: 伊洛
+ilot-maid: 이로
+ilot-psi: 이로
+ilot-ss-fish: 이로
+ilot-ss-nor: 이로
+jolly: 줄리
+kakari: 카카릿
+kakari-young: 카카릿
+khoppe: 호페
+kilot: 이로
+kilot-ghost: 하얀 천을 두른 학생
+kmona: 모나
+lab: 연구원
+lime: 라임
+lulua: 루루아
+luna: 루나
+mai-salt: ms
+miner2: 광부
+mona-ss: 모나
+noah: 노아
+noah-core: 諾亞
+police: 경찰
+puno: 푸요
+rat: 비커스(쥐)
+robot: 로봇 집사
+robot59427: 로봇 집사 59427
+robot59563: 로봇 집사 59563
+robot-staff: 로봇 직원
+rumil: 루밀
+rumil-young: 루밀
+saku: 세리
+saku-casual: 세리
+silo-man-angry: silo-man-angry
+silo-woman-angry: silo-woman-angry
+single-use: single-use
+slime-ss: 우주적 슈퍼스타?
+s-wolf: s-wolf
+system: 시스템
+teacher: 선생님
+tommy: 투투
+trailer: 다음 화 미리보기
+uncleB: 아저씨B
+uncleC: 아저씨C
+uncleD: 아저씨D
+unknown: ????
+v-hoppe: 호페
+v-ilot: 이로
+wolf: 비커스(늑대)
+yang: 앙가투
+yang-casual: 앙가투

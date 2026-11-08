@@ -1,0 +1,464 @@
+{
+  "language_code": "th",
+  "language_basis": "explicit_document_header",
+  "document": "CharacterNames",
+  "source": {
+    "asset_file": "resources.assets",
+    "path_id": 2489,
+    "name": "CharacterNames",
+    "object_sha256": "24e6b10caab22996ce2416d31fefbf2057bc8c9d66f907855820a58ef72faeb3"
+  },
+  "entries": [
+    {
+      "key": "abram",
+      "text": "อับรัม",
+      "line": 3
+    },
+    {
+      "key": "ai",
+      "text": "พ่อบ้าน AI",
+      "line": 4
+    },
+    {
+      "key": "ano-blurred",
+      "text": "ano-blurred",
+      "line": 5
+    },
+    {
+      "key": "attendant",
+      "text": "พนักงาน",
+      "line": 6
+    },
+    {
+      "key": "auntA",
+      "text": "ป้า A",
+      "line": 7
+    },
+    {
+      "key": "auntB",
+      "text": "ป้า B",
+      "line": 8
+    },
+    {
+      "key": "auntC",
+      "text": "ป้า C",
+      "line": 9
+    },
+    {
+      "key": "baker",
+      "text": "ผู้จัดการร้าน",
+      "line": 10
+    },
+    {
+      "key": "boyA",
+      "text": "หนุ่มน้อย A",
+      "line": 11
+    },
+    {
+      "key": "boyB",
+      "text": "หนุ่มน้อย B",
+      "line": 12
+    },
+    {
+      "key": "c2-neko",
+      "text": "Neko",
+      "line": 13
+    },
+    {
+      "key": "car",
+      "text": "โบลท์",
+      "line": 14
+    },
+    {
+      "key": "car-rabbit-f",
+      "text": "โบลท์",
+      "line": 15
+    },
+    {
+      "key": "car-rabbit-s",
+      "text": "โบลท์",
+      "line": 16
+    },
+    {
+      "key": "cat",
+      "text": "อาวิกเกอร์ (แมว)",
+      "line": 17
+    },
+    {
+      "key": "classmate-a",
+      "text": "นักเรียน A",
+      "line": 18
+    },
+    {
+      "key": "classmate-b",
+      "text": "นักเรียน B",
+      "line": 19
+    },
+    {
+      "key": "classmate-c",
+      "text": "นักเรียน C",
+      "line": 20
+    },
+    {
+      "key": "customerA",
+      "text": "ลูกค้าโต๊ะถัดไป A",
+      "line": 21
+    },
+    {
+      "key": "customerB",
+      "text": "ลูกค้าโต๊ะถัดไปที่เมา B",
+      "line": 22
+    },
+    {
+      "key": "e-a",
+      "text": "e-a",
+      "line": 23
+    },
+    {
+      "key": "e-b",
+      "text": "e-b",
+      "line": 24
+    },
+    {
+      "key": "e-c",
+      "text": "e-c",
+      "line": 25
+    },
+    {
+      "key": "e-d",
+      "text": "e-d",
+      "line": 26
+    },
+    {
+      "key": "e-e",
+      "text": "e-e",
+      "line": 27
+    },
+    {
+      "key": "elf-kid",
+      "text": "ทอมมี่",
+      "line": 28
+    },
+    {
+      "key": "elf-young",
+      "text": "ทารกเอลฟ์",
+      "line": 29
+    },
+    {
+      "key": "eto",
+      "text": "Eto",
+      "line": 30
+    },
+    {
+      "key": "girl",
+      "text": "สาวน้อย",
+      "line": 31
+    },
+    {
+      "key": "gov-a",
+      "text": "เจ้าหน้าที่รัฐ A",
+      "line": 32
+    },
+    {
+      "key": "gov-b",
+      "text": "เจ้าหน้าที่รัฐ B",
+      "line": 33
+    },
+    {
+      "key": "gov-c",
+      "text": "เจ้าหน้าที่รัฐ C",
+      "line": 34
+    },
+    {
+      "key": "hoppe",
+      "text": "ฮอปป์",
+      "line": 35
+    },
+    {
+      "key": "hoppe-chef",
+      "text": "ฮอปป์",
+      "line": 36
+    },
+    {
+      "key": "hoppe-lunar",
+      "text": "荷珀",
+      "line": 37
+    },
+    {
+      "key": "hoppe-ss-dry",
+      "text": "ฮอปป์",
+      "line": 38
+    },
+    {
+      "key": "hoppe-ss-wet",
+      "text": "ฮอปป์",
+      "line": 39
+    },
+    {
+      "key": "idol-b",
+      "text": "idol-b",
+      "line": 40
+    },
+    {
+      "key": "ilot",
+      "text": "ไอล็อต",
+      "line": 41
+    },
+    {
+      "key": "ilot-jirai",
+      "text": "ไอล็อต",
+      "line": 42
+    },
+    {
+      "key": "ilot-lunar",
+      "text": "伊洛",
+      "line": 43
+    },
+    {
+      "key": "ilot-maid",
+      "text": "ไอล็อต",
+      "line": 44
+    },
+    {
+      "key": "ilot-psi",
+      "text": "ไอล็อต",
+      "line": 45
+    },
+    {
+      "key": "ilot-ss-fish",
+      "text": "ไอล็อต",
+      "line": 46
+    },
+    {
+      "key": "ilot-ss-nor",
+      "text": "ไอล็อต",
+      "line": 47
+    },
+    {
+      "key": "jolly",
+      "text": "โจลลี่",
+      "line": 48
+    },
+    {
+      "key": "kakari",
+      "text": "คาคาริ",
+      "line": 49
+    },
+    {
+      "key": "kakari-young",
+      "text": "คาคาริ",
+      "line": 50
+    },
+    {
+      "key": "khoppe",
+      "text": "ฮอปป์",
+      "line": 51
+    },
+    {
+      "key": "kilot",
+      "text": "ไอล็อต",
+      "line": 52
+    },
+    {
+      "key": "kilot-ghost",
+      "text": "นักเรียนที่ห่มผ้าขาว",
+      "line": 53
+    },
+    {
+      "key": "kmona",
+      "text": "โมนา",
+      "line": 54
+    },
+    {
+      "key": "lab",
+      "text": "นักวิจัย",
+      "line": 55
+    },
+    {
+      "key": "lime",
+      "text": "ไลม์",
+      "line": 56
+    },
+    {
+      "key": "lulua",
+      "text": "ลูลัว",
+      "line": 57
+    },
+    {
+      "key": "luna",
+      "text": "Luna",
+      "line": 58
+    },
+    {
+      "key": "mai-salt",
+      "text": "ms",
+      "line": 59
+    },
+    {
+      "key": "miner2",
+      "text": "คนงานเหมืองแร่",
+      "line": 60
+    },
+    {
+      "key": "mona-ss",
+      "text": "โมนา",
+      "line": 61
+    },
+    {
+      "key": "noah",
+      "text": "โนอาห",
+      "line": 62
+    },
+    {
+      "key": "noah-core",
+      "text": "諾亞",
+      "line": 63
+    },
+    {
+      "key": "police",
+      "text": "ตำรวจ",
+      "line": 64
+    },
+    {
+      "key": "puno",
+      "text": "ปูโย",
+      "line": 65
+    },
+    {
+      "key": "rat",
+      "text": "อาวิกเกอร์ (หนู)",
+      "line": 66
+    },
+    {
+      "key": "robot",
+      "text": "563: หุ่นยนต์พี่เลี้ยง59563",
+      "line": 67
+    },
+    {
+      "key": "robot59427",
+      "text": "หุ่นยนต์พี่เลี้ยง59427",
+      "line": 68
+    },
+    {
+      "key": "robot59563",
+      "text": "หุ่นยนต์พี่เลี้ยง59563",
+      "line": 69
+    },
+    {
+      "key": "robot-staff",
+      "text": "พนักงานหุ่นยนต์",
+      "line": 70
+    },
+    {
+      "key": "rumil",
+      "text": "รูมิล",
+      "line": 71
+    },
+    {
+      "key": "rumil-young",
+      "text": "รูมิล",
+      "line": 72
+    },
+    {
+      "key": "saku",
+      "text": "เชอรี่",
+      "line": 73
+    },
+    {
+      "key": "saku-casual",
+      "text": "เชอรี่",
+      "line": 74
+    },
+    {
+      "key": "silo-man-angry",
+      "text": "silo-man-angry",
+      "line": 75
+    },
+    {
+      "key": "silo-woman-angry",
+      "text": "silo-woman-angry",
+      "line": 76
+    },
+    {
+      "key": "single-use",
+      "text": "single-use",
+      "line": 77
+    },
+    {
+      "key": "slime-ss",
+      "text": "ซูเปอร์สตาร์แห่งจักรวาล?",
+      "line": 78
+    },
+    {
+      "key": "s-wolf",
+      "text": "s-wolf",
+      "line": 79
+    },
+    {
+      "key": "system",
+      "text": "ระบบ",
+      "line": 80
+    },
+    {
+      "key": "teacher",
+      "text": "อาจารย์",
+      "line": 81
+    },
+    {
+      "key": "tommy",
+      "text": "ทอมมี่",
+      "line": 82
+    },
+    {
+      "key": "trailer",
+      "text": "ตัวอย่างถัดไป",
+      "line": 83
+    },
+    {
+      "key": "uncleB",
+      "text": "ลุง B",
+      "line": 84
+    },
+    {
+      "key": "uncleC",
+      "text": "ลุง C",
+      "line": 85
+    },
+    {
+      "key": "uncleD",
+      "text": "ลุง D",
+      "line": 86
+    },
+    {
+      "key": "unknown",
+      "text": "????",
+      "line": 87
+    },
+    {
+      "key": "v-hoppe",
+      "text": "ฮอปป์",
+      "line": 88
+    },
+    {
+      "key": "v-ilot",
+      "text": "ไอล็อต",
+      "line": 89
+    },
+    {
+      "key": "wolf",
+      "text": "อาวิกเกอร์ (หมาป่า)",
+      "line": 90
+    },
+    {
+      "key": "yang",
+      "text": "อังกาตู",
+      "line": 91
+    },
+    {
+      "key": "yang-casual",
+      "text": "อังกาตู",
+      "line": 92
+    }
+  ],
+  "unparsed_lines": []
+}

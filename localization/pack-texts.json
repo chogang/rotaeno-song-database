@@ -1,0 +1,1161 @@
+[
+  {
+    "pack_id": "bms-1",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-1/name": {
+        "china": "",
+        "zh-CN": "机械都市",
+        "zh-TW": "機械都市",
+        "en": "Mechanical City",
+        "ko": "메카니컬 시티",
+        "ja": "機械都市",
+        "id": "Kota Mecha",
+        "th": "เมืองจักรกล"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-10",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-10/name": {
+        "china": "",
+        "zh-CN": "Ψ：脑波过载",
+        "zh-TW": "Ψ：腦波過載",
+        "en": "Ψ : Psiwave Overflow",
+        "ko": "Ψ: 뇌파 오버로드",
+        "ja": "Ψ：脳波オーバーロード",
+        "id": "Ψ : Psiwave Overflow",
+        "th": "Ψ : Psiwave Overflow"
+      },
+      "db/pack/bms-10/subtitle": {
+        "china": "",
+        "zh-CN": "无序星际",
+        "zh-TW": "Anarchy in the Galaxy",
+        "en": "Anarchy in the Galaxy",
+        "ko": "Anarchy in the Galaxy",
+        "ja": "Anarchy in the Galaxy",
+        "id": "Anarchy in the Galaxy",
+        "th": "Anarchy in the Galaxy"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-11",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-11/name": {
+        "china": "",
+        "zh-CN": "冬雪下的回忆",
+        "zh-TW": "冬雪下的回憶",
+        "en": "The Solstice Recollections",
+        "ko": "겨울눈 아래의 추억",
+        "ja": "雪の下の思い出",
+        "id": "Kenangan Musim Salju",
+        "th": "ความทรงจำใต้หิมะฤดูหนาว"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-12",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-12/name": {
+        "china": "",
+        "zh-CN": "黄金时代",
+        "zh-TW": "黃金時代",
+        "en": "Golden Age",
+        "ko": "황금시대",
+        "ja": "黄金時代",
+        "id": "Zaman Keemasan",
+        "th": "ยุคทอง"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-13",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-13/name": {
+        "china": "",
+        "zh-CN": "核意味?!",
+        "zh-TW": "核意味?!",
+        "en": "WAHT the CORE?!",
+        "ko": "WAHT the CORE?!",
+        "ja": "ナニコア?!",
+        "id": "WAHT the CORE?!",
+        "th": "WAHT the CORE?!"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-14",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-14/name": {
+        "china": "",
+        "zh-CN": "幻境迷踪",
+        "zh-TW": "幻境迷蹤",
+        "en": "Keys to the Wonderland",
+        "ko": "원더랜드로 가는 열쇠",
+        "ja": "迷いのルミナリウム",
+        "id": "Kunci Menuju Wonderland",
+        "th": "กุญแจสู่วันเดอร์แลนด์"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-15",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-15/name": {
+        "china": "",
+        "zh-CN": "随风而行",
+        "zh-TW": "隨風而行",
+        "en": "Ride the Wind",
+        "ko": "바람을 타고",
+        "ja": "風の向くまま",
+        "id": "Mengikuti Angin",
+        "th": "โลดแล่นไปตามสายลม"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-2",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-2/name": {
+        "china": "",
+        "zh-CN": "巷角餐馆",
+        "zh-TW": "巷角餐館",
+        "en": "Tavern",
+        "ko": "골목 식당",
+        "ja": "街角のレストラン",
+        "id": "Restoran di Gang",
+        "th": "ร้านอาหารมุมซอย"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-3",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-3/name": {
+        "china": "",
+        "zh-CN": "几何律动",
+        "zh-TW": "幾何律動",
+        "en": "Geometric Pulse",
+        "ko": "지오메트릭 펄스",
+        "ja": "ジオメトリーパルス",
+        "id": "Ritme Geometris",
+        "th": "จังหวะเรขาคณิต"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-4",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-4/name": {
+        "china": "",
+        "zh-CN": "钢琴人生",
+        "zh-TW": "鋼琴人生",
+        "en": "Piano Life",
+        "ko": "피아노 라이프",
+        "ja": "ピアノライフ",
+        "id": "Kehidupan Piano",
+        "th": "ชีวิตเปียโน"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-5",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-5/name": {
+        "china": "",
+        "zh-CN": "透明色",
+        "zh-TW": "透明色",
+        "en": "Translucent",
+        "ko": "투명색",
+        "ja": "無色透明",
+        "id": "Transparan",
+        "th": "สีโปร่งใส"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-6",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-6/name": {
+        "china": "",
+        "zh-CN": "放克派对",
+        "zh-TW": "放克派對",
+        "en": "Funky Party",
+        "ko": "펑키 파티",
+        "ja": "ファンキーパーティー",
+        "id": "Funk Party",
+        "th": "ปาร์ตี้ฟังกี้"
+      },
+      "db/pack/bms-6/subtitle": {
+        "china": "",
+        "zh-CN": "",
+        "zh-TW": "",
+        "en": "",
+        "ko": "",
+        "ja": "",
+        "id": "",
+        "th": ""
+      }
+    }
+  },
+  {
+    "pack_id": "bms-7",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-7/name": {
+        "china": "",
+        "zh-CN": "紫夜狂欢",
+        "zh-TW": "紫夜狂歡",
+        "en": "Purple Rave",
+        "ko": "퍼플 레이브",
+        "ja": "パープルレイヴ",
+        "id": "Indigo Mania",
+        "th": "เพอเพิลเรฟ"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-8",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-8/name": {
+        "china": "",
+        "zh-CN": "炽热之心",
+        "zh-TW": "熾熱之心",
+        "en": "Burning Heart",
+        "ko": "블레이징 하트",
+        "ja": "熾熱の魂",
+        "id": "Burning Heart",
+        "th": "Burning Heart"
+      }
+    }
+  },
+  {
+    "pack_id": "bms-9",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/bms-9/name": {
+        "china": "",
+        "zh-CN": "音脉相承",
+        "zh-TW": "音脈相承",
+        "en": "Re:Sonance of Ages",
+        "ko": "음맥상통",
+        "ja": "音の継承",
+        "id": "Denyut Nadi",
+        "th": "สืบทอดเส้นเสียง"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-arcaea",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-arcaea/name": {
+        "china": "",
+        "zh-CN": "Arcaea 联动",
+        "zh-TW": "Arcaea 合作",
+        "en": "Arcaea Collab",
+        "ko": "Arcaea 콜라보",
+        "ja": "Arcaea コラボ",
+        "id": "Kolaborasi Arcaea",
+        "th": "Arcaea คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-cosmicradio",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-cosmicradio/name": {
+        "china": "",
+        "zh-CN": "宇宙电台 2025",
+        "zh-TW": "宇宙電台 2025",
+        "en": "Cosmic Radio 2025",
+        "ko": "Cosmic Radio 2025",
+        "ja": "Cosmic Radio 2025",
+        "id": "Cosmic Radio 2025",
+        "th": "Cosmic Radio 2025"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-cytus2",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-cytus2/name": {
+        "china": "Cytus II 联动",
+        "zh-CN": "Cytus II 联动",
+        "zh-TW": "Cytus II 合作",
+        "en": "Cytus II Collab",
+        "ko": "Cytus II 콜라보",
+        "ja": "Cytus II コラボ",
+        "id": "Kolaborasi Cytus II ",
+        "th": "Cytus II คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-deemo2",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-deemo2/name": {
+        "china": "花雨旋律 DEEMO II 联动",
+        "zh-CN": "DEEMO II 联动",
+        "zh-TW": "DEEMO II 合作",
+        "en": "DEEMO II  Collab",
+        "ko": "DEEMO II 콜라보",
+        "ja": "DEEMO II コラボ",
+        "id": "Kolaborasi DEEMO II",
+        "th": "DEEMO II คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-dynamix",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-dynamix/name": {
+        "china": "",
+        "zh-CN": "Dynamix 联动",
+        "zh-TW": "Dynamix 合作",
+        "en": "Dynamix  Collab",
+        "ko": "Dynamix 콜라보",
+        "ja": "Dynamix コラボ",
+        "id": "Kolaborasi Dynamix",
+        "th": "Dynamix คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-dynamix_universe",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-dynamix_universe/name": {
+        "china": "",
+        "zh-CN": "Dynamix Universe 联动",
+        "zh-TW": "Dynamix Universe 合作",
+        "en": "Dynamix Universe Collab",
+        "ko": "Dynamix Universe 콜라보",
+        "ja": "Dynamix Universe コラボ",
+        "id": "Kolaborasi Dynamix Universe",
+        "th": "Dynamix Universe คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-kalpa-cosmic-symphony",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-kalpa-cosmic-symphony/name": {
+        "china": "",
+        "zh-CN": "KALPA: Cosmic Symphony 联动",
+        "zh-TW": "KALPA: Cosmic Symphony 合作",
+        "en": "KALPA: Cosmic Symphony Collab",
+        "ko": "KALPA: Cosmic Symphony 콜라보",
+        "ja": "KALPA: Cosmic Symphony コラボ",
+        "id": "Kolaborasi KALPA: Cosmic Symphony",
+        "th": "KALPA: Cosmic Symphony  คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-kalpa",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-kalpa/name": {
+        "china": "",
+        "zh-CN": "KALPA 联动",
+        "zh-TW": "KALPA 合作",
+        "en": "KALPA Collab",
+        "ko": "KALPA 콜라보레이션",
+        "ja": "KALPA コラボ",
+        "id": "Kolaborasi KALPA",
+        "th": "KALPA คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-lanota",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-lanota/name": {
+        "china": "",
+        "zh-CN": "Lanota 联动",
+        "zh-TW": "Lanota 合作",
+        "en": "Lanota Collab",
+        "ko": "Lanota 콜라보",
+        "ja": "Lanota コラボ",
+        "id": "Kolaborasi Lanota",
+        "th": "Lanota คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-livemania",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-livemania/name": {
+        "china": "",
+        "zh-CN": "音波狂潮",
+        "zh-TW": "音波狂潮",
+        "en": "LiveMania",
+        "ko": "",
+        "ja": "",
+        "id": "",
+        "th": ""
+      }
+    }
+  },
+  {
+    "pack_id": "collab-maimai",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-maimai/name": {
+        "china": "",
+        "zh-CN": "maimai 联动",
+        "zh-TW": "maimai 合作",
+        "en": "maimai Collab",
+        "ko": "maimai 콜라보",
+        "ja": "maimai コラボ",
+        "id": "Kolaborasi maimai",
+        "th": "maimai คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-mili",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-mili/name": {
+        "china": "",
+        "zh-CN": "Mili 精选集",
+        "zh-TW": "Mili 精選輯",
+        "en": "Mili Selection",
+        "ko": "Mili 컬렉션",
+        "ja": "Mili セレクション",
+        "id": "Koleksi Mili",
+        "th": "Mili คอลเลกชัน"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-musedash",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-musedash/name": {
+        "china": "Muse Dash 联动",
+        "zh-CN": "Muse Dash 联动",
+        "zh-TW": "Muse Dash 合作",
+        "en": "Muse Dash Collab",
+        "ko": "Muse Dash 콜라보",
+        "ja": "Muse Dash コラボ",
+        "id": "Kolaborasi Muse Dash",
+        "th": "Muse Dash คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-noisz",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-noisz/name": {
+        "china": "NOISZ SL + PK GODHAND 联动",
+        "zh-CN": "NOISZ SL + PK GODHAND 联动",
+        "zh-TW": "NOISZ SL + PK GODHAND 合作",
+        "en": "NOISZ SL + PK GODHAND Collab",
+        "ko": "NOISZ SL + PK GODHAND 콜라보",
+        "ja": "NOISZ SL + PK GODHAND コラボ",
+        "id": "Kolaborasi NOISZ SL + PK GODHAND",
+        "th": "NOISZ SL + PK GODHAND คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-paradigm",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-paradigm/name": {
+        "china": "",
+        "zh-CN": "范式：起源 联动",
+        "zh-TW": "Paradigm: Reboot 合作",
+        "en": "Paradigm: Reboot Collab",
+        "ko": "Paradigm: Reboot 콜라보",
+        "ja": "Paradigm: Rebootコラボ",
+        "id": "Kolaborasi Paradigm: Reboot",
+        "th": "Paradigm: Reboot คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-phigros",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-phigros/name": {
+        "china": "",
+        "zh-CN": "Phigros 联动",
+        "zh-TW": "Phigros 合作",
+        "en": "Phigros Collab",
+        "ko": "Phigros(피그로스) 콜라보레이션",
+        "ja": "Phigros コラボ",
+        "id": "Kolaborasi Phigros",
+        "th": "Phigros คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-rizline",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-rizline/name": {
+        "china": "",
+        "zh-CN": "律动轨迹 联动",
+        "zh-TW": "Rizline 合作",
+        "en": "Rizline Collab",
+        "ko": "Rizline 콜라보",
+        "ja": "Rizline コラボ",
+        "id": "Kolaborasi Rizline",
+        "th": "Rizline คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-tanchiky",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-tanchiky/name": {
+        "china": "",
+        "zh-CN": "Tanchiky 精选集",
+        "zh-TW": "Tanchiky 精選輯",
+        "en": "Tanchiky Selection",
+        "ko": "Tanchiky 컬렉션",
+        "ja": "Tanchiky セレクション",
+        "id": "Koleksi Tanchiky",
+        "th": "Tanchiky คอลเลกชัน"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-tanoc2",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-tanoc2/name": {
+        "china": "",
+        "zh-CN": "HARDCORE TANO*C 联动 II",
+        "zh-TW": "HARDCORE TANO*C 合作 II",
+        "en": "HARDCORE TANO*C Collab II",
+        "ko": "HARDCORE TANO*C 콜라보 II",
+        "ja": "HARDCORE TANO*C コラボ II",
+        "id": "Kolaborasi HARDCORE TANO*C II",
+        "th": "HARDCORE TANO*C II คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-tanoc",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-tanoc/name": {
+        "china": "",
+        "zh-CN": "HARDCORE TANO*C 联动 I",
+        "zh-TW": "HARDCORE TANO*C 合作 I",
+        "en": "HARDCORE TANO*C Collab I",
+        "ko": "HARDCORE TANO*C 콜라보 I",
+        "ja": "HARDCORE TANO*C コラボ I",
+        "id": "Kolaborasi HARDCORE TANO*C I",
+        "th": "HARDCORE TANO*C I คอลลาโบ"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-wacca2",
+    "additional_embedded_term_refs": [
+      {
+        "key": "db/event/20260625-risk-wacca2/name",
+        "byte_offset": 96,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      }
+    ],
+    "terms": {
+      "db/event/20260625-risk-wacca2/name": {
+        "china": "",
+        "zh-CN": "WACCA 联动 II",
+        "zh-TW": "WACCA 合作 II",
+        "en": "WACCA Collab II",
+        "ko": "WACCA 콜라보 II",
+        "ja": "WACCA コラボ II",
+        "id": "Kolaborasi WACCA II",
+        "th": "WACCA คอลลาโบ II"
+      }
+    }
+  },
+  {
+    "pack_id": "collab-wacca",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/collab-wacca/name": {
+        "china": "",
+        "zh-CN": "WACCA 联动 I",
+        "zh-TW": "WACCA 合作 I",
+        "en": "WACCA Collab I",
+        "ko": "WACCA 콜라보 I",
+        "ja": "WACCA コラボ I",
+        "id": "Kolaborasi WACCA I",
+        "th": "WACCA คอลลาโบ I"
+      }
+    }
+  },
+  {
+    "pack_id": "ex-ch2",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/ex-ch2/name": {
+        "china": "",
+        "zh-CN": "奥比之声",
+        "zh-TW": "奧比之聲",
+        "en": "Sounds of Orb",
+        "ko": "오브의 소리",
+        "ja": "オーブの声",
+        "id": "Suara Orb",
+        "th": "เสียงแห่งออร์บี้"
+      }
+    }
+  },
+  {
+    "pack_id": "main-ch1",
+    "additional_embedded_term_refs": [
+      {
+        "key": "db/planet/ch0/subtitle",
+        "byte_offset": 616,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      },
+      {
+        "key": "db/planet/ch0/title",
+        "byte_offset": 656,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      }
+    ],
+    "terms": {
+      "db/planet/ch0/subtitle": {
+        "china": "",
+        "zh-CN": "第一章 - 旅程的开始",
+        "zh-TW": "第一章 - 旅程的開始",
+        "en": "Chapter 1 - A Journey Begins",
+        "ko": "제1장 - 여정의 시작",
+        "ja": "第1章 - 旅の始まり",
+        "id": "Prolog - Awal perjalanan",
+        "th": "บทนำ - จุดเริ่มต้นของการเดินทาง"
+      },
+      "db/planet/ch0/title": {
+        "china": "",
+        "zh-CN": "阿古亚星",
+        "zh-TW": "阿古亞星",
+        "en": "Aquaria",
+        "ko": "아쿠아",
+        "ja": "アクア",
+        "id": "Aquaria",
+        "th": "อควาเรีย"
+      }
+    }
+  },
+  {
+    "pack_id": "main-ch2",
+    "additional_embedded_term_refs": [
+      {
+        "key": "db/planet/ch2/subtitle",
+        "byte_offset": 616,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      },
+      {
+        "key": "db/planet/ch2/title",
+        "byte_offset": 656,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      }
+    ],
+    "terms": {
+      "db/planet/ch2/subtitle": {
+        "china": "",
+        "zh-CN": "第二章 - 灾难与希望",
+        "zh-TW": "第二章 - 災難與希望",
+        "en": "Chapter 2 - Disaster and Hope",
+        "ko": "제2장 - 재난과 희망",
+        "ja": "第2章 - 災難と希望",
+        "id": "Chapter 2 - Bencana dan Harapan",
+        "th": "บทที่ 2 - ภัยพิบัติและความหวัง"
+      },
+      "db/planet/ch2/title": {
+        "china": "",
+        "zh-CN": "奥比星",
+        "zh-TW": "奧比星",
+        "en": "Orb",
+        "ko": "오브",
+        "ja": "オーブ",
+        "id": "Orb",
+        "th": "ดาวออร์บี้"
+      }
+    }
+  },
+  {
+    "pack_id": "main-ch3",
+    "additional_embedded_term_refs": [
+      {
+        "key": "db/planet/ch3/subtitle",
+        "byte_offset": 616,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      },
+      {
+        "key": "db/planet/ch3/title",
+        "byte_offset": 656,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      }
+    ],
+    "terms": {
+      "db/planet/ch3/subtitle": {
+        "china": "",
+        "zh-CN": "第三章 - 泾渭分明之地",
+        "zh-TW": "第三章 - 涇渭分明之地",
+        "en": "Chapter 3 - A Land Divided",
+        "ko": "제3장 - 반으로 갈라진 땅",
+        "ja": "第3章 - 水と油",
+        "id": "Chapter 3 - Tempat Batas",
+        "th": "บทที่ 3 - ดินแดนที่แบ่งแยกชัดเจน"
+      },
+      "db/planet/ch3/title": {
+        "china": "",
+        "zh-CN": "史班娜星",
+        "zh-TW": "史班娜星",
+        "en": "Silvano",
+        "ko": "실바노",
+        "ja": "シルヴァノ",
+        "id": "Silvano",
+        "th": "ซิลวาโน"
+      }
+    }
+  },
+  {
+    "pack_id": "main",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/main/name": {
+        "china": "",
+        "zh-CN": "基础歌曲",
+        "zh-TW": "基礎歌曲",
+        "en": "Base Songs",
+        "ko": "기본 악곡",
+        "ja": "基本曲",
+        "id": "Lagu Dasar",
+        "th": "เพลงพื้นฐาน"
+      }
+    }
+  },
+  {
+    "pack_id": "paid-singles",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/paid-singles/name": {
+        "china": "",
+        "zh-CN": "星际之声",
+        "zh-TW": "星際之聲",
+        "en": "Cosmic Voices",
+        "ko": "우주의 목소리",
+        "ja": "星々の声",
+        "id": "Suara antar bintang",
+        "th": "เสียงแห่งอวกาศ"
+      }
+    }
+  },
+  {
+    "pack_id": "pop-1",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/pop-1/name": {
+        "china": "",
+        "zh-CN": "深夏清梦",
+        "zh-TW": "深夏清夢",
+        "en": "Summer's Daydream",
+        "ko": "한여름날의 꿈",
+        "ja": "晩夏の夢",
+        "id": "Mimpi Musim Panas",
+        "th": "ชำระฝันซัมเมอร์"
+      }
+    }
+  },
+  {
+    "pack_id": "rpg-1",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/rpg-1/name": {
+        "china": "",
+        "zh-CN": "异世记：追忆",
+        "zh-TW": "異世記：追憶",
+        "en": "Terralius : Reminiscence",
+        "ko": "이세계 이야기: 추억",
+        "ja": "異世界物語：追憶",
+        "id": "Outworld Memory: Recall",
+        "th": "ต่างโลก: รำลึก"
+      }
+    }
+  },
+  {
+    "pack_id": "season-s0",
+    "additional_embedded_term_refs": [
+      {
+        "key": "db/event/s0/name",
+        "byte_offset": 92,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      }
+    ],
+    "terms": {
+      "db/event/s0/name": {
+        "china": "",
+        "zh-CN": "ROCK (Y)OUR WORLD",
+        "zh-TW": "ROCK (Y)OUR WORLD",
+        "en": "Rock (Y)our World",
+        "ko": "Rock (Y)our World",
+        "ja": "Rock (Y)our World",
+        "id": "Rock (Y)our World",
+        "th": "Rock (Y)our World"
+      }
+    }
+  },
+  {
+    "pack_id": "seeker-singles",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/seeker-singles/name": {
+        "china": "",
+        "zh-CN": "星觅典藏",
+        "zh-TW": "星覓典藏",
+        "en": "Starseeker's Vault",
+        "ko": "별탐구 컬렉션",
+        "ja": "星明りの秘蔵",
+        "id": "Koleksi Star Search",
+        "th": "คอลเล็กชันนักสำรวจดวงดาว"
+      }
+    }
+  },
+  {
+    "pack_id": "side-bolt",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/side-bolt/name": {
+        "china": "",
+        "zh-CN": "轨迹：梦想萌芽的那一天",
+        "zh-TW": "軌跡：夢想萌芽的那一天",
+        "en": "Trail: The Day A Dream Was Born",
+        "ko": "궤적：꿈이 싹튼 날",
+        "ja": "軌跡：夢が芽生えた日",
+        "id": "Lintasan: Di Hari Saat Impian Berkembang",
+        "th": "วงโคจร: วันเริ่มต้นของความฝัน"
+      },
+      "db/pack/side-bolt/subtitle": {
+        "china": "",
+        "zh-CN": "飙车酱角色支线故事",
+        "zh-TW": "飆車醬角色支線故事",
+        "en": "Bolt's Side Story",
+        "ko": "카루쨩의 부속 이야기",
+        "ja": "カールキャラクターサブストーリー",
+        "id": "Cerita Sampingan Karakter Bolt",
+        "th": "เรื่องราวสายย่อยตัวละครโบลท์"
+      }
+    }
+  },
+  {
+    "pack_id": "side-jolly",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/side-jolly/name": {
+        "china": "",
+        "zh-CN": "小水滴大冒险",
+        "zh-TW": "小水滴大冒險",
+        "en": "Little Droplet's Big Adventure",
+        "ko": "작은 물방울의 대모험",
+        "ja": "小さなしずくの大冒険",
+        "id": "Petualangan Besar Si Tetes Kecil",
+        "th": "การผจญภัยครั้งใหญ่ของหยดน้ำน้อย"
+      }
+    }
+  },
+  {
+    "pack_id": "side-kid",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/side-kid/name": {
+        "china": "",
+        "zh-CN": "我们的相遇",
+        "zh-TW": "我們的相遇",
+        "en": "Where Our Story Began",
+        "ko": "우리의 만남",
+        "ja": "二人の出会い",
+        "id": "Pertemuan Kita",
+        "th": "การพบกันของเรา"
+      },
+      "db/pack/side-kid/subtitle": {
+        "china": "",
+        "zh-CN": "伊洛与荷珀支线故事",
+        "zh-TW": "伊洛與荷珀支線故事",
+        "en": "Side Story of Ilot and Hoppe",
+        "ko": "이로와 호페의 사이드 스토리",
+        "ja": "イロ・ホッパサイドストーリー",
+        "id": "Cerita Ilot dan Hoppe",
+        "th": "เนื้อเรื่องย่อยของไอล็อตกับฮอปป์"
+      }
+    }
+  },
+  {
+    "pack_id": "side-newlife",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/side-newlife/name": {
+        "china": "",
+        "zh-CN": "恒光予新生",
+        "zh-TW": "恆光予新生",
+        "en": "Everlight Reborn",
+        "ko": "Everlight Reborn",
+        "ja": "永久の光、新たな命へ",
+        "id": "Everlight Reborn",
+        "th": "Everlight Reborn"
+      },
+      "db/pack/side-newlife/subtitle": {
+        "china": "",
+        "zh-CN": "鲁米尔与喀卡莉特支线故事",
+        "zh-TW": "魯米爾與喀卡莉特支線故事",
+        "en": "Side Story of Rumil and Kakari",
+        "ko": "루밀과 카카릿의 사이드 스토리",
+        "ja": "ルーミル・カカリトサイドストーリー",
+        "id": "Cerita Rumil dan Kakari",
+        "th": "เนื้อเรื่องย่อยของรูมิลกับคาคาริ"
+      }
+    }
+  },
+  {
+    "pack_id": "side-sc1",
+    "additional_embedded_term_refs": [
+      {
+        "key": "db/pack/side-kid/subtitle",
+        "byte_offset": 104,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      }
+    ],
+    "terms": {
+      "db/pack/side-sc1/name": {
+        "china": "",
+        "zh-CN": "新时代",
+        "zh-TW": "新時代",
+        "en": "A New Era",
+        "ko": "새로운 시대",
+        "ja": "新時代",
+        "id": "Era Baru",
+        "th": "ยุคใหม่"
+      },
+      "db/pack/side-kid/subtitle": {
+        "china": "",
+        "zh-CN": "伊洛与荷珀支线故事",
+        "zh-TW": "伊洛與荷珀支線故事",
+        "en": "Side Story of Ilot and Hoppe",
+        "ko": "이로와 호페의 사이드 스토리",
+        "ja": "イロ・ホッパサイドストーリー",
+        "id": "Cerita Ilot dan Hoppe",
+        "th": "เนื้อเรื่องย่อยของไอล็อตกับฮอปป์"
+      }
+    }
+  },
+  {
+    "pack_id": "side-sc2",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/side-sc2/name": {
+        "china": "",
+        "zh-CN": "Rotaeno 学园祭",
+        "zh-TW": "Rotaeno 學園祭",
+        "en": "Rotaeno's Highschool Fantasy",
+        "ko": "로테이노 학원 축제",
+        "ja": "Rotaeno学園祭",
+        "id": "Festival Sekolah Rotaeno",
+        "th": "งานเทศกาลโรงเรียน Rotaeno"
+      },
+      "db/pack/side-sc2/subtitle": {
+        "china": "",
+        "zh-CN": "伊洛的多重宇宙",
+        "zh-TW": "伊洛的多重宇宙",
+        "en": "Ilot's Multiverse",
+        "ko": "이로의 멀티우주",
+        "ja": "イロのマルチバース",
+        "id": "Multisemesta Ilot",
+        "th": "มัลติเวิร์สของไอล็อต"
+      }
+    }
+  },
+  {
+    "pack_id": "side-sc3",
+    "additional_embedded_term_refs": [
+      {
+        "key": "db/pack/side-bolt/subtitle",
+        "byte_offset": 116,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      }
+    ],
+    "terms": {
+      "db/pack/side-sc3/name": {
+        "china": "",
+        "zh-CN": "天空、飞船、与我所珍视的——",
+        "zh-TW": "天空、飛船，與我所珍視的——",
+        "en": "Sky, Spacecraft, and My Precious—",
+        "ko": "하늘, 우주선, 그리고 내가 소중히 여기는——",
+        "ja": "空、宇宙船、そして大切なもの——",
+        "id": "Langit, Pesawat Ruang Angkasa, dan Kesayanganku——",
+        "th": "ท้องฟ้า ยานอวกาศ และสิ่งที่ฉันรักหวงแหน—"
+      },
+      "db/pack/side-bolt/subtitle": {
+        "china": "",
+        "zh-CN": "飙车酱角色支线故事",
+        "zh-TW": "飆車醬角色支線故事",
+        "en": "Bolt's Side Story",
+        "ko": "카루쨩의 부속 이야기",
+        "ja": "カールキャラクターサブストーリー",
+        "id": "Cerita Sampingan Karakter Bolt",
+        "th": "เรื่องราวสายย่อยตัวละครโบลท์"
+      }
+    }
+  },
+  {
+    "pack_id": "side-summer",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/side-summer/name": {
+        "china": "",
+        "zh-CN": "无尽的暑假狂想曲",
+        "zh-TW": "無盡的暑假狂想曲",
+        "en": "Endless Summer Rhapsody",
+        "ko": "끝없는 여름방학 환상곡",
+        "ja": "果てしなき夏の狂騒曲",
+        "id": "Rhapsody Liburan Musim Panas Tanpa Akhir",
+        "th": "ร่ายมนตร์ปิดเทอมไม่สิ้นสุด"
+      }
+    }
+  },
+  {
+    "pack_id": "vsinger-1",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/vsinger-1/name": {
+        "china": "",
+        "zh-CN": "自未来的歌",
+        "zh-TW": "自未來的歌",
+        "en": "From Future",
+        "ko": "미래로부터",
+        "ja": "未来の歌",
+        "id": "Song From Future",
+        "th": "บทเพลงจากอนาคต"
+      },
+      "db/pack/vsinger-1/subtitle": {
+        "china": "",
+        "zh-CN": "虚拟歌手精选辑",
+        "zh-TW": "虛擬歌手精選輯",
+        "en": "Virtual Singers Essentials",
+        "ko": "버츄얼 싱어 에센셜",
+        "ja": "バーチャル・シンガー特集",
+        "id": "Pilihan Penyanyi Virtual",
+        "th": "คัดเลือกนักร้องเสมือนจริง"
+      }
+    }
+  },
+  {
+    "pack_id": "vsinger-2",
+    "additional_embedded_term_refs": [
+      {
+        "key": "db/pack/vsinger-1/subtitle",
+        "byte_offset": 108,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      }
+    ],
+    "terms": {
+      "db/pack/vsinger-2/name": {
+        "china": "",
+        "zh-CN": "向未来之声",
+        "zh-TW": "向未來之聲",
+        "en": "To Future",
+        "ko": "미래를 향한 목소리",
+        "ja": "明日へ響け",
+        "id": "Suara Masa Depan",
+        "th": "เสียงแห่งอนาคต"
+      },
+      "db/pack/vsinger-1/subtitle": {
+        "china": "",
+        "zh-CN": "虚拟歌手精选辑",
+        "zh-TW": "虛擬歌手精選輯",
+        "en": "Virtual Singers Essentials",
+        "ko": "버츄얼 싱어 에센셜",
+        "ja": "バーチャル・シンガー特集",
+        "id": "Pilihan Penyanyi Virtual",
+        "th": "คัดเลือกนักร้องเสมือนจริง"
+      }
+    }
+  },
+  {
+    "pack_id": "vsinger-deco27",
+    "additional_embedded_term_refs": [
+      {
+        "key": "common/{0}-collab",
+        "byte_offset": 120,
+        "basis": "length-prefixed key observed in PackDataSO object"
+      }
+    ],
+    "terms": {
+      "common/{0}-collab": {
+        "china": "",
+        "zh-CN": "{0} 联动",
+        "zh-TW": "{0} 合作",
+        "en": "{0} Collab",
+        "ko": "{0} 콜라보",
+        "ja": "{0} コラボ",
+        "id": "Kolaborasi {0}",
+        "th": "การเชื่อมโยง {0}"
+      }
+    }
+  },
+  {
+    "pack_id": "vsinger-pinocchiop",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/vsinger-pinocchiop/name": {
+        "china": "",
+        "zh-CN": "PinocchioP 联动",
+        "zh-TW": "PinocchioP 合作",
+        "en": "PinocchioP Collab",
+        "ko": "PinocchioP 콜라보",
+        "ja": "ピノキオピー コラボ",
+        "id": "Kolaborasi PinocchioP",
+        "th": "การเชื่อมโยง PinocchioP"
+      }
+    }
+  },
+  {
+    "pack_id": "vtuber-1",
+    "additional_embedded_term_refs": [],
+    "terms": {
+      "db/pack/vtuber-1/name": {
+        "china": "",
+        "zh-CN": "跨次元之约",
+        "zh-TW": "跨次元之約",
+        "en": "Transdimensional Promise",
+        "ko": "새로운 차원간의 약속",
+        "ja": "次元を超える約束",
+        "id": "Perjanjian Lintas Dimensi",
+        "th": "สัญญาข้ามมิติ"
+      }
+    }
+  }
+]

@@ -1,0 +1,464 @@
+{
+  "language_code": "en",
+  "language_basis": "explicit_document_header",
+  "document": "CharacterNames",
+  "source": {
+    "asset_file": "resources.assets",
+    "path_id": 2486,
+    "name": "CharacterNames",
+    "object_sha256": "9d0d33f081d1ce6ec2d8866e1d35b292c6a6113d0ca81d95b94a01ea7f737dee"
+  },
+  "entries": [
+    {
+      "key": "abram",
+      "text": "Abram",
+      "line": 3
+    },
+    {
+      "key": "ai",
+      "text": "AI Assistant",
+      "line": 4
+    },
+    {
+      "key": "ano-blurred",
+      "text": "ano-blurred",
+      "line": 5
+    },
+    {
+      "key": "attendant",
+      "text": "Clerk",
+      "line": 6
+    },
+    {
+      "key": "auntA",
+      "text": "Auntie A",
+      "line": 7
+    },
+    {
+      "key": "auntB",
+      "text": "Auntie B",
+      "line": 8
+    },
+    {
+      "key": "auntC",
+      "text": "Auntie C",
+      "line": 9
+    },
+    {
+      "key": "baker",
+      "text": "Shop Manager",
+      "line": 10
+    },
+    {
+      "key": "boyA",
+      "text": "Youth A",
+      "line": 11
+    },
+    {
+      "key": "boyB",
+      "text": "Youth B",
+      "line": 12
+    },
+    {
+      "key": "c2-neko",
+      "text": "Neko",
+      "line": 13
+    },
+    {
+      "key": "car",
+      "text": "Bolt",
+      "line": 14
+    },
+    {
+      "key": "car-rabbit-f",
+      "text": "Bolt",
+      "line": 15
+    },
+    {
+      "key": "car-rabbit-s",
+      "text": "Bolt",
+      "line": 16
+    },
+    {
+      "key": "cat",
+      "text": "Vickers (Cat)",
+      "line": 17
+    },
+    {
+      "key": "classmate-a",
+      "text": "Classmate A",
+      "line": 18
+    },
+    {
+      "key": "classmate-b",
+      "text": "Classmate B",
+      "line": 19
+    },
+    {
+      "key": "classmate-c",
+      "text": "Classmate C",
+      "line": 20
+    },
+    {
+      "key": "customerA",
+      "text": "Customer A",
+      "line": 21
+    },
+    {
+      "key": "customerB",
+      "text": "Drunk Customer B",
+      "line": 22
+    },
+    {
+      "key": "e-a",
+      "text": "e-a",
+      "line": 23
+    },
+    {
+      "key": "e-b",
+      "text": "e-b",
+      "line": 24
+    },
+    {
+      "key": "e-c",
+      "text": "e-c",
+      "line": 25
+    },
+    {
+      "key": "e-d",
+      "text": "e-d",
+      "line": 26
+    },
+    {
+      "key": "e-e",
+      "text": "e-e",
+      "line": 27
+    },
+    {
+      "key": "elf-kid",
+      "text": "Tommy",
+      "line": 28
+    },
+    {
+      "key": "elf-young",
+      "text": "Elfling",
+      "line": 29
+    },
+    {
+      "key": "eto",
+      "text": "Eto",
+      "line": 30
+    },
+    {
+      "key": "girl",
+      "text": "Young Girl",
+      "line": 31
+    },
+    {
+      "key": "gov-a",
+      "text": "Politician A",
+      "line": 32
+    },
+    {
+      "key": "gov-b",
+      "text": "Politician B",
+      "line": 33
+    },
+    {
+      "key": "gov-c",
+      "text": "Politician C",
+      "line": 34
+    },
+    {
+      "key": "hoppe",
+      "text": "Hoppe",
+      "line": 35
+    },
+    {
+      "key": "hoppe-chef",
+      "text": "Hoppe",
+      "line": 36
+    },
+    {
+      "key": "hoppe-lunar",
+      "text": "荷珀",
+      "line": 37
+    },
+    {
+      "key": "hoppe-ss-dry",
+      "text": "Hoppe",
+      "line": 38
+    },
+    {
+      "key": "hoppe-ss-wet",
+      "text": "Hoppe",
+      "line": 39
+    },
+    {
+      "key": "idol-b",
+      "text": "Idol B",
+      "line": 40
+    },
+    {
+      "key": "ilot",
+      "text": "Ilot",
+      "line": 41
+    },
+    {
+      "key": "ilot-jirai",
+      "text": "Ilot",
+      "line": 42
+    },
+    {
+      "key": "ilot-lunar",
+      "text": "伊洛",
+      "line": 43
+    },
+    {
+      "key": "ilot-maid",
+      "text": "Ilot",
+      "line": 44
+    },
+    {
+      "key": "ilot-psi",
+      "text": "Ilot",
+      "line": 45
+    },
+    {
+      "key": "ilot-ss-fish",
+      "text": "Ilot",
+      "line": 46
+    },
+    {
+      "key": "ilot-ss-nor",
+      "text": "Ilot",
+      "line": 47
+    },
+    {
+      "key": "jolly",
+      "text": "Jolly",
+      "line": 48
+    },
+    {
+      "key": "kakari",
+      "text": "Kakari",
+      "line": 49
+    },
+    {
+      "key": "kakari-young",
+      "text": "Kakari",
+      "line": 50
+    },
+    {
+      "key": "khoppe",
+      "text": "Hoppe",
+      "line": 51
+    },
+    {
+      "key": "kilot",
+      "text": "Ilot",
+      "line": 52
+    },
+    {
+      "key": "kilot-ghost",
+      "text": "The Student Draped in White Cloth",
+      "line": 53
+    },
+    {
+      "key": "kmona",
+      "text": "Mona",
+      "line": 54
+    },
+    {
+      "key": "lab",
+      "text": "Researcher",
+      "line": 55
+    },
+    {
+      "key": "lime",
+      "text": "Lime",
+      "line": 56
+    },
+    {
+      "key": "lulua",
+      "text": "Lulua",
+      "line": 57
+    },
+    {
+      "key": "luna",
+      "text": "Luna",
+      "line": 58
+    },
+    {
+      "key": "mai-salt",
+      "text": "ms",
+      "line": 59
+    },
+    {
+      "key": "miner2",
+      "text": "Miner",
+      "line": 60
+    },
+    {
+      "key": "mona-ss",
+      "text": "Mona",
+      "line": 61
+    },
+    {
+      "key": "noah",
+      "text": "Noah",
+      "line": 62
+    },
+    {
+      "key": "noah-core",
+      "text": "諾亞",
+      "line": 63
+    },
+    {
+      "key": "police",
+      "text": "Policeman",
+      "line": 64
+    },
+    {
+      "key": "puno",
+      "text": "Puno",
+      "line": 65
+    },
+    {
+      "key": "rat",
+      "text": "Vickers (Mouse)",
+      "line": 66
+    },
+    {
+      "key": "robot",
+      "text": "Nanny Robot",
+      "line": 67
+    },
+    {
+      "key": "robot59427",
+      "text": "Nanny Robot 59427",
+      "line": 68
+    },
+    {
+      "key": "robot59563",
+      "text": "Nanny Robot 59563",
+      "line": 69
+    },
+    {
+      "key": "robot-staff",
+      "text": "Robot Staff",
+      "line": 70
+    },
+    {
+      "key": "rumil",
+      "text": "Rumil",
+      "line": 71
+    },
+    {
+      "key": "rumil-young",
+      "text": "Rumil",
+      "line": 72
+    },
+    {
+      "key": "saku",
+      "text": "Cheri",
+      "line": 73
+    },
+    {
+      "key": "saku-casual",
+      "text": "Cheri",
+      "line": 74
+    },
+    {
+      "key": "silo-man-angry",
+      "text": "silo-man-angry",
+      "line": 75
+    },
+    {
+      "key": "silo-woman-angry",
+      "text": "silo-woman-angry",
+      "line": 76
+    },
+    {
+      "key": "single-use",
+      "text": "single-use",
+      "line": 77
+    },
+    {
+      "key": "slime-ss",
+      "text": "Cosmic Superstar?",
+      "line": 78
+    },
+    {
+      "key": "s-wolf",
+      "text": "s-wolf",
+      "line": 79
+    },
+    {
+      "key": "system",
+      "text": "System",
+      "line": 80
+    },
+    {
+      "key": "teacher",
+      "text": "Teacher",
+      "line": 81
+    },
+    {
+      "key": "tommy",
+      "text": "Tommy",
+      "line": 82
+    },
+    {
+      "key": "trailer",
+      "text": "Coming Soon",
+      "line": 83
+    },
+    {
+      "key": "uncleB",
+      "text": "Uncle B",
+      "line": 84
+    },
+    {
+      "key": "uncleC",
+      "text": "Uncle C",
+      "line": 85
+    },
+    {
+      "key": "uncleD",
+      "text": "Uncle D",
+      "line": 86
+    },
+    {
+      "key": "unknown",
+      "text": "????",
+      "line": 87
+    },
+    {
+      "key": "v-hoppe",
+      "text": "Hoppe",
+      "line": 88
+    },
+    {
+      "key": "v-ilot",
+      "text": "Ilot",
+      "line": 89
+    },
+    {
+      "key": "wolf",
+      "text": "Vickers (Wolf)",
+      "line": 90
+    },
+    {
+      "key": "yang",
+      "text": "Angatu",
+      "line": 91
+    },
+    {
+      "key": "yang-casual",
+      "text": "Angatu",
+      "line": 92
+    }
+  ],
+  "unparsed_lines": []
+}

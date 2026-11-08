@@ -1,0 +1,92 @@
+; Chinese (T) <zh-TW> to Thai <th> localization document for `CharacterNames` managed text document
+
+abram: อับรัม
+ai: พ่อบ้าน AI
+ano-blurred: ano-blurred
+attendant: พนักงาน
+auntA: ป้า A
+auntB: ป้า B
+auntC: ป้า C
+baker: ผู้จัดการร้าน
+boyA: หนุ่มน้อย A
+boyB: หนุ่มน้อย B
+c2-neko: Neko
+car: โบลท์
+car-rabbit-f: โบลท์
+car-rabbit-s: โบลท์
+cat: อาวิกเกอร์ (แมว)
+classmate-a: นักเรียน A
+classmate-b: นักเรียน B
+classmate-c: นักเรียน C
+customerA: ลูกค้าโต๊ะถัดไป A
+customerB: ลูกค้าโต๊ะถัดไปที่เมา B
+e-a: e-a
+e-b: e-b
+e-c: e-c
+e-d: e-d
+e-e: e-e
+elf-kid: ทอมมี่
+elf-young: ทารกเอลฟ์
+eto: Eto
+girl: สาวน้อย
+gov-a: เจ้าหน้าที่รัฐ A
+gov-b: เจ้าหน้าที่รัฐ B
+gov-c: เจ้าหน้าที่รัฐ C
+hoppe: ฮอปป์
+hoppe-chef: ฮอปป์
+hoppe-lunar: 荷珀
+hoppe-ss-dry: ฮอปป์
+hoppe-ss-wet: ฮอปป์
+idol-b: idol-b
+ilot: ไอล็อต
+ilot-jirai: ไอล็อต
+ilot-lunar: 伊洛
+ilot-maid: ไอล็อต
+ilot-psi: ไอล็อต
+ilot-ss-fish: ไอล็อต
+ilot-ss-nor: ไอล็อต
+jolly: โจลลี่
+kakari: คาคาริ
+kakari-young: คาคาริ
+khoppe: ฮอปป์
+kilot: ไอล็อต
+kilot-ghost: นักเรียนที่ห่มผ้าขาว
+kmona: โมนา
+lab: นักวิจัย
+lime: ไลม์
+lulua: ลูลัว
+luna: Luna
+mai-salt: ms
+miner2: คนงานเหมืองแร่
+mona-ss: โมนา
+noah: โนอาห
+noah-core: 諾亞
+police: ตำรวจ
+puno: ปูโย
+rat: อาวิกเกอร์ (หนู)
+robot: 563: หุ่นยนต์พี่เลี้ยง59563
+robot59427: หุ่นยนต์พี่เลี้ยง59427
+robot59563: หุ่นยนต์พี่เลี้ยง59563
+robot-staff: พนักงานหุ่นยนต์
+rumil: รูมิล
+rumil-young: รูมิล
+saku: เชอรี่
+saku-casual: เชอรี่
+silo-man-angry: silo-man-angry
+silo-woman-angry: silo-woman-angry
+single-use: single-use
+slime-ss: ซูเปอร์สตาร์แห่งจักรวาล?
+s-wolf: s-wolf
+system: ระบบ
+teacher: อาจารย์
+tommy: ทอมมี่
+trailer: ตัวอย่างถัดไป
+uncleB: ลุง B
+uncleC: ลุง C
+uncleD: ลุง D
+unknown: ????
+v-hoppe: ฮอปป์
+v-ilot: ไอล็อต
+wolf: อาวิกเกอร์ (หมาป่า)
+yang: อังกาตู
+yang-casual: อังกาตู

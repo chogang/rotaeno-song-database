@@ -1,0 +1,1179 @@
+{
+  "language_code": "id",
+  "language_basis": "explicit_document_header",
+  "document": "Locales",
+  "source": {
+    "asset_file": "resources.assets",
+    "path_id": 2492,
+    "name": "Locales",
+    "object_sha256": "cbebb4b53ca94e3aaba41157ef4ca41fb42233e0487bcbe2d7b0839f13ded0fa"
+  },
+  "entries": [
+    {
+      "key": "af",
+      "text": "Afrikaans",
+      "line": 3
+    },
+    {
+      "key": "af-ZA",
+      "text": "Afrikaans (South Africa)",
+      "line": 4
+    },
+    {
+      "key": "ar",
+      "text": "Arabic",
+      "line": 5
+    },
+    {
+      "key": "ar-AE",
+      "text": "Arabic (U.A.E.)",
+      "line": 6
+    },
+    {
+      "key": "ar-BH",
+      "text": "Arabic (Bahrain)",
+      "line": 7
+    },
+    {
+      "key": "ar-DZ",
+      "text": "Arabic (Algeria)",
+      "line": 8
+    },
+    {
+      "key": "ar-EG",
+      "text": "Arabic (Egypt)",
+      "line": 9
+    },
+    {
+      "key": "ar-IQ",
+      "text": "Arabic (Iraq)",
+      "line": 10
+    },
+    {
+      "key": "ar-JO",
+      "text": "Arabic (Jordan)",
+      "line": 11
+    },
+    {
+      "key": "ar-KW",
+      "text": "Arabic (Kuwait)",
+      "line": 12
+    },
+    {
+      "key": "ar-LB",
+      "text": "Arabic (Lebanon)",
+      "line": 13
+    },
+    {
+      "key": "ar-LY",
+      "text": "Arabic (Libya)",
+      "line": 14
+    },
+    {
+      "key": "ar-MA",
+      "text": "Arabic (Morocco)",
+      "line": 15
+    },
+    {
+      "key": "ar-OM",
+      "text": "Arabic (Oman)",
+      "line": 16
+    },
+    {
+      "key": "ar-QA",
+      "text": "Arabic (Qatar)",
+      "line": 17
+    },
+    {
+      "key": "ar-SA",
+      "text": "Arabic (Saudi Arabia)",
+      "line": 18
+    },
+    {
+      "key": "ar-SY",
+      "text": "Arabic (Syria)",
+      "line": 19
+    },
+    {
+      "key": "ar-TN",
+      "text": "Arabic (Tunisia)",
+      "line": 20
+    },
+    {
+      "key": "ar-YE",
+      "text": "Arabic (Yemen)",
+      "line": 21
+    },
+    {
+      "key": "az",
+      "text": "Azeri (Latin)",
+      "line": 22
+    },
+    {
+      "key": "az-AZ",
+      "text": "Azeri (Latin) (Azerbaijan)",
+      "line": 23
+    },
+    {
+      "key": "az-Cyrl-AZ",
+      "text": "Azeri (Cyrillic) (Azerbaijan)",
+      "line": 24
+    },
+    {
+      "key": "be",
+      "text": "Belarusian",
+      "line": 25
+    },
+    {
+      "key": "be-BY",
+      "text": "Belarusian (Belarus)",
+      "line": 26
+    },
+    {
+      "key": "bg",
+      "text": "Bulgarian",
+      "line": 27
+    },
+    {
+      "key": "bg-BG",
+      "text": "Bulgarian (Bulgaria)",
+      "line": 28
+    },
+    {
+      "key": "bs-BA",
+      "text": "Bosnian (Bosnia and Herzegovina)",
+      "line": 29
+    },
+    {
+      "key": "ca",
+      "text": "Catalan",
+      "line": 30
+    },
+    {
+      "key": "ca-ES",
+      "text": "Catalan (Spain)",
+      "line": 31
+    },
+    {
+      "key": "cs",
+      "text": "Czech",
+      "line": 32
+    },
+    {
+      "key": "cs-CZ",
+      "text": "Czech (Czech Republic)",
+      "line": 33
+    },
+    {
+      "key": "cy",
+      "text": "Welsh",
+      "line": 34
+    },
+    {
+      "key": "cy-GB",
+      "text": "Welsh (United Kingdom)",
+      "line": 35
+    },
+    {
+      "key": "da",
+      "text": "Danish",
+      "line": 36
+    },
+    {
+      "key": "da-DK",
+      "text": "Danish (Denmark)",
+      "line": 37
+    },
+    {
+      "key": "de",
+      "text": "German",
+      "line": 38
+    },
+    {
+      "key": "de-AT",
+      "text": "German (Austria)",
+      "line": 39
+    },
+    {
+      "key": "de-CH",
+      "text": "German (Switzerland)",
+      "line": 40
+    },
+    {
+      "key": "de-DE",
+      "text": "German (Germany)",
+      "line": 41
+    },
+    {
+      "key": "de-LI",
+      "text": "German (Liechtenstein)",
+      "line": 42
+    },
+    {
+      "key": "de-LU",
+      "text": "German (Luxembourg)",
+      "line": 43
+    },
+    {
+      "key": "dv",
+      "text": "Divehi",
+      "line": 44
+    },
+    {
+      "key": "dv-MV",
+      "text": "Divehi (Maldives)",
+      "line": 45
+    },
+    {
+      "key": "el",
+      "text": "Greek",
+      "line": 46
+    },
+    {
+      "key": "el-GR",
+      "text": "Greek (Greece)",
+      "line": 47
+    },
+    {
+      "key": "en",
+      "text": "English",
+      "line": 48
+    },
+    {
+      "key": "en-AU",
+      "text": "English (Australia)",
+      "line": 49
+    },
+    {
+      "key": "en-BZ",
+      "text": "English (Belize)",
+      "line": 50
+    },
+    {
+      "key": "en-CA",
+      "text": "English (Canada)",
+      "line": 51
+    },
+    {
+      "key": "en-CB",
+      "text": "English (Caribbean)",
+      "line": 52
+    },
+    {
+      "key": "en-GB",
+      "text": "English (United Kingdom)",
+      "line": 53
+    },
+    {
+      "key": "en-IE",
+      "text": "English (Ireland)",
+      "line": 54
+    },
+    {
+      "key": "en-JM",
+      "text": "English (Jamaica)",
+      "line": 55
+    },
+    {
+      "key": "en-NZ",
+      "text": "English (New Zealand)",
+      "line": 56
+    },
+    {
+      "key": "en-PH",
+      "text": "English (Republic of the Philippines)",
+      "line": 57
+    },
+    {
+      "key": "en-TT",
+      "text": "English (Trinidad and Tobago)",
+      "line": 58
+    },
+    {
+      "key": "en-US",
+      "text": "English (United States)",
+      "line": 59
+    },
+    {
+      "key": "en-ZA",
+      "text": "English (South Africa)",
+      "line": 60
+    },
+    {
+      "key": "en-ZW",
+      "text": "English (Zimbabwe)",
+      "line": 61
+    },
+    {
+      "key": "eo",
+      "text": "Esperanto",
+      "line": 62
+    },
+    {
+      "key": "es",
+      "text": "Spanish",
+      "line": 63
+    },
+    {
+      "key": "es-AR",
+      "text": "Spanish (Argentina)",
+      "line": 64
+    },
+    {
+      "key": "es-BO",
+      "text": "Spanish (Bolivia)",
+      "line": 65
+    },
+    {
+      "key": "es-CL",
+      "text": "Spanish (Chile)",
+      "line": 66
+    },
+    {
+      "key": "es-CO",
+      "text": "Spanish (Colombia)",
+      "line": 67
+    },
+    {
+      "key": "es-CR",
+      "text": "Spanish (Costa Rica)",
+      "line": 68
+    },
+    {
+      "key": "es-DO",
+      "text": "Spanish (Dominican Republic)",
+      "line": 69
+    },
+    {
+      "key": "es-EC",
+      "text": "Spanish (Ecuador)",
+      "line": 70
+    },
+    {
+      "key": "es-ES",
+      "text": "Spanish (Spain)",
+      "line": 71
+    },
+    {
+      "key": "es-GT",
+      "text": "Spanish (Guatemala)",
+      "line": 72
+    },
+    {
+      "key": "es-HN",
+      "text": "Spanish (Honduras)",
+      "line": 73
+    },
+    {
+      "key": "es-MX",
+      "text": "Spanish (Mexico)",
+      "line": 74
+    },
+    {
+      "key": "es-NI",
+      "text": "Spanish (Nicaragua)",
+      "line": 75
+    },
+    {
+      "key": "es-PA",
+      "text": "Spanish (Panama)",
+      "line": 76
+    },
+    {
+      "key": "es-PE",
+      "text": "Spanish (Peru)",
+      "line": 77
+    },
+    {
+      "key": "es-PR",
+      "text": "Spanish (Puerto Rico)",
+      "line": 78
+    },
+    {
+      "key": "es-PY",
+      "text": "Spanish (Paraguay)",
+      "line": 79
+    },
+    {
+      "key": "es-SV",
+      "text": "Spanish (El Salvador)",
+      "line": 80
+    },
+    {
+      "key": "es-UY",
+      "text": "Spanish (Uruguay)",
+      "line": 81
+    },
+    {
+      "key": "es-VE",
+      "text": "Spanish (Venezuela)",
+      "line": 82
+    },
+    {
+      "key": "et",
+      "text": "Estonian",
+      "line": 83
+    },
+    {
+      "key": "et-EE",
+      "text": "Estonian (Estonia)",
+      "line": 84
+    },
+    {
+      "key": "eu",
+      "text": "Basque",
+      "line": 85
+    },
+    {
+      "key": "eu-ES",
+      "text": "Basque (Spain)",
+      "line": 86
+    },
+    {
+      "key": "fa",
+      "text": "Farsi",
+      "line": 87
+    },
+    {
+      "key": "fa-IR",
+      "text": "Farsi (Iran)",
+      "line": 88
+    },
+    {
+      "key": "fi",
+      "text": "Finnish",
+      "line": 89
+    },
+    {
+      "key": "fi-FI",
+      "text": "Finnish (Finland)",
+      "line": 90
+    },
+    {
+      "key": "fo",
+      "text": "Faroese",
+      "line": 91
+    },
+    {
+      "key": "fo-FO",
+      "text": "Faroese (Faroe Islands)",
+      "line": 92
+    },
+    {
+      "key": "fr",
+      "text": "French",
+      "line": 93
+    },
+    {
+      "key": "fr-BE",
+      "text": "French (Belgium)",
+      "line": 94
+    },
+    {
+      "key": "fr-CA",
+      "text": "French (Canada)",
+      "line": 95
+    },
+    {
+      "key": "fr-CH",
+      "text": "French (Switzerland)",
+      "line": 96
+    },
+    {
+      "key": "fr-FR",
+      "text": "French (France)",
+      "line": 97
+    },
+    {
+      "key": "fr-LU",
+      "text": "French (Luxembourg)",
+      "line": 98
+    },
+    {
+      "key": "fr-MC",
+      "text": "French (Principality of Monaco)",
+      "line": 99
+    },
+    {
+      "key": "gl",
+      "text": "Galician",
+      "line": 100
+    },
+    {
+      "key": "gl-ES",
+      "text": "Galician (Spain)",
+      "line": 101
+    },
+    {
+      "key": "gu",
+      "text": "Gujarati",
+      "line": 102
+    },
+    {
+      "key": "gu-IN",
+      "text": "Gujarati (India)",
+      "line": 103
+    },
+    {
+      "key": "he",
+      "text": "Hebrew",
+      "line": 104
+    },
+    {
+      "key": "he-IL",
+      "text": "Hebrew (Israel)",
+      "line": 105
+    },
+    {
+      "key": "hi",
+      "text": "Hindi",
+      "line": 106
+    },
+    {
+      "key": "hi-IN",
+      "text": "Hindi (India)",
+      "line": 107
+    },
+    {
+      "key": "hr",
+      "text": "Croatian",
+      "line": 108
+    },
+    {
+      "key": "hr-BA",
+      "text": "Croatian (Bosnia and Herzegovina)",
+      "line": 109
+    },
+    {
+      "key": "hr-HR",
+      "text": "Croatian (Croatia)",
+      "line": 110
+    },
+    {
+      "key": "hu",
+      "text": "Hungarian",
+      "line": 111
+    },
+    {
+      "key": "hu-HU",
+      "text": "Hungarian (Hungary)",
+      "line": 112
+    },
+    {
+      "key": "hy",
+      "text": "Armenian",
+      "line": 113
+    },
+    {
+      "key": "hy-AM",
+      "text": "Armenian (Armenia)",
+      "line": 114
+    },
+    {
+      "key": "id",
+      "text": "Indonesian",
+      "line": 115
+    },
+    {
+      "key": "id-ID",
+      "text": "Indonesian (Indonesia)",
+      "line": 116
+    },
+    {
+      "key": "is",
+      "text": "Icelandic",
+      "line": 117
+    },
+    {
+      "key": "is-IS",
+      "text": "Icelandic (Iceland)",
+      "line": 118
+    },
+    {
+      "key": "it",
+      "text": "Italian",
+      "line": 119
+    },
+    {
+      "key": "it-CH",
+      "text": "Italian (Switzerland)",
+      "line": 120
+    },
+    {
+      "key": "it-IT",
+      "text": "Italian (Italy)",
+      "line": 121
+    },
+    {
+      "key": "ja",
+      "text": "Japanese",
+      "line": 122
+    },
+    {
+      "key": "ja-JP",
+      "text": "Japanese (Japan)",
+      "line": 123
+    },
+    {
+      "key": "ka",
+      "text": "Georgian",
+      "line": 124
+    },
+    {
+      "key": "ka-GE",
+      "text": "Georgian (Georgia)",
+      "line": 125
+    },
+    {
+      "key": "kk",
+      "text": "Kazakh",
+      "line": 126
+    },
+    {
+      "key": "kk-KZ",
+      "text": "Kazakh (Kazakhstan)",
+      "line": 127
+    },
+    {
+      "key": "kn",
+      "text": "Kannada",
+      "line": 128
+    },
+    {
+      "key": "kn-IN",
+      "text": "Kannada (India)",
+      "line": 129
+    },
+    {
+      "key": "ko",
+      "text": "Korean",
+      "line": 130
+    },
+    {
+      "key": "kok",
+      "text": "Konkani",
+      "line": 131
+    },
+    {
+      "key": "kok-IN",
+      "text": "Konkani (India)",
+      "line": 132
+    },
+    {
+      "key": "ko-KR",
+      "text": "Korean (Korea)",
+      "line": 133
+    },
+    {
+      "key": "ky",
+      "text": "Kyrgyz",
+      "line": 134
+    },
+    {
+      "key": "ky-KG",
+      "text": "Kyrgyz (Kyrgyzstan)",
+      "line": 135
+    },
+    {
+      "key": "la",
+      "text": "Latin",
+      "line": 136
+    },
+    {
+      "key": "lt",
+      "text": "Lithuanian",
+      "line": 137
+    },
+    {
+      "key": "lt-LT",
+      "text": "Lithuanian (Lithuania)",
+      "line": 138
+    },
+    {
+      "key": "lv",
+      "text": "Latvian",
+      "line": 139
+    },
+    {
+      "key": "lv-LV",
+      "text": "Latvian (Latvia)",
+      "line": 140
+    },
+    {
+      "key": "mi",
+      "text": "Maori",
+      "line": 141
+    },
+    {
+      "key": "mi-NZ",
+      "text": "Maori (New Zealand)",
+      "line": 142
+    },
+    {
+      "key": "mk",
+      "text": "FYRO Macedonian",
+      "line": 143
+    },
+    {
+      "key": "mk-MK",
+      "text": "FYRO Macedonian (Former Yugoslav Republic of Macedonia)",
+      "line": 144
+    },
+    {
+      "key": "mn",
+      "text": "Mongolian",
+      "line": 145
+    },
+    {
+      "key": "mn-MN",
+      "text": "Mongolian (Mongolia)",
+      "line": 146
+    },
+    {
+      "key": "mr",
+      "text": "Marathi",
+      "line": 147
+    },
+    {
+      "key": "mr-IN",
+      "text": "Marathi (India)",
+      "line": 148
+    },
+    {
+      "key": "ms",
+      "text": "Malay",
+      "line": 149
+    },
+    {
+      "key": "ms-BN",
+      "text": "Malay (Brunei Darussalam)",
+      "line": 150
+    },
+    {
+      "key": "ms-MY",
+      "text": "Malay (Malaysia)",
+      "line": 151
+    },
+    {
+      "key": "mt",
+      "text": "Maltese",
+      "line": 152
+    },
+    {
+      "key": "mt-MT",
+      "text": "Maltese (Malta)",
+      "line": 153
+    },
+    {
+      "key": "nb",
+      "text": "Norwegian (Bokm?l)",
+      "line": 154
+    },
+    {
+      "key": "nb-NO",
+      "text": "Norwegian (Bokm?l) (Norway)",
+      "line": 155
+    },
+    {
+      "key": "nl",
+      "text": "Dutch",
+      "line": 156
+    },
+    {
+      "key": "nl-BE",
+      "text": "Dutch (Belgium)",
+      "line": 157
+    },
+    {
+      "key": "nl-NL",
+      "text": "Dutch (Netherlands)",
+      "line": 158
+    },
+    {
+      "key": "nn-NO",
+      "text": "Norwegian (Nynorsk) (Norway)",
+      "line": 159
+    },
+    {
+      "key": "ns",
+      "text": "Northern Sotho",
+      "line": 160
+    },
+    {
+      "key": "ns-ZA",
+      "text": "Northern Sotho (South Africa)",
+      "line": 161
+    },
+    {
+      "key": "pa",
+      "text": "Punjabi",
+      "line": 162
+    },
+    {
+      "key": "pa-IN",
+      "text": "Punjabi (India)",
+      "line": 163
+    },
+    {
+      "key": "pl",
+      "text": "Polish",
+      "line": 164
+    },
+    {
+      "key": "pl-PL",
+      "text": "Polish (Poland)",
+      "line": 165
+    },
+    {
+      "key": "ps",
+      "text": "Pashto",
+      "line": 166
+    },
+    {
+      "key": "ps-AR",
+      "text": "Pashto (Afghanistan)",
+      "line": 167
+    },
+    {
+      "key": "pt",
+      "text": "Portuguese",
+      "line": 168
+    },
+    {
+      "key": "pt-BR",
+      "text": "Portuguese (Brazil)",
+      "line": 169
+    },
+    {
+      "key": "pt-PT",
+      "text": "Portuguese (Portugal)",
+      "line": 170
+    },
+    {
+      "key": "qu",
+      "text": "Quechua",
+      "line": 171
+    },
+    {
+      "key": "qu-BO",
+      "text": "Quechua (Bolivia)",
+      "line": 172
+    },
+    {
+      "key": "qu-EC",
+      "text": "Quechua (Ecuador)",
+      "line": 173
+    },
+    {
+      "key": "qu-PE",
+      "text": "Quechua (Peru)",
+      "line": 174
+    },
+    {
+      "key": "ro",
+      "text": "Romanian",
+      "line": 175
+    },
+    {
+      "key": "ro-RO",
+      "text": "Romanian (Romania)",
+      "line": 176
+    },
+    {
+      "key": "ru",
+      "text": "Russian",
+      "line": 177
+    },
+    {
+      "key": "ru-RU",
+      "text": "Russian (Russia)",
+      "line": 178
+    },
+    {
+      "key": "sa",
+      "text": "Sanskrit",
+      "line": 179
+    },
+    {
+      "key": "sa-IN",
+      "text": "Sanskrit (India)",
+      "line": 180
+    },
+    {
+      "key": "se",
+      "text": "Sami",
+      "line": 181
+    },
+    {
+      "key": "se-FI",
+      "text": "Sami (Finland)",
+      "line": 182
+    },
+    {
+      "key": "se-NO",
+      "text": "Sami (Norway)",
+      "line": 183
+    },
+    {
+      "key": "se-SE",
+      "text": "Sami (Sweden)",
+      "line": 184
+    },
+    {
+      "key": "sk",
+      "text": "Slovak",
+      "line": 185
+    },
+    {
+      "key": "sk-SK",
+      "text": "Slovak (Slovakia)",
+      "line": 186
+    },
+    {
+      "key": "sl",
+      "text": "Slovenian",
+      "line": 187
+    },
+    {
+      "key": "sl-SI",
+      "text": "Slovenian (Slovenia)",
+      "line": 188
+    },
+    {
+      "key": "sq",
+      "text": "Albanian",
+      "line": 189
+    },
+    {
+      "key": "sq-AL",
+      "text": "Albanian (Albania)",
+      "line": 190
+    },
+    {
+      "key": "sr-BA",
+      "text": "Serbian (Latin) (Bosnia and Herzegovina)",
+      "line": 191
+    },
+    {
+      "key": "sr-Cyrl-BA",
+      "text": "Serbian (Cyrillic) (Bosnia and Herzegovina)",
+      "line": 192
+    },
+    {
+      "key": "sr-Cyrl-SP",
+      "text": "Serbian (Cyrillic) (Serbia and Montenegro)",
+      "line": 193
+    },
+    {
+      "key": "sr-SP",
+      "text": "Serbian (Latin) (Serbia and Montenegro)",
+      "line": 194
+    },
+    {
+      "key": "sv",
+      "text": "Swedish",
+      "line": 195
+    },
+    {
+      "key": "sv-FI",
+      "text": "Swedish (Finland)",
+      "line": 196
+    },
+    {
+      "key": "sv-SE",
+      "text": "Swedish (Sweden)",
+      "line": 197
+    },
+    {
+      "key": "sw",
+      "text": "Swahili",
+      "line": 198
+    },
+    {
+      "key": "sw-KE",
+      "text": "Swahili (Kenya)",
+      "line": 199
+    },
+    {
+      "key": "syr",
+      "text": "Syriac",
+      "line": 200
+    },
+    {
+      "key": "syr-SY",
+      "text": "Syriac (Syria)",
+      "line": 201
+    },
+    {
+      "key": "ta",
+      "text": "Tamil",
+      "line": 202
+    },
+    {
+      "key": "ta-IN",
+      "text": "Tamil (India)",
+      "line": 203
+    },
+    {
+      "key": "te",
+      "text": "Telugu",
+      "line": 204
+    },
+    {
+      "key": "te-IN",
+      "text": "Telugu (India)",
+      "line": 205
+    },
+    {
+      "key": "th",
+      "text": "Thai",
+      "line": 206
+    },
+    {
+      "key": "th-TH",
+      "text": "Thai (Thailand)",
+      "line": 207
+    },
+    {
+      "key": "tl",
+      "text": "Tagalog",
+      "line": 208
+    },
+    {
+      "key": "tl-PH",
+      "text": "Tagalog (Philippines)",
+      "line": 209
+    },
+    {
+      "key": "tn",
+      "text": "Tswana",
+      "line": 210
+    },
+    {
+      "key": "tn-ZA",
+      "text": "Tswana (South Africa)",
+      "line": 211
+    },
+    {
+      "key": "tr",
+      "text": "Turkish",
+      "line": 212
+    },
+    {
+      "key": "tr-TR",
+      "text": "Turkish (Turkey)",
+      "line": 213
+    },
+    {
+      "key": "ts",
+      "text": "Tsonga",
+      "line": 214
+    },
+    {
+      "key": "tt",
+      "text": "Tatar",
+      "line": 215
+    },
+    {
+      "key": "tt-RU",
+      "text": "Tatar (Russia)",
+      "line": 216
+    },
+    {
+      "key": "uk",
+      "text": "Ukrainian",
+      "line": 217
+    },
+    {
+      "key": "uk-UA",
+      "text": "Ukrainian (Ukraine)",
+      "line": 218
+    },
+    {
+      "key": "ur",
+      "text": "Urdu",
+      "line": 219
+    },
+    {
+      "key": "ur-PK",
+      "text": "Urdu (Islamic Republic of Pakistan)",
+      "line": 220
+    },
+    {
+      "key": "uz",
+      "text": "Uzbek (Latin)",
+      "line": 221
+    },
+    {
+      "key": "uz-Cyrl-UZ",
+      "text": "Uzbek (Cyrillic) (Uzbekistan)",
+      "line": 222
+    },
+    {
+      "key": "uz-UZ",
+      "text": "Uzbek (Latin) (Uzbekistan)",
+      "line": 223
+    },
+    {
+      "key": "vi",
+      "text": "Vietnamese",
+      "line": 224
+    },
+    {
+      "key": "vi-VN",
+      "text": "Vietnamese (Viet Nam)",
+      "line": 225
+    },
+    {
+      "key": "xh",
+      "text": "Xhosa",
+      "line": 226
+    },
+    {
+      "key": "xh-ZA",
+      "text": "Xhosa (South Africa)",
+      "line": 227
+    },
+    {
+      "key": "zh",
+      "text": "Chinese",
+      "line": 228
+    },
+    {
+      "key": "zh-CN",
+      "text": "Chinese (S)",
+      "line": 229
+    },
+    {
+      "key": "zh-HK",
+      "text": "Chinese (Hong Kong)",
+      "line": 230
+    },
+    {
+      "key": "zh-MO",
+      "text": "Chinese (Macau)",
+      "line": 231
+    },
+    {
+      "key": "zh-SG",
+      "text": "Chinese (Singapore)",
+      "line": 232
+    },
+    {
+      "key": "zh-TW",
+      "text": "Chinese (T)",
+      "line": 233
+    },
+    {
+      "key": "zu",
+      "text": "Zulu",
+      "line": 234
+    },
+    {
+      "key": "zu-ZA",
+      "text": "Zulu (South Africa)",
+      "line": 235
+    }
+  ],
+  "unparsed_lines": []
+}

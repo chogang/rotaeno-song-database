@@ -1,0 +1,92 @@
+; Chinese (T) <zh-TW> to Indonesian <id> localization document for `CharacterNames` managed text document
+
+abram: Abram
+ai: Butler AI
+ano-blurred: ano-blurred
+attendant: Pelayan
+auntA: Bibi A
+auntB: Bibi B
+auntC: Bibi C
+baker: Manajer
+boyA: Pemuda A
+boyB: Pemuda B
+c2-neko: Neko
+car: Bolt
+car-rabbit-f: Bolt
+car-rabbit-s: Bolt
+cat: Vickers (kucing)
+classmate-a: Murid A
+classmate-b: Murid B
+classmate-c: Murid C
+customerA: Tamu Sebelah A
+customerB: Tamu Sebelah Mabuk B
+e-a: e-a
+e-b: e-b
+e-c: e-c
+e-d: e-d
+e-e: e-e
+elf-kid: Tommy
+elf-young: Elf Muda
+eto: Eto
+girl: Gadis
+gov-a: Pejabat A
+gov-b: Pejabat B
+gov-c: Pejabat C
+hoppe: Hoppe
+hoppe-chef: Hoppe
+hoppe-lunar: 荷珀
+hoppe-ss-dry: Hoppe
+hoppe-ss-wet: Hoppe
+idol-b: idol-b
+ilot: Ilot
+ilot-jirai: Ilot
+ilot-lunar: 伊洛
+ilot-maid: Ilot
+ilot-psi: Ilot
+ilot-ss-fish: Ilot
+ilot-ss-nor: Ilot
+jolly: Jolly
+kakari: Kakari
+kakari-young: Kakari
+khoppe: Hoppe
+kilot: Ilot
+kilot-ghost: Siswa yang Memakai Kain Putih
+kmona: Mona
+lab: Peneliti
+lime: Lime
+lulua: Lulua
+luna: Luna
+mai-salt: ms
+miner2: Pekerja Tambang
+mona-ss: Mona
+noah: Noah
+noah-core: 諾亞
+police: Polisi
+puno: Puno
+rat: Vickers (tikus)
+robot: Robot Pengasuh
+robot59427: Robot Pengasuh 59427
+robot59563: Robot Pengasuh 59563
+robot-staff: Staf Robot
+rumil: Rumil
+rumil-young: Rumil
+saku: Cheri
+saku-casual: Cheri
+silo-man-angry: silo-man-angry
+silo-woman-angry: silo-woman-angry
+single-use: single-use
+slime-ss: Superstar Kosmis?
+s-wolf: s-wolf
+system: Sistem
+teacher: Guru
+tommy: Tommy
+trailer: Perkiraan Berikutnya
+uncleB: Paman B
+uncleC: Paman C
+uncleD: Paman D
+unknown: ????
+v-hoppe: Hoppe
+v-ilot: Ilot
+wolf: Vickers (serigala)
+yang: Angatu
+yang-casual: Angatu
