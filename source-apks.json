@@ -1,0 +1,26 @@
+[
+  {
+    "file_name": "base.apk",
+    "Path": "",
+    "Bytes": 18742477,
+    "SHA256": "1d39da2ff5648fc8e26654419298e27bc64299bb4a3f44cf6bee6172d3bb3f5c"
+  },
+  {
+    "file_name": "split_config.arm64_v8a.apk",
+    "Path": "",
+    "Bytes": 36107115,
+    "SHA256": "bd25018a5a42e6bc8618e15470e4913d573f8607346e184a94db153fb8c9cd23"
+  },
+  {
+    "file_name": "split_UnityDataAssetPack.apk",
+    "Path": "",
+    "Bytes": 398721531,
+    "SHA256": "42caeb3bc0a4d2d4bd5faef12bad7b5b72f873a11a1ac5aa90b2b4a67f2f0f13"
+  },
+  {
+    "file_name": "split_UnityStreamingAssetsPack.apk",
+    "Path": "",
+    "Bytes": 1981088818,
+    "SHA256": "7b95c8e9971cd18de41d24cb11b15cbed87d3deac6ba1a39a4e13313398b3d09"
+  }
+]

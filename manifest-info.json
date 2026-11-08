@@ -1,0 +1,12 @@
+{
+  "versionCode": 4022,
+  "versionName": "2.99.0",
+  "installLocation": 2,
+  "compileSdkVersion": 36,
+  "compileSdkVersionCodename": "16",
+  "requiredSplitTypes": "base__abi",
+  "splitTypes": "",
+  "package": "com.xd.rotaeno.googleplay",
+  "platformBuildVersionCode": 36,
+  "platformBuildVersionName": 16
+}

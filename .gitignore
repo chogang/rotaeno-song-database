@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+extracted/
+raw-objects/
+python-libs/
+tools/python-libs/
+*.sqlite-wal
+*.sqlite-shm

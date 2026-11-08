@@ -1,0 +1,1270 @@
+{
+  "base_inventory": {
+    "evidence_id": "ev_efb10328a84770040bedbb109af607ff470dc2cd567bff8634cb4b442f4553da",
+    "subject": {
+      "name": "base.apk",
+      "digest": {
+        "sha256": "1d39da2ff5648fc8e26654419298e27bc64299bb4a3f44cf6bee6172d3bb3f5c"
+      },
+      "local_path": "",
+      "format": "apk",
+      "architecture": null
+    },
+    "provider": {
+      "id": "rea-analysis-view",
+      "name": "REA analysis view projection",
+      "version": "1"
+    },
+    "analysis_profile": null,
+    "predicate_type": "rea.analysis-view",
+    "operation": "inspect_analysis_view",
+    "parameters": {
+      "parent_evidence_id": "ev_4db55a8909d3642bbc6fde23880aaae291af6a3618686530f2f5d68920e852e9",
+      "view": {
+        "kind": "summary"
+      }
+    },
+    "raw_result": null,
+    "normalized_result": {
+      "kind": "summary",
+      "view": {
+        "kind": "summary"
+      },
+      "parent_evidence_id": "ev_4db55a8909d3642bbc6fde23880aaae291af6a3618686530f2f5d68920e852e9",
+      "parent_operation": "inspect_artifact",
+      "parent_digest": "4db55a8909d3642bbc6fde23880aaae291af6a3618686530f2f5d68920e852e9",
+      "view_digest": "15b3907077e2bc50b031d3697bee5fbe67e2ccb4312b278fe3e0adfa3a9491ff",
+      "artifact": {
+        "path": "",
+        "sha256": "1d39da2ff5648fc8e26654419298e27bc64299bb4a3f44cf6bee6172d3bb3f5c"
+      },
+      "coverage": {
+        "status": "complete-within-view",
+        "examined": 2302,
+        "total": 2302,
+        "next_offset": null,
+        "exhausted": true
+      },
+      "limitations": [
+        "Inspection derives bounded static hypotheses and next probes; it does not execute the artifact or claim format-specific semantics.",
+        "ZIP inventory lists central-directory entries only. Non-entry bytes, including leading bytes before the first entry such as a self-extractor stub, an APK Signing Block before the central directory or a ZIP comment after it, are not occurrences."
+      ],
+      "unknowns": [
+        "Inventory does not establish application runtime behavior or complete format-specific analysis."
+      ],
+      "summary": {
+        "source_coverage": {
+          "scope": "container-entries",
+          "status": "complete"
+        },
+        "manifest": {
+          "manifest_id": "agm_feebc55127457399807ba7613d6322bcdd425c75a9b4b2374362add793441820",
+          "root_artifact_id": "art_d2204ee4df52311ad012da8719606f6e31aad29ea695c8c0d2256c02ac4ee932",
+          "root_sha256": "1d39da2ff5648fc8e26654419298e27bc64299bb4a3f44cf6bee6172d3bb3f5c",
+          "root_format": "apk",
+          "graph_sha256": "0f1b31696c1b405f5778e75c030d09504dc6832ae47b393cc34a856b08a8d1b1",
+          "node_count": 737,
+          "occurrence_count": 783,
+          "edge_count": 782
+        },
+        "available_counts": {
+          "nodes": 737,
+          "occurrences": 783,
+          "edges": 782,
+          "integrity_contradictions": 0
+        },
+        "observed_entry_kind_counts": {
+          "file": 783,
+          "directory": 0,
+          "symlink": 0,
+          "slice": 0
+        },
+        "source_complete": true,
+        "inventory_evidence_ids": [
+          "ev_66c9c49e0eeed372b9bff0468e0527cec9272cd164fc9dc7899d18c53333a93f"
+        ],
+        "inspection": {
+          "coverage": {
+            "status": "complete-within-substeps",
+            "substeps_completed": 1,
+            "observations_retained": 1,
+            "observations_omitted": 0,
+            "hypotheses_retained": 0,
+            "hypotheses_omitted": 0,
+            "unexplored_branches_retained": 0,
+            "unexplored_branches_omitted": 0,
+            "next_probes_retained": 0,
+            "next_probes_omitted": 0
+          },
+          "unexplored_branches": []
+        },
+        "limitation_count": 2
+      }
+    },
+    "confidence": "derived",
+    "authority": "shipped-artifact",
+    "environment": null,
+    "limitations": [
+      "Inspection derives bounded static hypotheses and next probes; it does not execute the artifact or claim format-specific semantics.",
+      "ZIP inventory lists central-directory entries only. Non-entry bytes, including leading bytes before the first entry such as a self-extractor stub, an APK Signing Block before the central directory or a ZIP comment after it, are not occurrences."
+    ],
+    "relationship_coverage": null,
+    "locations": [
+      {
+        "kind": "artifact-path",
+        "path": ""
+      }
+    ],
+    "evidence_links": [
+      "ev_4db55a8909d3642bbc6fde23880aaae291af6a3618686530f2f5d68920e852e9"
+    ]
+  },
+  "metadata": {
+    "evidence_id": "ev_d2689938c0979336496a3910a2d21aed9dfc04df01c4f073bbfb2624a7d075ea",
+    "subject": {
+      "name": "global-metadata.dat",
+      "digest": {
+        "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a"
+      },
+      "local_path": "",
+      "format": "file",
+      "architecture": null
+    },
+    "provider": {
+      "id": "rea-analysis-view",
+      "name": "REA analysis view projection",
+      "version": "1"
+    },
+    "analysis_profile": null,
+    "predicate_type": "rea.analysis-view",
+    "operation": "inspect_analysis_view",
+    "parameters": {
+      "parent_evidence_id": "ev_55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d",
+      "view": {
+        "kind": "summary"
+      }
+    },
+    "raw_result": null,
+    "normalized_result": {
+      "kind": "summary",
+      "view": {
+        "kind": "summary"
+      },
+      "parent_evidence_id": "ev_55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d",
+      "parent_operation": "inspect_il2cpp_metadata",
+      "parent_digest": "55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d",
+      "view_digest": "3af6f931428d9aad561d0a896d54eb397e0de4e33f07260775450f966e06c65d",
+      "artifact": {
+        "path": "",
+        "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a"
+      },
+      "coverage": {
+        "status": "complete-within-view",
+        "examined": 1,
+        "total": 1,
+        "next_offset": null,
+        "exhausted": true
+      },
+      "limitations": [
+        "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+        "Native code addresses and IL2CPP binary registration are not recovered without binary_path.",
+        "Field, parameter and return types are not recovered without binary_path; type indices refer to the native binary.",
+        "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+      ],
+      "unknowns": [
+        "Generic method instances were not requested; their count is unknown.",
+        "Names come from unencrypted metadata only; native code addresses and runtime registration remain unknown."
+      ],
+      "summary": {
+        "artifact": {
+          "path": "",
+          "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a",
+          "bytes": 16515336
+        },
+        "magic": 4205910959,
+        "metadata_version": 31,
+        "index_widths": {
+          "type_definition": 4,
+          "generic_container": 4,
+          "parameter": 4,
+          "type": 4,
+          "type_width_source": "fixed-width-version"
+        },
+        "limitations": [
+          "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+          "Native code addresses and IL2CPP binary registration are not recovered without binary_path.",
+          "Field, parameter and return types are not recovered without binary_path; type indices refer to the native binary.",
+          "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+        ],
+        "binary": null,
+        "counts": {
+          "sections": 31,
+          "images": 157,
+          "types": 20826,
+          "methods": 127575,
+          "nested_types": 8261,
+          "fields": 82782,
+          "properties": 24887,
+          "events": 451,
+          "parameters": 128913,
+          "string_literals": 20549,
+          "code_gen_modules": null,
+          "method_addresses": null,
+          "method_address_states": null,
+          "return_types": null,
+          "field_types": null,
+          "parameter_types": null,
+          "generic_method_instances": null,
+          "generic_method_instance_states": null,
+          "generic_method_issues": null
+        }
+      }
+    },
+    "confidence": "derived",
+    "authority": "shipped-artifact",
+    "environment": null,
+    "limitations": [
+      "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+      "Native code addresses and IL2CPP binary registration are not recovered without binary_path.",
+      "Field, parameter and return types are not recovered without binary_path; type indices refer to the native binary.",
+      "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+    ],
+    "relationship_coverage": null,
+    "locations": [
+      {
+        "kind": "artifact-path",
+        "path": ""
+      }
+    ],
+    "evidence_links": [
+      "ev_55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d"
+    ]
+  },
+  "linked_metadata": {
+    "evidence_id": "ev_b91098d1d7beb492689512766cd49f5ca7cf2395198e792fe32f41ebd50bbe09",
+    "subject": {
+      "name": "global-metadata.dat",
+      "digest": {
+        "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a"
+      },
+      "local_path": "",
+      "format": "file",
+      "architecture": null
+    },
+    "provider": {
+      "id": "rea-analysis-view",
+      "name": "REA analysis view projection",
+      "version": "1"
+    },
+    "analysis_profile": null,
+    "predicate_type": "rea.analysis-view",
+    "operation": "inspect_analysis_view",
+    "parameters": {
+      "parent_evidence_id": "ev_5a88406c9305e7b88f2b4c766056afd2913d805c0ddad41e4c3502b35147f311",
+      "view": {
+        "kind": "summary"
+      }
+    },
+    "raw_result": null,
+    "normalized_result": {
+      "kind": "summary",
+      "view": {
+        "kind": "summary"
+      },
+      "parent_evidence_id": "ev_5a88406c9305e7b88f2b4c766056afd2913d805c0ddad41e4c3502b35147f311",
+      "parent_operation": "inspect_il2cpp_metadata",
+      "parent_digest": "5a88406c9305e7b88f2b4c766056afd2913d805c0ddad41e4c3502b35147f311",
+      "view_digest": "166448eb8022115e73700580ae3ba44a3a21c1c8968969f003322b61e6b97db6",
+      "artifact": {
+        "path": "",
+        "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a"
+      },
+      "coverage": {
+        "status": "complete-within-view",
+        "examined": 1,
+        "total": 1,
+        "next_offset": null,
+        "exhausted": true
+      },
+      "limitations": [
+        "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+        "Method addresses come from the binary's code-generation module methodPointers, matched by module name, method count and metadata token; generic method instances (see generic_instances), adjustor thunks and invokers are not linked, no-body means an observed zero slot, and unknown means no module claimed the method or its slot has an unresolved relocation.",
+        "Field, parameter and return type names are rendered from the binary's Il2CppType table in a C#-like form (keywords for primitives, Namespace.Outer+Inner, generic parameters by metadata name); nested generic arguments stay with the type component that declares them. An unresolved type-table slot retains its type index with a null name; a loader-unresolved value inside the type graph is refused rather than rendered from stored placeholder bytes. Custom modifiers, array bounds and attributes are not reported.",
+        "The binary/metadata pair is caller-selected. Module name/count/token agreement is structural evidence, not a cryptographic proof that both files come from the same build.",
+        "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+      ],
+      "unknowns": [
+        "Generic method instances were not requested; their count is unknown.",
+        "Addresses come from static binary tables; runtime behavior and generic instance code remain unknown."
+      ],
+      "summary": {
+        "artifact": {
+          "path": "",
+          "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a",
+          "bytes": 16515336
+        },
+        "magic": 4205910959,
+        "metadata_version": 31,
+        "index_widths": {
+          "type_definition": 4,
+          "generic_container": 4,
+          "parameter": 4,
+          "type": 4,
+          "type_width_source": "fixed-width-version"
+        },
+        "limitations": [
+          "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+          "Method addresses come from the binary's code-generation module methodPointers, matched by module name, method count and metadata token; generic method instances (see generic_instances), adjustor thunks and invokers are not linked, no-body means an observed zero slot, and unknown means no module claimed the method or its slot has an unresolved relocation.",
+          "Field, parameter and return type names are rendered from the binary's Il2CppType table in a C#-like form (keywords for primitives, Namespace.Outer+Inner, generic parameters by metadata name); nested generic arguments stay with the type component that declares them. An unresolved type-table slot retains its type index with a null name; a loader-unresolved value inside the type graph is refused rather than rendered from stored placeholder bytes. Custom modifiers, array bounds and attributes are not reported.",
+          "The binary/metadata pair is caller-selected. Module name/count/token agreement is structural evidence, not a cryptographic proof that both files come from the same build.",
+          "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+        ],
+        "binary": {
+          "artifact": {
+            "path": "",
+            "sha256": "257941c2ea1be78980721f4b7005ddab7bc0d9610fe0290ede36e220f7823d23",
+            "bytes": 99813680
+          },
+          "format": "elf",
+          "architecture": "arm64",
+          "image_base": "0x0",
+          "code_gen_modules_field": "0x553e380",
+          "code_gen_modules_array": "0x59b8060",
+          "types_field": "0x576d4a8",
+          "types_count": 70107,
+          "generic_methods": null
+        },
+        "counts": {
+          "sections": 31,
+          "images": 157,
+          "types": 20826,
+          "methods": 127575,
+          "nested_types": 8261,
+          "fields": 82782,
+          "properties": 24887,
+          "events": 451,
+          "parameters": 128913,
+          "string_literals": 20549,
+          "code_gen_modules": 157,
+          "method_addresses": 127575,
+          "method_address_states": {
+            "code": 109859,
+            "no_body": 17716,
+            "unknown": 0
+          },
+          "return_types": 127575,
+          "field_types": 82782,
+          "parameter_types": 128913,
+          "generic_method_instances": null,
+          "generic_method_instance_states": null,
+          "generic_method_issues": null
+        }
+      }
+    },
+    "confidence": "derived",
+    "authority": "shipped-artifact",
+    "environment": null,
+    "limitations": [
+      "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+      "Method addresses come from the binary's code-generation module methodPointers, matched by module name, method count and metadata token; generic method instances (see generic_instances), adjustor thunks and invokers are not linked, no-body means an observed zero slot, and unknown means no module claimed the method or its slot has an unresolved relocation.",
+      "Field, parameter and return type names are rendered from the binary's Il2CppType table in a C#-like form (keywords for primitives, Namespace.Outer+Inner, generic parameters by metadata name); nested generic arguments stay with the type component that declares them. An unresolved type-table slot retains its type index with a null name; a loader-unresolved value inside the type graph is refused rather than rendered from stored placeholder bytes. Custom modifiers, array bounds and attributes are not reported.",
+      "The binary/metadata pair is caller-selected. Module name/count/token agreement is structural evidence, not a cryptographic proof that both files come from the same build.",
+      "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+    ],
+    "relationship_coverage": null,
+    "locations": [
+      {
+        "kind": "artifact-path",
+        "path": ""
+      }
+    ],
+    "evidence_links": [
+      "ev_5a88406c9305e7b88f2b4c766056afd2913d805c0ddad41e4c3502b35147f311"
+    ]
+  },
+  "song_types": {
+    "evidence_id": "ev_a1a69b4ccd4babdeb0602625bd05cdd60a9283e9e43e08df25ab4c89edc570f7",
+    "subject": {
+      "name": "global-metadata.dat",
+      "digest": {
+        "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a"
+      },
+      "local_path": "",
+      "format": "file",
+      "architecture": null
+    },
+    "provider": {
+      "id": "rea-analysis-view",
+      "name": "REA analysis view projection",
+      "version": "1"
+    },
+    "analysis_profile": null,
+    "predicate_type": "rea.analysis-view",
+    "operation": "inspect_analysis_view",
+    "parameters": {
+      "parent_evidence_id": "ev_55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d",
+      "view": {
+        "kind": "il2cpp-metadata",
+        "offset": 0,
+        "limit": 30,
+        "names": [
+          "SongDataSO",
+          "StandardChartDataSO",
+          "BaseChartDataSO",
+          "ChartDataSo",
+          "StandardSongInfoData",
+          "StandaloneSongInfoData",
+          "ChartStringDecrypter"
+        ],
+        "collection": "types"
+      }
+    },
+    "raw_result": null,
+    "normalized_result": {
+      "kind": "il2cpp-metadata",
+      "view": {
+        "kind": "il2cpp-metadata",
+        "offset": 0,
+        "limit": 30,
+        "names": [
+          "SongDataSO",
+          "StandardChartDataSO",
+          "BaseChartDataSO",
+          "ChartDataSo",
+          "StandardSongInfoData",
+          "StandaloneSongInfoData",
+          "ChartStringDecrypter"
+        ],
+        "collection": "types"
+      },
+      "items": [
+        {
+          "name": "SongDataSO",
+          "namespace": "GW.DB.Song.Data",
+          "method_start": 8798,
+          "method_count": 16,
+          "nested_type_start": -1,
+          "nested_type_count": 0,
+          "declaring_type": -1,
+          "index": 2122
+        },
+        {
+          "name": "StandaloneSongInfoData",
+          "namespace": "GW.DB.Song.Data",
+          "method_start": 8845,
+          "method_count": 13,
+          "nested_type_start": -1,
+          "nested_type_count": 0,
+          "declaring_type": -1,
+          "index": 2126
+        },
+        {
+          "name": "StandardSongInfoData",
+          "namespace": "GW.DB.Song.Data",
+          "method_start": 8858,
+          "method_count": 15,
+          "nested_type_start": -1,
+          "nested_type_count": 0,
+          "declaring_type": -1,
+          "index": 2127
+        },
+        {
+          "name": "ChartStringDecrypter",
+          "namespace": "GW.DB.Chart.Model",
+          "method_start": 13853,
+          "method_count": 2,
+          "nested_type_start": -1,
+          "nested_type_count": 0,
+          "declaring_type": -1,
+          "index": 3169
+        },
+        {
+          "name": "BaseChartDataSO",
+          "namespace": "GW.DB.Chart.Data",
+          "method_start": 13904,
+          "method_count": 2,
+          "nested_type_start": -1,
+          "nested_type_count": 0,
+          "declaring_type": -1,
+          "index": 3174
+        },
+        {
+          "name": "StandardChartDataSO",
+          "namespace": "GW.DB.Chart.Data",
+          "method_start": 13909,
+          "method_count": 3,
+          "nested_type_start": -1,
+          "nested_type_count": 0,
+          "declaring_type": -1,
+          "index": 3176
+        }
+      ],
+      "parent_evidence_id": "ev_55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d",
+      "parent_operation": "inspect_il2cpp_metadata",
+      "parent_digest": "55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d",
+      "view_digest": "e5335d81e1df31d718e2ccd46dd9c6c2eb40279958ad3854c3320deeaaa5646c",
+      "artifact": {
+        "path": "",
+        "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a"
+      },
+      "coverage": {
+        "status": "page",
+        "examined": 6,
+        "total": 6,
+        "next_offset": null,
+        "exhausted": true
+      },
+      "limitations": [
+        "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+        "Native code addresses and IL2CPP binary registration are not recovered without binary_path.",
+        "Field, parameter and return types are not recovered without binary_path; type indices refer to the native binary.",
+        "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+      ],
+      "unknowns": [
+        "Generic method instances were not requested; their count is unknown.",
+        "Names come from unencrypted metadata only; native code addresses and runtime registration remain unknown."
+      ],
+      "metadata_version": 31,
+      "counts": {
+        "sections": 31,
+        "images": 157,
+        "types": 20826,
+        "methods": 127575,
+        "nested_types": 8261,
+        "fields": 82782,
+        "properties": 24887,
+        "events": 451,
+        "parameters": 128913,
+        "string_literals": 20549,
+        "code_gen_modules": null,
+        "method_addresses": null,
+        "method_address_states": null,
+        "return_types": null,
+        "field_types": null,
+        "parameter_types": null,
+        "generic_method_instances": null,
+        "generic_method_instance_states": null,
+        "generic_method_issues": null
+      }
+    },
+    "confidence": "derived",
+    "authority": "shipped-artifact",
+    "environment": null,
+    "limitations": [
+      "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+      "Native code addresses and IL2CPP binary registration are not recovered without binary_path.",
+      "Field, parameter and return types are not recovered without binary_path; type indices refer to the native binary.",
+      "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+    ],
+    "relationship_coverage": null,
+    "locations": [
+      {
+        "kind": "artifact-path",
+        "path": ""
+      }
+    ],
+    "evidence_links": [
+      "ev_55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d"
+    ]
+  },
+  "song_fields": {
+    "evidence_id": "ev_ab36274733ad291ceea410f0b6b4a3ef339035dfea1bee71b940d59898926597",
+    "subject": {
+      "name": "global-metadata.dat",
+      "digest": {
+        "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a"
+      },
+      "local_path": "",
+      "format": "file",
+      "architecture": null
+    },
+    "provider": {
+      "id": "rea-analysis-view",
+      "name": "REA analysis view projection",
+      "version": "1"
+    },
+    "analysis_profile": null,
+    "predicate_type": "rea.analysis-view",
+    "operation": "inspect_analysis_view",
+    "parameters": {
+      "parent_evidence_id": "ev_55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d",
+      "view": {
+        "kind": "il2cpp-metadata",
+        "offset": 0,
+        "limit": 150,
+        "collection": "fields",
+        "declaring_types": [
+          2122,
+          2126,
+          2127,
+          3174,
+          3176
+        ]
+      }
+    },
+    "raw_result": null,
+    "normalized_result": {
+      "kind": "il2cpp-metadata",
+      "view": {
+        "kind": "il2cpp-metadata",
+        "offset": 0,
+        "limit": 150,
+        "collection": "fields",
+        "declaring_types": [
+          2122,
+          2126,
+          2127,
+          3174,
+          3176
+        ]
+      },
+      "items": [
+        {
+          "name": "hasListSchedule",
+          "declaring_type": 2122,
+          "index": 7599
+        },
+        {
+          "name": "listTime",
+          "declaring_type": 2122,
+          "index": 7600
+        },
+        {
+          "name": "hasDelistSchedule",
+          "declaring_type": 2122,
+          "index": 7601
+        },
+        {
+          "name": "lastConfirmedHasDelistSchedule",
+          "declaring_type": 2122,
+          "index": 7602
+        },
+        {
+          "name": "delistTime",
+          "declaring_type": 2122,
+          "index": 7603
+        },
+        {
+          "name": "id",
+          "declaring_type": 2122,
+          "index": 7604
+        },
+        {
+          "name": "contentIdStatus",
+          "declaring_type": 2122,
+          "index": 7605
+        },
+        {
+          "name": "info",
+          "declaring_type": 2122,
+          "index": 7606
+        },
+        {
+          "name": "resources",
+          "declaring_type": 2122,
+          "index": 7607
+        },
+        {
+          "name": "overrideLockedSongResource",
+          "declaring_type": 2122,
+          "index": 7608
+        },
+        {
+          "name": "charts",
+          "declaring_type": 2122,
+          "index": 7609
+        },
+        {
+          "name": "UnlockInfo",
+          "declaring_type": 2122,
+          "index": 7610
+        },
+        {
+          "name": "BadgeData",
+          "declaring_type": 2122,
+          "index": 7611
+        },
+        {
+          "name": "ClearVnScriptType",
+          "declaring_type": 2122,
+          "index": 7612
+        },
+        {
+          "name": "ClearVnScriptNullable",
+          "declaring_type": 2122,
+          "index": 7613
+        },
+        {
+          "name": "_releaseVersion",
+          "declaring_type": 2126,
+          "index": 7624
+        },
+        {
+          "name": "songNameOriginal",
+          "declaring_type": 2126,
+          "index": 7625
+        },
+        {
+          "name": "songNameTranslation",
+          "declaring_type": 2126,
+          "index": 7626
+        },
+        {
+          "name": "artistName",
+          "declaring_type": 2126,
+          "index": 7627
+        },
+        {
+          "name": "illustartorName",
+          "declaring_type": 2126,
+          "index": 7628
+        },
+        {
+          "name": "charterName",
+          "declaring_type": 2126,
+          "index": 7629
+        },
+        {
+          "name": "extraCredits",
+          "declaring_type": 2126,
+          "index": 7630
+        },
+        {
+          "name": "albumName",
+          "declaring_type": 2126,
+          "index": 7631
+        },
+        {
+          "name": "hideType",
+          "declaring_type": 2126,
+          "index": 7632
+        },
+        {
+          "name": "releaseVersionStr",
+          "declaring_type": 2126,
+          "index": 7633
+        },
+        {
+          "name": "_releaseVersion",
+          "declaring_type": 2127,
+          "index": 7634
+        },
+        {
+          "name": "songId",
+          "declaring_type": 2127,
+          "index": 7635
+        },
+        {
+          "name": "songNameOriginal",
+          "declaring_type": 2127,
+          "index": 7636
+        },
+        {
+          "name": "artistName",
+          "declaring_type": 2127,
+          "index": 7637
+        },
+        {
+          "name": "illustartorName",
+          "declaring_type": 2127,
+          "index": 7638
+        },
+        {
+          "name": "charterName",
+          "declaring_type": 2127,
+          "index": 7639
+        },
+        {
+          "name": "extraCredits",
+          "declaring_type": 2127,
+          "index": 7640
+        },
+        {
+          "name": "albumName",
+          "declaring_type": 2127,
+          "index": 7641
+        },
+        {
+          "name": "hideType",
+          "declaring_type": 2127,
+          "index": 7642
+        },
+        {
+          "name": "releaseVersionStr",
+          "declaring_type": 2127,
+          "index": 7643
+        },
+        {
+          "name": "levelId",
+          "declaring_type": 3174,
+          "index": 11566
+        },
+        {
+          "name": "EncryptedV2ChartString",
+          "declaring_type": 3174,
+          "index": 11567
+        },
+        {
+          "name": "StoryboardRefs",
+          "declaring_type": 3174,
+          "index": 11568
+        },
+        {
+          "name": "_legacy_v1InnerDifficulty",
+          "declaring_type": 3176,
+          "index": 11573
+        },
+        {
+          "name": "v2InnerDifficulty",
+          "declaring_type": 3176,
+          "index": 11574
+        },
+        {
+          "name": "overrideDifficultyPrefix",
+          "declaring_type": 3176,
+          "index": 11575
+        },
+        {
+          "name": "overrideDifficultyValueString",
+          "declaring_type": 3176,
+          "index": 11576
+        },
+        {
+          "name": "overrideSongInfo",
+          "declaring_type": 3176,
+          "index": 11577
+        },
+        {
+          "name": "overrideResources",
+          "declaring_type": 3176,
+          "index": 11578
+        }
+      ],
+      "parent_evidence_id": "ev_55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d",
+      "parent_operation": "inspect_il2cpp_metadata",
+      "parent_digest": "55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d",
+      "view_digest": "e785cbab44620bd9ff3df55649a596e53f49ce29172768f407811d301edce53e",
+      "artifact": {
+        "path": "",
+        "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a"
+      },
+      "coverage": {
+        "status": "page",
+        "examined": 44,
+        "total": 44,
+        "next_offset": null,
+        "exhausted": true
+      },
+      "limitations": [
+        "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+        "Native code addresses and IL2CPP binary registration are not recovered without binary_path.",
+        "Field, parameter and return types are not recovered without binary_path; type indices refer to the native binary.",
+        "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+      ],
+      "unknowns": [
+        "Generic method instances were not requested; their count is unknown.",
+        "Names come from unencrypted metadata only; native code addresses and runtime registration remain unknown."
+      ],
+      "metadata_version": 31,
+      "counts": {
+        "sections": 31,
+        "images": 157,
+        "types": 20826,
+        "methods": 127575,
+        "nested_types": 8261,
+        "fields": 82782,
+        "properties": 24887,
+        "events": 451,
+        "parameters": 128913,
+        "string_literals": 20549,
+        "code_gen_modules": null,
+        "method_addresses": null,
+        "method_address_states": null,
+        "return_types": null,
+        "field_types": null,
+        "parameter_types": null,
+        "generic_method_instances": null,
+        "generic_method_instance_states": null,
+        "generic_method_issues": null
+      }
+    },
+    "confidence": "derived",
+    "authority": "shipped-artifact",
+    "environment": null,
+    "limitations": [
+      "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+      "Native code addresses and IL2CPP binary registration are not recovered without binary_path.",
+      "Field, parameter and return types are not recovered without binary_path; type indices refer to the native binary.",
+      "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+    ],
+    "relationship_coverage": null,
+    "locations": [
+      {
+        "kind": "artifact-path",
+        "path": ""
+      }
+    ],
+    "evidence_links": [
+      "ev_55ce41a549caa88b8b3f727cbc2e4e1c1846ffc4a741d5c26496e9aa35b1316d"
+    ]
+  },
+  "field_types": {
+    "evidence_id": "ev_1fe62947e248e97378065267260e93c506d78bf31674de9c8c8a75484562f467",
+    "subject": {
+      "name": "global-metadata.dat",
+      "digest": {
+        "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a"
+      },
+      "local_path": "",
+      "format": "file",
+      "architecture": null
+    },
+    "provider": {
+      "id": "rea-analysis-view",
+      "name": "REA analysis view projection",
+      "version": "1"
+    },
+    "analysis_profile": null,
+    "predicate_type": "rea.analysis-view",
+    "operation": "inspect_analysis_view",
+    "parameters": {
+      "parent_evidence_id": "ev_5a88406c9305e7b88f2b4c766056afd2913d805c0ddad41e4c3502b35147f311",
+      "view": {
+        "kind": "il2cpp-metadata",
+        "indices": [
+          7599,
+          7600,
+          7601,
+          7602,
+          7603,
+          7604,
+          7605,
+          7606,
+          7607,
+          7608,
+          7609,
+          7610,
+          7611,
+          7612,
+          7613,
+          7635,
+          7636,
+          7637,
+          7638,
+          7639,
+          7640,
+          7641,
+          7642,
+          7643,
+          11566,
+          11567,
+          11568,
+          11573,
+          11574,
+          11575,
+          11576,
+          11577,
+          11578
+        ],
+        "offset": 0,
+        "limit": 100,
+        "collection": "field_types"
+      }
+    },
+    "raw_result": null,
+    "normalized_result": {
+      "kind": "il2cpp-metadata",
+      "view": {
+        "kind": "il2cpp-metadata",
+        "indices": [
+          7599,
+          7600,
+          7601,
+          7602,
+          7603,
+          7604,
+          7605,
+          7606,
+          7607,
+          7608,
+          7609,
+          7610,
+          7611,
+          7612,
+          7613,
+          7635,
+          7636,
+          7637,
+          7638,
+          7639,
+          7640,
+          7641,
+          7642,
+          7643,
+          11566,
+          11567,
+          11568,
+          11573,
+          11574,
+          11575,
+          11576,
+          11577,
+          11578
+        ],
+        "offset": 0,
+        "limit": 100,
+        "collection": "field_types"
+      },
+      "items": [
+        {
+          "type": 30674,
+          "name": "bool",
+          "index": 7599
+        },
+        {
+          "type": 32519,
+          "name": "DEG.Utils.CustomTypes.Runtime.DEGDateTime",
+          "index": 7600
+        },
+        {
+          "type": 30674,
+          "name": "bool",
+          "index": 7601
+        },
+        {
+          "type": 30692,
+          "name": "bool",
+          "index": 7602
+        },
+        {
+          "type": 32519,
+          "name": "DEG.Utils.CustomTypes.Runtime.DEGDateTime",
+          "index": 7603
+        },
+        {
+          "type": 44972,
+          "name": "string",
+          "index": 7604
+        },
+        {
+          "type": 33471,
+          "name": "GW.DB.Song.EContentIdStatus",
+          "index": 7605
+        },
+        {
+          "type": 44733,
+          "name": "GW.DB.Song.Data.StandardSongInfoData",
+          "index": 7606
+        },
+        {
+          "type": 44314,
+          "name": "GW.DB.Song.Data.SongResourceData",
+          "index": 7607
+        },
+        {
+          "type": 39183,
+          "name": "GW.DB.Song.Data.LockedOverrideSongResourceData",
+          "index": 7608
+        },
+        {
+          "type": 20887,
+          "name": "System.Collections.Generic.List<GW.DB.Chart.Data.StandardChartDataSO>",
+          "index": 7609
+        },
+        {
+          "type": 44379,
+          "name": "GW.DB.Song.Data.SongUnlockMethodData",
+          "index": 7610
+        },
+        {
+          "type": 44214,
+          "name": "GW.DB.Song.Data.SongBadgeData",
+          "index": 7611
+        },
+        {
+          "type": 33464,
+          "name": "GW.DB.Song.Data.EClearVnScriptType",
+          "index": 7612
+        },
+        {
+          "type": 43287,
+          "name": "Naninovel.Script",
+          "index": 7613
+        },
+        {
+          "type": 44972,
+          "name": "string",
+          "index": 7635
+        },
+        {
+          "type": 44976,
+          "name": "string",
+          "index": 7636
+        },
+        {
+          "type": 39111,
+          "name": "DEG.Utils.I2LocalizationExtensions.LocalizableString",
+          "index": 7637
+        },
+        {
+          "type": 39111,
+          "name": "DEG.Utils.I2LocalizationExtensions.LocalizableString",
+          "index": 7638
+        },
+        {
+          "type": 39111,
+          "name": "DEG.Utils.I2LocalizationExtensions.LocalizableString",
+          "index": 7639
+        },
+        {
+          "type": 39111,
+          "name": "DEG.Utils.I2LocalizationExtensions.LocalizableString",
+          "index": 7640
+        },
+        {
+          "type": 39111,
+          "name": "DEG.Utils.I2LocalizationExtensions.LocalizableString",
+          "index": 7641
+        },
+        {
+          "type": 33680,
+          "name": "GW.DB.Song.ESongHideType",
+          "index": 7642
+        },
+        {
+          "type": 44976,
+          "name": "string",
+          "index": 7643
+        },
+        {
+          "type": 33546,
+          "name": "GW.DB.Chart.ELevelId",
+          "index": 11566
+        },
+        {
+          "type": 44976,
+          "name": "string",
+          "index": 11567
+        },
+        {
+          "type": 28125,
+          "name": "GW.DB.Chart.Storyboard.SafeAssetReferenceStoryboard[]",
+          "index": 11568
+        },
+        {
+          "type": 44018,
+          "name": "float",
+          "index": 11573
+        },
+        {
+          "type": 44018,
+          "name": "float",
+          "index": 11574
+        },
+        {
+          "type": 44976,
+          "name": "string",
+          "index": 11575
+        },
+        {
+          "type": 44976,
+          "name": "string",
+          "index": 11576
+        },
+        {
+          "type": 44707,
+          "name": "GW.DB.Song.Data.StandaloneSongInfoData",
+          "index": 11577
+        },
+        {
+          "type": 40927,
+          "name": "GW.DB.Song.Data.OverrideSongResourceData",
+          "index": 11578
+        }
+      ],
+      "parent_evidence_id": "ev_5a88406c9305e7b88f2b4c766056afd2913d805c0ddad41e4c3502b35147f311",
+      "parent_operation": "inspect_il2cpp_metadata",
+      "parent_digest": "5a88406c9305e7b88f2b4c766056afd2913d805c0ddad41e4c3502b35147f311",
+      "view_digest": "491dec5b829c840127f94f9d74a9311c7eeb0e2db241207d70103ddc66b56e83",
+      "artifact": {
+        "path": "",
+        "sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a"
+      },
+      "coverage": {
+        "status": "page",
+        "examined": 33,
+        "total": 33,
+        "next_offset": null,
+        "exhausted": true
+      },
+      "limitations": [
+        "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+        "Method addresses come from the binary's code-generation module methodPointers, matched by module name, method count and metadata token; generic method instances (see generic_instances), adjustor thunks and invokers are not linked, no-body means an observed zero slot, and unknown means no module claimed the method or its slot has an unresolved relocation.",
+        "Field, parameter and return type names are rendered from the binary's Il2CppType table in a C#-like form (keywords for primitives, Namespace.Outer+Inner, generic parameters by metadata name); nested generic arguments stay with the type component that declares them. An unresolved type-table slot retains its type index with a null name; a loader-unresolved value inside the type graph is refused rather than rendered from stored placeholder bytes. Custom modifiers, array bounds and attributes are not reported.",
+        "The binary/metadata pair is caller-selected. Module name/count/token agreement is structural evidence, not a cryptographic proof that both files come from the same build.",
+        "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+      ],
+      "unknowns": [
+        "Generic method instances were not requested; their count is unknown.",
+        "Addresses come from static binary tables; runtime behavior and generic instance code remain unknown."
+      ],
+      "metadata_version": 31,
+      "counts": {
+        "sections": 31,
+        "images": 157,
+        "types": 20826,
+        "methods": 127575,
+        "nested_types": 8261,
+        "fields": 82782,
+        "properties": 24887,
+        "events": 451,
+        "parameters": 128913,
+        "string_literals": 20549,
+        "code_gen_modules": 157,
+        "method_addresses": 127575,
+        "method_address_states": {
+          "code": 109859,
+          "no_body": 17716,
+          "unknown": 0
+        },
+        "return_types": 127575,
+        "field_types": 82782,
+        "parameter_types": 128913,
+        "generic_method_instances": null,
+        "generic_method_instance_states": null,
+        "generic_method_issues": null
+      },
+      "binary_source": {
+        "artifact": {
+          "path": "",
+          "sha256": "257941c2ea1be78980721f4b7005ddab7bc0d9610fe0290ede36e220f7823d23",
+          "bytes": 99813680
+        },
+        "format": "elf",
+        "architecture": "arm64",
+        "image_base": "0x0"
+      }
+    },
+    "confidence": "derived",
+    "authority": "shipped-artifact",
+    "environment": null,
+    "limitations": [
+      "Only unencrypted global-metadata.dat versions 24, 27, 29, 31 and 39 are decoded; names, counts and string literals are observed file content, not runtime behavior.",
+      "Method addresses come from the binary's code-generation module methodPointers, matched by module name, method count and metadata token; generic method instances (see generic_instances), adjustor thunks and invokers are not linked, no-body means an observed zero slot, and unknown means no module claimed the method or its slot has an unresolved relocation.",
+      "Field, parameter and return type names are rendered from the binary's Il2CppType table in a C#-like form (keywords for primitives, Namespace.Outer+Inner, generic parameters by metadata name); nested generic arguments stay with the type component that declares them. An unresolved type-table slot retains its type index with a null name; a loader-unresolved value inside the type graph is refused rather than rendered from stored placeholder bytes. Custom modifiers, array bounds and attributes are not reported.",
+      "The binary/metadata pair is caller-selected. Module name/count/token agreement is structural evidence, not a cryptographic proof that both files come from the same build.",
+      "declaring_type for types is derived from the nestedTypes section, and member and parameter owners from the owners' index ranges; row positions are the metadata indices."
+    ],
+    "relationship_coverage": null,
+    "locations": [
+      {
+        "kind": "artifact-path",
+        "path": ""
+      }
+    ],
+    "evidence_links": [
+      "ev_5a88406c9305e7b88f2b4c766056afd2913d805c0ddad41e4c3502b35147f311"
+    ]
+  },
+  "redaction_notice": "Local filesystem path values were blanked. This is a redacted reference copy; original Evidence digests do not authenticate the modified record."
+}
