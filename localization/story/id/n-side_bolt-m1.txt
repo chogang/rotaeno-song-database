@@ -1,0 +1,34 @@
+454e805b/0/text: "Zooom......"
+bd3ac34c/0/text: Pesawat ruang angkasa yang lewat meninggalkan lengkungan yang indah di langit, bersamaan memecahkan awan yang semula berkumpul rapi.
+e31016a7/0/text: Bolt memperhatikan jejak pesawat ruang angkasa dengan seksama, sesekali menoleh ke layar yang melayang di sampingnya, memastikan parameter berbagai aspek normal.
+de763c7b/0/text: Bagus sekali.
+de763c7b/1/text: Perkembangannya sangat cepat!
+52d5f9d4/0/text: Pemuda berambut coklat itu menatap pemandangan di langit dan tersenyum.
+9fb5ca8a/0/text: Yang mengendarai pesawat ruang angkasa adalah Puno, anak penduduk asli Orb.
+9fb5ca8a/1/text: Dia adalah orang yang pertama kali meminta diajari tentang pesawat ruang angkasa sejak Bolt mulai mempromosikan aerobatik. Bagi pemuda itu, Puno adalah partner pertama yang mendukungnya sepenuh hati, juga murid pertama yang sangat berharga.
+cff5a9f5/0/text: Bagaimana mungkin sebagai guru tidak bangga melihat murid yang begitu unggul?
+a14ef6ce/0/text: "Baiklah, latihan hari ini sampai di sini. " Bolt menoleh dan berbicara melalui layar dengan muridnya. "Kamu baru saja menguasai manuver kecepatan tinggi. Terlalu lama berlatih mungkin berdampak buruk bagi tubuh, turunlah. "
+b52b8977/0/text: "Baik, bos! " Suara Puno yang penuh semangat terdengar dari layar. "Ah~ Manuver kecepatan tinggi sungguh keren! Bos, setelah mempelajari ini, apa aku bisa mulai mempelajari Putaran Walet yang ditunjukkan bos sebelumnya? !"
+fc0af743/0/text: "Ah... Itu masih sangat jauh. "
+5a167be4/0/text: "Eh......"
+e82b61c4/0/text: "Kamu harus menguasainya dasarnya dulu, sangat berbahaya sembarangan menantang teknik tingkat tinggi. " Bolt dengan sabar menasehati saat suara Puno terdengar sedih. "Puno juga tidak ingin membuat semua orang khawatir karena terluka menantang melebihi kemampuanmu kan? "
+4287980f/0/text: "...Benar. "
+dc16d85d/0/text: "Tapi hari ini kerjamu sangat baik. "
+cca94ebc/0/text: "Be-benarkah? !"
+17425219/0/text: "Ya! Selama terus serius berlatih, aku percaya Puno bisa segera menguasai dasarnya~"
+368c8cb/0/text: "Baiklah!"
+283387da/0/text: "Eh? " Bolt melihat muridnya yang duduk meminum minuman sport dengan terkejut. "Bagaimana aku mulai suka pesawat ruang angkasa...? "
+898647f4/0/text: "Ya ya! " Puno mengangguk sambil menggigit tepi kaleng minuman, dia terus menatap bos dengan penuh ingin tahu. "Karena bos sangat hebat! Padahal hanya lebih tua beberapa tahun dariku, tapi sudah memiliki cita-cita yang begitu hebat! Karena itu bos sudah lama menyukai pesawat ruang angkasa ya? !"
+2458ac61/0/text: "......Ah! Apakah bos sama seperti "Orang Terpilih" di cerita-cerita,
+2458ac61/1/text: sejak lahir membawa pesawat ruang angkasa? !"
+a28ad185/0/text: "Haha, bagaimana mungkin~" Bolt membantah tebakan tidak logis anak itu sambil tercengang.
+9b1a632b/0/text: "Uh, kalau bercerita sejak kapan aku menyukai pesawat ruang angkasa..."
+51dfde19/0/text: Bolt menarik nafas panjang saat mengingat kenangannya terdalam,
+51dfde19/1/text: dia mendongak menatap langit, menunjukkan senyuman penuh rindu.
+f6c1403/0/text: "Ya... Pada hari itu. "
+482ada93/0/text: "Eh~~? Hari itu hari apa? ?? "
+7fee2d06/0/text: "Haha, ingin tahu? "
+2295eb9b/0/text: "Ya!!! "
+6fd0fe80/0/text: "Hmm~"
+a4ac852c/0/text: "Kalau begitu Puno harus berjanji padaku, jangan sembarangan belajar setelah mendengarnya? " Melihat muridnya yang penuh rasa ingin tahu, Bolt menaruh telunjuk di bibir, membuat tanda diam.
+f65760b7/0/text: "Saat itu aku anak yang nakal. "

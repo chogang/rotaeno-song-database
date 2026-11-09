@@ -1,0 +1,27 @@
+48638f4/0/name: otoshi.b
+d8395e76/0/text: Selamat datang di wawancara kami!
+870ec7c0/0/text: Silakan mulai dengan memperkenalkan diri kepada semuanya!
+755dc01b/0/text: Saya otoshi.b!
+dc304ed9/0/text: Moto saya adalah "HAPPY & EMOTIONAL," dan saya terutama memproduksi lagu-lagu bergenre game ritme.
+35542cf2/0/text: Tuan otoshi.b sepertinya penuh energi!
+776a3e14/0/text: Jadi, bisakah Anda ceritakan tentang lagu baru Anda "add+venturers!"?
+9e72f3c/0/text: Lagu ini merupakan lagu penyemangat yang didedikasikan bagi para "penantang" (= petualang) yang sedang menghadapi berbagai kesulitan dan kekhawatiran, dan merasa sulit untuk mengambil "langkah terakhir."
+59db2e6d/0/text: Dengan membayangkan para penantang itu akhirnya berani melangkah maju, lalu terus berjalan ke masa depan yang gemilang dan penuh cahaya... itulah kisah di balik lagu ini.
+7dfe3911/0/text: Saya mengubahnya menjadi lagu yang bahagia, emosional, dan sedikit bittersweet—HAPPY HARDCORE bergaya otoshi.b 1000%!
+4ad44010/0/text: ...Itu adalah tema permukaannya.
+c733b0d5/0/text: Hmm? Tema permukaan?
+61c19ddc/0/text: Sebenarnya, lagu ini juga memiliki makna lain yang lebih dalam.
+2e259a6f/0/text: Terkait lagu ini, karena berbagai alasan, lagu ini selesai dalam waktu yang sangat terbatas—tepat di saat-saat terakhir sebelum tenggat kompetisi.
+8e9db0f1/0/text: Saat itu, sebelumnya mungkin saya akan menyerah ketika menghadapi waktu yang sangat sedikit.
+aff19d36/0/text: Tapi saya memulai dengan pola pikir, "Daripada menyerah duluan tanpa mencoba, kenapa tidak menantang diri sendiri dan mencobanya?"
+1e0347fe/0/text: Saya mencurahkan seluruh usaha saya ke dalam proses produksinya, dan akhirnya, saya berhasil menyelesaikannya.
+ebe15285/0/text: ("Penantang yang tidak bisa mengambil langkah terakhir" yang disebut di tema permukaan sebenarnya adalah diri saya sendiri.)
+9d674c7e/0/text: Karena lagu ini punya latar belakang seperti itu, ketika saya menerima pemberitahuan diterima, tentu saja saya sangat bahagia.
+d2de666d/0/text: Pada saat yang sama, saya merasa bahwa "langkah" yang saya ambil akhirnya mendapatkan balasannya, dan saya teringat perasaan lega pada waktu itu.
+171b8e1c/0/text: Bagi saya, lagu ini adalah sebuah terobosan dan titik balik dalam pertumbuhan saya sebagai seorang musisi.
+388b155a/0/text: Jadi, memang ada cerita di baliknya…!
+799f67ff/0/text: Memang benar, tidak ada hal yang akan dimulai tanpa mengambil langkah pertama!
+a686219a/0/text: Selain itu, apakah ada hal lain yang ingin Anda sampaikan kepada para "pilot", Tuan otoshi.b?
+8823cc86/0/text: Sekali lagi, terima kasih banyak semuanya. Saya benar-benar bahagia lagu saya terpilih untuk kompetisi ini, dan semua orang bisa menikmatinya!
+3202c2c7/0/text: Berdasarkan pengalaman ini, lagu ini juga sangat emosional bagi saya.
+83e2d970/0/text: Jika semuanya bisa menikmatinya, saya akan sangat terhormat!! Mohon terus dukung saya!!

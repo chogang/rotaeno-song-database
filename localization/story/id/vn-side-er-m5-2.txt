@@ -1,0 +1,19 @@
+be9cdca5/0/name: Penambang
+ad752164/0/text: La～♪ La～～♫ ♩ ～
+ac8a1809/0/text: Heihei~
+ac8a1809/1/text: Kakari, senang sekali kamu hari ini~
+4a8b48dc/0/text: Ya♪ Hari ini dari pagi,
+4a8b48dc/1/text: aku sudah punya firasat akan terjadi sesuatu yang istimewa!
+a2a81beb/0/text: Eh~~~
+3d98226a/0/text: Oh~ Kalau begitu, harus terjadi sesuatu yang sangat~ keren, nih~~~
+3d98226a/1/text: Jangan sampai mengecewakan Kakari~!
+d5ad0835/0/text: Hahaha~ Terima kasih~!
+bc0d0db0/0/text: Oh, Selamat data——
+d61d2523/0/text: —!
+7f32e32e/0/name: ???
+9c3c1c78/0/text: ……
+43f73288/0/text: Ternyata firasat hari ini mengarah pada——
+64993a47/0/text: Lama nggak bertemu!
+a7aff28b/0/text: ——Kamu ya.
+b1a30cbe/0/text: Selamat datang di Desa Geo,
+b1a30cbe/1/text: Tuan Vickers!

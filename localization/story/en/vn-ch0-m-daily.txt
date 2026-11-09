@@ -1,0 +1,77 @@
+abcb6d58/0/text: Aquaria.
+abcb6d58/1/text: A beautiful planet named for its main resource - water.
+e1f64218/0/text: The climate is pleasant and the land is fertile. 
+e1f64218/1/text: Although magic has no hold here, the rare minerals on the seabed are mystical enough. 
+e1f64218/2/text: Without them, Aquaria never would have become one of the galaxy's most technologically advanced planets.
+5be649b7/0/text: Lured by its beauty and technology, countless creatures have found their way to Aquaria over the years. 
+5be649b7/1/text: Tourists, coming and going; businessmen, ready to capitalize on the next big opportunity...
+5be649b7/2/text: It seemed as if Aquaria's future grew brighter by the day.
+d7b134d4/0/text: That's when it started, ten years ago.
+d7b134d4/1/text: At first, everyone thought it was just another rainy day.
+42d3fe86/0/text: But then the raindrops continued falling.
+42d3fe86/1/text: The sky was like a broken necklace, its pearls falling from the clouds.
+f8ec19b3/0/text: A necklace no one could see the end of.
+f8ec19b3/1/text: The rain just kept coming.
+a658842e/0/text: This event on Aquaria is now known throughout the universe by one name...
+49fb9a9b/0/text: We call it the "Endless Rain".
+ba3ceb91/0/text: As for one blue-haired girl who had previously lived nothing but an ordinary life,
+1761cfb7/0/text: this ceaseless storm completely turned her life upside down.
+86f69af8/0/name: ???
+bee40277/0/text: School? It's just the worst.
+e498b24d/0/text: Compulsory education is the worst evil ever invented.
+4022c602/0/text: I can clearly survive without math. 
+4022c602/1/text: Universal translators do just fine at handling even the most foreign of languages.
+fdb16b0a/0/text: Why would you learn chemistry if you aren't a scientist?
+fdb16b0a/1/text: And what's geography good for without pursuing archaeology?
+51352ee/0/text: Anything that keeps me from meeting my idols is totally and absolutely the root of all evil!
+80b38215/0/text: Scanning, please wait...
+835abe68/0/text: Confirming biometrics...
+25fc9862/0/text: Confirmed.
+25fc9862/1/text: Welcome home, Miss Ilot.
+714cd57d/0/text: Ugh!
+714cd57d/1/text: UGH!
+714cd57d/2/text: !!
+714cd57d/3/text: I'm just so tired!
+3f3378b5/0/text: Maybe I should skip class tomorrow?
+befdef29/0/text: If I fail out, then I fail out. 
+befdef29/1/text: Putting up a struggle will just make it more painful.
+c5857f6f/0/text: Welcome back, Master Ilot!
+c03f242/0/text: Here's your reminder:
+c03f242/1/text: Your scheduled program, the idol drama <color=yellow>KiraKira ☆ Love Express ♪</color>, will start in half an hour!
+d65ab989/0/text: All right, all right.
+7f7daf04/0/text: I get to watch Lulua today, too!
+fd3cba72/0/text: It's like all of my pressure has just disappeared~
+fd3cba72/1/text: Lucky me~☆!
+51311afc/0/text: Soda~! Soda~!
+51311afc/1/text: An otaku meal just for me~!
+548b4d6c/0/text: Master Ilot, one other matter requires your attention. 
+548b4d6c/1/text: Relocation for households below floor 161 must be completed by the 30th of this month.
+acdc67c6/0/text: Master Ilot resides on floor 152. Remember, relocation is compulsory.
+acdc67c6/1/text: Please follow the schedule and prepare early for cohesive relocation.
+83ef84ca/0/text: ...
+92117c1c/0/text: ... This <color=cyan>Endless Rain</color> is so stupid!
+72a7ef21/0/text: If the <color=cyan>Endless Rain</color> were a person, 
+72a7ef21/1/text: they would be one of those annoying jerks who spends all day crying!
+40a9a332/0/text: It's worse than that... 
+40a9a332/1/text: Not even the most unreasonable person in all of Aquaria could cry for 10 years straight!
+564dcd11/0/text: Master Ilot, 
+564dcd11/1/text: do I need to remind you of your new apartment's address?
+f8ac868c/0/text: Ugh! I hate my life!
+3e8af1f1/0/text: Stupid rain! Stupid moving!
+5effff8b/0/text: No.
+76bc8e9c/0/text: My new place is just upstairs. It's not like it's halfway across the city!
+76bc8e9c/1/text: I'll worry about it later.
+8bda2f44/0/text: Besides, I already know what I'm going to leave behind.
+8bda2f44/1/text: Moving won't be too hard, 
+8bda2f44/2/text: it's just annoying to deal with.
+68b6e1a8/0/text: I really try not to have too much stuff.
+68b6e1a8/1/text: My Lulua posters and deluxe collection of Orlan's records are all I need!
+fda60231/0/text: La~ 
+fda60231/1/text: la ♪ lala ♪
+fda60231/2/text: Lulu ♪ 
+fda60231/3/text: aaaaa~ ♪ !
+137f6d06/0/text: It would be awesome if Lulua lived on Aquaria, too.
+bedc4c4d/0/text: I'd never miss a single one of her offline meetups if she did!
+526663/0/text: All right, it's about to start. 
+526663/1/text: I've gotta log in to the portal and get ready!
+289357de/0/text: ...!

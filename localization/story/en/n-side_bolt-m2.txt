@@ -1,0 +1,57 @@
+571d05e1/0/text: "Whew! I'm full!"
+ce111fd9/0/text: Bolt put down the cutlery in his hand after stuffing the last piece of cake on the plate into his mouth.
+ce111fd9/1/text: With a sense of satisfaction, he rubbed his tummy which had just been filled up.
+64fbd63b/0/text: "Young master, would you like black tea or coffee for an after-meal drink?"
+64fbd63b/1/text: Noticing that the young master had finished his meal, the steward, who had been standing by at the corner of the dining room quietly, slowly came over.
+64fbd63b/2/text: He led the servants to take away the remaining cutlery on the table in an orderly manner.
+6dd7c810/0/text: "Well,
+6dd7c810/1/text: black tea, thanks."
+2b815c8c/0/text: "My pleasure.
+2b815c8c/1/text: I'll get it ready soon."
+55cfde23/0/text: No sooner had the steward looked back to signify the minions to prepare tea,
+55cfde23/1/text: than he turned to the youngest master in the family.
+eb7d56cb/0/text: Then he said the last thing the latter would like to hear.
+ff006515/0/text: "Young master, our schedule for this afternoon is the piano lesson." Not surprisingly, the boy in front of him started to whine in agony-- After all, that would happen before each and every piano lesson. "Mr. Glen is already waiting in the music room. Please get there as soon as lunch break is over."
+ecc55fd5/0/text: "Alas..." Although Bolt had already known his plan for this day last night, he still felt like weeping bitter tears now.
+11a73bb/0/text: Considering his previous mischief, the steward would probably add--
+83e8ceb0/0/text: "I understand how much you hate this lesson,
+83e8ceb0/1/text: but confronting something you don't like is also an important trait for the upper class. Therefore--"
+999b8932/0/text: "Please quit skipping classes, young master."
+6c18b3e1/0/text: Quit skipping? No way!
+6217de8e/0/text: Striding along the hallway, Bolt pouted his mouth in anger and began to think about his escape route this time.
+6442f7fa/0/text: Despite the fact that each time he would be forced back to class after getting caught in less than 5 minutes, being a dauntless boy, he would never give up like that!
+7635c6a5/0/text: "Where should I hide..." Biting the nail of his right thumb, Bolt had a brainstorm whipping through his young mind.
+d909f176/0/text: He had tried all possible shelters in the major residence area, as well as the storeroom in the south and the outside drill ground in the east...
+557eb095/0/text: How come his house is so small?
+9f2d57a6/0/text: Glancing at the watch on his wrist, the boy got even more anxious. "Oh no, I'm running out of time!"
+5b4880ec/0/text: It's only 3 minutes before the class begins, which means 3 minutes later, Mr. Glen will tell the steward that I'm absent from the class. And everybody will receive an order to find me-- I must make a decision before it's too late!
+1b33d97c/0/text: Where can I hide apart from these places?
+1b33d97c/1/text: The servant dorms in the north are out of the question, while my brother's lab in the west is not accessible...
+111fdbef/0/text: "Ah..."
+485b0bfc/0/text: I think there's something behind the Experimental Building...?
+e5be9971/0/text: The ticking second hand on the watch reminded the boy that he had little time left for his skipping plan.
+8a26231/0/text: Well, to hell with it!
+8a26231/1/text: Just get there first and see what happens!
+26c8ab4f/0/text: He headed west from the main residence, walked past the inaccessible lab building, and kept moving. At long last, the vague buildings in his memory showed up completely before him now.
+9395ad4c/0/text: "Hah..." Bolt pouted his mouth, looking up at this building that was totally different from the main residence in style.
+e4dfef16/0/text: Metal walls, metal windows that were closed up, and a solid front gate.
+85948956/0/text: "I can't see anything in there..."
+ac4a8b77/0/text: It was the first time that Bolt had come here.
+ac4a8b77/1/text: Before that, he had only seen this massive metal cube placed on a flat ground at distance from a floor-to-ceiling window of the lab building when he hung out there with his brother.
+9f8dc7cd/0/text: Is that a warehouse for storing things?
+9f8dc7cd/1/text: Could it be an item for my brother's research?
+9f8dc7cd/2/text: Or a piece of antique of my father's?
+306434fe/0/text: But what mattered most at the moment...
+1b06afbf/0/text: was how he could get inside.
+1d77b734/0/text: With his heart beating extra fast, Bolt grabbed the collar of his shirt and walked to the towering gate.
+f89e6191/0/text: I'd definitely get caught if I don't get in!
+9ecbc28/0/text: Please!
+f5bdb81f/0/text: "Iris identified. Welcome, Mr. Kelut."
+59780f22/0/text: !
+38636d85/0/text: He made it!
+7bb93ed4/0/text: Upon the return of its owner, the cube was revived from slumber.
+7bb93ed4/1/text: The solid gate slid open from the top and bottom while the closed blind window extended outward once again.
+2140fba7/0/text: Thanks to the sunshine at noon and the incandescent lamps lit one by one in the building,
+2140fba7/1/text: Bolt could finally see clearly the giant thing stored in this unraveled box.
+ecc8e831/0/text: "This is..."
+e5a74985/0/text: a spaceship?

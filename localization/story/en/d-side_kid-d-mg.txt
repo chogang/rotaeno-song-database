@@ -1,0 +1,21 @@
+1f1ba07/0/text: ╭ (*▢*) ╮
+5fa6c4c/0/text: <indent=5%>╮(*▢*)╭
+874872ae/0/text: <indent=10%>╭ (*▢*) ╮
+30c4eee6/0/text: <indent=15%>╮(*▢*)╭
+551c4aed/0/text: Hahaha.
+30a2de4c/0/text: Ilot, what are you doing?
+a65dd67e/0/text: I'm dancing along with the character in an interesting music video that I just found.
+226dbbc7/0/text: Hoppe, join me! One! Two! Three!
+78729b0d/0/text: I don't know how to dance...
+d89cecf4/0/text: This is fun! Try it and you'll see how.
+f1bad445/0/text: Okay, I'll try it.
+1f1ba07/1/text: ╭ (*▢*) ╮
+9a52b41f/0/text: ╭ (*▢*) ╮
+9408afe7/0/text: ╮(*▢*)╭
+39fe2980/0/text: ╮(*▢*)╭
+42841cc0/0/text: ╭ (*▢*) ╮
+9a52b41f/1/text: ╭ (*▢*) ╮
+9577d499/0/text: ╮(*▢*)╭
+39fe2980/1/text: ╮(*▢*)╭
+74f32b17/0/text: Haaaaaa!
+c92ed7ab/0/text: Haaaaaa!

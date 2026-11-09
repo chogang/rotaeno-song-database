@@ -1,0 +1,28 @@
+3aa94b24/0/name: ぴれんどらー
+417c7072/0/text: Welcome back to our interview! Hello, could you please introduce yourself to everyone?
+75901e7a/0/text: Hello!!!! I'm ぴれんどらー, and I'm here in Rotaeno this time!
+aef6d546/0/text: Mr.ぴれんどらー, you sound really excited!
+c680e1ff/0/text: Could you tell us about your new track, "ephemeralization"?
+b241de5d/0/text: First of all, I'd like to express my sincere thanks to the Rotaeno team for selecting my song
+988c2f58/0/text: (I was so happy that almost crying)!
+c39336c9/0/text: As for "ephemeralization",
+2f505bfe/0/text: it's a hardcore track with an other-worldly atmosphere.
+9654d6da/0/text: My aim was to create a blend of intensity, brevity, and an illusory feeling,
+3e577db2/0/text: and the title itself comes from the word "ephemeral".
+b9afb2e/0/text: I think I managed to write a melody
+8d9ba992/0/text: that really feels "ephemeral", both in the intro and the chorus.
+4d7a70aa/0/text: The track also features a high‑BPM drop that's very typical of rhythm games—
+8afb54b9/0/text: it's super powerful! Absolutely intense!
+6a5b7d10/0/text: It's truly a very powerful song!
+4d19ab7/0/text: I really enjoy both making and listening to tracks in this style,
+d95b2278/0/text: and it's honestly one of my favorite genres.
+c6a0470d/0/text: Being able to bring this genre into a commercial rhythm game
+bcfd1ce7/0/text: means a lot to me!
+dd96f88/0/text: Congratulations on achieving that goal!
+bb6c93fc/0/text: Now then, is there anything you'd like to say to all the Rotaeno players?
+f6ea26ab/0/text: Hello to all Rotaeno players, it's nice to meet you for the first time!
+3892a4c3/0/text: I'm ぴれんどらー—what do you think of my track?
+f26c3ee6/0/text: If you enjoy it, that would make me really happy!
+68573a32/0/text: I'm also incredibly grateful to the Rotaeno team for creating such awesome charts and artwork for my song,
+5a4911a0/0/text: it honestly moved me so much!
+156b37dc/0/text: I'll keep writing more hardcore tracks with that otherworldly vibe, so please continue to support me!!

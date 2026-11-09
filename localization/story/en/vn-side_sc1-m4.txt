@@ -1,0 +1,120 @@
+29453bbf/0/text: Lastly, place the candles...
+c6185639/0/text: And... we're... done!!!
+e7f44e71/0/text: Phew!
+e7f44e71/1/text: That was close! Good thing we finished with half an hour to spare before New Year's!
+4f393d54/0/text: Decorating
+4f393d54/1/text: takes more time than I thought it would...
+1fbc243c/0/text: And it was way more exhausting...
+1fbc243c/1/text: Right now, I just want to crash on the couch.
+db138716/0/text: Hey!
+db138716/1/text: What are you even talking about, you old granny!
+b64f148c/0/text: The fun's just getting started!
+598c3862/0/text: For someone who almost fell off the chair just now,
+598c3862/1/text: you've got way too much energy.
+1f4778c6/0/text: Hehe!
+1f4778c6/1/text: I'm totally fine!
+1375df9e/0/text: That's only because your nanny robot caught you in the nick of time.
+1375df9e/1/text: Otherwise, you'd be ringing in the New Year from a hospital bed.
+1b620b77/0/text: Yeah, that was really close just now.
+1b620b77/1/text: I thought my heart was gonna leap out of my chest...
+d39d9c01/0/text: You gotta be more careful, Ilot!
+a73ab14b/0/text: A-all right...
+38bbf832/0/text: This robot is amazing.
+38bbf832/1/text: You're so lucky!
+5900347e/0/text: Thank you for the compliment.
+5900347e/1/text: I am the newest robot babysitter model, built with cutting-edge Aquaria technology.
+5900347e/2/text: Assisting, educating, and protecting designated individuals are my core functions.
+1f462c5d/0/text: I wish I had one at home too...
+7cd77455/0/text: Instead of 999,999,999, you can get one for just 99,999,999!
+7cd77455/1/text: Initiating purchase of the deluxe butler model—
+76de3626/0/text: Ah, shut up!
+76de3626/1/text: Be quiet! Mute! MUTE!
+4d2843f/0/text: ...
+92b4e956/0/text: Hey, I said mute, not shut down!
+92b4e956/1/text: Hey, are you getting pissy at me?
+2d3f98f2/0/text: Turn on! Turn on! Turn on!!!
+55bc1fb/0/text: Ilot, calm down...
+55bc1fb/1/text: It's probably just out of battery and needs charging...
+1866b570/0/text: No, you don't understand, Hoppe.
+1866b570/1/text: It's totally doing it on purpose!!!
+63e8465/0/text: ...
+71cbc814/0/text: If it has to put up with your attitude all the time,
+71cbc814/1/text: I guess a tantrum is understandable.
+3d6c5fda/0/text: Huh? But I'm the owner!
+3d6c5fda/1/text: What the owner says is law!
+2e310db6/0/text: Heh.
+3c211eac/0/text: !!
+3c211eac/1/text: Hoppe, see! I told you!!!
+4d2843f/1/text: ...
+19fadd47/0/text: HAHAHAHAHAHAHAHA—Okay, okay～
+19fadd47/1/text: Anyway, this is what matters, right?
+bfa7b9cd/0/text: Come on,
+bfa7b9cd/1/text: Which New Year's Eve broadcast are we watching?～?
+156c6a1a/0/text: !!!
+3d19133/0/text: Definitely Floating Island's!
+3d19133/1/text: They got the live-action Hanae and Kon from "Destiny Love✧Donut Angel♡" for the countdown guests! We HAVE to watch that!
+243a5598/0/text: Let's watch that one!
+243a5598/1/text: Okay, okay～～～
+999cce54/0/text: Oh really～? Fine.
+999cce54/1/text: Hoppe, you okay with that?
+3ccad8c1/0/text: Mm,
+3ccad8c1/1/text: That's fine with me.
+ff490dea/0/text: Yay～～～
+ff490dea/1/text: Love you guys, MUAMUAMUA～～～♡♡♡
+94fe51d8/0/text: Ugh, Shoo! Shoo!
+94fe51d8/1/text: Cheesy!
+feaeee20/0/text: Hahaha.
+c94de24a/0/text: Watching Ilot interact with Mona...
+c94de24a/1/text: It's actually kind of cute.
+ad6f7256/0/text: Maybe I should try to be...
+ad6f7256/1/text: Less uptight?
+17277f35/0/text: Then maybe
+17277f35/1/text: I'd actually have some friends in the class...
+dde26e09/0/text: Right!
+dde26e09/1/text: Shouldn't we make a wish?
+e73f2ed2/0/text: Make a wish?
+4a68babc/0/text: Yeah,
+4a68babc/1/text: A wish for the new year, you know, like what we want to achieve?
+23ee4cc4/0/text: Mm～I want to make more money!
+23ee4cc4/1/text: Enough to pay off this family loan by next year!
+7efc2166/0/text: ?! You're not supposed to say your wishes out loud!
+7efc2166/1/text: Awww, what should I do?
+d6250c86/0/text: Okay, we'll cover our ears,
+d6250c86/1/text: And you say it again?
+7baecc09/0/text: Hahaha, that's just superstition～～～
+7baecc09/1/text: Yeah, whatever. It'll work anyway!
+b59a53ee/0/text: R-really...?
+a407511c/0/text: Okay then,
+a407511c/1/text: For fairness' sake, I'll say my wish too...！
+958d465d/0/text: I hope Lulua comes to Aquaria for a fan meet next year!
+958d465d/1/text: And not Floating Island, on actual land!!!
+4181f2c8/0/text: Hoppe, you?
+602ba239/0/text: Um...
+ffb38fb3/0/text: A wish...
+dcc2a967/0/text: Then...
+e06f0e1b/0/text: I hope everyone's wishes come true.
+9cc90f9e/0/text: ...
+5f1ee7fe/0/text: ...
+6849e09a/0/text: ...? What's wrong...?
+b9883df4/0/text: Good Hoppe.
+9b0abcd0/0/text: Yeah, super Hoppe.
+fb3b7a6a/0/text: ...???
+2da46f9b/0/text: Wh-what's wrong...
+2da46f9b/1/text: ...Is my wish weird?
+3cf93f89/0/text: Well, no, it's... sweet.
+3cf93f89/1/text: It's good.
+d5ab0ecf/0/text: Yeah, yeah. Around angels, people feel kinda small. Makes sense.
+d5ab0ecf/1/text: It's alright!
+3fb7a34c/0/text: ???
+1af9b8ef/0/text: Ah, it's starting!
+1af9b8ef/1/text: 10-second countdown!
+836ce24c/0/text: What?! Quick, quick!
+836ce24c/1/text: Light the candles!
+3836e9c6/0/text: Let's blow out the candles together when we count down to 1!
+7fbe473f/0/text: ...4...3!
+7fbe473f/1/text: C'mon, everybody!
+6137f4ff/0/text: Woha...um!
+26eb00bc/0/text: ...2!
+9d7cf268/0/text: ...1!!!
+c3aea7db/0/text: Whew———
+8bb72034/0/text: Happy New Year!!!

@@ -1,0 +1,14 @@
+332eddcc/0/name: Street Vendor
+73478f85/0/text: Hi, I'd like to have 3 mango daifuku!
+5b6a2a79/0/text: Sure!
+ff634214/0/text: Please come again!
+dfc1b041/0/text: Why did you get 3?
+3380a2e4/0/text: It's only two of us here.
+c9fd6790/0/text: !!
+7d1d5f20/0/text: I...
+66ef35ed/0/text: I-I was afraid we'd be hungry again!
+90ff4d32/0/text: I'm preparing for a rainy day!
+e0bddcd2/0/text: Yes, that's right!
+bb78a39d/0/text: (...Pfft...
+aea76ed/0/text: It's obvious that she got it for Hoppe!♪)
+7f5f0a99/0/text: (Oh my, Eto! This person is so amusing...♪♫)

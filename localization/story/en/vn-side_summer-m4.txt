@@ -1,0 +1,140 @@
+a27d306c/0/text: Woo—haaa!
+2b6c7b50/0/text: Hahaha, that was awesome!
+2b6c7b50/1/text: Way more exciting than I thought!
+f1cf2f65/0/text: Huh? Hoppe?
+f1cf2f65/1/text: How'd you get to the end before me?
+4ed03910/0/text: You were behind me in line just now...
+242805a3/0/text: Uh, yeah! Because... while you were getting ready,
+242805a3/1/text: the other slide opened up, so I came down right around the same time as you!
+be2ccce0/0/text: Ohhh.
+46ebab6b/0/text: But, you're breathing kinda hard...?
+46ebab6b/1/text: Was the slide too much for you?
+a9b9253a/0/text: Yeah... you could say that...
+a9b9253a/1/text: I think I need... to rest a bit...
+ab97d475/0/text: Three flights of stairs, sprinting down to the ground,
+ab97d475/1/text: and still beating Ilot here... yeah, that's a lot...
+f3d793f6/0/text: My heart's pounding like crazy.
+f3d793f6/1/text: I feel awful...
+ebee6ad9/0/text: Mhm, let's take a break!
+ebee6ad9/1/text: How about over there in the rest area?
+4e79a124/0/text: Yeah, okay.
+d12eb0b/0/text: Thank god...
+227d92f4/0/text: You sit tight here.
+227d92f4/1/text: I'll go grab drinks this time!
+33747c40/0/text: What do you want, Hoppe?
+33747c40/1/text: Sports drink again?
+8bbe3383/0/text: Yeah, thanks.
+4b8876de/0/text: Got it!
+4b8876de/1/text: Be right back!
+730b058d/0/text: ...
+3e2f5460/0/text: Let's see...
+3e2f5460/1/text: The time now...
+a81383f5/0/text: 3 o'clock!
+f8eb644b/0/text: Yes! One more hour!
+f8eb644b/1/text: Just one more hour...!
+debb83d/0/text: Then it's all over perfectly!
+5cd7e9f4/0/text: But...
+835eba87/0/text: wetting my hair and body when she's not looking,
+835eba87/1/text: lining up behind her for rides so I can run ahead to the exit...
+6af08a41/0/text: Can I really keep this up?
+27b51c97/0/text: Feels like I'm running out of energy...
+aec06c1e/0/text: Guess for the rest of the time,
+aec06c1e/1/text: I need a new plan...
+32059784/0/text: Hm? What plan?
+32059784/1/text: What game are you two playing?
+7e71773f/0/text: !!
+e3fc9ecc/0/text: M-Mona!
+e3fc9ecc/1/text: You scared me...
+483ff962/0/text: You didn't hear me talking to myself, did you...?
+e03c0e92/0/text: Ohhh, somebody!
+e03c0e92/1/text: Your staff's slacking off!
+48539757/0/text: Ilot...!
+48539757/1/text: You're back.
+d8d408f3/0/text: Hehe, quick, right?
+d8d408f3/1/text: The store was empty. So lucky!
+d758b81e/0/text: Sorry, Ilot.
+d758b81e/1/text: The snack store's usually... not that busy...
+be71f7a0/0/text: Here, thirsty?
+86cb7e42/0/text: Thanks.
+119c1a6b/0/text: Hey, kid.
+119c1a6b/1/text: Watch it! I'm not slacking off!
+cb9f2308/0/text: I'm here checking if my guests are having fun!
+71171a71/0/text: It's amazing!
+b7821409/0/text: Seriously, this place is summer paradise!
+b7821409/1/text: If I had the cash, I'd come every day!
+5660f16d/0/text: Right, Hoppe?!
+30df36b6/0/text: Uh... yeah, it's a great place.
+30df36b6/1/text: But if I do this every day...
+bbe0273f/0/text: I might... die...
+25cb5a70/0/text: Mmph!
+fe49ea1b/0/text: Ilot...
+fe49ea1b/1/text: She really seems to love this place.
+2b474a73/0/text: I'll just keep training after we get back!
+2b474a73/1/text: If I keep trying, I'll learn!
+87cd811a/0/text: Hey hey, isn't it great working here?
+87cd811a/1/text: Do you get in for free? Are you hiring?!
+f0bc8841/0/text: Pfft—
+f0bc8841/1/text: Silly kid, nothing's that easy!
+f8d0ab72/0/text: Working here's nothing like playing here.
+f8d0ab72/1/text: And we're fully staffed, so don't get any ideas.
+334cefb1/0/text: Alright, as long as you're having fun.
+334cefb1/1/text: I'll get back to work.
+a1d076b3/0/text: And remember!!!
+a1d076b3/1/text: Don't miss the 4PM main stage super event!
+93bd6b18/0/text: Might be your one and only chance to see a god-tier show.
+93bd6b18/1/text: You'll regret it forever if you miss it!
+8684cf47/0/text: Mona's awfully confident about this event.
+8684cf47/1/text: What kind of show could it be...
+15845c96/0/text: Exactly, but the brochure only lists the name.
+15845c96/1/text: Nothing about what it actually is!
+25dbc650/0/text: Tch! Now I'm dying to know—
+25dbc650/1/text: We've gotta be on time!
+8b719d5f/0/text: Yeah.
+354f9338/0/text: Until then...
+354f9338/1/text: let's keep having fun!
+5d28c000/0/text: Rested up?
+223e19ad/0/text: Uh, yeah...!
+223e19ad/1/text: I'm good. Let's go...
+1e9db4df/0/text: Yess!
+1e9db4df/1/text: Let's go, let's go!
+dadcfe35/0/text: Splash!!!
+6e8f0cb4/0/text: Wooo—ha!
+33682f6e/0/text: Hahaha!
+33682f6e/1/text: That was so much fun!
+725931bb/0/text: Hey, Hoppe, did you see?
+725931bb/1/text: I came flying down from way up there!
+f9f878f6/0/text: Yeah, I saw...!
+fc2812c8/0/text: So... so scary...!
+1e66ec4e/0/text: Alright, your turn.
+1e66ec4e/1/text: Let's line up again.
+56590e48/0/text: I-I'm good.
+56590e48/1/text: Look at that line, it'll take forever if we do it again.
+96b45a03/0/text: Ehh...
+96b45a03/1/text: Then you're missing out.
+4f8a2ba5/0/text: Mmph!
+4f8a2ba5/1/text: It's your fault, you keep thinking about your research instead of having fun,
+4f8a2ba5/2/text: and making me your human test subject for "fluid dynamics observation"...
+86b3406a/0/text: Uh... haha...
+86b3406a/1/text: Well, since we're here, I thought I'd see how the body moves when it hits the water...
+7e9077b1/0/text: Ilot, sorry...!
+b7af09b1/0/text: Mmph!
+48b6b2fa/0/text: Feels like all day today,
+48b6b2fa/1/text: we haven't actually played together—
+2546df53/0/text: Ha... haha...
+2546df53/1/text: Yeah... we... kinda kept missing each other...
+d03e02ee/0/text: Though... that was kind of on purpose.
+700a5240/0/text: Ah!
+d26c8186/0/text: It's time!!!
+9d264e4d/0/text: Huh? Your alarm?
+56c0271c/0/text: Yep!
+56c0271c/1/text: The finale is about to start!!!
+d3e399dd/0/text: Finally!
+d3e399dd/1/text: I made it!
+cbb5f64f/0/text: The plan went perfectly.
+cbb5f64f/1/text: Done and done!
+77cbce76/0/text: This is what you were most excited for, right?
+77cbce76/1/text: Come on, let's get to the main stage!
+758a81e0/0/text: ...
+d8fbc750/0/text: Hoppe, heads up!!!
+bb9235dc/0/text: Huh?
+94feaf4/0/text: ?!

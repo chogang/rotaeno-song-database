@@ -1,0 +1,164 @@
+9e73dcd1/0/name: Venue Manager
+d7969a57/0/text: And just sign right here... Great!
+d7969a57/1/text: Everything's in place!
+71a704ca/0/text: The venue is all yours next weekend!
+2048d6de/0/text: The entry and exit times are listed right here.
+2048d6de/1/text: Remember not to overstay, or there will be extra charges~!
+942451b2/0/text: Got it!
+942451b2/1/text: No problem!
+3819a48a/0/text: Haha, such an energetic young man!
+3819a48a/1/text: And so ambitious, organizing your own race at such a young age~
+9674ba0a/0/text: Hehe... Thanks for renting the place to me, mister.
+9674ba0a/1/text: I've asked a bunch of places, but they all turned me down, saying I am too young...
+b0c9d67a/0/text: Hah, I'm different from those old-fashioned folks~
+b0c9d67a/1/text: Business is business, what's age got to do with it?
+fa318a2/0/text: Yeah! You're awesome, mister!
+fa318a2/1/text: If you have time, come check out our race next weekend!
+e4e09a19/0/text: I'll even do a cool stunt flying opening with a spaceship! It'll be awesome!!!
+48903385/0/text: Haha, I'll try to make it~
+cbd3cbc9/0/text: Huh? Ah!
+cbd3cbc9/1/text: Oh no, it's almost time for class! I better get to the training field!
+5f119a93/0/text: Hmm~♪
+5f119a93/1/text: Hmm hmm~♫
+709512fa/0/text: Ah—
+709512fa/1/text: After doing everything Bro taught me, everything's going just like planned!
+a82f0735/0/text: Not only did our ad get 200 times more clicks,
+a82f0735/1/text: our expenses dropped by 90%!
+9abe96a8/0/text: The number of people signing up for trial flight classes has exploded too!
+85e82387/0/text: Whew~~~
+4a6545b2/0/text: Just thinking about those three days of intense training with Bro gives me a stomach ache...
+9ab2601e/0/text: But it was totally worth it!!!
+5d8e9f1c/0/text: My brother's really the best!!!
+13bc8603/0/name: Police
+6aaa4ce2/0/text: To the car up ahead,
+b5cd7d03/0/text: pull over immediately for an inspection!
+bb9235dc/0/text: Huh?
+395e98c/0/text: Officers~
+f0f108df/0/text: Didn't you guys check me yesterday, the day before, and the day before that?
+f77fd338/0/text: I've got all the paperwork in order,
+b5dda710/0/text: you've seen it a dozen times already!
+6aaa4ce2/1/text: To the car up ahead,
+b5cd7d03/1/text: pull over immediately for an inspection!
+a1fdc0a3/0/text: ...Are they even listening...
+4793a92e/0/text: Hmph~~~ ...Whatever!
+9b81de1d/0/text: Sorry, but I'm in a hurry!
+353ae787/0/text: I can't stick around today, next time!
+26330c1f/0/text: Alright, full speed ahead—!!!
+f9ec284e/0/name: ???
+8c29ed0b/0/text: Whoa...!!!
+987d0d83/0/text: Who's that person that just sped on by?!
+c778d25e/0/text: Haaa—
+ddf87eda/0/text: ...Huh?
+ddf87eda/1/text: Did I just hear a familiar voice...?
+f0d37318/0/text: Huh? Whoa!
+f0d37318/1/text: Is that you, Ilot!? Long time no see!
+55bfb8e0/0/text: Bolt?!
+50c19f1d/0/text: To the car up ahead,
+50c19f1d/1/text: pull over immediately for an inspection!
+5f135b/0/text: Are they still after me... How annoying...
+351f4e8f/0/text: I repeat, you there, up ahead, in the red car,
+351f4e8f/1/text: pull over immediately for an inspection!
+3c0350bc/0/text: Wh-why are there police after you?!
+dc8ad2c8/0/text: I have no clue~
+73b9fcb0/0/text: I did all the paperwork when I landed,
+73b9fcb0/1/text: but it's been like this for the past few days. What a pain...
+a2de6475/0/text: Even if you say it's a pain...
+302f2929/0/text: Well!
+302f2929/1/text: Whatever! I'm in a hurry!
+be137675/0/text: Time to leave them in the dust~~~!
+e721d4ec/0/text: What?!
+4d23a6fb/0/text: To the red vehicle ahead...
+4d23a6fb/1/text: And the white-haired girl next to it!
+b5cd7d03/2/text: pull over immediately for an inspection!
+29f66729/0/text: Huh?!
+7b23c105/0/text: How did I get involved in this?!
+f0aece2b/0/text: Hahaha, don't worry about it.
+f0aece2b/1/text: The police here are a bit odd~~~
+ae41ac21/0/text: How can I NOT worry?! Aaah—
+b2f0da0b/0/text: Phew~~~ Finally lost them!
+ce66fbb2/0/text: I became your accomplice for no reason...
+4a12b813/0/text: Hahaha!
+4a12b813/1/text: Sorry about that~...
+2b7ecf02/0/text: I probably could have cleared any misunderstanding if we stopped and explained,
+2b7ecf02/1/text: But I was in a hurry, everyone's waiting for me!
+7a5024a5/0/name: Kid A
+e13d8eef/0/text: Ooh! Boss is here!
+b80cfb8a/0/name: Kid C
+7f8133f/0/text: It's Bolt!
+1547b0d1/0/name: Kid B
+5af32749/0/text: Whoa—
+ffe14af5/0/text: !!
+8013d4ca/0/text: Hehe, whadya think?
+8013d4ca/1/text: Much livelier than back in Orb, right?
+6710dc7a/0/text: Amazing... How'd you do it?
+97cca92/0/text: Hehe~ Let's just say I had some backup...?
+b4c652c9/0/text: The best backup in the whole world, of course♪
+eede9703/0/text: Anyway, enough about that.
+eede9703/1/text: Since you're here, wanna try out the new stunt flying class?
+8285e567/0/text: I was just——
+46b85f52/0/text: Ilot may have been my very first student,
+46b85f52/1/text: but all of the new recruits here are super talented too!
+7405f45a/0/text: If you don't practice regularly,
+7405f45a/1/text: their skills might "whoosh" right past you~! Teehee~
+2bf3bbdc/0/text: Come to think of it, Puno's been improving really fast lately...
+2bf3bbdc/1/text: Maybe I should up his training a bit...?
+bc6bd71b/0/text: I-I don't mind!
+78001665/0/text: Pfft~ So you're not going to join class, Ilot?
+24cf2ba7/0/text: ...Well, I'm here already anyway,
+24cf2ba7/1/text: might as well...?
+fdd8a763/0/text: Awesome!
+12102413/0/text: Wow~ Not bad at all!
+12102413/1/text: As expected of my first student!
+96371db/0/text: Hehehe~☆
+fb976b70/0/text: That reminds me!
+fb976b70/1/text: Since you're so good, Ilot, why not join the race?
+c5b6696d/0/text: Race?
+3c43cb9b/0/text: Yeah! Look here!
+54ddb485/0/text: The "Whoosh~Whoosh Extreme Spaceship Speed Race"...?
+af461f56/0/text: Wow, are the prizes for the top three for real?!
+97427387/0/text: A year's supply of soda, Amozom gift cards... worth 100,000?!
+90fe8ab8/0/text: Hehe, not bad, right? Tempted?
+90fe8ab8/1/text: Spots are limited, so you'd better sign up fast!
+a349c67a/0/text: Whoa...
+887fccf0/0/text: From the surge in students to this huge event...
+887fccf0/1/text: It's really hard to believe...
+d8f42ac8/0/text: Haha, it's all thanks to my "backup"!
+e6c4b457/0/text: "Backup"... the one you mentioned just now?
+e6c4b457/1/text: Who is it? Some marketing company?
+fb4b5cb0/0/text: No no no~ No normal marketing company could ever be this good!
+fb4b5cb0/1/text: It's the best of the best! The one and only!
+60cdea4f/0/text: My brother!!!
+e60b8713/0/text: Huh, your brother???
+56d8b9fe/0/text: That's right!
+56d8b9fe/1/text: My brother's the universe's coolest, smartest, brainiest, best-est person!
+2f85c2ff/0/text: ...Wow, you're totally obsesses with your brother.
+390de6ac/0/text: ?
+f0cdcd04/0/text: Wow, is that Ilot!
+6b6cb0c/0/text: !!
+922b731f/0/text: Puno?!
+922b731f/1/text: What are you doing here on Silvano?!
+87db5b5e/0/text: I'm on a study abroad trip with Boss!
+87db5b5e/1/text: Oh, lovely and amazing Ilot, it's so wonderful to see you again!
+b7922d0c/0/text: L-lovely and amazing...
+71a496a0/0/text: Boss, Boss!
+71a496a0/1/text: The balloons are ordered! The shop will deliver them to the venue by 7 o'clock sharp on Saturday! Here's the receipt!
+a378efc7/0/text: Alright, great!
+a378efc7/1/text: Thanks for all your help, Puno!
+1a8da78b/0/text: The venue... Is Puno helping out with preparations for the race?
+1a8da78b/1/text: Impressive...
+2c01bc8/0/text: It's nothing, I'm just doing the small tasks!
+2c01bc8/1/text: Boss is handling all the important matters!
+eec5685c/0/text: Boss is the best!
+58480e99/0/text: Hehe, it's all thanks to my bro's teachings,
+58480e99/1/text: so technically, he's the best!
+8739a295/0/text: Yup,
+8739a295/1/text: Boss and Boss Bro are the best!
+87763ac3/0/text: What is this, some kind of praising cult...?
+54b89b6f/0/text: Does this mean Bolt's brother will also be there on the day of the race?
+54b89b6f/1/text: You're talking about him so much, I'm getting curious...!
+10560ed5/0/text: Hmm~ I wonder?
+10560ed5/1/text: After all, my brother's busy with research and family stuff... But he might show up to check on the results...?
+5620133c/0/text: I sure hope he can make it!
+d0ff8ba1/0/text: Yeah, that'd be great!
+1627581a/0/text: Ahh——
+1627581a/1/text: I'm so excited for the day of the race!

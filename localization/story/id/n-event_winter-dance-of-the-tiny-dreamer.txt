@@ -1,0 +1,45 @@
+4b5c0cb1/0/text: <Majalah Musik Rock Slime> Edisi Ke-32 – Wawancara Khusus dengan Bintang Rock Generasi Baru
+4b5c0cb1/1/text: Wawancara Khusus Lime Van Halen
+6719dafe/0/text: Majalah Musik Rock Slime:
+6719dafe/1/text: Menjelang konser malam tahun baru yang akan digelar oleh girl group "Sweetheart Girls", kehadiran Lime Van Halen sebagai bintang pembuka, telah menarik rasa penasaran banyak penggemar.
+853a848/0/text: Pertama-tama, kami merasa sangat terhormat bisa mengundang Anda untuk wawancara ini. Terima kasih sudah meluangkan waktunya.
+853a848/1/text: Menurut Anda, seperti apa sosok Anda sebagai seorang musisi?
+7ab7cfd7/0/text: Lime Van Halen:
+7ab7cfd7/1/text: Aku yang seharusnya merasa terhormat! Kalau harus mendeskripsikannya, aku akan menyebut diri sebagai kreator musik yang memiliki teknik ekspresif dan digerakkan oleh jiwa eksplorasi.
+773a9b6c/0/text: Bakat musikku bisa dibilang adalah keajaiban alam! Melodiku cukup kuat untuk mendamaikan politik dan bahkan memengaruhi cuaca!
+11306fdd/0/text: Haih, mau bagaimana lagi. Bakatku terlalu luar biasa. Sekarang bahkan sudah ada beberapa jurnal ilmiah yang meneliti aku, lho.
+11306fdd/1/text: Ada yang bilang musikku membawa kekuatan liar ala Beethoven masa muda. Bedanya hanya gaya rambutku yang jelas jauh lebih keren, ya!
+11306fdd/2/text: Bahkan alat musikku pun punya klub penggemar sendiri. Percaya nggak?
+9826b885/0/text: Majalah Musik Rock Slime:
+9826b885/1/text: Kalau begitu, dari mana Anda biasanya mendapatkan inspirasi musik?
+3d211880/0/text: Lime Van Halen:
+3d211880/1/text: Sebenarnya, motivasi terbesarku itu putriku!
+d9eba397/0/text: Karena dia, aku selalu bersedia memberikan yang terbaik untuk setiap pekerjaanku.
+d9eba397/1/text: Dulunya aku punya target, tapi kini, ambisiku cuman membiarkannya merangkul kebahagiaan di seluruh dunia.
+96152f60/0/text: Dia ini gadis terimut di seluruh semesta!
+c1a2832d/0/text: Dia bahkan pernah menggambarku saat di atas panggung. Bisakah kamu membayangkannya?
+709a92b7/0/text: Karya agung itu! Aku yang di gambarnya terlihat super keren!
+709a92b7/1/text: Suatu hari nanti, karya itu pasti akan dipajang di Museum Seni Slimesome dan membuat generasi mendatang tercengang. Aku jamin!
+8f03be63/0/text: Bagaimanapun, kecerdasan dan bakatnya itu jelas keturunan dariku, jadi wajar saja aku juga terinspirasi oleh dia!
+6a7bae85/0/text: Majalah Musik Rock Slime:
+6a7bae85/1/text: Kedengarannya Anda ini sosok ayah yang sangat sayang anak…… Kalau begitu, bagaimana cara Anda menghindari kejenuhan dalam berkarya musik?
+7c914dd4/0/text: Lime Van Halen:
+7c914dd4/1/text: Tentu saja! Dia imut banget!
+7c914dd4/2/text: Setiap kali dia memelukku, aku selalu berpikir: "Habislah, aku sudah mau meleleh jadi cairan~"
+d24bf2bb/0/text: Kalau masalah menghindari kejenuhan? Hmm, ini, ya!
+d24bf2bb/1/text: Aku ini bukan psikolog, ya! Tapi karena kamu sudah bertanya, kubocorkan beberapa rahasia kecil, deh.
+3a4df885/0/text: Kamu harus mencari hobi di luar musik, membangun keseimbangan yang baik antara pekerjaan dan kehidupan, serta menetapkan batasan agar tidak kelelahan.
+374f2b22/0/text: Selain itu, aku juga suka mengatur ulang jadwal harian supaya tetap baru dan nggak terasa monoton.
+87ceec5e/0/text: Yang! Paling! Pentingnya! Minum air yang cukup! Ini penting banget buat menjaga kejernihan otak dan performa keseluruhan.
+7b038148/0/text: Kamu tahu nggak? Istriku selalu bangga karena aku memiliki "tingkat kelembapan paling sempurna di antara kaum Slime". Soalnya, aku selalu membenamkan diri dalam ide-ide brilian!
+5b5ce6e0/0/text: Majalah Musik Rock Slime:
+5b5ce6e0/1/text: Terakhir, apa pesan Anda untuk para kreator musik muda?
+a03a23e6/0/text: Lime Van Halen:
+a03a23e6/1/text: Selalu jadi B♯ (Be sharp)! Jangan pernah jadi B♭ (Be flat)! Haha!
+4b77878c/0/text: Baiklah, canda doang—— Jangan biarkan musikmu jadi monoton!
+4b77878c/1/text: Mencoba berbagai genre itu bagus banget buat jiwa seorang musisi.
+aada61fe/0/text: Kalau kamu nggak suka sebuah lagu baru, nggak apa-apa, tapi berilah dia satu kesempatan.
+aada61fe/1/text: Mana tahu itu justru akan membawakanmu petualangan yang tak terduga!
+da05cd52/0/text: Selain itu…… Aku ini contoh belajar terbaik buat kalian, jadi jangan lupa untuk ikuti akun media sosialku, ya!
+24c1f420/0/text: Oh, iya! Saranku jauh lebih mahal dari emas, lho! Tapi kalau kamu mau berterima kasih,
+24c1f420/1/text: aku juga bisa menerima hadiah berupa satu galon besar air kelapa yang organik! Dan segar! Dengan senang hati!

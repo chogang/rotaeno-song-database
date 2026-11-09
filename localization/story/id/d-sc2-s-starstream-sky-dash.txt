@@ -1,0 +1,21 @@
+78178db3/0/name: Kelas 1-A (SMP) Siswa A
+e3829a62/0/name: Kelas 1-A (SMP) Siswa B
+bf7570df/0/name: Keramaian
+5b46baeb/0/name: Kairoth
+8c21a65/0/text: Wahhh——
+52d26469/0/text: Hebat sekali dia...!
+52d26469/1/text: Dia sudah menang 5 kali berturut-turut!
+d0e6dd8e/0/text: Jarak juara kedua tertinggal jauh darinya...
+8f8872b4/0/text: Kakak senior SMA memang berbeda!
+8f8872b4/1/text: Keren banget...
+9ff1cf46/0/text: Ha? Apa?
+9ff1cf46/1/text: Menang 5 kali berturut-turut? Tampaknya sangat hebat...!
+3a391261/0/text: !
+e3dcedb3/0/text: Kairoth, kau kembali!
+21610056/0/text: Hei, hei, Kairoth kembali!
+e1e2fa8b/0/text: Wah! Kairoth!
+e1e2fa8b/1/text: Cepat maju dan bantu kami menang kembali!
+f06b7688/0/text: Huh! Sepele~
+f06b7688/1/text: Serahkan padaku!
+b6c705da/0/text: Kak,
+b6c705da/1/text: Jangan terlalu sadis padaku, ya!

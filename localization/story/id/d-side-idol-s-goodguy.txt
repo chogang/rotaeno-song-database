@@ -1,0 +1,26 @@
+26522376/0/name: Istri Lime
+33028a10/0/text: …"Bro, cepat lihat! Ini bener-bener dahsyat."……
+33028a10/1/text: Oke… Kirim!
+9748e58f/0/text: …? Apa yang kamu lakukan diam-diam di situ?
+c115876d/0/text: Oh, sayang!
+c115876d/1/text: Aku sedang mengirim pesan ke orang baik!
+3c4655fc/0/text: "Orang baik"…? …Jangan-jangan si sial dari Orb yang capek-capek melemparmu kembali,
+3c4655fc/1/text: saat kamu hampir menjadi Slime kering?
+75620cca/0/text: Benar, orang baik itu!
+75620cca/1/text: Kakak Noah~!
+75cdb448/0/text: …Kok aku rasa dia hanya nggak enak hati untuk membiarkanmu mati,
+75cdb448/1/text: jadi terpaksa membawamu pulang, ya.
+aceab3ce/0/text: Tapi, ujung-ujungnya kamu malah bersikeras memaksanya mengantarmu pulang ke rumah karena terlalu trauma.
+aceab3ce/1/text: Ckck… Kasihan sekali si sial itu.
+f28f0cfd/0/text: Ih, bukan begitu. Kamu nggak paham dengan persahabatan cowok, sayang~
+f28f0cfd/1/text: Hubungan kami akur banget kok!
+5d321812/0/text: …Asal kamu berhenti menawarkan diri untuk ikut dinas ke Orb lagi,
+5d321812/1/text: terserah deh kamu mau berkata apa.
+e35e1fe8/0/text: Oh, dia membalasku!
+1cca0612/0/text: Coba kulihat…
+1cca0612/1/text: "Haha, lucu"!
+5833f1ca/0/text: Hei, lihatlah!
+5833f1ca/1/text: Dia sangat senang kok!
+ac185209/0/text: Oh, iya, video ini juga lucu banget.
+ac185209/1/text: "Bro, cepat lihat!"……
+9c06a2c7/0/text: …Iya, iya.Terserah deh.

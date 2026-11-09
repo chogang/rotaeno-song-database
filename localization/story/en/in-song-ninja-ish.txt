@@ -1,0 +1,22 @@
+cf8a4d60/0/name: U-ske
+e516e263/0/text: Welcome to our interview!
+f13d569/0/text: Please start by introducing yourself to everyone!
+a2918d95/0/text: Hello Rotaeno players!
+e478f1ef/0/text: I am U-ske, a Japanese composer.
+48ea0900/0/text: Glad to see you!
+b934de11/0/text: Could you please share more details with us about your new track"NINJA-ish"?
+7d7c3d5c/0/text: I think Japanese-style music is somewhat exotic, but I wanted to add a pop, kawaii element to it.
+2baa3dc/0/text: So I asked Nanahira-san to do the vocals for kawaii ninja.
+39fe901e/0/text: It's awesome!
+122200/0/text: Ninjas usually hide in the shadows and show their strength in important situations.
+e03e7967/0/text: Right?
+c9a2a22d/0/text: That's just how people imagine ninjas!
+3efcbf7d/0/text: This song has the message, "It's okay to be unmotivated in everyday life, but when it comes to important situations, you have to be serious!"
+7540cba1/0/text: I see!
+d76d35d5/0/text: As we come to the end of the interview, is there anything you'd like to say to the players?
+5c275f0/0/text: I said that ninjas usually hide in the shadows.
+b8b43ad0/0/text: In other words, its existence must not be known.
+f7e19df3/0/text: Now that I've made it public, I may never be able to appear in public again...
+e5856378/0/text: (Swoosh—boom!)
+4c23c720/0/text: UGHHH!!
+a0e8e369/0/text: Huh? Did Mr. U-ske just disappear all of a sudden?!

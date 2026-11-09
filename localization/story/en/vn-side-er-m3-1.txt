@@ -1,0 +1,50 @@
+6deae9c5/0/name: ???
+9c0988d0/0/text: Oh my! Where did all these clouds come from?!
+9c0988d0/1/text: Is a rockfall about to happen?
+d84107b2/0/name: Tavern Guest B
+b1994207/0/text: Huh? Wait, what?!
+68b5a327/0/text: No way,
+68b5a327/1/text: I didn't bring my blocker with me today...!
+185f012f/0/text: That sound just now...
+4ec3c434/0/text: Alright, now's my chance!
+91fed6aa/0/name: A mouse?
+cb22ee6/0/text: ?!
+c1810f8a/0/text: Let's see... this should be far enough, right?
+129cf285/0/text: ......
+f5d38451/0/text: This fabric's texture...
+f5d38451/1/text: Was I caught when I fell from the beam... and put into a pocket?
+391dad42/0/text: Good, good~
+391dad42/1/text: They're not following us!
+f2426cc1/0/text: You can come out now, Mr. Mouse~
+625d6272/0/name: Human Woman
+4a67545d/0/text: ......
+129cf285/1/text: ......
+fe897d99/0/text: I knew it.
+cec51dd3/0/text: It's that human woman again.
+a987ecfc/0/text: ...Is she really just obsessed with fairy tales?
+a987ecfc/1/text: Does she think her mission is to save every animal in distress...?
+625d6272/1/name: Human Woman
+361a5d5c/0/text: ...Oh!
+361a5d5c/1/text: Upon closer look, I see it now!
+110d9d91/0/text: It's you, Mr. Wolf!
+cb22ee6/1/text: ?!
+641695dd/0/text: Ah, wait, a wolf can't turn into a mouse, can it...?
+641695dd/1/text: Then could it be... a Vickers?
+f816958b/0/text: ......
+13f51a46/0/text: This human woman... How is it possible?
+eaa352b2/0/text: She can see Vickers?
+eaa352b2/1/text: No, that can't be it. She was just wondering how could a wolf turn into a mouse...
+4059520c/0/text: Let's see~
+4059520c/1/text: This place should be safe enough!
+cafa6a48/0/text: I'll leave you right here then~
+3e9c589a/0/text: Mr. Vickers. No, maybe Miss?
+3e9c589a/1/text: Wait, do the Vickers even have genders...?
+e989af0f/0/text: Oh my, oh my~... Anyway!
+1d219b50/0/text: Among humans, not everyone is friendly like me.
+1d219b50/1/text: There are some very, very bad people!
+c7ed2d2/0/text: So you have to be careful when you see a human, okay?
+c7ed2d2/1/text: Got it~?
+fe2bfe9d/0/text: Bye-bye, see you next time!
+f816958b/1/text: ......
+9ed8c7/0/text: This human woman...
+3cf6c856/0/text: So strange.

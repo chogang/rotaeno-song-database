@@ -1,0 +1,92 @@
+e79724b6/0/text: Sekolah Rotaeno,
+e79724b6/1/text: Sebuah lembaga pendidikan yang terpadu dari SMP, SMA, dan Universitas.
+cb22cc31/0/text: Baik cita-citamu adalah Astronot,
+cb22cc31/1/text: atau Perancang Pesawat Ruang Angkasa, atau pun kamu hanya ingin lebih mendalami teknologi yang sedang berkembang ini...
+d1c467d3/0/text: Akademi Teknologi Pesawat Ruang Angkasa yang terkenal di dunia ini
+d1c467d3/1/text: adalah surga bagi semua pencari ilmu terkait.
+29d94ed8/0/name: ???
+c728c393/0/text: Selamat pagi, anak-anak.
+a6e471ae/0/text: Karena Kepala Sekolah sedang sibuk,
+a6e471ae/1/text: jadi apel pagi ini akan dipimpin oleh saya.
+3ea899f/0/text: ……
+5ae2230b/0/text: <size=50>Hoooam~</size>…
+5ae2230b/1/text: Ngantuk banget......
+1efafbe1/0/text: Ilot!
+4208870e/0/text: <size=30>Kok kamu ada di kelas kami?!</size>
+4208870e/1/text: <size=30>Bagaimana kalau ketahuan guru...!</size>
+94b3e20b/0/text: Ah, tenang saja~
+94b3e20b/1/text: Anak SMP dan SMA yang digabungkan ramai banget.
+94b3e20b/2/text: Bagaimana mungkin dia melihatku?
+988f7fa8/0/text: Aman kok~
+988f7fa8/1/text: Aman☆
+6657620c/0/text: Sejak bulan Februari Kepala Sekolah baru dilantik,
+6657620c/1/text: beliau sudah menggabungkan pendapat para siswa masing-masing divisi, dikombinasikan dengan investigasi lapangan dan analisis data...
+bf4bec14/0/text: Kenapa harus dipimpin oleh si Kayu sih...
+bf4bec14/1/text: Cara bicaranya terlalu kaku dan membosankan benar-benar ninabobo yang pas untuk orang yang kurang tidur...
+482c4a85/0/text: Ilot... jangan memberi guru-guru panggilan yang aneh lagi.
+482c4a85/1/text: Nggak sopan banget lho...
+d2d7b0b3/0/text: Hmm...
+d2d7b0b3/1/text: Haih......
+92b7dc4b/0/text: <size=30>Hoppe si anak teladan……</size>
+d69e020/0/text: …Setelah banyak diskusi dan untuk lebih membina siswa kami,
+d69e020/1/text: Mulai hari ini, sekolah akan menerapkan kebijakan baru berikut...
+b9f7f057/0/text: Huh, kenapa kakak-kakak universitas nggak perlu ikut apel pagi, ya?
+b9f7f057/1/text: Keterlaluan sekali! Ini termasuk kekerasan anak, 'kan?
+62706c/0/text: Haha, setelah lulus ujian akhir SMA,
+62706c/1/text: kita juga akan menjadi kakak-kakak universitas yang nggak perlu menghadiri apel pagi!
+65f89a26/0/text: Apaaaa, nggak!
+65f89a26/1/text: Aku nggak mau dengar~~~
+ac461e23/0/text: Hal yang harusnya dipusingkan tahun depan,
+ac461e23/1/text: jangan dibebankan padaku sekarang.
+e693910a/0/text: Aku baru Kelas 2 SMA lho~
+222b72c3/0/text: ...Kamu selalu bertingkah seperti ini setiap aku mengungkit ujian akhir SMA.
+222b72c3/1/text: Inilah kenapa aku semakin khawatir...
+6b6452ed/0/text: Yah, ganti topik dulu deh.
+6b6452ed/1/text: Ayo kita bahas topik yang menyenangkan!
+d4e525a2/0/text: Topik yang menyenangkan...
+478fd5d3/0/text: Hmm...
+478fd5d3/1/text: Bagaimana kalau... Festival Sekolah?
+7099ae88/0/text: Selain mengumumkan kebijakan baru,
+7099ae88/1/text: harusnya juga akan membahas Festival Sekolah, 'kan?
+d7b8dd63/0/text: Festival Sekolah...
+a7a01e06/0/text: Oh, iya...
+a7a01e06/1/text: Festivalnya bulan depan...
+7c074ec0/0/text: Hmm...
+69332d09/0/text: ? Kenapa?
+69332d09/1/text: Bukankah kamu paling suka festival?
+69332d09/2/text: Ini termasuk topik yang menyenangkan, 'kan?
+fa88933b/0/text: Festival Sekolah memang sangat seru.
+fa88933b/1/text: Ada banyak stan menarik juga tahun lalu......
+1804d4cc/0/text: Lalu...?
+765341ce/0/text: Tapi pekerjaan persiapannya sangat merepotkan~
+765341ce/1/text: ...Pulang sekolah malah harus tinggal untuk mengurusnya. Itu adalah penyiksaan terbesar!!!
+2221764b/0/text: ……
+f7145ce3/0/text: Eh~
+f7145ce3/1/text: Haruskah aku "izin sakit" sampai Festival Sekolah...
+809cd78e/0/text: Terakhir, terkait pemungutan suara "Kelas Populer" di Festival Sekolah tahun ini,
+809cd78e/1/text: hadiah untuk kelas pemenang akan diubah.
+cd76f170/0/text: Wah! Lihatlah, Ilot!
+cd76f170/1/text: Tampaknya Kepala Sekolah baru punya rencana baru untuk festival ini!
+bc6d80/0/text: Aku penasaran banget dengan hadiah barunya~
+bc6d80/1/text: Kamu juga, 'kan?
+198bc8f7/0/text: Nggak~sama~sekali~
+198bc8f7/1/text: Pokoknya, pasti masih buku, voucher belanja, atau sejenisnya...
+aad1e55a/0/text: Uang sedikit begitu bahkan nggak cukup untuk membeli segelas boba buat semua orang di kelas.
+aad1e55a/1/text: Kenapa sekolah kita pelit sekali......
+2221764b/1/text: ……
+cdbbf283/0/text: Untuk meningkatkan antusiasme dan kekompakan siswa di setiap kelas,
+cdbbf283/1/text: Kepala sekolah telah memutuskan untuk mengubah penghargaan untuk pemenang "Kelas Populer" tahun ini menjadi——
+9a4a0b98/0/text: Lihatlah,
+9a4a0b98/1/text: Pasti sejenis voucher "Okea" atau "Starfook"~
+a5407721/0/text: Tanpa melanggar peraturan sekolah yang berlaku,
+a5407721/1/text: kelas pemenang akan mendapatkan hak istimewa untuk mengajukan permintaan khusus kepada sekolah.
+ab37a11b/0/text: ……<size=60>Apaaaa???</size>
+1013575f/0/text: ...Eh?
+330c65c0/0/text: I-ini serius...?
+330c65c0/1/text: Oh, aku mengerti! Ini pasti salah satu hak istimewa palsu dalam waktu terbatas!
+8ff24b3c/0/text: Misalnya, hanya bisa digunakan dalam sehari,
+8ff24b3c/1/text: atau bahkan hanya beberapa jam!
+affb9dc4/0/text: ——Hak istimewa ini akan berlaku selama 1 tahun.
+affb9dc4/1/text: yaitu hingga akhir semester berikutnya, saat siswa kelas tersebut naik ke tahun pertama SMA.
+2221764b/2/text: ……
+763931ea/0/text: <size=60>?!?!?!?!!?</size>

@@ -1,0 +1,107 @@
+72ddb15b/0/text: Ooooh~~ 
+72ddb15b/1/text: Wow...
+f0be527c/0/text: It smells so good!
+1c45bf4d/0/text: See? This is the benefit of your bestie being the brightest student in school!
+84e9e5a4/0/text: Even though students have been banned from cooking outside of classtime - 
+84e9e5a4/1/text: all because of a few previous accidents -
+1e1f46e5/0/text: Stars always get special privileges,
+1e1f46e5/1/text: just like in my favorite shows.
+4ff78263/0/text: Isn't it ready yet?
+2be14a3f/0/text: Just a minute.
+34855b32/0/text: This is taking forever...
+777684e1/0/text: You know chocolate takes time to melt.
+577df1c2/0/text: Well it should be faster. 
+577df1c2/1/text: Turn the heat all the way up!
+227c8144/0/text: That will burn it...
+351a0a05/0/text: Can chocolate even burn?
+5c66fe78/0/text: Why is this so difficult...?!
+d91a9cd4/0/text: Why does something so delicious take SO long to make... 
+d91a9cd4/1/text: Uggggh.
+13395720/0/text: It's fascinating, right?
+94983d/0/text: Hot cocoa is easy to make.
+94983d/1/text: It would be much harder if we were trying to make chocolate from scratch!
+e6e94e4a/0/text: Do you want to try?
+e6e94e4a/1/text: DIY cocoa tastes so much better.
+2cdebff0/0/text: No... 
+2cdebff0/1/text: That's too much work,
+2cdebff0/2/text: and I don't want to be remembered as the girl who caused a cocoa catastrophe!
+fddc7451/0/text: *chuckling* Ilot!
+45c0827f/0/text: If the stovetops blew up again, 
+45c0827f/1/text: not even Hoppe could escape the fate of being banned from the kitchen.
+5db72265/0/text: I would never do something so stupid,
+5db72265/1/text: just for hot cocoa!
+26c62503/0/text: ...
+5aec5cbb/0/text: ... But, 
+5aec5cbb/1/text: there isn't much time left.
+4eea26ec/0/text: Unlike me, Hoppe loves learning. 
+4eea26ec/1/text: Learning something new is what makes her really happy. It's like she's in love with her textbooks!
+31507e9b/0/text: She studies hard. She makes good grades. 
+31507e9b/1/text: She's just a nice person. Everyone at school seems to love her.
+9afa5a30/0/text: She's just perfect.
+9afa5a30/1/text: It makes sense that she gets special treatment, right?
+237dc3f/0/text: Like getting to cook here after school...
+237dc3f/1/text: ... or getting to take her exams and graduate before everyone else.
+e8d7da90/0/text: ...
+48cb0183/0/text: Hoppe, my friend... 
+48cb0183/1/text: My childhood friend... my best friend...
+ed1bd52c/0/text: ... She's... 
+ed1bd52c/1/text: leaving so soon.
+e9d7b5bb/0/text: ...
+c568b0b7/0/text: ... Communication between some planets might be hard.
+3f266b68/0/text: But as long as I'm able to connect to the galactic network, 
+3f266b68/1/text: I'll make sure to message you and keep you updated.
+3f5184e7/0/text: So...
+e9d7b5bb/1/text: ...
+ff194d14/0/text: ... 
+ff194d14/1/text: I get it.
+914987eb/0/text: Of course I know what she's trying to say.
+962342e4/0/text: I know I'm not the only one feeling sad about her upcoming departure.
+14028d3b/0/text: But leaving Aquaria is important for Hoppe.
+e2de0f45/0/text: Hoppe has been trying to figure out why the Endless Rain started - and how to stop it.
+e2de0f45/1/text: She's been visiting all of these important libraries and research labs.
+59228e27/0/text: Scientists from the Disaster Response Center even reached out to her,
+59228e27/1/text: for an academic exchange or something...
+34a35a9c/0/text: I must have saved the galaxy in a past life. What else could I have done to deserve such an awesome friend?
+5fd6cb42/0/text: Yet, despite all these scholars' efforts, they still don't know the cause of the Endless Rain. 
+5fd6cb42/1/text: The scientists don't have a clue how it's been raining for a decade.
+26c62503/1/text: ...
+6ec7473/0/text: This wretched rain!
+4a0298c9/0/text: It's the worst!
+e9d7b5bb/2/text: ...
+cf9d3296/0/text: So you really don't want to leave with me?
+e8d7da90/1/text: ...
+c2b777ea/0/text: ... I don't.
+20e14cf/0/text: ... Actually, 
+20e14cf/1/text: I don't know why I want to stay.
+9ead7d5d/0/text: Do I like Aquaria that much?
+9ead7d5d/1/text: Maybe, but it's not like I love it so much that I'd never want to leave.
+6f3d332d/0/text: I bet Hoppe loves this planet more than I do.
+e0c8df59/0/text: So why don't I want to leave with her 
+e0c8df59/1/text: and find this "promised land" together?
+26c62503/2/text: ...
+4b9c5daf/0/text: I don't know.
+c53cd9fb/0/text: I just don't want to leave.
+4b4508d6/0/text: But I also don't want to say goodbye.
+e9d7b5bb/3/text: ...
+8dc31f98/0/text: Ah! Let's not talk about this now. 
+8dc31f98/1/text: Anyways, I'll find a way to contact you whenever I arrive at a new planet, okay?
+d7abb010/0/text: *sniffs* Mmm, it's ready! 
+d7abb010/1/text: I call it "Super French Hot Cocoa!"
+38af0eaf/0/text: ... Oh, right!
+dd9cc201/0/text: I don't leave for a few days. Let's go to the amusement park tomorrow?
+dd9cc201/1/text: I heard that there's a new puzzle-solving ride.
+254ad36a/0/text: I can't. 
+254ad36a/1/text: Orlan says he's hosting an online meet-and-greet with his fans tomorrow.
+a204a2d2/0/text: Again...? 
+a204a2d2/1/text: Didn't you just do that last week?
+48fd422a/0/text: Well, I'm a huge fan - 
+48fd422a/1/text: I've got to take every opportunity I have to speak with my idols!!!
+bd2f914b/0/text: Alright... I suppose. 
+bd2f914b/1/text: So, we'll just meet at your place tomorrow then?
+32ad6745/0/text: Alright! 
+32ad6745/1/text: We can have dinner together.
+20cb9281/0/text: Sounds good. What should we eat?
+a37fb05b/0/text: I wish we could go on like this 
+a37fb05b/1/text: forever...
+26c62503/3/text: ...
+622a16b7/0/text: ... but I guess that's not going to happen.

@@ -1,0 +1,24 @@
+6d71ae7/0/text: Hoppe, Hoppe!
+6d71ae7/1/text: Hurry, hurry!
+819f1c48/0/text: Today's the final part!
+819f1c48/1/text: The last one!!!
+b8907b24/0/text: Yeah, yeah~
+bfe7839a/0/text: Whew——
+bfe7839a/1/text: Really hope to get that license soon~~~
+6e919540/0/text: Ilot, you've been studying hard for the test, right?
+90d5ddb9/0/text: Of course!
+4d367e90/0/text: In order to rent the Principal's Suuuper high-end Spaceship, 
+4d367e90/1/text: I've been studying all day and night!
+64fc5beb/0/text: Honestly? I've put more effort into this License exam
+64fc5beb/1/text: than my entire high school career combined!
+8c90738e/0/text: ...Hah, haha.
+3ab857e1/0/text: ...? ...Say,
+3ab857e1/1/text: Ilot, didn't you say that Director Angatu called you to the counsellor's office after school today?
+61445189/0/text: ... Did you go meet up?
+e0f8a46a/0/text: ?!
+38b03a56/0/text: (Oh right, last week's sick leave made Woody suspicious...)
+8783d67a/0/text: I.L.O.T...
+7bf9855d/0/text: !!!
+7bf9855d/1/text: Oh no!
+b34f3ebc/0/text: Run for it, Hoppe!!!
+ecfea4f1/0/text: Huh, what?!

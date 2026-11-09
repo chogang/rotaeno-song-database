@@ -1,0 +1,11 @@
+4ca103b3/0/name: Anak
+bcf8dfd5/0/text: Ini adalah wilayah bis!
+a84f4926/0/text: Orang yang tidak berkepentingan… Eh.
+5c48a61c/0/text: Badge yang kamu pakai…
+b90c8620/0/text: Teman bos? !
+9a930253/0/text: …?
+f42f15e5/0/text: Kalau memang adalah teman bos, Anda pasti juga orang yang hebat!
+d6466127/0/text: Nona hebat, slakan masuk!
+a9e07ca8/0/text: (Nona hebat …)
+707011ef/0/text: (Pertama kalinya aku disebut seperti itu di seumur hidupku ini …)
+17f59f3d/0/text: (… Mungkin juga terakhir kalinya. )

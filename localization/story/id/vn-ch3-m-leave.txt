@@ -1,0 +1,45 @@
+e985ca5f/0/text: Rute telah ditetapkan.
+36f821c6/0/text: Pengemudi telah konfirmasi informasi benar,<br>Perintah pilot otomatis akan dijalankan dalam 1 menit.
+83ef84ca/0/text: ...
+7633a8c/0/text: Hoppe...
+cfe5c4fb/0/text: Baiklah,
+cfe5c4fb/1/text: Aku hanya mengantarkanmu hingga di sini.
+6d93c465/0/text: Terima kasih, kakak Cheri!
+6d93c465/1/text: Terima kasih banyak!!!
+de36aa54/0/text: Tidak perlu terima kasih, karena masalah lusa kemarin,
+de36aa54/1/text: Membuat Ilot perlu menunggu hingga dua hari,
+de36aa54/2/text: Aku menjadi sangat sungkan...
+fd8cc13a/0/text: Tidak perlu sungkan,
+fd8cc13a/1/text:  Itu juga bukan salah kakak Cheri!
+978e7504/0/text: ...
+f3bd67e2/0/text: Lihat saja, karena Ilot dan Hoppe adalah anak-anak yang baik,
+f3bd67e2/1/text: Star Soul juga bersedia membantu kalian.
+2486bddd/0/text: Hehe...
+32d058c4/0/text: Oh ya, Hoppe itu...
+32d058c4/1/text: Aku baru pertama kali bertemu dengan anak kecil, tapi dengan pengetahuan yang tinggi.
+d858430d/0/text: Benar!
+d858430d/1/text: Hoppe memang sangat luar biasa!
+cba750fe/0/text: Uh...
+cba750fe/1/text:  Tapi, meski dia selalu tersenyum,
+cba750fe/2/text: Aku selalu merasa dia sepertinya kurang bahagia.
+e7546b42/0/text: ... Eh?
+236a1cf/0/text: Dipikir-pikir kembali,
+236a1cf/1/text: Mungkin sedang memikirkan kamu?
+ce7ed64c/0/text: Aku harap kamu bisa bertemu lagi dengannya,
+ce7ed64c/1/text: Dapat membuat dia kembali tersenyum cerah.
+83ef84ca/1/text: ...
+35284ed/0/text: Kamu tidak bahagia,<br>Apakah benar karena aku?
+cd2f971f/0/text: Atau...
+3179a998/0/text: Ahh...Biarkan saja!
+a94b4/0/text: Tidak ada gunanya khawatir! Akan segera dapat bertemu langsung, bukankah akan lebih baik jika ditanyakan langsung!
+a6afd77/0/text: Pesawat ruang angkasa akan segera dimulai.
+d3630106/0/text: Akan masuk instruksi pilot otomatis 10,
+d3630106/1/text: 9,
+d3630106/2/text: 8...
+6469d91c/0/text: Tidak peduli karena aku, atau karena penyakit May,<br>Atau...Menemui suatu masalah…
+27dd156/0/text: 3,
+27dd156/1/text: 2...
+27dd156/2/text: 1.
+51d1cb52/0/text: Aku pasti akan...
+e4423234/0/text: Pesawat ruang angkasa berangkat.
+10167a70/0/text: Tetap di sisimu!

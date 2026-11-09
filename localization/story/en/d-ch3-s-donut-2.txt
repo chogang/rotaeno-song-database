@@ -1,0 +1,46 @@
+f0fd523b/0/name: ???
+e5881b3/0/text: Phew.
+b60b10e4/0/text: (I'm so full)
+42585089/0/text: What should I do next?
+3c67fcf6/0/text: ...
+9a372a61/0/text: (!!!)
+d6b4d6a7/0/text: (It's that handsome boy!)
+3cd4b6ec/0/text: (!)
+dc4b043f/0/text: (Hold on, did he come to town all by himself?)
+39c7d82d/0/text: Um...
+b16afce9/0/text: !!!
+95405d4d/0/text: Wait! Don't run away! I'm not a bad guy!
+3c67fcf6/1/text: ...
+dbd01403/0/text: You came here alone? Human towns are dangerous for elves right now, no?
+10ab95e2/0/text: A little boy like you shouldn't be here alone.
+fe1a02fa/0/text: I'm older than you.
+4996be67/0/text: (Actually...)
+387bfeab/0/text: (That's true... After all, he's an elf...)
+e4f217bc/0/text: Ha... Ahem. Let's change the topic.
+3c6de688/0/text: I saw you've been snooping around. Are you looking for something?
+3c67fcf6/2/text: ...
+4dfa1a0b/0/text: (What's wrong with his frown?) (Is it so painful to talk to me?)
+e50b36aa/0/text: Um, trust me, I'm not a bad person.
+700dd05e/0/text: I'm quite fond of the elves!
+efb0aa74/0/text: I went on a tour in the forest yesterday!
+3b257173/0/text: (Well, I got kicked out though...)
+842ac63e/0/text: And I was with a pink-haired...
+c05dad5b/0/text: I saw.
+b9cc9c/0/text: Hmm?
+69bdc7a3/0/text: I saw you. You spoke with Cheri yesterday.
+3906ed6/0/text: Yup. Heeheehee. You saw us, huh?
+3e8caf09/0/text: And Grandpa Angatu drove you away.
+83ef84ca/0/text: ...
+9cfe77f/0/text: Right. That did happen.
+c2e1b0e2/0/text: (But he calls him Grandpa Angatu?)
+3c67fcf6/3/text: ...
+6445965e/0/text: Let's make a deal.
+460b6dbe/0/text: What?
+e53f288d/0/text: You want to get into the forest, don't you?
+70937244/0/text: Head to the best-known dessert shop in the town and bring me a honey cream donut.
+38f73398/0/text: Once you've done it, I'll go talk to Grandpa Angatu and help you get permission into the forest.
+ffe14af5/0/text: !!
+d40b1031/0/text: Rather than sneaking into the forest with Cheri's help, You'll get a real free pass.
+e6670a5b/0/text: (So, it is just a donut, I will do it!)
+b6380e41/0/text: No problem! Count on me!
+53dea2c3/0/text: I'll get you the best donut across the entire Silvano!

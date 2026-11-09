@@ -1,0 +1,41 @@
+c52959ec/0/name: A wolf?
+9fd32712/0/text: Grumble... Grumble...
+5fd2e297/0/text: ...Growls...
+625d6272/0/name: Human Woman
+ab246be/0/text: Whoa...!
+ab246be/1/text: You're a fast drinker, aren't you!
+b565399a/0/text: You must be quite thirsty.
+b565399a/1/text: Good boy, good boy~
+b60512d1/0/text: ......
+78247c44/0/text: Are you hungry~?
+78247c44/1/text: I've got some beef jerky!
+98ffe772/0/text: I mean, it's seasoned for humans,
+98ffe772/1/text: so it might be a bit salty and not the healthiest for you...
+5d22b6d/0/text: but let's not worry about that right now, ok?
+5d22b6d/1/text: Here, you can have this half!
+af492005/0/text: ...Growls...
+c4683b71/0/text: Alright, alright, I'm probably annoying you, aren't I?
+c4683b71/1/text: Haha~ I get it, I'll leave you alone now!
+4deb3519/0/text: Thanks for not eating me. Just between you and me,
+4deb3519/1/text: I was actually pretty terrified just now...!
+ad72fb6c/0/text: Okay, bye-bye!
+ad72fb6c/1/text: Don't go getting lost again, Mr. Wolf~
+c776ea96/0/text: ......
+7cc9de97/0/text: What a weird human woman.
+32b9092b/0/text: Her first instinct upon seeing a wolf wasn't to run or grab a weapon,
+32b9092b/1/text: but to offer it water and jerky.
+cac7178/0/text: What gives?
+f766c20b/0/text: ...I don't get it.
+eb6c856b/0/text: Has she been brainwashed by fairy tales?
+eb6c856b/1/text: Does she think she's some princess who can talk to animals?
+181d9b55/0/text: ...Grrrrumble...
+97c0076b/0/text: ...Well, thanks to the princess and her delusions,
+97c0076b/1/text: this body is saved.
+f835cec1/0/text: It would've been a waste to ditch this wolf body,
+f835cec1/1/text: at least before I've mapped out the biology and habits of wolves. But, just now...
+c776ea96/1/text: ......
+bd9d4cd2/0/text: Replenished some water. After a bit more rest, my limbs should move normally again.
+d8537178/0/text: Beef jerky...
+e234ec9d/0/text: ...Chew chew...
+c776ea96/2/text: ......
+48d58789/0/text: Ugh, so salty.

@@ -1,0 +1,67 @@
+ed619f42/0/name: Pelanggan Bar A
+981093ee/0/name: Pelanggan Bar B
+460ec172/0/name: Tikus
+467eaee8/0/text: Cheers!
+9d03b1a4/0/text: Haah——
+9d03b1a4/1/text: Minum-minum setelah pulang kerja memang sangat memuaskan!
+335e848a/0/text: Benar.
+335e848a/1/text: Hahaha!
+f816958b/0/text: ……
+72a57a3/0/text: Berisik banget.
+55135bcd/0/text: Karena indra pendengaran sangat peka,
+55135bcd/1/text: aku merasa sangat nggak nyaman di tempat seperti ini.
+7834e3a3/0/text: Bagaimana tikus got yang sebenarnya menahan suara-suara menusuk ini,
+7834e3a3/1/text: sambil mencari makanan dengan akurat?
+3ce80fdc/0/text: Berbagai bau yang kuat juga bercampur jadi satu…
+3ce80fdc/1/text: …Menyebalkan banget.
+3a5603a/0/text: Bukankah dulu kalian sering berlarian dan berburu di lahan yang luas?
+337fe86f/0/text: …Itu sudah sejarah kapan tahun?
+1534fabf/0/text: Tikus liar kini sudah menjadi tikus got.
+1534fabf/1/text: Tempat mereka mencari makanan pun berubah dari sela-sela ranting dan bebatuan menjadi bangunan buatan manusia yang kotor dan berantakan.
+3a8c1b02/0/text: Ngomong-ngomong,
+3a8c1b02/1/text: Akhir-akhir ini cuaca menjadi semakin panas, ya?
+d7118464/0/text: ——Manusia.
+b01580b6/0/text: Saat ini, mereka adalah spesies cerdas terbesar di Orb.
+7ad9956f/0/text: Ciri khas spesies berumur pendek yang memiliki dorongan berkembang biak yang kuat,
+7ad9956f/1/text: menyebabkan pertumbuhan populasi mereka meledak dengan cepat.
+af6aeb87/0/text: Bagi spesies lain, hal ini benar-benar seperti bencana.
+c91a3af/0/text: Iya, sudah beberapa hari nggak hujan.
+c91a3af/1/text: Orang-orang pun jadi kering karena terik matahari——
+27cf6bdb/0/text: Sebenarnya, apa perbedaan antara spesies cerdas dan binatang buas?
+c0fd0ad6/0/text: Binatang buas nggak punya kendali diri, hanya bisa mengikuti naluri mereka,
+c0fd0ad6/1/text: dan menjarah segalanya.
+4480028a/0/text: Tapi, bukankah manusia juga selalu menjarah habitat dan sumber daya makhluk lain?
+8a2f02/0/text: Nggak. Mungkin…
+16702226/0/text: Manusia yang memiliki kecerdasan, tapi malah tetap menghancurkan segala sesuatu di sekitarnya tanpa belas kasihan,
+16702226/1/text: untuk memuaskan keinginan mereka yang tiada habisnya, dibanding binatang buas lebih——
+7b146d41/0/text: Haih, benar.
+7b146d41/1/text: Nggak ada yang asyik juga… Eh?
+5306321c/0/text: Kenapa?
+b0d9c961/0/text: Lihat! Sebelah sana!
+b0d9c961/1/text: Tikusnya besar banget!
+905d0762/0/name: Tikus?
+1795ecf0/0/text: !
+aa97ae18/0/text: Gawat… menghabiskan terlalu banyak waktu untuk hal-hal nggak penting.
+47472d2a/0/text: Cit——?!
+ac1da6bd/0/text: Hei!
+ac1da6bd/1/text: Aku akan menjatuhkannya!
+2eb7b696/0/text: Orang-orang ini…
+cfd947ff/0/text: Ssttt! Ssttt! Jangan menjatuhkannya!
+cfd947ff/1/text: Bos pasti akan marah nanti!
+7e3e4860/0/text: Haih, tapi,
+7e3e4860/1/text: jarang-jarang ada yang asyik…!
+26ef0133/0/text: Tenang, lihatlah.
+26ef0133/1/text: Aku bawa korek api.
+25396bc/0/text: Nanti kita bakar dia dari… bawah…
+25396bc/1/text: ……ke…atas……
+ce31395f/0/text: …Mereka berniat jahat.
+ce31395f/1/text: Aku harus kabur.
+778f43e5/0/text: Rasa sakit setiap kali terpisah dari tubuh sudah cukup menyebalkan.
+778f43e5/1/text: Aku nggak mau disiksa oleh ide buruk begitu dan menderita rasa sakit tambahan.
+8c2c651c/0/text: Hei, hewan kecil, jangan kabur!
+76d96377/0/text: Ha! Rasakan——
+9505303f/0/text: …!
+6c37b023/0/text: Gawat——
+6deae9c5/0/name: ???
+9c0988d0/0/text: Astaga! Kenapa tiba-tiba awannya jadi sebanyak ini?!
+9c0988d0/1/text: Apa akan terjadi longsoran batu?

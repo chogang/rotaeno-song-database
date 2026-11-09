@@ -1,0 +1,134 @@
+e368b52e/0/text: Apa sudah selesai mengemas tas? 
+e368b52e/1/text: Hati-hati, jangan sampai ada yang tertinggal.
+a425a767/0/text: Ya ya, aku sudah memeriksanya, tidak ada yang tertinggal!
+445b9f7/0/text: Selain bagian Hoppe, oleh-oleh khas sudah dikirim semua...
+eb45a194/0/text: Baguslah, setelah menemukan teman baikmu, 
+eb45a194/1/text: Kamu harus datang lagi ke Orb ya.
+b730ed70/0/text: Ilot di sini terlalu singkat, 
+b730ed70/1/text: Sayang sekali hanya bisa melihat pemandangan di sekitar Desa Geo.
+d9b0036a/0/text: Sisi barat Orb memiliki banyak pemandangan yang tidak ada di sini, 
+d9b0036a/1/text: Sungguh indah.
+9110a821/0/text: Terutama Gurun Cesis! 
+9110a821/1/text: Lautan bintang yang indah bisa dilihat malam hari.
+b9a30110/0/text: Ah, 
+b9a30110/1/text: Di sana juga tempat pertama kali aku bertemu dengan sayangku.
+7f6808c9/0/text: Pertemuan pertama Tuan dan Nyonya ya...
+11fa7f8f/0/text: Um, aku sungguh penasaran seperti apa bentuk Tuan saat itu...?
+2814ed00/0/text: Saat itu aku adalah seekor serigala.
+272c51b0/0/text: Karena kekurangan cairan yang sangat parah, 
+272c51b0/1/text: Tubuh saat itu sebenarnya sudah hampir tidak bisa dipakai.
+9e5d8e42/0/text: Tapi jarang sekali ada makhluk hidup di Gurun Cesis, 
+9e5d8e42/1/text: Aku hanya bisa bertahan karena tidak menemukan makhluk hidup untuk berpindah.
+9f8cdbe0/0/text: ...Pada saat itu, 
+9f8cdbe0/1/text: Dia muncul di hadapanku.
+553f8286/0/text: Bagaikan seorang dewi.
+d2a58412/0/text: ...Star Soul yang memanduku untuk menemukanmu.
+2cb6e073/0/text: Pasti karena dia merasakan kekasih yang ditakdirkan untukku sedang memerlukan bantuanku, 
+2cb6e073/1/text: Lalu memandu kami untuk menemukan satu sama lain.
+73537d8d/0/text: Sayangku... 
+73537d8d/1/text: Aku mencintaimu.
+7b410b76/0/text: Aku juga mencintaimu! 
+7b410b76/1/text: Paling mencintaimu!
+90758a04/0/text: Uwah... 
+90758a04/1/text: Mata anjing pemandu titaniumku...
+39b79201/0/text: ...Ah.
+ed54f889/0/text: Oh ya, Ilot, 
+ed54f889/1/text: Ini untukmu.
+87222429/0/text: Eh? Ini...
+e1b0beec/0/text: Batu yang hitam sekali.
+dd245337/0/text: Ini adalah 『Batu Takdir』, 
+dd245337/1/text: Ini adalah batu khas Orb.
+1c783566/0/text: Menurut legenda, semangat jiwa Orb tersimpan di dalam Batu Takdir. 
+1c783566/1/text: Saat merasa kehilangan, memohonlah dengan tulus kepada 『Batu Takdir』, 
+1c783566/2/text: Star Soul Orb akan memandu kamu ke jalan yang benar...
+b8979d01/0/text: Wah...
+868ee55d/0/text: Emm... 
+868ee55d/1/text: Itu, apakah ini sangat mahal...? 
+868ee55d/2/text: Aku tidak enak hati jika begitu mahal...
+245c4e/0/text: Tidak mahal, tidak mahal... 
+245c4e/1/text: Anggap saja hadiah perpisahan untuk Ilot dari kami.
+1bab2055/0/text: Jika ingin berterima kasih pada kami, 
+1bab2055/1/text: Ingat untuk datang lagi bermain.
+f46c1dd3/0/text: Semoga kamu segera menemukan teman baikmu...
+44e32b45/0/text: Nyonya...
+34802094/0/text: ...Baik! 
+34802094/1/text: Terima kasih Nyonya dan Tuan!
+bb06ba61/0/text: Bye-bye!
+a4c8df0f/0/text: Oh, Ilot, halo! 
+a4c8df0f/1/text: Eh, melihat tas-tas ini...
+766191e8/0/text: Kamu mau pulang? 
+766191e8/1/text: Rasanya kamu belum lama datang, kan?
+18da3850/0/text: Ya! 
+18da3850/1/text: Karena ada hal mendesak, aku tidak bisa terus berjalan-jalan...
+3ced2eb4/0/text: Oh, kalau begitu apa boleh buat,
+28f92d20/0/text: ...Bukan hal buruk, kan? 
+28f92d20/1/text: Jika butuh bantuan, katakan saja!
+f35230f4/0/text: Semoga...
+34460f0/0/text: Tidak, seharusnya tidak ada apa-apa, 
+34460f0/1/text: Terima kasih Paman Noah.
+14915889/0/text: Baguslah, baguslah...
+189a08a/0/text: Jika ada sesuatu, hubungi Paman kapan saja, 
+189a08a/1/text: Selama Paman bisa membantu, apa pun bukan masalah!
+3fc8ee85/0/text: Huhu, 
+3fc8ee85/1/text: Banyak sekali orang baik di Orb...
+2119a2a2/0/text: Terima kasih Paman!!! 
+2119a2a2/1/text: Dadah.........!
+9619c1cc/0/text: Ya, hari ini sangat cerah ☆ 
+9619c1cc/1/text: Aku sungguh memilih hari yang baik!
+63ff91cb/0/text: Awalnya jelas-jelas penuh pikiran 『Besok segera pulang ke Aquaria! 』, 
+63ff91cb/1/text: Sekarang tanpa sadar sudah tinggal hampir satu bulan di Orb.
+70e8282/0/text: Dulu, tidak terbayangkan aku bisa bertahan di cuaca yang begitu panas, 
+70e8282/1/text: Ranjang yang tidak enak ditiduri, koneksi yang begitu buruk...
+22cd480/0/text: Ini... 
+22cd480/1/text: Apakah ini perkembangan?
+8ef0f4a1/0/text: Tapi, hal-hal yang hanya pernah dilihat di layar, 
+8ef0f4a1/1/text: Sekarang muncul di depan mataku...
+9cddb486/0/text: Rasanya memang tidak buruk.
+70870b37/0/text: ...
+a2c164bc/0/text: Belum ada pesan baru dari Hoppe...
+c286becd/0/text: Ternyata, pesan yang sebelumnya, 
+c286becd/1/text: Memang sengaja tidak memberitahu tempat dia sekarang berada?
+4aa2243f/0/text: Hmph, kamu kira aku tidak dapat menemukan kamu!
+1b7ec4e6/0/text: Lugu sekali!
+745627dc/0/text: Aku adalah detektif idola yang menjelajahi dunia Nona I Lot!
+a0536160/0/text: Nona, 
+a0536160/1/text: Petunjuk yang kamu tinggalkan di dalam surat sudah cukup untukku menemukan kebenarannya!
+d1ed3a16/0/text: 『Kebalikan dengan tanaman hijau di tempatku, Orb penuh pasir beterbangan, 
+d1ed3a16/1/text: ...Ah, tapi perselisihan antara klan yang sulit diselesaikan adalah satu kesamaan. 』
+904adf2c/0/text: Tanaman hijau, ada perselisihan antara klan... 
+904adf2c/1/text: Benar, koneksinya juga cukup bagus...
+edf4eb1e/0/text: Sepertinya Hoppe juga baru sampai di planet tempat dia berada sekarang, 
+edf4eb1e/1/text: Seharusnya dia akan tinggal beberapa lama untuk mengamati, meneliti, hal seperti itu...
+124ed74/0/text: Kalau begitu, sepertinya aku masih memiliki...
+79f64330/0/text: Waktu 2 sampai 3 bulan! 
+79f64330/1/text: Ya, sudah cukup!
+22fd70e2/0/text: Hum hum... 
+22fd70e2/1/text: Hal kecil seperti ini tidak menyulitkan aku...
+a23d615b/0/text: Tampilkan planet dengan tanaman yang beragam, koneksi yang stabil dan terdapat perselisihan klan skala besar!
+fb14b92e/0/text: Sedang menampilkan planet dengan tanaman yang beragam, koneksi yang stabil dan terdapat perselisihan klan skala besar...
+ef97492a/0/text: Haha, jangan anggap remeh kekuatan teknologi!
+c084c080/0/text: Sudah mendapatkan hasil yang memenuhi syarat Anda.
+95d8ab52/0/text: Emm...
+45040c3/0/text: Planet yang memenuhi syarat... 
+45040c3/1/text: Tak disangka...cukup banyak...
+4bc50841/0/text: Hii...huuff... 
+4bc50841/1/text: Hii...huuff...
+94fd8efa/0/text: Tidak apa, tidak apa, 
+94fd8efa/1/text: Percayalah pada diri sendiri!
+7dd4c6ec/0/text: Melihat dari sudut pandang Hoppe, 
+7dd4c6ec/1/text: Memilih sesuai hobi dia, pasti tidak apa-apa!
+2423e0f2/0/text: Lagipula, aku masih memiliki Batu Takdir! 
+2423e0f2/1/text: Tuan Star Soul akan memanduku!
+52bc2b3d/0/text: Tuan Star Soul, tolonglah... 
+52bc2b3d/1/text: Aku bersedia setahun, tidak, sebulan tidak membeli merchandise,
+b95d9f64/0/text: Tuan Star Soul, bantulah aku menemukan Hoppe!
+ed7005e3/0/text: Baik... Kuputuskan...memilih...
+8fb22493/0/text: Planet Silvano!
+ae9eeffd/0/text: Baiklah, sebelum kesulitan memilih, 
+ae9eeffd/1/text: Cepat!
+c27a15e7/0/text: Mengatur jalur Spaceport!
+7ceef59b/0/text: Sedang mengatur jalur terdekat Spaceport.
+c7fe76dd/0/text: Pengaturan berhasil.
+2b76a8dd/0/text: Semoga perjalanan Anda menyenangkan.
+13639e9d/0/text: Tunggu aku, Hoppe!
+756c921c/0/text: Aku pasti akan menemukan kamu!

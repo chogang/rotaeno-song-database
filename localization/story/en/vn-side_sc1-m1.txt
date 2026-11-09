@@ -1,0 +1,79 @@
+d825fb7d/0/text: ~♫~Hum, hum~♪
+cf9623dc/0/text: ...Ilot, you seem to be in great spirits!
+273f4fc8/0/text: Are you really that happy just because you don't have P.E. today?
+c391b9/0/text: Of course!!!
+4eba3be6/0/text: I've always said it, P.E. is basically just mandatory labor for me!
+c677818a/0/text: It's primitive, something that should never exist in modern society!
+12a381fc/0/text: ......
+4d3f8d69/0/text: Why? You don't believe me?
+df708931/0/text: Oh, foolish mortal... Look! Even the Rainy Doll, I mean, the God of Rain has answered my prayers!
+2c5c4d3f/0/text: But the weather report says...
+9b749431/0/text: Shh... Mortal, say no more!
+12a381fc/1/text: ......
+539c208/0/text: Calm your mind and listen!
+19b975f0/0/text: This is the will of God!
+d535920e/0/text: It's a premonition!
+8ef982b0/0/text: Just you wait!
+53330e5e/0/text: A brand new world... is... coming!!!
+12a381fc/2/text: ......
+1992a07/0/text: I have no idea where to even begin...
+1992a07/1/text: I think it's better not to go too deep into it...?
+a72fc6e6/0/text: Well... It's true that the P.E. class is canceled due to the rain...
+a72fc6e6/1/text: As for the rest, I'm happy as long as you are...?
+22e7c8cd/0/text: But it's not good for a young one like you to hate exercising...
+22e7c8cd/1/text: Would you develop muscle loss in advance...?
+d12ab294/0/text: That's worrying...
+d12ab294/1/text: I should make her exercise as much as I can...
+179e76e5/0/text: Hehe... Speechless, aren't you?
+179e76e5/1/text: You know I was right☆
+2e5f4871/0/text: Yes-yes, favorite child of the God of Rain.
+8bdf2502/0/text: Hehe☆
+2c0e9547/0/text: Hum, hum～♪
+2c0e9547/1/text: ～♪～Hum～♫
+d78e8b3c/0/text: You've been humming this tune since just now...
+f3f8c5bd/0/text: Is that a newly released song?
+f3f8c5bd/1/text: I don't think I've heard this tune before.
+8f7d5316/0/text: Wow!
+8f7d5316/1/text: What keen ears you have!
+1e170496/0/text: You're right☆
+1e170496/1/text: This song was just released by Orlan yesterday!
+7aa23a6f/0/text: This new song titled "From the End to Beginning" is themed around expectations for the New Year!
+152f9e08/0/text: Isn't it nice?
+92ded09f/0/text: Indeed, it has a soothing tune.
+a4a1861/0/text: I know, right?
+70fc226a/0/text: Oh, Hoppe...
+70fc226a/1/text: Tell me, why are there such talented people in this world?
+18b4527b/0/text: He's only a few years older, but he's already debuted for seven years... Seven years, mind you!
+18b4527b/1/text: Not to mention he's a great singer with many hit songs, he even creates his own arrangements and lyrics...!
+1c0fa790/0/text: Is it even possible for someone this talented to exist?!
+1c0fa790/1/text: Oh Lord, did you use a cheat code to create this person...?!
+8fdbbc13/0/text: What does that mean...?
+8fdbbc13/1/text: If I were to ask her, she would probably go on and on... I think I should forget about it.
+db2ef25f/0/text: After all, whenever the topic of idols or entertainment-related topics comes up...
+db2ef25f/1/text: Ilot becomes unusually enthusiastic...
+e9e58e6f/0/text: I really wish she could channel some of that enthusiasm into her studies...
+e9e58e6f/1/text: Or into sports...?
+b40a8dbe/0/text: Hmm...
+b40a8dbe/1/text: Orlan is that amazing because he works really hard, right?
+c10d0f35/0/text: In a vast universe where new idols debut daily, being able to smoothly transition from a child star to a songwriter...
+c10d0f35/1/text: ...I'm sure it takes more than talent to go this far!
+31b5f0b5/0/text: Yes, you're right!
+31b5f0b5/1/text: Orlan is the best!
+b4cebee7/0/text: Yes, yes.
+66d9c7b1/0/text: And the New Year is coming...
+e3fb551c/0/text: Speaking of which...
+e3fb551c/1/text: The year is almost coming to an end before I knew it.
+db909909/0/text: Yeah...
+db909909/1/text: There's only one month left until the New Year...
+490ab93b/0/text: And New Year's Eve is...
+3b6498bf/0/text: !!
+3b6498bf/1/text: Wait!
+63e4f430/0/text: Hmm...?
+2f7066b6/0/text: Hoppe!
+2f7066b6/1/text: New Year's Eve falls on a Saturday!
+193e8e43/0/text: Let me see...
+193e8e43/1/text: Oh, you're right.
+fe35f819/0/text: Yay!
+fe35f819/1/text: Let's do it!
+1f360bde/0/text: Do what...?
+cafdd7b5/0/text: New Year's Eve party!

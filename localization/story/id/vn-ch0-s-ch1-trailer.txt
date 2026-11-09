@@ -1,0 +1,23 @@
+da2d810c/0/text: Perkiraan berikutnya|Planet Flying Yellow Sand
+511e938e/0/text: ...Kubilang... lari lebih cepat,
+511e938e/1/text: Kamu tahu kamu sedang melarikan diri, kan? !
+34397fdc/0/text: Betul, betul!
+796d3423/0/text: Bukankah "Hati-hati dengan batu jatuh" adalah hal pertama yang diperhatikan dalam perjalanan?
+796d3423/1/text: Apakah kamu tidak mendengarkan instruksi pelayan ketika menyewa pesawat?
+5ce6ec01/0/text: Desa Geo, atau sebagian besar desa Orb,
+5ce6ec01/1/text: Tidak hanya ditinggali ras manusia.
+99c58d1a/0/text: Tidak hanya ras manusia...?
+9c05853e/0/text: Bagaimanapun, kalau melihat hal-hal aneh di desa, seperti manusia yang tidak terlihat normal, atau makhluk yang berperilaku aneh, waspadalah.
+2f4d57b7/0/text: Itu belum tentu AI, tapi Vickers.
+41e57752/0/text: Ilot yang terkasih,
+41e57752/1/text: Semoga semuanya baik-baik saja di sana.
+d60a7ede/0/text: ...Ada yang salah.
+5e151b7d/0/text: Meskipun sulit dikatakan...
+5e151b7d/1/text: Tapi dalam tulisan selalu tersirat bahwa Hoppe sedang dalam suasana hati yang buruk.
+a15eba62/0/text: Seperti...
+d00046ec/0/text: Jiwa adalah benda tanpa fisik...
+d00046ec/1/text: Apakah bisa dikenali?
+6750a81b/0/text: Jika Hoppe berganti tubuh dan menjadi orang lain atau ras lain,
+6750a81b/1/text: ...Bisakah aku mengenalnya?
+9b2b81d3/0/text: Perjalanan Ilot baru benar-benar dimulai sekarang.
+1cf0b019/0/text: Silakan nantikan Chapter 2: Planet Flying Yellow Sand

@@ -1,0 +1,105 @@
+2447267/0/text: Ilot.
+2447267/1/text: Ilot.
+43adf7af/0/text: I know you can hear me.
+43adf7af/1/text: Lying is bad.
+93f621e9/0/text: Do your homework.
+93f621e9/1/text: Stop watching cartoons.
+82b06699/0/text: Alas.
+82b06699/1/text:  Don't be so rigid.
+82b06699/2/text: I'm a fool, whatever. Even if I finish my homework, I will still get a zero.
+ce2d2f1a/0/text: We should manage our time well.
+ce2d2f1a/1/text: Leave the unchangeable things alone.
+5266ba24/0/text: Ilot, stop being unreasonable.
+84a577a5/0/text: I'm not.
+37b1ce23/0/text: ...
+973c8384/0/text: Ah!!!
+973c8384/1/text:  Why did you turn it off?!!
+973c8384/2/text: Soon comes the most intense part!!!
+fb5e2fd7/0/text: Turn it on!!!
+5da4c6e/0/text: The TV is scheduled to start three hours from now.
+afeedbc4/0/text: Please finish your homework during this time.
+d20447b4/0/text: Humph!
+d20447b4/1/text: You're really annoying!!!
+7b77feab/0/text: Ilot, where are you going?
+e0736350/0/text: Outside!
+9f14bfa6/0/text: As long as I return before five,
+9f14bfa6/1/text: you can't stop me, right?
+4147c194/0/text: It's in the Aquaria Orphan Rights Law!!!
+91833714/0/text: ...
+d3d2b5e9/0/text: Never will I cave to evil.
+d3d2b5e9/1/text: Give it up! !
+fa85dcf7/0/text: Ugh.
+348f08c/0/text: What a pity...
+348f08c/1/text: It's the series finale.
+c6d5f52e/0/text: ?
+b0d5e9ce/0/text: Is this noise coming from next door?
+a348fb5c/0/text: I've never met someone who lives next door before.
+ffe63e3d/0/text: I doubted if it was a vacant house.
+ffe63e3d/1/text: After I heard some faint noise coming from there, I realized someone was living there.
+76576a1b/0/text: What kind of people could they be?
+e5e6ebf/0/name: ???
+cf33da34/0/text: ...Oh.
+8161759/0/text: Ugh?
+8161759/1/text: A Kid? Seems to be my age.
+e4ff1d73/0/text: Are you...
+e4ff1d73/1/text: my neighbor...
+e4ff1d73/2/text: ?
+37003aa2/0/text: Yes.
+3aafc4b2/0/text: I've never seen you before.
+3aafc4b2/1/text: I thought the house was empty.
+c2794336/0/text: Me, too!
+99704a9d/0/text: My nanny robot always told me the house next door was empty.
+99704a9d/1/text: But I often hear the TV from your home.
+99704a9d/2/text: But it explained that the TV was from somewhere else.
+ceb96013/0/text: Why did my nanny robot lie to me?
+ceb96013/1/text: This is strange.
+ce7fb7f9/0/text: Well, maybe it doesn't want you to meet me.
+14e87ebd/0/text: ???
+14e87ebd/1/text: Why???
+fda13137/0/text: You seem like a good kid, so maybe that's why.
+3a516c15/0/text: Or my nanny robot tattled to your nanny robot
+3a516c15/1/text: that I'm a bad kid.
+19afd646/0/text: How can we humans grasp what robots are thinking?
+19afd646/1/text: Perhaps all they want is for us to focus on our studies and become the light of the planet sooner.
+81dc11da/0/text: Really?
+b89e4fd5/0/text: Reading books is important.
+b89e4fd5/1/text: But I also believe
+b89e4fd5/2/text: interacting with our peers is crucial.
+8220c81a/0/text: Oh, I got it.
+8220c81a/1/text: She's a good kid.
+b3bae466/0/text: No wonder her nanny robot is concerned that I'll "contaminate" her.
+4440afb8/0/text: What?
+12b04858/0/text: By the way,
+2c56f30a/0/text: is it okay if I visit your home?
+a58045ce/0/text: Huh?
+a58045ce/1/text: Right now?
+9bc4a499/0/text: Yep.
+9bc4a499/1/text: Are you currently leaving?
+417445f1/0/text: Mmm, not really.
+417445f1/1/text: I intended to go for a walk
+417445f1/2/text: to exercise a little bit.
+635a3824/0/text: What about
+635a3824/1/text: going for a walk together later?
+635a3824/2/text: Wouldn't it be less boring?
+e00a03d9/0/text: Let me now visit your home.
+e00a03d9/1/text: Can we watch <color=yellow>Destined Love - Donut Angel</color>'s finale? !
+e00a03d9/2/text: Ugh?
+e00a03d9/3/text:  Is it okay?
+1534ccf9/0/text: My TV doesn't work, and it can only be fixed tonight.
+1534ccf9/1/text: But I truly want to see the finale.
+fb1aa973/0/text: Please???
+fb1aa973/1/text: Please!
+50af66ce/0/text: I'm not sure what kind of show it is.
+50af66ce/1/text: But...
+aeb3cafb/0/text: Let's watch it together.
+b29586fb/0/text: Great!!!
+b29586fb/1/text: Hooray! You're a nice person!、!!
+b29586fb/2/text: Let's get in!!!
+8ea4bfa2/0/text: Didn't you see <color=yellow>Destined Love - Donut Angel</color>? !
+8ea4bfa2/1/text: It's a masterpiece!
+e2ac2f56/0/text: But it's okay. I'll introduce it to you.
+2897f307/0/text: By the way, what's your name? My name is Ilot!
+fe107119/0/text: Thank you...
+fe107119/1/text: M-my name is Hoppe!
+5cfe22b6/0/text: Ilot...
+59c4e989/0/text: Nice to meet you!

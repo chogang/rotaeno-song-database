@@ -1,0 +1,117 @@
+5e6cdc93/0/name: Anggota A Heartthrob Girls
+5574bf7b/0/name: Anggota B Heartthrob Girls
+d5f7bcc7/0/name: Anggota C Heartthrob Girls
+471e628f/0/name: Istri Lime
+554168b9/0/text: Tarik napas－－ Lepas－－
+554168b9/1/text: Tarik napas－－ Lepas－－
+4754134c/0/text: Tarik napas dalam-dalam…!
+19396848/0/text: ……
+989453e/0/name: Pelanggan Baik
+880e1bc5/0/text: Kalau orang yang kamu kagumi adalah idola sehebat itu,
+880e1bc5/1/text: aku yakin kamu juga pasti punya beberapa sisi yang sama dengannya.
+6d8e46f5/0/text: Jadi, kalau mulai gugup,
+6d8e46f5/1/text: coba pikirkan kira-kira apa yang akan dia lakukan?
+e2dd2b78/0/text: Lady Lulua…
+e2dd2b78/1/text: akan lakukan apa……
+5d8a684d/0/text: ……
+c9a30b44/0/text: Kalau dia,
+c9a30b44/1/text: pastinya……
+5f68368d/0/text: Gugup atau membuat salah pun…
+5f68368d/1/text: ——juga nggak akan goyah!
+d98cf214/0/text: Karena——
+1179a133/0/text: …"Menjadi idola itu takdirku".
+129cf285/0/text: ……
+7b7288b6/0/text: Jolly, menunjukkan senyuman yang tenang banget nih.
+8eb1497b/0/text: Ya! Ada aura keren gitu!
+2c8479dd/0/text: …Ya!
+28749324/0/text: Semuanya, kali ini……
+3166f52d/0/text: Aku nggak akan membiarkan kalian,
+3166f52d/1/text: dan para penonton kecewa…!
+c2aeeb19/0/name: Bertiga
+5f1e7c3/0/text: ……
+d19a1828/0/text: Oke!!!
+556e8331/0/text: Hehe♪
+556e8331/1/text: Ayo siap-siap tampil~!
+c9740cd0/0/name: Semua
+94e63e18/0/text: "Heartthrob Girls－－Fighting Fighting Fighting!"
+8303e659/0/text: Apa motto grup kita?
+5a6fd4b/0/text: "Menjadi gadis yang paling membuat orang berdebar!"
+d31652cd/0/text: Apa target kita?
+b403c4/0/text: "Menjadi girl group hebat seperti 
+b403c4/1/text: !!!"
+f874f970/0/text: "Heartthrob Girls, mulai sekarang,
+f874f970/1/text: Operasi bikin jantung berdebar－－ Resmi dimulai!"
+eaca576d/0/text: Itu, ya~
+eaca576d/1/text: Sepertinya aku sedikit kehilangan arah, hehe☆
+977eb784/0/text: Jadi~
+977eb784/1/text: Bisakah kamu membantuku?
+4aba8d44/0/text: Dibanding kemarin, penontonnya kayaknya lebih sedikit, ya……
+226b9f74/0/text: Ternyata insiden penampilan kemarin berhenti di tengah jalan berpengaruh juga……
+adbb6a99/0/text: …!
+9a99e356/0/text: Orang itu, juga hadir di debut perdana…!
+9d4b7630/0/text: Walaupun sudah menonton penampilanku yang sepayah itu,
+9d4b7630/1/text: tapi dia tetap mau datang……!
+544ca4a3/0/text: Serius?!
+544ca4a3/1/text: Huh~ Syukurlah, selamat!
+3b4a2fb9/0/text: ——Mana mungkin aku tega mengecewakan orang yang sebaik itu lagi!!!
+8f5e6639/0/text: Step by step ♪～ on the platform, hear the engines running ♫
+c2aeeb19/1/name: Bertiga
+d93d0f23/0/text: !
+54ffcf56/0/text: Hearts are led～by the ringing bell I hear you coming♪～
+37ba0552/0/text: You take my hand～feel the weight pull off and now we're speeding♫
+7b562946/0/text: Through the metro melodies, singing loud——
+69e0d5ca/0/text: ——Aku, berhasil…!
+8a0e030f/0/name: ???
+9e85ebf5/0/text: Jolly——
+605c4aff/0/text: …?!
+7a0f315b/0/text: Jolly— Jolly——!
+7a0f315b/1/text: Hebatnya tak tertandingi——!!!
+ddd695b6/0/text: <Heartthrob Girls>——
+ddd695b6/1/text: Jaya!!!
+a52c8de1/0/name: NPC A
+5f509633/0/text: Eh? Di situ kok,
+5f509633/1/text: ramai banget…?
+fdc58f42/0/name: NPC B
+8e16891a/0/text: Hei, coba lihat.
+8e16891a/1/text: Di antara keramaian, ada banyak slime!
+a52c8de1/1/name: NPC A
+ff9fb3a9/0/text: Penampilan yang disukai slime dan manusia?
+ff9fb3a9/1/text: Kayaknya lumayan menarik… Ayo pergi lihat?
+b4b7c05b/0/text: A-ayah…?!
+e2ec4d1c/0/text: Satu, dua… ba-banyak banget ayah…!!!
+98b545c3/0/text: Ayah… sedang mengkloning diri…?!
+ee379a6c/0/text: !
+ee379a6c/1/text: Ibu juga…!!!
+db5eb1a4/0/text: Hei, itu fans setiamu, Jolly~?
+d73eacb3/0/text: Aku iri banget~
+1abbd66f/0/text: Bahagia sekali~
+507ea5d7/0/text: Kalian……
+c49b1361/0/text: Jelas-jelas tahu itu orang tuaku……!
+a59175fa/0/text: …Ya!!!
+c8688139/0/text: Aku yang sekarang,
+c8688139/1/text: bahagia banget!
+537e36c3/0/text: Untuk membalas kebahagiaan ini——
+537e36c3/1/text: Aku akan berusaha sekuat tenaga!!!
+c9740cd0/1/name: Semua
+3c0f5d53/0/text: 「「「「Take a trip far away☆
+3c0f5d53/1/text: Ticket's punched, we're on the way～ ♫」」」」
+4bf90f3f/0/text: 「「「「Board the party train♫
+4bf90f3f/1/text: The fun is here to stay！」」」」
+592e8ebe/0/text: Oh, oh, oh—— Jolly! Jolly!
+592e8ebe/1/text: Du-dukung seumur hidup!!!… Benar 'kan bahasanya?
+cbf35cb3/0/text: Alah, bukannya sebelumnya ayah bilang ini cuma permainan anak-anak?
+13de6c26/0/text: Kok sekarang begitu ikut jadi pendukung,
+13de6c26/1/text: malah teriak lebih keras dari siapa pun? Sampai mengkloning diri segala~?
+d302a8f8/0/text: …!
+d302a8f8/1/text: A-aku ini……!
+c1d41ac6/0/text: ……
+c7e24ad3/0/text: …Anak sudah dewasa,
+c7e24ad3/1/text: punya pikirannya sendiri.
+90cef122/0/text: Zaman juga sudah berubah.
+90cef122/1/text: masa depan generasi berikutnya jadi punya lebih banyak pilihan.
+5c09da75/0/text: Aku tahu kamu mengkhawatirkannya,
+5c09da75/1/text: tapi… coba pikirkan baik-baik.
+6d5d42/0/text: Cobalah memahami cita-cita anak,
+6d5d42/1/text: lihat sampai sejauh mana dia mau berjuang demi itu……
+68952a17/0/text: Ini juga bagian dari tugas kita sebagai orang tua.
+7b56daae/0/text: ……

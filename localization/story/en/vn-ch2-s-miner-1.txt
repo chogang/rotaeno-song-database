@@ -1,0 +1,68 @@
+5cdb3a95/0/text: Mister Noah's workshop... 
+5cdb3a95/1/text: It's here, yeah?
+848ac414/0/text: Excuse me~♪
+fc269f06/0/text: Well, well, if it isn't Ilot! 
+fc269f06/1/text: Long time no see.
+73b32653/0/text: Have you been anywhere fun?
+7c26da07/0/text: Oh... 
+7c26da07/1/text: I've just been walking around the village...
+7d426489/0/text: because it's way too hot outside...
+946f8471/0/text: But I found a way to fix that problem!
+fa1a27da/0/text: Mister, 
+fa1a27da/1/text: please accept this thank you gift!
+b382212/0/text: Ha? A gift?
+f8d629cd/0/text: Yes! Thank you for saving me! 
+f8d629cd/1/text: And for the gem.
+2d6f8d39/0/text: Ah, 
+2d6f8d39/1/text: kid, 
+2d6f8d39/2/text: you're welcome!
+7b82d84e/0/text: What is it? 
+7b82d84e/1/text: I won't accept it if it's too expensive.
+bc5b28f2/0/text: It's an on-the-go air conditioner! 
+bc5b28f2/1/text: One charge will last you all day!
+7d8bce94/0/text: Hopefully it will help you stay cool whenever you go out mining for meteorites. 
+7d8bce94/1/text: This is an Aquarian specialty, and I got a discount for being a local!
+214e68cd/0/text: I even bought one for myself, 
+214e68cd/1/text: ♬~Heat stroke is a thing of the past~♬!
+1fc1b798/0/text: Wow, appreciate it, kid! 
+1fc1b798/1/text: This is great!
+c35b831e/0/text: Oh, 
+c35b831e/1/text: is this the girl you mentioned that almost got smashed to bits?
+fa517092/0/text: She's here to give you a gift? 
+fa517092/1/text: How nice. There aren't many polite kids these days.
+3e1dff64/0/text: Ah... 
+3e1dff64/1/text: Hello.
+f9fa9486/0/text: Since you're here, 
+f9fa9486/1/text: do you want to watch me refine some of these ores?
+43c069c3/0/text: Woah... 
+43c069c3/1/text: Can I? Really?!
+fa9a6cb1/0/text: That old man loves sharing this with new friends. 
+fa9a6cb1/1/text: Go on, have a listen.
+9942a0f8/0/text: Come, look. This is the raw ore, freshly mined.
+fda34d05/0/text: No matter how many times I watch this, it's still beautiful...
+758aae70/0/text: Haha, from the look in your eyes, 
+758aae70/1/text: I can see you like it too.
+a1a7516e/0/text: These meteorites outshine many other gemstones. Everyone loves them. 
+a1a7516e/1/text: We get orders for jewelry, decorations, you name it.
+2814b45/0/text: But these meteorites are best used for generating Orb's energy supply.
+f30a1e38/0/text: Energy supply?
+e3799378/0/text: I think I remember... Orb runs off of... thermal energy?
+539f34a5/0/text: This ore continues to radiate heat after being processed, 
+539f34a5/1/text: and so 90% of our energy comes from these meteorites.
+6e31cc52/0/text: Wow...
+aecef9cf/0/text: Before the <color=orange>"falling rocks"</color> appeared, 
+aecef9cf/1/text: our planet was suffering from an energy shortage for a long time. 
+aecef9cf/2/text: We had to conserve everything - and we had very little. It was hard.
+11372eb9/0/text: Energy shortages... 
+11372eb9/1/text: Nothing like that ever happened on Aquaria.
+2b187ff2/0/text: Different planets have different problems, huh?
+3a017917/0/text: The <color=orange>"falling rocks"</color> are dangerous, yes, 
+3a017917/1/text: and countless Orbians die from them each year, 
+3a017917/2/text: but mining their precious materials has brought us hope.
+5fde439b/0/text: Ah...  
+5fde439b/1/text: In danger, there is opportunities...
+4d87247f/0/text: I see...
+1a879bb8/0/text: This conversation is getting heavy... 
+1a879bb8/1/text: They bring energy, and they bring riches, but they take life.
+86846557/0/text: ...... 
+86846557/1/text: The meteorites suddenly seem a lot less beautiful than before.

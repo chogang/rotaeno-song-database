@@ -1,0 +1,51 @@
+a510fb5/0/text: Thank you! Thank you so much!
+afa63764/0/text: It's nothing... 
+afa63764/1/text: I just got lucky.
+5ef79f8b/0/text: My conclusions would not have been possible 
+5ef79f8b/1/text: without all the hard work of those who came before me.
+62adef8c/0/text: There's no need to be so humble. 
+62adef8c/1/text: Without your assistance, who knows how long it would have taken us to find such an inconspicuous source for this natural disaster!
+a1f9544b/0/text: A fresh pair of eyes is always the solution to a dead end! 
+a1f9544b/1/text: At first, I doubted Dr. Charles when he recommended such a young lady...
+e5fc33b5/0/text: Alas, our descendants will surpass even the greatest of us in time!
+d40d09d3/0/text: I don't deserve such praise...
+6b619d72/0/text: Ah, I will be sad to see you go.
+574cfe13/0/text: You truly don't wish to remain on our planet? 
+574cfe13/1/text: Now that this disaster has been averted, returning our world to its former prosperity is no longer a pipe dream.
+38ceda3a/0/text: In effect, you are a hero. I'm certain our government will treat you with the decorum and dignity you have earned!
+5d73bf36/0/text: Thank you - and I appreciate the offer... 
+5d73bf36/1/text: But... still...
+dfa665d9/0/text: I haven't thought about staying... 
+dfa665d9/1/text: I sincerely apologize.
+9ea66f3a/0/text: Ah - 
+9ea66f3a/1/text: You and Dr. Charles both...
+19802cd2/0/text: Personally, I understand. The drive to save one's home planet is impossible to ignore. 
+19802cd2/1/text: Yet, Aquaria's disasters greatly from our own...
+e52e63cb/0/text: Ten years...
+93006dfa/0/text: Ten years of research, and the scientific community still has no answers regarding the Endless Rain. 
+93006dfa/1/text: A clever lady like you should know what that might suggest, yes, Hoppe?
+3a74994e/0/text: It suggests that our current technology may be too primitive to solve the mystery of the Endless Rain.
+7f76dc2b/0/text: And Aquaria is running out of time.
+d0324dd6/0/text: I know... 
+d0324dd6/1/text: But... I want to try harder... There might be something I haven't considered yet...
+1099f32c/0/text: ... Ah.
+2689b3e1/0/text: All right, all right. This old codger has said too much. 
+2689b3e1/1/text: You leave for the spaceport first thing tomorrow morning?
+4372f0df/0/text: Yes. 
+4372f0df/1/text: I am so grateful for the time I spent here.
+d83071f6/0/text: I have learned so much. 
+d83071f6/1/text: Thank you for your guidance!
+5da9301d/0/text: Of course. You should get some rest for your travels. 
+5da9301d/1/text: Come back and see us again when you can.
+46fb8f13/0/text: I will, I promise!
+fe395d59/0/text: Allow me one more word of advice, Hoppe...
+c48c5e40/0/text: Not all stories have happy endings.
+65546a8e/0/text: ... Try not to be too attached.
+2221764b/0/text: ......
+15bd4756/0/text: (Not all stories have... happy endings?)
+ccdcd639/0/text: (Of course I know that. It's just...)
+96da4d1c/0/text: Excuse me. Are you Hoppe?
+9cc503cf/0/text: Hello. Yes, that's me... 
+9cc503cf/1/text: Is there something I can help you with?
+beef215f/0/text: Sinners who hinder the development of our planet must be punished!!! 
+beef215f/1/text: Die!

@@ -1,0 +1,12 @@
+5e611a5f/0/name: Penduduk Desa A
+cfc2bed7/0/name: Penduduk Desa B
+b82cfc4b/0/text: Ada apa? Terlihat cemberung.
+ee855e9c/0/text: Um… Akhir-akhir ini anakku sering pergi ke tanah tandus sebelah utara…
+596a8566/0/text: Tidak tahu apa yang sedang dia lakukan, badannya selalu kotor setiap kali pulang.
+8fdffe84/0/text: Jangan-jangan dia memelihara kucing dan anjing secara diam-diam? Anak kecil suka begitu~
+b4ef87a2/0/text: Tapi dia selalu mengatakan kata-kata seperti "Teknik Spesial", "Keren" seharian…
+af2edab/0/text: Seharusnya tidak seperti itu kalau dia memelihara hewan…, lagian kami tidak melarang pemeliharaan binatang…
+94696bb9/0/text: Um… apakah mungkin dia sedang mengajari anjing cara menjulurkan kaki atau duduk???
+9ce5df4e/0/text: Meh, coba bicara baik-baik dengannya. Pasti bisa menyelesaikan masalah ini!
+4def5afe/0/text: … Baik, aku akan berbicara dengannya malam ini!
+59368341/0/text: Semangat! Seharusnya bukan masalah besar, jangan khawatir~

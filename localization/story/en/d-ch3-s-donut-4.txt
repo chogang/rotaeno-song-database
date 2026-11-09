@@ -1,0 +1,45 @@
+f0fd523b/0/name: ?
+1dc54ba0/0/text: Ta-da!
+e80d2341/0/text: Sorry to keep you waiting! Your order has arrived!
+a02fcf3c/0/text: !
+3ec651ba/0/text: Is it the honey cream donut?
+af0cbc04/0/text: Absolutely! Ilot never lets any customers down!
+5f3ca75e/0/text: Please enjoy.
+52e042c5/0/text: Oh yeah!
+84f8dede/0/text: It's so good!
+a0f4a08/0/text: This is honey...
+592c3b78/0/text: And this white fluffy thing is cream, right?
+798a7d7d/0/text: Yes.
+69c7c51c/0/text: (He seems captivated by the fresh cream, much like someone seeing it for the first time....)
+d37149a7/0/text: You never... Had it before?
+33de8f39/0/text: No, I haven't. Is there a problem?
+e5b80fdc/0/text: Grandpa Yue said, "Human food is good."
+9c156cc9/0/text: "One thing is called the Honey Cream Donut, and that's the best."
+a6ac63e8/0/text: Indeed, Grandpa Yue was right.
+b3604679/0/text: The crunchy and soft texture...
+b4083e/0/text: The sweetness of honey and this cream thing is so good...
+83ef84ca/0/text: ...
+b053a75e/0/text: (He looks really happy... Terrific.)
+de6bb8d4/0/text: Tommy? What are you doing here?
+ee3da0cb/0/text: Hey, Cheri!
+472c6325/0/text: !
+c752fb27/0/text: Oh, you're here too, Ilot.
+3ba225ef/0/text: Is this a honey cream donut?
+aa577ec2/0/text: Did you bring it over?
+9567e173/0/text: Yes! She did!
+75eacfdb/0/text: So I didn't sneak out of the forest!
+3e55a553/0/text: I swear I didn't!
+51c06582/0/text: (Well, you did.)
+3981ae67/0/text: Silly boy... Come on.
+539832ca/0/text: Um, did Tommy cause any trouble for you?
+4ea72cbc/0/text: I'm really sorry if he did.
+551dd04d/0/text: Well, it wasn't exactly trouble... It was just a simple errand.
+83e033c3/0/text: Thank you.
+4e728cc/0/text: Tommy is still young. He's very curious about the world.
+d88f00c1/0/text: A few days ago, he was engrossed in writing about the willow tree's growth in his diary.
+2d0a9966/0/text: And then he suddenly recalled what Grandpa Yue told him,
+2c669ce9/0/text: he began to take an interest in human stuff.
+16789ea/0/text: Sadly, it is a bad time for curiosity.
+7a944da4/0/text: When will Tommy and the other kids from the forest
+f109d1b5/0/text: have the chance to roam and discover freely again?
+5adec12d/0/text: Cheri...

@@ -1,0 +1,149 @@
+38d34bd/0/text: Ah, Selamat data…!
+9c26c45b/0/text: Halo, aku mau bungkus beberapa kue dan minuman.
+d8d42a8f/0/text: Bungkus, ya. Oke!
+d8d42a8f/1/text: Ini menu kami~
+85c141e4/0/text: Oh.
+85c141e4/1/text: Tanganku, menyentuhnya…——
+fb8438cb/0/text: !
+ae003548/0/text: !!
+ed3eccca/0/text: ?!
+222d1f7e/0/text: …Ta-tadi itu……
+b6d16c25/0/text: Ma-maaf!!!
+6e0fc0e7/0/text: Astaga…!
+6e0fc0e7/1/text: Benar-benar maaf…!
+7565fd6f/0/text: Ka-karena aku ini Slime…
+7565fd6f/1/text: Kalau gugup, aku jadi gampang… kehilangan wujud manusia… lalu buyar……
+5e5c5206/0/text: Slime…?!
+d6aa7d4b/0/text: A-aku bantu bersihkan, ya…!
+6c9c23e/0/text: Ng-nggak perlu——
+6186b450/0/text: !!
+1d523357/0/text: Aku… aku bersihkan…
+1d523357/1/text: Sendiri saja……
+18815fc5/0/text: Nggak, izinkan aku membantumu, ya!
+858124a6/0/text: Aduh, kamu gemetaran… Apa AC-nya terlalu dingin?
+858124a6/1/text: Ahhh! Bagaimana kalau kamu masuk angin…?!
+5ccce3c7/0/text: Nggak, nggak, mungkin gemetaran karena marah…?
+5ccce3c7/1/text: Benar-benar maaf!
+1e4892e/0/text: Baju ini sangat mahal, ya? A-aku akan menggantinya!!
+e0e40298/0/text: Baju, jadi lengket…
+e0e40298/1/text: lengket semua……
+2a39212b/0/text: Ya ampun, kamu gemetarnya parah banget…!
+2a39212b/1/text: Maaf, maaf banget…!!!
+5ebce2f3/0/text: Nggak……
+739d8c0d/0/text: I-iya?!
+4588b3a3/0/text: Nggak dingin… Nggak marah……
+4588b3a3/1/text: Baju, juga… Nggak mahal… Nggak perlu diganti rugi……
+1a27bcc2/0/text: Hah, kalau begitu…?!
+670dac55/0/text: Aku sendiri saja…
+670dac55/1/text: Serius… tolong, ya……
+5f62bd2e/0/text: Ha-Hah…???
+9936a14c/0/text: ……Permisi,
+9936a14c/1/text: aku ke toilet sebentar……
+196ede0b/0/text: Ah, kakak,
+196ede0b/1/text: kamu…!
+c7fe6045/0/text: Nggak apa-apa.
+c7fe6045/1/text: Sudah bersih.
+ad226730/0/text: Aku… nggak terlalu terbiasa bersentuhan fisik dengan orang lain.
+ad226730/1/text: Bukan karena marah. Jadi jangan dimasukkan ke hati.
+bff691f7/0/text: Ternyata begitu…!
+7e962d4d/0/text: Hmm… Benar-benar maaf!
+7e962d4d/1/text: Semua ini gara-gara aku gagal mengontrol perubahan wujudku…!
+73438ed7/0/text: …Hmm, kenapa kamu sampai sengaja berubah jadi wujud manusia?
+73438ed7/1/text: Jangan-jangan aturan dari kafe ini? Mereka nggak boleh memaksamu begitu lho……
+25e93831/0/text: Bu-bukan!
+25e93831/1/text: Ini semua ideku sendiri…!
+58c8a9b4/0/text: Eh...?
+b0c41c80/0/text: ……
+6d96ec7b/0/text: Aku… sebenarnya anggota girl group yang belum debut.
+fa9c470f/0/text: Karena grup idola yang aku kagumi itu terbentuk dari para manusia,
+fa9c470f/1/text: demi lebih mendekati mereka, mendekati "dia"… jadi aku juga ingin menjadi idola "manusia".
+7bd254d8/0/text: Untungnya, teman-teman segrupku bisa menerima aku yang "setengah-setengah" begini.
+7bd254d8/1/text: Kami berempat melangkah menuju mimpi yang sama bersama-sama.
+8f152766/0/text: Tapi… Tapi hanya karena aku nggak bisa mengendalikan wujudku dengan baik,
+8f152766/1/text: begitu gugup, tubuhku langsung buyar, meleleh, bahkan berubah wujud…!
+696d53a1/0/text: Acara debut pertama kami jadi gagal total…!
+faa4567d/0/text: Meskipun… mereka telah memaafkanku…
+faa4567d/1/text: Tapi… aku juga nggak bisa memaafkan diriku sendiri…!
+b59086fa/0/text: Jadi, kali ini aku mau menghadapinya sendiri…
+b59086fa/1/text: Selesaikan masalah gampang gugup ini……
+e3823a4c/0/text: Jelas-jelas aku sudah nekat…
+e3823a4c/1/text: Kenapa tetap gagal, ya……!
+6cac76ca/0/text: Hu…Huhuhuhu……!
+2221764b/0/text: ……
+f78a64d6/0/text: Ma-malu banget…
+f78a64d6/1/text: Kok aku malah… menangis di depan pelanggan… sih……
+47c043e8/0/text: Nggak apa-apa…
+54563f2d/0/text: Dia, pasti sudah lama memendam semuanya sendirian, 'kan……
+7c3f6178/0/text: …Hmm?
+93112968/0/text: Tas itu……
+d669289e/0/text: Izin tanya,
+d669289e/1/text: Idola yang kamu kagumi itu… Lulua?
+a07865bb/0/text: !!
+ca6560f3/0/text: Ka-kakak juga tahu Lady Lulua?!
+b2dad7c/0/text: Lady Lulua……
+5a0d6a70/0/text: Ya.
+7b9c0f60/0/text: …Teman baikku,
+7b9c0f60/1/text: Idola wanita favoritnya juga Lulua.
+a3776f41/0/text: Oh, oh!
+a3776f41/1/text: Ternyata begitu…!
+542aa55/0/text: Lady Lulua sangat hebat, 'kan!
+dd10419e/0/text: Cantik, senyumnya super imut,
+dd10419e/1/text: suaranya juga enak banget didengar…!
+c4f5b506/0/text: Memang sih, meskipun aku nggak terlalu paham musik,
+c4f5b506/1/text: tapi lagu-lagu yang dia nyanyikan memang gampang banget terngiang di kepala. Hebat banget.
+43dc8cca/0/text: ……
+872cd1db/0/text: …Kalau begitu, kamu pernah tonton,
+872cd1db/1/text: konser Lulua di Silvano dua tahun lalu nggak?
+5c03aa12/0/text: ! Pe-pernah! Video konser itu,
+5c03aa12/1/text: minggu lalu baru selesai kutonton ulang ke-58 kalinya!
+f2e255a/0/text: Haha…Aku juga pernah menonton itu beberapa kali bersama teman baikku.
+f2e255a/1/text: Kalau begitu, kamu pasti masih ingat dengan pertanyaan yang diajukan penonton ke Lulua di akhir konser, 'kan?
+d8a1c5ab/0/text: !
+ef5d1ca9/0/text: Seorang gadis dengan mata berbinar penuh harapan bertanya pada Lulua,
+ef5d1ca9/1/text: "Lulua, kenapa kamu memilih menjadi idola?"
+1362ce7e/0/text: Orang yang bersinar terang di atas panggung pun menjawab——
+2518158d/0/text: "Karena aku nggak bisa membayangkan masa depan tanpa menjadi idola!"
+2dd2366/0/text: …Benar.
+348b6520/0/text: "Begitu bangun tidur, aku langsung ingin bernyanyi."
+5932404e/0/text: "Kalau sehari nggak latihan menari, rasanya malah nggak enak badan."
+187d1ea2/0/text: "Dan hanya saat berdiri di atas panggung, melihat senyum bahagia semua orang,
+187d1ea2/1/text: aku baru merasa benar-benar menjadi diriku sendiri."
+8625b55/0/text: "Menjadi idola itu takdirku!"
+573fc8f0/0/text: …Bagian favorit Ilot ini.
+573fc8f0/1/text: Nggak disangka, ternyata aku juga sampai hafal di luar kepala.
+5d8a684d/0/text: ……
+1a345223/0/text: Kalau orang yang kamu kagumi adalah idola sehebat itu,
+1a345223/1/text: aku yakin kamu juga pasti punya beberapa sisi yang sama dengannya.
+19636463/0/text: …!
+6d8e46f5/0/text: Jadi, kalau mulai gugup,
+6d8e46f5/1/text: coba pikirkan kira-kira apa yang akan dia lakukan?
+f93fe3c/0/text: Pikirkan… apa yang akan Lady Lulua…
+f93fe3c/1/text: lakukan……
+19396848/0/text: ……
+681df420/0/text: …Baiklah, aku pesan makan dulu, ya.
+681df420/1/text: Masih ada teman yang menungguku di hutan nih.
+d6faadb8/0/text: !! Oh, oke…!
+d6faadb8/1/text: Maaf banget, jadi menghabiskan waktumu!
+fdd7d855/0/text: Kalau begitu, kakak mau pesan apa…——
+9847d4e8/0/text: Terima kasih atas kunjungannya!
+9847d4e8/1/text: …Dan kejadian tadi, maaf banget, ya!!!
+8578c7d8/0/text: Bisa-bisanya aku menangis di depan pelanggan,
+8578c7d8/1/text: dan membiarkannya menghiburku……
+68de4437/0/text: Benaran nggak apa-apa.
+68de4437/1/text: Semua orang pasti akan mengalami saat-saat begitu.
+df616d81/0/text: …Sebelum pergi, aku boleh tahu,
+df616d81/1/text: nama grup kalian nggak?
+f08b3cd9/0/text: !!
+f08b3cd9/1/text: Na-nama grup kami, <Heartthrob Girls>!
+125d8b1b/0/text: <Heartthrob Girls>, ya…
+6fc91ad5/0/text: Nama yang manis banget,
+6fc91ad5/1/text: "Dia" pasti akan sangat tertarik, 'kan.
+d1ff95da/0/text: Dia…?
+34bc659e/0/text: Sebuah grup idola "manusia" lintas ras,
+34bc659e/1/text: yang lahir dari kekaguman terhadap Lulua.
+ef37aa9e/0/text: Aku akan mengenalkannya pada teman baikku.
+3d44710b/0/text: !
+e7fb451d/0/text: Jadi, yang semangat, ya~!
+5d8a684d/1/text: ……
+b983ac13/0/text: O-oke!
+b983ac13/1/text: Terima kasih!!!

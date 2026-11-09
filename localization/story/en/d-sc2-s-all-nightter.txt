@@ -1,0 +1,23 @@
+d6982a96/0/text: Finally——It's here!!!
+d6982a96/1/text: Hunter of the Wild…!
+a5a3a9e6/0/text: This~ is~ AWESOME～♪
+7039897f/0/name: Cellphone Reminder
+852c2d0d/0/text: ～♪ ～♬～♩♬～
+adcdcc14/0/text: Bummer —
+73d7b9e3/0/text: I don't wanna…
+73d7b9e3/1/text: do homework...
+2b9c97b6/0/text: ...Maybe I can play for just a little while, right?
+3a94eb4f/0/text: ...I'm sure it'll be fine!
+3a94eb4f/1/text: I'll finish my homework in 10 minutes!
+f86b9975/0/text: (No sweat.
+f86b9975/1/text: Right now, the call of the wild needs me!)
+7c5af73c/0/text: …
+3ea899f/0/text: ……
+852c2d0d/1/text: ～♪ ～♬～♩♬～
+e0f8a46a/0/text: ?!
+109316dc/0/text: (It's… morning?!)
+c506da42/0/text: Oh no!
+c506da42/1/text: My homework…
+62f721fb/0/text: It, it'll be fine.
+62f721fb/1/text: It's just schoolwork,
+62f721fb/2/text: I'll get it done in 10 minutes!

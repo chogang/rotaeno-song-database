@@ -1,0 +1,106 @@
+7e206124/0/text: Wah, pemandangan di sini cukup indah♪
+7e206124/1/text: Ya! Di sini saja deh~!
+9c3c1c78/0/text: ……
+c132e2ca/0/text: Beras putih, Kuaci, Dendeng,
+c132e2ca/1/text: Ru-rumput pakan…?!
+b3d421d/0/text: Apa yang mau dilakukan……???
+c7cf031c/0/text: Ini untuk persembahan, lho!
+a79a15d4/0/text: Persembahan…?
+25712b9/0/text: Kepada siapa?
+71c5853/0/text: Jangan-jangan——
+eaa21e47/0/text: Menurutku, Rumil yang belum menemukan makna hidup,
+eaa21e47/1/text: pasti belum pernah berterima kasih dengan serius kepada setiap tubuh yang pernah kamu tumpangi, 'kan.
+45a59143/0/text: Nggak boleh begitu lho.
+45a59143/1/text: Kamu harus mengucapkan selamat tinggal dengan serius kepada takdir yang telah menyatukan kalian!
+9c3c1c78/1/text: ……
+bc40422d/0/text: Kamu——
+c55fbb5/0/text: Rumil.
+c079f933/0/text: !
+30ef26c6/0/text: Meskipun banyak yang merasa,
+30ef26c6/1/text: dunia ini sangat kotor dan buruk.
+60d6ec2e/0/text: Setiap hari, setiap menit, setiap detik,
+60d6ec2e/1/text: mungkin selalu ada hal-hal yang menyedihkan terjadi.
+b3679a22/0/text: …Sedangkan kita, demi terus bertahan hidup di dunia ini,
+b3679a22/1/text: seperti yang kamu katakan, memang harus melakukan "kejahatan".
+1f81ab7/0/text: Dulu aku juga pernah lama dilanda keraguan,
+1f81ab7/1/text: lama terjebak dalam kebingungan……
+7416fa2c/0/text: Apa berbuat "baik" benar-benar ada gunanya? Mungkinkah,
+7416fa2c/1/text: semua ini hanyalah kepuasan diri dan kemunafikan yang sok benar?
+daa8b8b5/0/text: ……
+f863e669/0/text: Tapi, setelah bertemu dengan Rumil,
+f863e669/1/text: melihatmu yang begitu berusaha keras untuk hidup… Akhirnya aku mengerti!
+313d12c4/0/text: Aku…?
+313d12c4/1/text: Berusaha keras untuk hidup…?
+e38636f7/0/text: Mungkin kita nggak akan pernah bisa menjadi makhluk yang benar-benar murni baik.
+e38636f7/1/text: Tapi!
+72f30522/0/text: Aku tetap ingin berusaha membagikan kebahagiaan,
+72f30522/1/text: membantu semuanya memiliki keberanian untuk mengatasi kesedihan!
+37e9d382/0/text: Dosa asal yang kita pikul bukanlah alasan bagi kita untuk berhenti bersikap lembut kepada orang lain,
+37e9d382/1/text: dan juga bukan dalih untuk menyakiti makhluk lain sesuka hati.
+b9b05b82/0/text: Kalau setiap keberadaan bisa saling berbagi walaupun hanya sedikit kebaikan saja,
+b9b05b82/1/text: dan mengenang kehidupan yang telah meninggal karena kita……
+565e40a7/0/text: Setiap hari terus berpikir dan berusaha mencari tahu…
+565e40a7/1/text: "Bagaimana caranya aku bisa menjadi diriku yang lebih baik?"
+615f97ce/0/text: Dengan begitu, kalau kita menghargai setiap pertemuan——
+c157d4a6/0/text: Bukankah dunia yang sedih namun indah ini,
+c157d4a6/1/text: perlahan-lahan akan dipenuhi oleh lebih banyak cinta?
+12ace3e9/0/text: Setiap bangun tidur, cahaya matahari di pagi hari… Saat bel pintu berbunyi, senyuman para tamu…
+12ace3e9/1/text: Saat keluar untuk berbelanja, menyapa tetangga… Tentu saja, masih ada kedatangan Rumil!
+fec8ee5e/0/text: Semua ini, membuatku merasa super bahagia!
+1e96d1cf/0/text: Jadi, bagaimana mungkin aku tega membiarkan orang-orang yang membahagiakan aku,
+1e96d1cf/1/text: membiarkan dunia yang membuatku bisa tertawa lepas ini jatuh ke dalam kemalangan?
+9c3c1c78/2/text: ……
+bebc0847/0/text: …Inikah,
+bebc0847/1/text: "makna" kamu?
+aef9fa95/0/text: Benar.
+6de6c3c4/0/text: Kini aku sudah bisa dengan bangga berkata pada diri sendiri,
+6de6c3c4/1/text: berkata pada siapa pun——
+53dd407/0/text: Inilah makna hidupku!
+488e761a/0/text: …Jadi, Rumil, maukah kamu menjalani "hidupku" juga?
+1ab356c6/0/text: Siapa tahu dengan mengubah sedikit sudut pandang terhadap kehidupan,
+1ab356c6/1/text: Rumil bisa menemukan "makna" hidup khususmu~
+a05f39fe/0/text: Ini saran tulus dari seseorang yang pernah tersesat dalam kebingungan dan akhirnya sadar, lho~?
+9c3c1c78/3/text: ……
+3b30ffa6/0/text: Benar-benar……
+752d8c3e/0/text: …Tuan Putri dalam menara.
+752d8c3e/1/text: Gilanya sudah tak tertolong.
+66562cb7/0/text: Ha? Apa?
+72229796/0/text: Nggak apa-apa.
+72229796/1/text: Jadi, apa yang harus dilakukan saat persembahan?
+d554a2d0/0/text: !
+fec5b39f/0/text: Rumil nggak tahu, ya?
+fec5b39f/1/text: Sangat mudah lho. Aku akan mengajarmu!
+76f7b254/0/text: Oke.
+9f625486/0/text: Hehe, kuberi tahu, ya.
+9f625486/1/text: Aku ahli dalam hal ini~
+a741ed60/0/text: Kita bersihkan debu sebelah sini dulu pakai kemoceng.
+a741ed60/1/text: Lalu, di sini……
+1c713e5e/0/text: Sisa cahaya senja menyinari wanita di depanku,
+1c713e5e/1/text: membuat garis tubuhnya diselimuti kilau emas yang samar.
+8536b41f/0/text: Nggak tahu kenapa,
+8536b41f/1/text: aku teringat pada bayangan yang muncul di benakku saat aku berada di ambang kematian hari itu.
+abad3df9/0/text: Sangat cemerlang, sekaligus memancarkan suasana yang simpati dan suci……
+ddd6d405/0/text: …Oke~!
+ddd6d405/1/text: Beres♪
+c4e1bee2/0/text: Lihatlah, seperti ini!
+c4e1bee2/1/text: Sangat mudah, 'kan~?
+77a48a92/0/text: ——…
+5c4e6dd1/0/text: Tapi, kenapa, ya?
+8b450329/0/text: Kenapa aku bisa merasa manusia di depanku ini,
+8b450329/1/text: semakin, semakin——
+4204c274/0/text: Hehe, selesai bersiap-siap,
+4204c274/1/text: kita bisa menerbangkan lampionnya!
+1f18a136/0/text: Pemandangan lampion persembahan yang membawa kenangan dan kerinduan terbang ke langit,
+1f18a136/1/text: sangat indah, lho!
+c2f9f302/0/text: Nantikanlah♪
+3389fa7e/0/text: ……Ya.
+a27d2edc/0/text: Di dalam hatiku sepertinya muncul sebuah ilusi.
+1b43c8cc/0/text: Hiyaa~~~
+b7085b96/0/text: Seakan-akan selama aku tetap berada di sisi manusia ini……
+9c3c1c78/4/text: ……
+7283e982/0/text: Sini, pinjamkan tanganmu.
+7283e982/1/text: Pegang sebelah sini~
+b84dafb8/0/text: Saat aku menghitung sampai 1, lepas bersamaan, ya!
+b84dafb8/1/text: 3, 2…1~!
+bc271c9e/0/text: ——Semua kebingunganku,
+bc271c9e/1/text: "makna" yang selama ini kucari, akan mendapatkan jawabannya.

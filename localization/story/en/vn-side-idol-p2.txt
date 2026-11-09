@@ -1,0 +1,149 @@
+554168b9/0/text: Inhale... exhale...
+554168b9/1/text: Inhale... exhale...
+2fbdef1/0/text: Deep breaths...
+2fbdef1/1/text: I can do this...!
+f4a308d0/0/text: Ugh!
+f4a308d0/1/text: I'm still terrified!
+e0e857e1/0/text: I'm so useless...!
+529fe2d3/0/name: Girl Group Member A
+2f966ecb/0/text: Jolly, are you okay...?
+319c7b82/0/text: I-I'm fine!
+85f8e6f3/0/text: Just... a little nervous...
+c8c5908e/0/name: Girl Group Member C
+1ebe8f73/0/text: Relax. Remember what I taught you?
+1ebe8f73/1/text: Write "brave" on your palm, open your mouth, and swallow it!
+1fd7933d/0/text: Ta-da!
+1fd7933d/1/text: Now you've got courage!
+474a9ac8/0/name: Girl Group Member B
+467e5c47/0/text: Come on, Jolly! This is our debut.
+467e5c47/1/text: We absolutely cannot mess this up!
+3670d697/0/text: !!
+c8c5908e/1/name: Girl Group Member C
+29d01afd/0/text: Hey, hey, stop stressing her out!
+29d01afd/1/text: Can't you see she's so nervous she's about to melt?
+474a9ac8/1/name: Girl Group Member B
+67609f7d/0/text: H-Huh? I thought pressure was supposed to turn into motivation...
+c8c5908e/2/name: Girl Group Member C
+c6ce6c0a/0/text: Not for everyone, you dummy!
+474a9ac8/2/name: Girl Group Member B
+2424efa8/0/text: Ow! That hurt!
+c8c5908e/3/name: Girl Group Member C
+cbe79332/0/text: Oh, don't be dramatic. I barely touched your makeup.
+529fe2d3/1/name: Girl Group Member A
+35e29c74/0/text: Jolly, don't worry about us.
+35e29c74/1/text: Just breathe and pretend we're back in the practice room.
+c8c5908e/4/name: Girl Group Member C
+2d38ba2b/0/text: Exactly.
+2d38ba2b/1/text: And if anything goes wrong, it'll definitely be her fault!
+474a9ac8/3/name: Girl Group Member B
+88378a05/0/text: Huh?! Why me?!
+88378a05/1/text: Wow. You're all so mean!
+5f52f1ca/0/text: Am I not your precious little cutie anymore?
+5f52f1ca/1/text: Waaah—
+78ae95c9/0/text: Jollyyy!
+78ae95c9/1/text: Tell them they're bullying me!
+8f83c973/0/text: Everyone...
+1cae2a59/0/text: They're all trying so hard
+1cae2a59/1/text: to cheer me up...
+348ebe58/0/text: ...Haha!
+44bf9712/0/text: For their sake,
+44bf9712/1/text: I have to do this!
+8176471c/0/text: For our dream,
+8176471c/1/text: I have to give this debut everything I've got!
+a742d46/0/text: There it is! She smiled!
+c8c5908e/5/name: Girl Group Member C
+48d81b7e/0/text: That's more like it.
+48d81b7e/1/text: We're idols, remember? No gloomy faces allowed.
+698528fb/0/name: Host
+ab24a3be/0/text: Up next,
+ab24a3be/1/text: please welcome Heartbeat Girls!
+474a9ac8/4/name: Girl Group Member B
+f6addc36/0/text: Whoa, that's us!
+f6addc36/1/text: Right on time!
+529fe2d3/2/name: Girl Group Member A
+aae1f02b/0/text: Haha.
+aae1f02b/1/text: Then... shall we?
+a7b0f016/0/name: Other Three
+e27b8705/0/text: Yeah!!!
+1d3966cb/0/name: Together
+5b1c2c37/0/text: Heartbeat Girls - We can do this!
+5e6cdc93/0/name: Heartbeat Girls Member A
+8303e659/0/text: What's our motto?
+1d3966cb/1/name: Together
+937481b4/0/text: To become the girls who make every heart skip a beat!
+5e6cdc93/1/name: Heartbeat Girls Member A
+d31652cd/0/text: And our goal?
+1d3966cb/2/name: Together
+b295f52e/0/text: To become an amazing girl group, just like Sweetheart Girls!
+974ece5d/0/text: Heartbeat Girls, starting now—
+974ece5d/1/text: Operation Heartstrings, go!
+140130b2/0/name: Heartbeat Girls Member C
+61aa015d/0/text: Um...
+61aa015d/1/text: I think I'm a little lost. Hehe.
+cdc822bf/0/name: Heartbeat Girls Member A
+e080b685/0/text: Sooo...
+e080b685/1/text: Could you help me out?
+9bc95a95/0/text: Ah... So many people...
+a840e6e3/0/text: There are way more people watching than I expected...
+efb182a7/0/name: Heartbeat Girls Member B
+f6859d29/0/text: Really?!
+f6859d29/1/text: Phew. Thank goodness. You saved me!
+da500f90/0/text: !!
+fc636f98/0/text: M-My line is next...!
+96973a3e/0/text: ...St... e...
+92b32db1/0/text: No...!
+92b32db1/1/text: My throat... I'm too nervous to make a sound...!
+2e729b9/0/text: Step by step ♪ on the platform, hear the engines running ♫
+a07865bb/0/text: !!
+478e78f5/0/text: She covered for me...!
+478e78f5/1/text: Thank goodness... That was amazing. That's our leader...!
+6278ed47/0/text: As long as I don't mess up again...!
+fd69e6cc/0/name: Audience Member A
+c351397c/0/text: Hey, that girl on the left...
+c351397c/1/text: isn't she acting kind of weird?
+ae003548/0/text: !!
+e0ff8c55/0/text: Are... are they talking about me?
+abcfe097/0/name: Audience Member B
+f896ca79/0/text: Weird? I don't know.
+f896ca79/1/text: She is sweating a lot, though. Maybe she's nervous?
+fd69e6cc/1/name: Audience Member A
+8574b529/0/text: Yeah, that's what I mean.
+8574b529/1/text: She looks like she's about to melt.
+6b924568/0/text: !!
+6b924568/1/text: M-Melt...?!
+2a9ce2ce/0/text: Am I so nervous I can't even hold my human form anymore?
+ef0515e6/0/text: No, no, no...!
+abcfe097/1/name: Audience Member B
+7d4b283/0/text: H-Hey... something's wrong. Is she actually sick?
+7d4b283/1/text: She really looks like she's—whoa!
+fd69e6cc/2/name: Audience Member A
+e653b638/0/text: Huh?!
+e653b638/1/text: A person just... melted?!
+91c3132e/0/text: J-Jolly...!
+91c3132e/1/text: Stay with us...!
+77afc3b3/0/text: Ah...
+77afc3b3/1/text: ...I melted.
+7a0abee9/0/text: I ruined everything.
+7a0abee9/1/text: This was so important. This was the one thing I absolutely couldn't mess up...
+fb106c3a/0/text: I-I'm so sorry !!!
+27950794/0/text: Jolly...!
+335abb3/0/text: I'm so so sorry!
+335abb3/1/text: One of our members isn't feeling well, so today's performance—
+a8eb9258/0/text: Ugh, sob...
+68dc7cd8/0/text: I'm so...
+68dc7cd8/1/text: useless...
+42b5d0e5/0/text: I said I was going to
+42b5d0e5/1/text: give it everything I had...
+d9a6696e/0/text: but I couldn't even get through the basics.
+8acd37d2/0/text: And the second I panicked, I just ran away...
+8acd37d2/1/text: What am I even doing...?
+ac6d4c17/0/text: Everyone must be so mad...
+5d8a684d/0/text: ...
+5ed2fc0e/0/text: ...I have to go back. I have to apologize...
+8a0e030f/0/name: ???
+f72fe299/0/text: Ha! I knew I remembered right.
+f72fe299/1/text: This really is the place!
+3d44710b/0/text: !
+222a4929/0/text: D-Dad...?
+2c6b8d24/0/text: Dad,
+2c6b8d24/1/text: what are you doing in Silvano?!

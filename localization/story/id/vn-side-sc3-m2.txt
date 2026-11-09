@@ -1,0 +1,169 @@
+100e58d5/0/name: Sekretaris
+322fe5e5/0/text: Tuan Abram,
+322fe5e5/1/text: Laporan tahunan dari Cabang Lydia telah tiba.
+70400601/0/text: Ya,
+70400601/1/text: taruh saja.
+f0946109/0/text: Baik,
+f0946109/1/text: mengenai Laporan Survei Biologi di Planet PJ208——
+4e9b10f/0/text: Aku sedang membacanya.
+ffe32848/0/text: Mengerti,
+ffe32848/1/text: kalau begitu, saya akan merapikan data penelitian terbaru tentang reruntuhan Planet R79 yang dikirim oleh Prof. Andy dulu.
+667d797e/0/text: Terima kasih.
+667d797e/1/text: Jadwal beberapa hari ke depan sudah beres?
+7362f6ae/0/text: Sudah. Saya telah membatalkan semua jadwalmu untuk 3 hari ke depan,
+7362f6ae/1/text: dan juga telah menyusun rencana darurat untuk situasi jika kamu perlu memperpanjang cuti.
+c50bed2d/0/text: Terima kasih.
+c50bed2d/1/text: …Kai bilang dia akan datang Spaceport?
+945114c5/0/text: Benar.
+945114c5/1/text: Kata Tuan Muda, dia akan menjemputmu di pintu masuk.
+4b6540f3/0/name: Siaran Sistem
+989792c1/0/text: "Titik Pendaratan: Spaceport No. 2 Silvano. Waktu Pendaratan: 3 menit kemudian"
+4a2d03/0/text: Hmm~Hmm~……
+e9b9b21d/0/text: Sudah sampai?
+e9b9b21d/1/text: Kamu melihatnya, bos?!
+36d50a0/0/text: Ya~…
+36d50a0/1/text: Sepertinya masih… Ah!
+81544385/0/text: Aku melihatnya!
+e2079b5a/0/text: Kak!
+7db9c0e9/0/text: Sini!
+7db9c0e9/1/text: Aku di sini~~~ Kakak~!!!
+7c90bea9/0/text: Oh, oh!!!
+bde32672/0/text: Terlalu berisik.
+3cc92c40/0/text: Kamu mau menarik semua perhatian di Spaceport, ya?
+babe0d8e/0/text: Hehe… Aku terlalu senang…
+babe0d8e/1/text: Lama nggak berjumpa……
+8ea340ae/0/text: Ternyata kamu masih punya kesadaran kalau kamu sudah lama kabur dari rumah dan nggak pulang, ya.
+a72e58bc/0/text: Kabur dari rumah…? Bos? 
+a72e58bc/1/text: Bukankah bos bilang——
+a433f35/0/text: U-uhuk, Hmm!!!
+eefa3de0/0/text: I-ini agak rumit,
+eefa3de0/1/text: Ya! Aku susah menjelaskannya secara singkat! Hmm, Puno, abaikan saja, ya……
+aaeddbca/0/text: Siapa bocah ini…?
+aaeddbca/1/text: Dan siapa itu bos…?
+c53e80f0/0/text: !!
+85cc5296/0/text: Halo!
+85cc5296/1/text: Aku anak buahnya bos, namaku Puno!
+f1b237f/0/text: A-anak buah…?!
+69e7db71/0/text: Ya! Kamu ini bapaknya, 'kan!!!
+69e7db71/1/text: Halo, aku sangat senang bisa bertemu denganmu!!!
+4ddfb01a/0/text: Ba-bapak?!
+dab64840/0/text: Kairoth Ramboshark!!!
+dab64840/1/text: Kamu sebenarnya——
+7ce8e6/0/text: Gawat! Kakak memanggil nama lengkapku! Dia marah…!!!
+29208c6/0/text: Ahhhhhhh!! Bu-bukan begitu!!!
+29208c6/1/text: Bukan seperti yang kamu pikirkan, kak!!!
+55d5d731/0/text: Puno ini murid kelas penerbangan akrobatikku. Sekarang sedang belajar ke planet lain bersamaku!
+55d5d731/1/text: Hehhh, aku sudah mendapatkan izin orang tuanya, kok!
+40919080/0/text: Cuman nggak tahu kenapa dia suka memanggilku "Bos", bagaimana pun nggak mau mengubah panggilan! Intinya!
+40919080/1/text: Pasti bukan seperti yang kakak pikirkan!!!
+8c351e89/0/text: ……
+7186ff80/0/text: …Hoam…
+332a0657/0/text: Intinya, kita cari tempat duduk dulu, baru ngobrol pelan-pelan.
+332a0657/1/text: Lalu, jelaskan kondisimu saat ini dengan baik.
+78cf0/0/text: Oh, oh, oke!
+10179632/0/text: Kalau begitu, ayo jalan!
+5b46baeb/0/name: Kairoth
+6a8254a3/0/text: Jadi, kamu mau mengadakan "Whoosh~ Whoosh Perlombaan Pesawat Ruang Angkasa Berkecepatan Tinggi" di Silvano,
+6a8254a3/1/text: sebagai platform untuk para penggemar saling berkomunikasi dan sekaligus mempromosikan kursus akrobat pesawat ruang angkasa?
+c2b238ea/0/text: Ya, benar!
+c16126e0/0/text: Setelah sembarang memasang iklan, membagi brosur dengan mengganggu para pejalan kaki, dan berbagai aksi yang hampir nggak ada hasilnya. Kini kamu masih bermimpi mau mengadakan acara besar? Dari mana kamu mendapatkan keberanian ini?
+7740f4b/0/text: Ehehe… Aku tahu aku nggak bisa menyelesaikannya sendiri,
+7740f4b/1/text: jadi aku datang meminta tolong padamu, 'kan……
+fa7a76c1/0/text: Kalau waktu itu kamu nggak sering bolos,
+fa7a76c1/1/text: setidaknya hasilnya nggak akan seburuk ini.
+253638e4/0/text: Hehehe……
+f6daa2f2/0/text: ……Hoam.
+98363cb6/0/text: …Tapi,
+98363cb6/1/text: setidaknya kamu masih tahu meminta bantuan orang lain, belum sekarat.
+2fb0ca3c/0/text: Lagi pula… Berdasarkan laporan-laporan yang dikirimkan para pengawal dan pengamatanku secara langsung,
+2fb0ca3c/1/text: dia benar-benar antusias banget terhadap urusan ini.
+62100516/0/text: …Meskipun hasil kerjanya benar-benar sangat jelek.
+c3bf5573/0/text: Hmm… Kukira dia akan menyerah di tengah jalan.
+c3bf5573/1/text: Nggak kusangka demi "Mimpi Penerbangan Akrobat" ini, dia benar-benar nggak pulang sesuai yang dikatakan.
+b1564bd3/0/text: …Mana proposal yang kusuruh kamu buat?
+b1564bd3/1/text: Coba kulihat.
+16bed02/0/text: Karena ini keinginanmu,
+16bed02/1/text: aku harus tahu seberapa tinggi tingkat keseriusanmu, 'kan?
+e27a0ea6/0/text: !!
+5ae32801/0/text: Hore——!
+5ae32801/1/text: Baguslah, kakak adalah yang terbaik! Nah!!
+37cf0361/0/text: Aku sudah menuliskan semua ideku sedetail mungkin dengan su——per serius!
+37cf0361/1/text: Lihatlah, kak!
+9d97dec2/0/text: Wah! Bos memang hebat!!!
+9d97dec2/1/text: Tolonglah, bos tua!!!
+7386cdeb/0/text: Bos tua itu apaan……
+ccd7dd74/0/text: ……
+ccd7dd74/1/text: ……
+16b28df4/0/text: Kak, bagaimana?!
+5c1cbfc6/0/text: …Kamu mau aku berkata jujur atau berbohong?
+8370724f/0/text: Tentu saja jujur!
+f152ab8/0/text: Amburadul.
+9e19ed0/0/text: Hmm…
+853bd569/0/text: Berantakan.
+6c9e5a43/0/text: Hmm……
+133a3f8/0/text: Masih kata-kata yang sama, kalau waktu itu kamu nggak sering bolos,
+133a3f8/1/text: harusnya proposalmu nggak akan setragis ini.
+55e96e00/0/text: …Tapi kalau membahas waktu itu,
+55e96e00/1/text: seharusnya kita nggak merekam iris Kai di landasan pesawat.
+17e29b00/0/text: Setidaknya sampai dia menyelesaikan kursus dasar yang diatur keluarganya untuknya.
+4c6a71d5/0/text: Huhu… Tapi kelas-kelas itu benar-benar sangat membosankan……
+8fb97670/0/text: Tapi kini kamu mengerti seberapa pentingnya kelas-kelas yang membosankan itu, 'kan?
+8fb97670/1/text: Pengetahuan yang dulu kamu anggap nggak berguna, sekarang justru menjadi hal yang nggak tergantikan untuk mendukungmu mencapai cita-cita.
+230ea615/0/text: ……
+29bd416/0/text: ……Ya.
+43becbee/0/text: ……Haih.
+5caa354e/0/text: Kai,
+5caa354e/1/text: waktu kamu kabur dari rumah aku sudah menanyakannya. Kini kutanyakan sekali lagi.
+893b1301/0/text: Inikah impianmu? 
+893b1301/1/text: Hal yang bagaimanapun harus kamu capai?
+959057df/0/text: …Benar!
+b78cae82/0/text: Mempromosikan olahraga pesawat ruang angkasa, agar semua orang bisa merasakan keseruan mengendarai pesawat ruang angkasa, 
+b78cae82/1/text: adalah hal yang bagaimanapun ingin kulakukan!
+e13418d9/0/text: Aku berharap semua orang tahu, pesawat ruang angkasa bukan sekadar alat transportasi atau senjata,
+e13418d9/1/text: tapi juga hiburan dan olahraga yang mendalam, serta memiliki potensi yang nggak terbatas!!
+91799f83/0/text: …Oke.
+91799f83/1/text: Kamu tahu tradisi keluarga kita. Terhadap hal yang diinginkan, pasti harus mencapai puncak tertinggi.
+add482db/0/text: Siapkah kamu menguasai puncak itu?
+4449f0e9/0/text: Tentu saja!!!
+dbaad777/0/text: Bagus. Beberapa hari ke depan,
+dbaad777/1/text: aku akan membongkar kekurangan proposal ini satu per satu,
+dbaad777/2/text: dan mengajarimu arah tepat yang bisa dijalankan, serta pengetahuan dasar tentang bisnis.
+109d0ed4/0/text: Kemungkinan akan sangat sulit bagi kamu yang fondasinya nggak stabil.
+109d0ed4/1/text: Bisakah kamu menerima ini?
+f176e011/0/text: !
+34fbfec/0/text: …Nggak masalah!
+34fbfec/1/text: Aku pasti bisa!
+3a99e9b6/0/text: Demi mempromosikan pesawat ruang angkasa,
+3a99e9b6/1/text: aku bisa melakukan apa pun!!!
+e0bbce80/0/text: Wahhh!
+e0bbce80/1/text: Bos memang hebat! Keren banget!!!
+ea6b20e2/0/text: Kalau begitu, tunjukkanlah tekadmu terhadap hal ini padaku.
+ea6b20e2/1/text: Kita mulai beosk.
+7b25acec/0/text: Oke!!!
+743f6193/0/name: Bolt
+8b087611/0/text: Pertama-tama,
+8b087611/1/text: Rencana ini belum dilakukan perhitungan……
+4f8eadee/0/text: Hmm……
+386bcdf4/0/text: Ini,
+386bcdf4/1/text: kamu sama sekali nggak memikirkan masalah biaya……
+a666bf3d/0/text: Ah, gawat…!
+1b0b0548/0/text: Kalau aku menggunakan cara ini……
+bf8c852a/0/text: Bisa sih bisa,
+bf8c852a/1/text: Tapi……
+31d5f681/0/text: Kak,
+31d5f681/1/text: Aku sudah merevisi rencana biaya kemarin. Lihatlah……
+5b46baeb/1/name: Kairoth
+274cf440/0/text: ……Ya.
+274cf440/1/text: Lebih baik.
+e0144308/0/text: Serius?!
+9bf59922/0/text: Ya, untuk acara kecil begini,
+9bf59922/1/text: proposalmu bisa diterima.
+a1cc35ff/0/text: Syukurlah!!!
+bd24adbe/0/text: Nggak kusangka,
+bd24adbe/1/text: aku berhasil bertahan sampai akhir.
+7af28084/0/text: …Tampaknya bocah ini,
+7af28084/1/text: benar-benar telah menemukan hal yang membuatnya bersemangat.
+8277e4e9/0/text: Selanjutnya, mari kita jalankan sesuai dengan isi proposal ini.
+9c0b4fd2/0/text: Aku sangat menantikan acaranya.
+26672c74/0/text: Nggak masalah!
+17370264/0/text: Serahkan saja padaku!!!

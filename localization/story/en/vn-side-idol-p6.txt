@@ -1,0 +1,116 @@
+5e6cdc93/0/name: Heartbeat Girls Member A
+5574bf7b/0/name: Heartbeat Girls Member B
+d5f7bcc7/0/name: Heartbeat Girls Member C
+471e628f/0/name: Lime's Wife
+554168b9/0/text: Inhale... exhale...
+554168b9/1/text: Inhale... exhale...
+4754134c/0/text: Deep breaths...
+19396848/0/text: ...
+989453e/0/name: Kind Customer
+880e1bc5/0/text: If that's the kind of idol you admire,
+880e1bc5/1/text: then I'm sure some of that same spark is in you too.
+6d8e46f5/0/text: So the next time you feel nervous,
+6d8e46f5/1/text: why not ask yourself what she would do?
+e2dd2b78/0/text: Lulua...
+e2dd2b78/1/text: would do...
+5d8a684d/0/text: ...
+c9a30b44/0/text: If it were her,
+c9a30b44/1/text: then no matter how nervous she was,
+5f68368d/0/text: no matter what went wrong...
+5f68368d/1/text: she would never let it shake her!
+d98cf214/0/text: Because—
+1179a133/0/text: "Being an idol is my destiny!"
+129cf285/0/text: ...
+7b7288b6/0/text: Jolly looks incredible right now.
+8eb1497b/0/text: Yeah! She looks kind of cool!
+2c8479dd/0/text: ...Yeah!
+28749324/0/text: Everyone, this time...
+3166f52d/0/text: I won't let you down.
+3166f52d/1/text: And I won't let the audience down either!
+c2aeeb19/0/name: Three Members
+5f1e7c3/0/text: ...
+d19a1828/0/text: Yeah!!!
+556e8331/0/text: Hehe.
+556e8331/1/text: Then let's get ready to go on stage!
+c9740cd0/0/name: Together
+94e63e18/0/text: Heartbeat Girls - We can do this!
+8303e659/0/text: What's our motto?
+5a6fd4b/0/text: To become the girls who make every heart skip a beat!
+d31652cd/0/text: And our goal?
+b403c4/0/text: To become an amazing girl group, just like Sweetheart Girls!
+f874f970/0/text: Heartbeat Girls, starting now—
+f874f970/1/text: Operation Heartstrings, go!
+eaca576d/0/text: Um...
+eaca576d/1/text: I think I'm a little lost. Hehe.
+977eb784/0/text: Sooo...
+977eb784/1/text: Could you help me out?
+4aba8d44/0/text: There are fewer people watching than last time...
+226b9f74/0/text: I guess stopping the first show really did hurt us...
+adbb6a99/0/text: ...!
+9a99e356/0/text: That person was here at our debut too...!
+9d4b7630/0/text: They saw me fall apart like that,
+9d4b7630/1/text: but they still came back...!
+544ca4a3/0/text: Really?!
+544ca4a3/1/text: Phew. Thank goodness. You saved me!
+3b4a2fb9/0/text: How could I disappoint someone so kind again?!
+8f5e6639/0/text: Step by step ♪ on the platform, hear the engines running ♫
+c2aeeb19/1/name: Three Members
+d93d0f23/0/text: !
+54ffcf56/0/text: Hearts are led by the ringing bell, I hear you coming ♪
+37ba0552/0/text: You take my hand, feel the weight pull off, and now we're speeding ♫
+7b562946/0/text: Through the metro melodies, singing loud—
+69e0d5ca/0/text: I did it...!
+8a0e030f/0/name: ???
+9e85ebf5/0/text: Jol-ly!
+605c4aff/0/text: ...?!
+7a0f315b/0/text: Jolly! Jolly!
+7a0f315b/1/text: You're unstoppable!
+ddd695b6/0/text: Heartbeat Girls—
+ddd695b6/1/text: Forever!!!
+a52c8de1/0/name: Passerby A
+5f509633/0/text: Huh? What's going on over there?
+5f509633/1/text: That crowd sounds pretty fired up.
+fdc58f42/0/name: Passerby B
+8e16891a/0/text: Hey, look.
+8e16891a/1/text: There are a ton of slimes in that group.
+a52c8de1/1/name: Passerby A
+ff9fb3a9/0/text: A show humans and slimes are both interested in?
+ff9fb3a9/1/text: That actually sounds kind of fun. Wanna check it out?
+b4b7c05b/0/text: D-Dad...?!
+e2ec4d1c/0/text: One Dad, two Dads... So many Dads...!!!
+98b545c3/0/text: Dad is splitting...?!
+ee379a6c/0/text: !
+ee379a6c/1/text: Mom's here too!!!
+db5eb1a4/0/text: Wow, Jolly. You've got some hardcore fans.
+d73eacb3/0/text: I'm jealous.
+1abbd66f/0/text: That's so sweet.
+507ea5d7/0/text: You guys...
+c49b1361/0/text: You know that's my mom and dad...!
+a59175fa/0/text: ...Yeah!
+c8688139/0/text: Right now,
+c8688139/1/text: I'm so happy!
+537e36c3/0/text: And to repay that happiness—
+537e36c3/1/text: I'm going to give this everything I've got!!!
+c9740cd0/1/name: Together
+3c0f5d53/0/text: Take a trip far away☆
+3c0f5d53/1/text: Ticket's punched, we're on the way～ ♫
+4bf90f3f/0/text: Board the party train♫
+4bf90f3f/1/text: The fun is here to stay!
+592e8ebe/0/text: Jolly! Jolly!
+592e8ebe/1/text: Jolly forever!!! That's how you say it, right?
+cbf35cb3/0/text: Oh my. I thought this was all just kids playing pretend.
+13de6c26/0/text: But now that you're cheering her on,
+13de6c26/1/text: you're louder than anyone. You even started splitting.
+d302a8f8/0/text: ...!
+d302a8f8/1/text: I-I just...
+c1d41ac6/0/text: ...
+c7e24ad3/0/text: ...Our little girl is growing up.
+c7e24ad3/1/text: She has her own dreams now.
+90cef122/0/text: And times have changed.
+90cef122/1/text: The next generation has more paths open to them than we ever did.
+5c09da75/0/text: I know you're worried about her.
+5c09da75/1/text: But think about it.
+6d5d42/0/text: Trying to understand what your child loves,
+6d5d42/1/text: and seeing how hard she's willing to work for it...
+68952a17/0/text: That's part of being a parent too.
+7b56daae/0/text: ...

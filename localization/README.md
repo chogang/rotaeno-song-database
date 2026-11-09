@@ -35,7 +35,13 @@ Rotaeno 2.99.0의 `resources.assets`에서 읽은 번역 데이터입니다. 원
 
 `sdk-anti-addiction.json` 및 `sdk/`에는 별도 SDK에 포함된 14개 언어 키의 문자열을 보존했습니다. SDK의 `De`, `Es`, `Fr`, `Pt`, `Ru`, `Tr`, `Vi`가 존재한다고 해서 게임 본편 UI가 해당 언어를 지원한다는 뜻은 아닙니다.
 
-이 내보내기는 I2 번역 테이블과 별도 TextAsset 문서를 대상으로 합니다. 컴파일된 Naninovel 스토리 대본의 모든 대사는 포함하지 않습니다. 라이브 번역 서버나 외부 스프레드시트에는 접속하지 않았습니다.
+## 스토리 대본
+
+`story-scripts.json`과 `story/<code>/*.txt`에는 `resources.assets`의 컴파일된 Naninovel Script 객체 1,301개에서 추출한 대사·표시 이름 72,941개가 있습니다. 한국어·영어·일본어·간체·태국어·인도네시아어는 각 186개 대본, 기본 번체는 185개 대본입니다. 한국어는 빈 문자열을 포함해 10,418개 항목입니다. 본편·외전·곡 인터뷰·대화 대본을 포함합니다.
+
+언어는 번역 문서 머리말에 기록된 코드로 확인하며, 머리말 없는 기본 대본은 LocalizationConfiguration의 원본 언어 `zh-TW`를 적용했습니다. 객체 ID·해시·문서 행·명령 참조 ID·인라인 순서를 보존했습니다. 문장 키는 원문 라벨과 해당 라벨 안의 필드별 조각 순서로 구성합니다. 한국어 모든 키는 영어에 대응하며 일본어에 대응 키가 없는 한국어 조각은 4개입니다.
+
+JSON과 TXT는 컴파일된 대사 필드의 내보내기 형식입니다. TXT는 `문장키: 텍스트` 형식이며 원본 `.nani` 소스나 실행 명령 전체를 복원한 파일이 아닙니다. 에셋 재패킹은 포함하지 않습니다. 원본 위치·언어별 개수·전체 명령 유형은 `story-report.json`에서 확인할 수 있습니다. 라이브 번역 서버나 외부 스프레드시트에는 접속하지 않았습니다.
 
 ## DB
 
@@ -45,6 +51,7 @@ Rotaeno 2.99.0의 `resources.assets`에서 읽은 번역 데이터입니다. 원
 - `localization_terms`: 원본 순서에 따른 번역 키·타입·소스 오프셋.
 - `localization_values`: 원본 항목·언어별 문자열과 플래그.
 - `managed_localization_values`: Naninovel 문서의 키·언어별 문자열.
+- `story_documents`, `story_values`: 언어·대본·문장 키별 스토리 대사와 원본 객체 정보.
 - `localization_canonical_terms`: 키별 첫 항목을 선택한 뷰.
 - `localized_song_names`: 번역 원문과 추론한 언어 참조를 구분한 곡명 뷰. 이 뷰는 기존 곡 DB에만 있습니다.
 

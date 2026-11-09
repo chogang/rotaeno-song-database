@@ -1,0 +1,27 @@
+cffdc47a/0/name: 南愁Nanchou
+99293ac5/0/text: It's time for another interview~!
+550852be/0/text: Hello! I'm Nanchou, a new composer from Xinjiang, China.
+8de5f340/0/text: Hi~! Could you tell us about your work, "伊天珀凌"?
+12a45081/0/text: When I was working on "伊天珀凌",
+5c196f4a/0/text: all kinds of images kept popping into my mind.
+3a02f9d4/0/text: Maybe it's because I really love Ilot and Hoppe,
+e7a58ba7/0/text: so I picked one Chinese character from each of their names to form the song's title.
+1d31c6a6/0/text: Oh, so there's a hidden suprise in the title!
+5e254c1d/0/text: For this track, I really focused on the melody and on bringing out my own signature sound,
+1c24ad3f/0/text: and I didn't lock myself into any single genre.
+fc6c9633/0/text: In each section, I combined different elements.
+20e02472/0/text: I think the result is a fun track that stays engaging and doesn't get boring to listen to.
+db67a505/0/text: What really makes this song stand out is the sense of "speed" you feel at your fingertips while playing it.
+71e7224f/0/text: Sometimes the drum beats and melody run side by side, and sometimes they switch roles,
+c256cea/0/text: and I wanted to create a fresh play experience that feels like you're "rotating" as you play.
+f1e3c659/0/text: With the sound effects I added at key moments,
+616209d0/0/text: I hope every note you hit will feel like a ripple spreading across the surface of water.
+c1fb2700/0/text: Thank you so much for creating such an exciting track!
+fb9ae939/0/text: Lastly, do you have any message for the players?
+f0215f69/0/text: First of all, I'm truly grateful to the Rotaeno team for giving me this opportunity.
+518d13f0/0/text: I'd also like to give big thanks to everyone who helped with the charts and illustrations.
+63af9359/0/text: My best friend Arkito has also given me so much support,
+a862fe67/0/text: and my family and close friends are always cheering me on as well.
+48869446/0/text: Thanks to all of them, I've been able to keep going and make it this far.
+33a64ef4/0/text: This is the first time I've truly been able to appear in a rhythm game, and it's incredibly moving for me.
+5851a5b1/0/text: I'd be so happy if you could enjoy this song too. I hope you all have a wonderful day!

@@ -1,0 +1,17 @@
+b6f7adcf/0/name: Violet Delta
+d1c20a22/0/text: Selamat datang di sesi wawancara kami!
+501888ff/0/text: Silakan perkenalkan diri Anda kepada semuanya!
+cb73ea6b/0/text: Hai, saya Violet Delta, dan saya adalah komposer game ritme pendatang baru dari Malaysia.
+3ea96655/0/text: Nggak nyangka kamu masih pemula!
+c4580265/0/text: Bisa ceritakan sesuatu tentang lagu baru kamu "Starstream Sky Dash"?
+1d827008/0/text: Terima kasih banyak kepada tim Rotaeno yang telah memberikan saya kesempatan ini.
+6f51b844/0/text: Selama kontes, saya bertanya pada diri sendiri
+bee7fa02/0/text: bagaimana kalau saya membuat lagu yang terasa seperti menaiki pesawat luar angkasa dengan kecepatan hipersonik menembus kosmos,
+9fcac98f/0/text: dan saya mencoba menuangkan pengalaman itu ke dalam lagu saya.
+f13560ab/0/text: Kedengarannya keren banget!
+188839d/0/text: Dari situlah "Starstream Sky Dash" lahir.
+de1e6c10/0/text: Ini juga kali pertama saya membuat dan menggabungkan dua genre yang cukup berbeda, yaitu Techcore dan Footwork.
+7540cba1/0/text: Mengerti!
+aba78326/0/text: Terima kasih sudah membawa karya kreatif ini ke Rotaeno!
+b810e6b9/0/text: Apakah ada pesan untuk para pemain?
+2f5b13ef/0/text: Saya harap kalian bisa menikmati lagu saya sepenuhnya. Jangan ragu untuk berbagi pengalaman bermain lagu saya di media sosial jika kalian mau.

@@ -1,0 +1,59 @@
+bf6bdb1e/0/text: Hihi, sudah membeli produk lokal untuk semuanya!
+49b526ab/0/text: Selanjutnya mau ke mana…?
+e59ca3b1/0/text: …? Di sebelah sana sepertinya sedikit berisik?
+6c7f596e/0/text: Apakah di sana ada pertunjukan jalanan?
+f5bece73/0/name: Pelanggan Marah
+38438242/0/name: Pedagang Goblin Kasihan
+6e998a51/0/name: Wanita Cantik
+ba5502f9/0/text: Sialan! Kembalikan uangku!
+897b1d74/0/text: Maaf, pelanggan, aku tidak apa yang sedang Anda katakan.
+48812506/0/text: Aku berbisnis di sini dengan baik…
+c3db88cb/0/text: Anda tiba-tiba datang ke sini untuk memarahiku sambil menunjukku, bukankah ini sedikit keterlaluan?
+82b6842e/0/text: Um, sepertinya karena masalah uang…
+d7a80d99/0/text: Jangan berbohong!
+49d86c92/0/text: Cara kamu berbicara, jelas-jelas orang yang menjual barang palsu kepadaku!
+f84c9cfa/0/text: Vickers, apakah kalian tahu malu? !
+a7ba9a56/0/text: Vickers ya…?
+80970f82/0/text: Ah. Paman pernah mengatakan sebelumnya…
+2bd7d346/0/text: …
+38438242/1/name: Pedagang Goblin Kasihan
+bed1e0a0/0/text: Dasar…
+d9e61547/0/name: Pedagang Geber Ejak
+ed89bf9c/0/text: Ternyata cara berbicara sudah ketahuan?
+55b3b7f3/0/text: (Tunggu, bukankah perubahan ekspresi ini … terlalu cepat? !)
+5caf05a5/0/text: (Jadi… apakah perkataan orang itu adalah benar? )
+4aeb0903/0/text: (Pedagang Goblin bukan Pedagang Goblin, tapi Pedagang… Vickers yang memakai kulit Vickers? )
+26a84f0d/0/text: (Sangat… membingungkan …)
+43fa996a/0/text: (Dia juga hebat, bisa mengetahui identitas orang itu hanya dengan mengandalkan cara bicara… )
+f1b6c7a5/0/text: (Apakah ini adalah kekuatan kebencian? )
+dfe4dc24/0/text: Loh, tidak mau berpura-pura lagi?
+c33e5c79/0/text: Em, rencanaku tidak berjalan lancar.
+a7d454fb/0/text: … Tapi, kamu tidak punya bukti, "pelanggan".
+f33d9cb5/0/text: Kamu! !
+e071338d/0/text: Uwah… rasanya keributan ini tidak akan berakhir.
+e3c3886f/0/text: Meskipun aku merasa simpati terhadap kejadian yang dialami pelanggan itu, tapi aku tidak bisa membantu…
+dc850dce/0/text: Kamu turis yang baru datang, kan?
+63fc7e90/0/text: (Wah… cantik sekali! )
+32018216/0/text: Maaf, membuatmu melihat kejadian seperti ini.
+38d16eb0/0/text: Tidak… apa-apa…
+d1acb509/0/text: (Wajah seperti ini… Sepertinya tidak masalah jika menjadi idola! )
+9cd2217/0/text: Manusia dan Vickers sudah saling membenci dari dulu, perselisihan seperti ini selalu terjadi setiap hari.
+a1308a34/0/text: Eh, setiap hari? !
+cde15afd/0/text: Ya.
+368bf5c2/0/text: Vickers merasa manusia rakus dan dungu, manusia merasa Vickers licik dan tidak bisa dipercaya.
+83ef84ca/0/text: …
+80823258/0/text: Kedua belah pihak memiliki persepsi buruk antara satu sama lain.
+805e8f10/0/text: Tapi kali ini Vickers menjual barang palsu terlebih dahulu… bukankah dia yang salah?
+3adcd0fe/0/text: Mungkin… bagaimana jika pelanggan itu sudah tahu barang itu palsu?
+88be749f/0/text: Membeli produk dengan pemikiran "Mungkin barang palsu juga bisa dipakai dan lebih murah"…
+9fe7e293/0/text: Ternyata menyadari produk berbeda dengan ekspektasi sehingga mau kembalikan barang…
+4aca67aa/0/text: Tidak mungkin…
+ce2741c0/0/text: Huhu, hal seperti ini mungkin terjadi, kan?
+5260d514/0/text: Um … Kondisi seperti ini, sebenarnya siapa yang benar dan siapa yang salah…
+c4efb0aa/0/text: Atau pihak mana lebih parah…
+cfd73fd3/0/text: … Huh, benar-benar rumit.
+88bb79d/0/text: Tapi jika tidak membahas rakus, aku merasa manusia dungu sebenarnya cukup imut.
+329ec2f6/0/text: ?
+87f5e637/0/text: (Orang dungu terasa imut? Kegemaran orang cantik memang… berbeda dengan orang lain? )
+f5570e63/0/text: Sama seperti kamu yang mudah merasa dekat denganku karena wajahku dan cara bicaraku…
+f0505d17/0/text: Manusia dungu seperti itu bukankah imut dan menarik?

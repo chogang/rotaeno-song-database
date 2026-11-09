@@ -1,0 +1,41 @@
+c52959ec/0/name: Serigala?
+9fd32712/0/text: Grr… Grr……
+5fd2e297/0/text: ……Auuu……
+625d6272/0/name: Wanita
+ab246be/0/text: Wah…!
+ab246be/1/text: Kamu minumnya cepat banget!
+b565399a/0/text: Pasti sangat haus, ya.
+b565399a/1/text: Kasihan~
+b60512d1/0/text: ……
+78247c44/0/text: Lapar nggak?
+78247c44/1/text: Aku sini ada dendeng!
+98ffe772/0/text: Meskipun sudah ditambah bumbu buatan manusia,
+98ffe772/1/text: harusnya agak asin dan nggak sehat bagimu…
+5d22b6d/0/text: Tapi di saat-saat begini, sepertinya bisa diabaikan saja. 'kan?
+5d22b6d/1/text: Nih, dendengnya juga kubagi setengah untukmu!
+af492005/0/text: ……Auuu……
+c4683b71/0/text: Baiklah, kamu pasti merasa aku sangat berisik, 'kan?
+c4683b71/1/text: Haha~ Aku mengerti. Aku akan segera pergi!
+4deb3519/0/text: Terima kasih sudah nggak memakanku. Aku diam-diam kasih tahu kamu, ya.
+4deb3519/1/text: Sebenarnya tadi, aku sangat ketakutan, lho…!
+ad72fb6c/0/text: Baiklah, dadah!
+ad72fb6c/1/text: Jangan tersesat lagi, ya, Tuan Serigala~
+c776ea96/0/text: ……
+7cc9de97/0/text: Wanita yang aneh.
+32b9092b/0/text: Reaksi pertama saat melihat serigala bukanlah lari atau mengambil senjata.
+32b9092b/1/text: Malah memberinya air dan dendeng.
+cac7178/0/text: Apa-apaan ini?
+f766c20b/0/text: …Nggak paham.
+eb6c856b/0/text: Jangan-jangan dia sudah gila karena membaca terlalu banyak dongeng,
+eb6c856b/1/text: dan mengira dirinya ini tuan putri yang bisa berkomunikasi dengan hewan?
+181d9b55/0/text: ……Grrr…Huh……
+97c0076b/0/text: …Hmm, tapi berkat imajinasi sang putri,
+97c0076b/1/text: aku berhasil menggunakan tubuh ini.
+f835cec1/0/text: Pas sekali aku belum sepenuhnya menguasai ekologi dan pengetahuan tentang kawanan serigala.
+f835cec1/1/text: Sayang banget kalau tubuh ini dibuang. Kalau nggak, tadi……
+c776ea96/1/text: ……
+bd9d4cd2/0/text: Setelah minum dan istirahat bentar, harusnya anggota tubuhku sudah bisa bergerak normal.
+d8537178/0/text: Dendeng…
+e234ec9d/0/text: …Nyam nyam……
+c776ea96/2/text: ……
+48d58789/0/text: Huek, asin banget.

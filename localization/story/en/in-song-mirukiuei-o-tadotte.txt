@@ -1,0 +1,32 @@
+4888c96f/0/name: kuro
+fbe7e0e1/0/text: Welcome to our interview room~! First of all, could you introduce yourself?
+2f68d12d/0/text: Hello, Rotaeno players, nice to meet you, I'm kuro!!!!
+5bab46f6/0/text: I write all kinds of tracks—from rhythm‑game style songs
+da765460/0/text: to songs that are completely outside that style.
+d8b36fd7/0/text: It's a pleasure to meet you all~!
+d8be39cc/0/text: Could you tell us a bit about your new piece, "ミルキーウェイを辿って"?
+77d8d784/0/text: With "ミルキーウェイを辿って",
+86af1b2e/0/text: I started from the Artcore sound I usually work with,
+999462ec/0/text: then mixed in brighter elements from genres like HAPPY HARDCORE and Future Bass,
+5a710e7c/0/text: and experimented with all kinds of rhythmic patterns,
+d600799f/0/text: so I arranged the track to feel even more lively and dynamic than my usual work,
+beb318e8/0/text: hoping this will bring a richer listening experience.
+44dc01b7/0/text: I tried to strike a balance between making it fun to play as a rhythm‑game chart
+ab63beb8/0/text: and enjoyable to listen to simply as a piece of music.
+4733736c/0/text: What do you all think…?
+699b9b59/0/text: I'll be really happy if you are enjoying!
+63bf396a/0/text: When I listened to it, it felt like Lulua was being drawn deep into the vast galaxy.
+e18b90a8/0/text: Was that the main source of inspiration for this song?
+3a3295b7/0/text: Actually, just as the title suggests,
+859ca2d5/0/text: I pictured a journey toward the very edge of the galaxy,
+725662c1/0/text: wondering, "If I follow this trail of sparkling light, what will I find at the end!?"
+323209cf/0/text: Driven by that sense of curiosity,
+3db5210/0/text: it feels like you're soaring through outer space, across distances of light‑years!
+68b3117e/0/text: That's awesome! Now then, do you have any special message for Rotaeno players?
+140c2349/0/text: Thank you so much for giving me this opportunity.
+c71484de/0/text: I've contributed a few tracks before,
+c2c3c99c/0/text: but this is the first time I've written a song specifically for Rotaeno,
+c04ea5f7/0/text: so it feels really special to me.
+1ad3457f/0/text: To all you Pilots out there, I hope you'll imagine that kind of scene
+5ce83fdc/0/text: and dive into the game on your devices as enthusiastically as you can!!!!
+b9e46ef0/0/text: I'll be playing it like crazy too!

@@ -1,0 +1,33 @@
+f816958b/0/text: ……
+3676fcf1/0/text: Dengan keributan sebesar itu, sepertinya aku nggak bisa pergi ke bar itu lagi.
+29099102/0/text: Lalu, sebaiknya ke mana, ya…
+29099102/1/text: Aku harus mencari tempat yang menyediakan banyak makanan.
+8b84b393/0/text: Hewan yang hidup berkelompok memang merepotkan.
+8b84b393/1/text: Makanan pun harus dibagi bersama, kalau nggak mencari lebih banyak——
+29d94ed8/0/name: ???
+dacfa98a/0/text: Nona! Kamu begini sangat merepotkan kami!
+d97c1feb/0/text: Ma-maaf!!!
+ab628cb2/0/text: Hmm…?
+90978864/0/name: Bos Bar
+48b399c3/0/name: Pegawai Bar
+55cbbb9/0/text: Bisa-bisanya membuat keributan sebesar itu!
+b857300/0/text: Kamu pun sudah dewasa, bukan anak kecil lagi.
+b857300/1/text: Masa nggak tahu nggak boleh bercanda dengan barang berbahaya begitu?!
+625d6272/0/name: Wanita
+a10cff58/0/text: Benar-benar maaf…
+a10cff58/1/text: Aku terlalu panik……
+d6fc712b/0/text: Menangani pelanggan yang mabuk itu tanggung jawab pegawai kami.
+d6fc712b/1/text: Kami sangat berterima kasih atas niat baikmu——Arghh!!!
+6c560891/0/text: Astaga! Ada apa dengan tanganmu!
+6c560891/1/text: Kotor sekali! Apa kamu baru saja masuk ke bar dengan kondisi seperti ini?!
+80bedebb/0/text: Ng-nggak, Bos!
+80bedebb/1/text: Saat masuk, dia terlihat sangat normal…!
+875b44cd/0/text: Oh, bukan salahnya…
+875b44cd/1/text: Aku baru saja menangkap tikus……
+e5132a5a/0/text: Ti-tikus?!
+d65b145d/0/text: Iuhh——Kotor banget…!
+1de1e501/0/text: Maaf, nona,
+1de1e501/1/text: mohon tinggalkan tempat ini sekarang juga!!!
+e8b27664/0/text: Bar kami nggak menerima orang yang membuat keributan sepertimu!!!
+348fb74e/0/text: Ma-maaf…!!!
+f816958b/1/text: ……

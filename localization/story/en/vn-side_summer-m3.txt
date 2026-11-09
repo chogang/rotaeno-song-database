@@ -1,0 +1,209 @@
+b8979d01/0/text: Whoa—
+f1d427d6/0/text: This place is huge...
+2c05cc3f/0/text: Mhm.
+2c05cc3f/1/text: Looks like we can keep going till sunset!
+f05781d7/0/text: !!
+316d4f78/0/text: No, calm down!
+316d4f78/1/text: It's fine, only four hours until sunset.
+316d4f78/2/text: Then we can—
+f46170df/0/text: Don't forget our grand finale later!
+17e340e4/0/text: Mona!
+cb281d85/0/text: Welcome!
+cb281d85/1/text: I could hear a certain someone yelling from way over there!
+2f97aab/0/text: Afternoon. Wow... Mona in a swimsuit.
+2f97aab/1/text: Looks so... grown-up.
+1c57c6c7/0/text: Hehe, looks good, right?
+1c57c6c7/1/text: Pretty, huh? Falling for me yet?
+9bf78591/0/text: Tch, not impressed...
+f372315f/0/text: Ooh...
+f372315f/1/text: And who's that sounding jealous?
+cc6aa7b2/0/text: Pfft, I'm not jealous!
+cc6aa7b2/1/text: Just so you know, the swimsuit I brought today is so wild!
+be125274/0/text: You're all gonna be blown away!
+c489a2c5/0/text: By the way, Ilot told me on the phone earlier,
+c489a2c5/1/text: she got a funny swimsuit...?
+e9848020/0/text: Yeah! But it's not great for swimming.
+e9848020/1/text: So I brought a normal one too!
+68cfb77a/0/text: A swimsuit that's...
+68cfb77a/1/text: not great for swimming?
+2666885a/0/text: I've got a bad feeling about this...
+d4d45beb/0/text: Pfft, Ilot really loves her silly ideas!
+d4d45beb/1/text: Ugh, too bad, I've gotta get back to work...
+d490e139/0/text: Hoppe, sweetie, send me a pic of Ilot's dumb outfit later,
+d490e139/1/text: so this corporate slave can have some joy! Love you!
+86178db2/0/text: Uh... o-okay...?
+d60f9e7e/0/text: Hey, no way. Even if we take pics, you're not getting them!
+d60f9e7e/1/text: Suffer in envy!
+a7e1301a/0/text: Ha... haha...
+3cd7187/0/text: Let's go, Hoppe!
+3cd7187/1/text: Time to change.
+91770794/0/text: Uh, yeah...!
+fe85c481/0/text: Ugh... here we go...
+fe85c481/1/text: So nervous...
+798db70f/0/text: See ya!
+798db70f/1/text: Don't forget the finale at sunset!
+69dbc97/0/text: You have to come!
+463a4888/0/text: Promise!
+6adbe68f/0/text: Phew...
+6adbe68f/1/text: Ilot's not out yet.
+63cac56b/0/text: Good...
+63cac56b/1/text: Gives me a moment to brace myself!
+6e992ba9/0/text: It's 12:30 now.
+6e992ba9/1/text: Three and a half hours until the finale...
+4c003496/0/text: Hop—pe—
+361ca3e1/0/text: Ah, there she is.
+a4b46ea/0/text: Ilot, you—
+a4b46ea/1/text: ?!?!!
+994259cd/0/text: Wha—what... is that?!
+95516d4f/0/text: Ta-da!!
+4501adf0/0/text: Heeheehee♪
+c0230cf2/0/text: Look!!
+52ec2b42/0/text: W-what on earth...
+fc24e8bf/0/text: C'monnn!
+fc24e8bf/1/text: Funny, right?
+90185eae/0/text: ...
+218ff2c3/0/text: Oh no...
+218ff2c3/1/text: I can feel everyone staring at us—
+a94895/0/text: Hey hey, don't hide your face!
+a94895/1/text: Look how cute I am!
+ad38f35/0/text: I-lot...
+ad38f35/1/text: This is... way too...
+879b5c88/0/text: Gorgeous?
+1c755afb/0/text: ...
+9e09f688/0/text: It's...
+9e09f688/1/text: Way too embarrassing!!
+ef5c7fcc/0/text: Do we really have to walk around like this?
+16c886f2/0/text: Isn't it... a little too...
+16c886f2/1/text: Eye-catching?
+150d6218/0/text: Who cares?
+150d6218/1/text: We're having fun, that's what matters.
+e91416f7/0/text: I'm not having fun—!
+e91416f7/1/text: But Ilot looks like she's really enjoying herself...
+f8f5b548/0/text: Aaaahhh... What do I do—
+51a2e83f/0/text: Look, your swimsuit's super cute.
+51a2e83f/1/text: It matches mine perfectly!
+284d378/0/text: Matching? Us?
+50722d1d/0/text: That's... quite the imagination.
+b2fc9c3b/0/text: Exactly!
+b2fc9c3b/1/text: Beauty and the Beast, it fits us!
+2fb3a15b/0/text: ...
+9a54a20c/0/text: Alright alright, let's get moving!
+9a54a20c/1/text: Let's go!
+aadffac4/0/text: Hah... haa...
+b04965/0/text: Oh—Hoppe, look!
+b04965/1/text: That slide is huge!
+35040a80/0/text: First stop decided!
+35040a80/1/text: Come on, let's go!
+d3f18b44/0/text: !
+c9a0ca2c/0/text: It's here!
+c9a0ca2c/1/text: First challenge!
+efa140f2/0/text: I need a plan!
+efa140f2/1/text: Think, Hoppe, think...!
+c4dbed62/0/text: Ah, got it!
+c4dbed62/1/text: Hey, it's probably hard to use a slide in that outfit, right?
+7e7bd12e/0/text: Hm? Not really,
+7e7bd12e/1/text: I'll just hold my head and tail in place!
+464a0142/0/text: Uh... but it seems dangerous.
+464a0142/1/text: What if your fin caught on something...
+8cc0c84/0/text: Plus!
+8cc0c84/1/text: We just got here. We haven't warmed up yet!
+46ccffd0/0/text: Yeah! Warm-up!
+46ccffd0/1/text: That should kill at least 15 minutes, right?!
+b6fbc8f/0/text: Yup, we'll warm up first.
+b6fbc8f/1/text: Then hit the foot bath to loosen our legs!
+7c604e9a/0/text: That'll eat up half an hour, easy...!
+192011a1/0/text: Ehh...
+8b88ae35/0/text: So much hassle...
+4525fbb4/0/text: It's for safety, just bear with it!
+4525fbb4/1/text: Okay...?
+92f16371/0/text: Mmph...
+92f16371/1/text: Alright, Mom—
+3b384219/0/text: Hooo—
+b3872548/0/text: Hahhh—
+b3872548/1/text: So cool!!
+2c102de6/0/text: Hehe... hey, don't kick so hard, Ilot.
+2c102de6/1/text: You'll splash people.
+4f1125b7/0/text: Got it—
+e3eeeacf/0/text: Mmm... this foot bath feels nice.
+e3eeeacf/1/text: And it even massages your legs...
+8944ec21/0/text: And most importantly, half an hour
+8944ec21/1/text: has passed...!
+6a7baf46/0/text: Hey, Hoppe, we're done warming up.
+6a7baf46/1/text: And our legs are nice and loose. Let's head to the deeper section.
+345195d0/0/text: I wanna be completely in the water!
+796dde0d/0/text: That wave pool over there looks perfect!
+b6120ba2/0/text: !
+a32b251d/0/text: That water looks... deep!
+38d00a48/0/text: Uh, yeah...
+38d00a48/1/text: Alright, let's go.
+537da176/0/text: Yay!!
+b5dc0504/0/text: No, need a new plan...
+b5dc0504/1/text: Ah, got it!
+8cba1df1/0/text: Right!
+8cba1df1/1/text: Ilot, you go ahead first!
+98634dd4/0/text: Huh?
+61536bc8/0/text: I'll grab us some drinks!
+61536bc8/1/text: You'll want something after swimming, right?
+8a796c3b/0/text: Better to have it ready!
+86046bfb/0/text: Oh, true.
+86046bfb/1/text: Then let's go together—
+c55d38ca/0/text: Nope! Absolutely not!
+e29c3380/0/text: I'll handle it! You go first, Ilot, I'll catch up!
+1221c382/0/text: If Ilot comes along, I can't use this to stall...!
+c84ff7b8/0/text: ?
+c84ff7b8/1/text: Okay...
+9cfa7358/0/text: Phew—
+464a7500/0/text: Good, the plan's working...!
+464a7500/1/text: Well, that's a bit more time off the clock!
+d6fa39c5/0/text: Though I did loiter long enough for the gift shop clerk to eye me like a thief...
+858a1bd/0/text: Let's see... there's Ilot...
+b6c31ebc/0/text: Ah, found her.
+6d5fe5a2/0/text: I'm back, Ilot.
+6d5fe5a2/1/text: Tired? Here, peach soda.
+9b163876/0/text: Hoppe!
+9b163876/1/text: You were gone forever—
+2d56be7/0/text: Y-yeah.
+2d56be7/1/text: There were a lot of people at the snack store...
+1e4190f9/0/text: I see... should've gone with you.
+1e4190f9/1/text: Must've been boring waiting in line that long.
+895b4238/0/text: Mm... yeah.
+895b4238/1/text: It was fine...
+5c63642a/0/text: Ugh...
+5c63642a/1/text: Lying feels awful...
+1f9d0a8/0/text: Alright, enough talking!
+1f9d0a8/1/text: Come on, get in the water and cool off!
+2a5a2648/0/text: The water here's nice and cold.
+2a5a2648/1/text: Feels amazing!
+1a1951ca/0/text: !
+6b947cd/0/text: This water...
+6b947cd/1/text: It's way too deep! If I go in, I'm done for...!
+8e7cfff1/0/text: Uh, yeah...
+8e7cfff1/1/text: But you just swam a whole lap, didn't you?
+d4d43677/0/text: I'll just stay here and keep you company for a bit.
+d4d43677/1/text: Otherwise you'll get... uh... lonely!
+ac2026ea/0/text: Mmm... yeah, a little...
+4f1400b6/0/text: See?!
+3ca78e5c/0/text: Phew...
+3ca78e5c/1/text: Okay, need to change the subject... got it!
+4701660/0/text: By the way, when I passed the gift shop.
+4701660/1/text: I saw they've got Orlan merch on sale...!
+f7f57ab0/0/text: Orlan?!
+89524c5a/0/text: No waaay, that's amazing!!
+89524c5a/1/text: This water park is the best!
+130a9bc6/0/text: Knew it—
+130a9bc6/1/text: Mention her favorite idol and she completely forgets everything else...
+532d0d17/0/text: No no no—
+532d0d17/1/text: For Orlan, we have to do every attraction in this park today!
+2b4fe91b/0/text: ?!
+c5574130/0/text: But... why not just go buy the merch now,
+c5574130/1/text: instead of playing more...?
+8656be54/0/text: What do you say, Hoppe?
+8334ab90/0/text: S-sure... I guess...
+d2e723ca/0/text: Yesss!!!
+d2e723ca/1/text: But to conquer the park, this swimsuit's too much trouble and not efficient...
+fe1da086/0/text: Give me a sec, Hoppe!
+fe1da086/1/text: I'll change into my other swimsuit, then we're doing the full park tour!!!
+3700e5c1/0/text: Alright...
+2b851dd3/0/text: Think positive.
+2b851dd3/1/text: At least she's finally changing out of that ridiculous outfit...
+8d320a12/0/text: Two and a half hours until the finale.

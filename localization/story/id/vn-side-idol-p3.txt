@@ -1,0 +1,72 @@
+1ca629e/0/text: Ayah, kok bisa ada di Silvano…?
+61fe031e/0/text: Akhirnya menemukanmu. Untung saja ingatan Ayah cukup baik.
+61fe031e/1/text: Ayah masih ingat kamu pernah cerita soal GOR apa gitu… Benar-benar, deh……
+6737807d/0/text: ……
+660e2dab/0/text: Ayah… masih ingat dengan acara debut kami…?
+7c46964a/0/text: Padahal setiap aku membahas soal idola, Ayah selalu marah besar…
+7c46964a/1/text: Ternyata selama ini dia mendengarku, ya……
+5bda55a1/0/text: Hmm…? Waduh!
+5bda55a1/1/text: Kenapa menangis?!
+cd7f17dd/0/text: Ada yang menindasmu? Atau kamu ketemu orang jahat?!
+46728167/0/text: !
+46728167/1/text: Ng-nggak ada, bukan begitu…!
+728e3c49/0/text: Hmm… Benaran nggak ada?
+2cf11421/0/text: Kalau benaran ditindas jangan pendam sendiri, ya. Rekan kerjaku juga sering bilang, orang terlalu baik itu gampang diinjak orang.
+2cf11421/1/text: Perkataan itu juga cocok buat kita para slime.
+6bfb57d6/0/text: Benaran nggak ada!
+6bfb57d6/1/text: ……Ini… salahku……
+faade233/0/text: ……
+cbcbb1/0/text: …Jangan-jangan, penampilannya jadi kacau?
+3670d697/0/text: !!
+186939b2/0/text: Lihat ekspresimu, benar, ya……
+4aada100/0/text: Haih, Ayah 'kan sudah bilang~!
+4aada100/1/text: Penakut sepertimu, mana mungkin bisa jadi idola?
+cbc4ece4/0/text: !!
+2f620f85/0/text: Apalagi bukan idola biasa, tapi idola wujud "manusia"?
+2f620f85/1/text: Sudah bagus-bagus jadi slime, malah mau jadi manusia. Hasilnya apa sekarang?
+59254466/0/text: Karena idola yang paling kukagumi itu seorang manusia……
+869ae796/0/text: Ingin mengikuti jejak sosok yang kita kagumi,
+869ae796/1/text: bukannya hal sangat wajar…!
+4f89a595/0/text: Manusia, ya~
+4f89a595/1/text: Beda sama kita para slime. Manusia itu liciknya bukan main~
+ab472bd2/0/text: Ayah 'kan juga pernah cerita soal Ayah kerja sampingan jadi DJ sebelumnya?
+5390cf29/0/text: Bos jahat itu sengaja menyuruh Ayah tanda tangan kontrak di tempat yang gelap gulita.
+5390cf29/1/text: Setelah itu, baru menunjukkan klausa kecil yang tulisannya lebih kecil dari nyamuk, terus gaji Ayah dipotong habis-habisan!
+6e596505/0/text: Bahkan bar yang nggak terkenal saja pun bisa memainkan trik sekotor itu.
+6e596505/1/text: Coba bayangkan dunia hiburan yang sebenarnya~ pasti lebih parah lagi deh~!
+3cf249e6/0/text: Ayah… sudah berapa kali kubilang, Ayah nggak bisa menyamaratakan semua orang seperti itu.
+3cf249e6/1/text: Di mana pun pasti ada orang baik dan orang jahat!
+e5c0cf98/0/text: Aku tahu Ayah khawatir sama aku, tapi aku juga sudah janji akan lebih waspada.
+e5c0cf98/1/text: Kenapa——
+df66cf44/0/text: Nggak boleh ya nggak boleh!!!
+396305a5/0/text: Anak kecil mana mungkin bisa menang akal-akalan sama orang dewasa?
+396305a5/1/text: Kalau benaran tertipu, nggak ada tempat buat kamu menangis lho!
+a8bf9591/0/text: Sudah, ayo pulang bersama Ayah.
+a8bf9591/1/text: Ibu sedang menunggumu.
+494e098/0/text: Ibu……
+5d462f/0/text: Dasar, kamu sudah besar juga.
+5d462f/1/text: Kenapa masih nakal begini?
+99253df9/0/text: ……Mulai mengira aku ini bayi 3 tahun lagi.
+512ea2bb/0/text: Sesuai prediksi…
+16232911/0/text: Bisa-bisanya kabur dari rumah.
+16232911/1/text: Tahu nggak, demi kamu, Ayah dan Ibu bahkan——
+d3208d10/0/text: Ayah nggak pernah memandangku dengan setara!!!
+7a54d45d/0/text: Kabur dari rumah… Memangnya cuma salahku?!
+d00ae0f6/0/text: Jelas-jelas aku sudah mati-matian memohon Ayah berulang kali.
+d00ae0f6/1/text: Berharap Ayah bisa mengizinkan aku datang Silvano. Padahal ini acara debut terpenting yang sudah lama kami persiapkan……
+4c667f17/0/text: Ibu juga sudah setuju… Tapi cuman Ayah!
+4c667f17/1/text: Bagaimanapun nggak setuju!!!
+d0ca5940/0/text: Ngomongnya karena khawatir sama aku,
+d0ca5940/1/text: tapi sama sekali nggak pernah coba memahami semua yang kami lakukan…
+78b494a/0/text: Usaha kami… Rencana kami…
+78b494a/1/text: Semuanya……
+98727031/0/text: Kamu——
+198da3ab/0/text: Aku… nggak akan pulang!
+198da3ab/1/text: Pasti nggak akan pulang!!!
+485827b9/0/text: Jolly——…!
+4adb0f8/0/text: Apa pun yang terjadi…
+4adb0f8/1/text: Apa pun yang terjadi, juga nggak akan bisa membuatku menyerah pada mimpi kami!!!
+54959439/0/text: Demi aku sendiri… dan semua yang selalu menerimaku apa adanya!
+97252677/0/text: Aku pasti… nggak akan menyerah!!!
+4edbcdf5/0/text: Kalau ada rintangan yang menghadang jalanku…
+4edbcdf5/1/text: maka aku akan melewatinya!!!

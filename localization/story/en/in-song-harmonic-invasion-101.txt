@@ -1,0 +1,31 @@
+da96cc2d/0/name: Moon Jelly
+efe3f87a/0/name: AQUASINE
+f2a88c4e/0/name: MEMODEMO
+f393a0cf/0/text: Welcome to our interview!
+3a9ff4ba/0/text: To start, could you all give a brief self-introduction?
+cf387a13/0/text: I really like steak.
+c729233c/0/text: I don't think I'd live in a world without steak.
+cccff5a5/0/text: My usual doneness is medium-rare, and my favourite cut is probably filet mignon or skirt.
+9f651cd8/0/text: Ah, but YAKINIKU is also amazing.
+6c19d8c8/0/text: I love YAKINIKU, especially with leaner cuts of meat.
+48755752/0/text: I live in a world without steak.
+d0adf1f4/0/text: I think I'm allergic to most meats.
+43e2dbbb/0/text: Not only do I have some sort of awful reaction, but I think I have some sort of meat curse.
+17d1fa56/0/text: In university I got an A on every exam, except for when I had red meat.
+8674ae7b/0/text: Last time I had a burger we had to rush my grandma to the hospital.
+204097e/0/text: Miss you, grandma.
+4deeb87b/0/text: The first 14 years of my life were spent in a dark room with a big glowing button labeled "DISPENSE MEAT CURSE".
+1c9c4fd/0/text: I loved to press that button because it made a really loud "clunk" sound if I pressed it hard enough.
+300a3763/0/text: ...？
+8fbd7e07/0/text: Hmm… looks like you all have some interesting thoughts when it comes to meat!
+45631dbd/0/text: Could you give us a detailed introduction to your latest track, "HARMONIC EVASION 101"?
+ca5c31c6/0/text: I wish I could have screamed "I LOVE MEAT!" throughout the whole song, but this is good too.
+49739e3f/0/text: While working on this song, I thought about how computer tutorial videos don't usually have very much jazz harmony.
+d9144392/0/text: My favorite restaurant closes at 9PM so if I'm gonna order something to eat, I have to make sure that I order it by at least 8:30ish, that way I have enough time to go and pick it up before the place closes.
+28ae7f7b/0/text: I try to remember to order a little sooner than that though, because ordering something last minute is pretty uncool.
+e04ea80/0/text: ...OK?
+1a4f751/0/text: Before we finish, do you have anything else you want to say to the players?
+a9ad82b4/0/text: I LOVE MEAT!
+b04683f5/0/text: This song is not about meat. It is about something else. Please remember this.
+dd6eeadd/0/text: This song might be about meat, but it's not actually. (I checked)
+d6c9d88c/0/text: (Producer… are you sure you gave me the right script? This feels like it belongs in the comedy section…)

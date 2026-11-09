@@ -1,0 +1,109 @@
+7ce04a64/0/text: Hii...huuff...
+7ce04a64/1/text: Hii...huuff...
+9bb7ff53/0/text: Udara di sini rasanya sangat berbeda dengan di luar,
+9bb7ff53/1/text: Sangat segar! Sangat nyaman...
+e153c8cc/0/text: Hehe.
+e153c8cc/1/text: Ini semua hasil usaha dari semuanya yang ada di hutan.
+3b794151/0/text: Tapi, ini sangat berbahaya,
+3b794151/1/text: Ternyata berdebat dengan ras manusia yang melakukan protes...
+a5add7f7/0/text: Masalah kecil, masalah kecil~
+a5add7f7/1/text: Untuk hal melarikan diri, aku tidak mungkin kalah dari bibi dan paman!
+7daf9779/0/text: Selain itu, mereka juga terus mengucapkan banyak kata, tanpa kata-kata dengan percaya diri!
+53b0a4a6/0/text: Tidak disangka...
+8b5549c9/0/text: Kakak mengira aku akan setuju dengan pendapat mereka?
+8b5549c9/1/text: Tidak mungkin~
+84821e21/0/text: Omong-omong, pemborosan yang berlebihan itu,
+84821e21/1/text: Sungguh tidak tahu bagaimana mereka melakukannya...
+3ac5e742/0/text: Apa pun yang terjadi, aku pasti ada di pihak kakak dan yang lainnya!
+3fe8629c/0/text: Baik dari segi kebenaran, atau penampilan!!!
+8cc78b7/0/text: Selain itu, aku merasa banyak orang yang memiliki pendapat yang sama denganku!
+bbaf1810/0/text: Ilot...
+bbaf1810/1/text: Terima kasih!
+6106d286/0/text: Topik yang tidak menyenangkan ini cukup sampai di sini saja!
+6106d286/1/text: Sudah bisa datang di Hutan Elf, sudah seharusnya banyak berkunjung dan bermain.
+cbb2bf3e/0/text: Kakak Cheri...
+cbb2bf3e/1/text: Luar biasa!!!
+9532a529/0/text: Wohoo...
+9532a529/1/text: Aku akan terus mendukung kalian di dalam hatiku...
+d176436b/0/text: Kita akan pergi ke mana sekarang?
+d4dbfbff/0/text: Hm,
+d4dbfbff/1/text:  Masih harus jalan sedikit lagi,
+d4dbfbff/2/text: Sudah hampir sampai.
+378afa35/0/text: Sudah datang ke hutan di musim seperti ini,
+378afa35/1/text: Tentu saja harus berendam di pemandian air panas bukan?
+ecd8e202/0/text: Panas,
+ecd8e202/1/text:  Panas?!
+e2fb9fe5/0/text: Ah, maaf,
+e2fb9fe5/1/text: Aku lupa menanyakan pendapatmu,
+e2fb9fe5/2/text:  Ilot suka berendam air panas?
+257f3aa4/0/text: Suka!!!
+44e3d993/0/text: Huh...
+342259d5/0/text: Ha~~~
+1b8a0921/0/text: Nyaman sekali!!!
+396e8ea4/0/text: Tidak disangka, dalam hidupku,
+396e8ea4/1/text: Aku bisa merasakan sendiri nyamannya berendam air panas!
+7efa87cf/0/text: Yang asli! Di alam liar!
+7efa87cf/1/text: Di dalam hutan!
+4256b63b/0/text: Pemandian, Air, Panas, Alami ♪
+1bb603d3/0/text: Kamu sepertinya sangat menikmati,
+1bb603d3/1/text: Baguslah.
+458e657a/0/text: Benar! Luar biasa! Aku sangat suka!!!
+458e657a/1/text: Terima kasih kakak Cheri!!!
+fb3257c/0/text: Tidak perlu sungkan.
+fb3257c/1/text: Tapi lain kali sebaiknya jangan langsung terjun ke dalam air,
+fb3257c/2/text: Akan gawat jika sampai tergelincir.
+3ada609f/0/text: Hm, baik!
+ed394ee7/0/text: ... Pasti tidak dengar.
+757a0e89/0/text: Hah~~~
+a80f493f/0/text: Bisa hanya ada kita berdua di tempat seindah ini,
+a80f493f/1/text: Hari ini sungguh hari keberuntunganku... ☆
+978e7504/0/text: ...
+56aabbe/0/text: Melihat Ilot di sini,
+56aabbe/1/text: Mengingatkanku betapa ramainya hutan di masa lalu.
+35f55fea/0/text: ... Meskipun sedikit berisik, tapi semua orang tersenyum dengan cerah,
+35f55fea/1/text: Menikmati warisan dari hutan dengan sepenuh hati.
+7ca6c061/0/text: Angatu dibandingkan sekarang juga...
+b5751584/0/text: An...
+b5751584/1/text:  Hm, Tuan Angatu...
+b5751584/2/text: Sangat ganas terhadap manusia.
+93b516f4/0/text: Hm...
+93b516f4/1/text: Aku rasa mungkin karena sepanjang hari dia harus terus berurusan dengan manusia yang melanggar hukum...
+58b57e73/0/text: Oh ya, saat aku pertama kali tiba di Silvano,
+58b57e73/1/text: Aku melihat Tuan Angatu yang memimpin sekelompok orang diborgol di Spaceport...
+5181ad18/0/text: ... "Melanggar "Hukum Perlindungan Planet" lebih dari 3 kali berturut-turut,
+5181ad18/1/text: Jika masih belum diperbaiki setelah berulang kali, Elf dapat mengusir subjek tersebut."
+746b6f34/0/text: Dan Angatu,
+746b6f34/1/text: Adalah eksekutor kami.
+95afd2e9/0/text: Ah...
+9aeee469/0/text: Jadi orang-orang itu,
+9aeee469/1/text: Telah diusir dari planet ini?
+b6cc5b7b/0/text: Melakukan itu, benar atau salah...
+f258fc9/0/text: ... Aku juga sebenarnya tidak tahu.
+789e2cb8/0/text: Tapi jika kami terus membiarkan manusia menghabiskan berkah dari planet ini tanpa henti...
+8a590d03/0/text: Silvano...
+8a590d03/1/text: Akan meredup.
+87d9871c/0/text: Meredup...?
+1667f3cb/0/text: Ilot pernah dengar tentang "Star Soul"?
+2cc92f15/0/text: Bagi spesies yang tidak memiliki sihir, dan tidak dapat merasakannya,
+2cc92f15/1/text: Mungkin akan mengira itu hanya sesuatu yang dibuat dari dongeng, atau kepercayaan ilusi...
+f819c09f/0/text: Tapi Star Soul itu benar ada.
+36ff543d/0/text: Planet terlahir dari Star Soul.
+36ff543d/1/text: Segala sesuatu dari Silvano, kehidupan ini diberikan oleh Star Soul.
+a44aa6d2/0/text: Kelahiran makhluk hidup, membutuhkan energi dari Star Soul.
+a44aa6d2/1/text: Energi yang telah digunakan, membutuhkan waktu untuk dapat pulih.
+1c569711/0/text: Jika mengabaikan pemulihan energi Star Soul,
+1c569711/1/text: Terus memuaskan keinginan kita sendiri dengan egois.
+1b47b12c/0/text: Star Soul, akan menjadi semakin lemah.
+bc892c4c/0/text: ... Kakak Cheri,
+bc892c4c/1/text: Setiap planet memiliki Star Soul?
+bb2cc5cf/0/text: Hm, benar ada.
+8b9af93d/0/text: Bahkan jika spesies asli dari planet itu semuanya adalah spesies yang tidak dapat merasakan sihir?
+58466f96/0/text: Hm, semuanya sama.
+c784da7/0/text: Karena tanpa Star Soul,
+c784da7/1/text: Sama dengan tidak memiliki nyawa.
+9579fa69/0/text: Jika begitu...
+9579fa69/1/text:  Makhluk hidup juga tidak akan dapat bertahan hidup.
+24b41fb/0/text: ... Jadi...
+4de74696/0/text: ... Bagaimana dengan Star Soul Aquaria?
+35b4514c/0/text: Juga akan...
+35b4514c/1/text: Meredup?

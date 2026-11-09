@@ -1,0 +1,149 @@
+38d34bd/0/text: Ah, welcome...!
+9c26c45b/0/text: Hello. I'd like to get some desserts and drinks to go.
+d8d42a8f/0/text: To go? Of course!
+d8d42a8f/1/text: Here's our menu.
+85c141e4/0/text: Ah.
+85c141e4/1/text: Our hands touched—
+fb8438cb/0/text: Splash!
+ae003548/0/text: !!
+ed3eccca/0/text: ?!
+222d1f7e/0/text: W-What was that...?
+b6d16c25/0/text: I-I'm so sorry!!!
+6e0fc0e7/0/text: Oh no...!
+6e0fc0e7/1/text: I'm really, really sorry!
+7565fd6f/0/text: I'm a slime...
+7565fd6f/1/text: And sometimes when I get nervous, I can't hold my shape and I just... sort of... come apart...
+5e5c5206/0/text: A slime...?!
+d6aa7d4b/0/text: I-I'll clean it up for you!
+6c9c23e/0/text: N-No, please don't—
+6186b450/0/text: !!
+1d523357/0/text: I'll take care of it
+1d523357/1/text: myself...
+18815fc5/0/text: No, please let me help!
+858124a6/0/text: Oh no, you're shaking... Is the air conditioning too cold?
+858124a6/1/text: What if you catch a cold?!
+5ccce3c7/0/text: No, wait, are you shaking because you're angry...?
+5ccce3c7/1/text: I'm so, so sorry!
+1e4892e/0/text: Is that outfit expensive? I'll pay for it! I promise!
+e0e40298/0/text: Everything is... sticky...
+e0e40298/1/text: Slimy...
+2a39212b/0/text: Oh no, you're shaking so much!
+2a39212b/1/text: I'm sorry, I'm really sorry!!!
+5ebce2f3/0/text: No...
+739d8c0d/0/text: Y-Yes?!
+4588b3a3/0/text: I'm not cold... I'm not angry...
+4588b3a3/1/text: And these clothes... weren't expensive. You don't have to pay for them...
+1a27bcc2/0/text: H-Huh? Then...?!
+670dac55/0/text: Please let me handle it myself.
+670dac55/1/text: Really...please.
+5f62bd2e/0/text: Ah... okay...?
+9936a14c/0/text: I'm going to use
+9936a14c/1/text: the restroom.
+196ede0b/0/text: Ah, wait—
+196ede0b/1/text: You...!
+c7fe6045/0/text: It's okay. I'm fine now.
+c7fe6045/1/text: I cleaned myself up.
+ad226730/0/text: I'm just... not very comfortable with physical contact.
+ad226730/1/text: I wasn't angry, so please don't worry.
+bff691f7/0/text: Oh... I see!
+7e962d4d/0/text: Um... I'm really sorry!
+7e962d4d/1/text: It's my fault for not controlling my form better!
+73438ed7/0/text: ...Can I ask you something? Why are you trying so hard to look human?
+73438ed7/1/text: Is it a rule at this café? Because they're not allowed to make you do that.
+25e93831/0/text: N-No!
+25e93831/1/text: It's my choice.
+58c8a9b4/0/text: Huh...?
+b0c41c80/0/text: ...
+6d96ec7b/0/text: I'm... part of a girl group that hasn't officially debuted yet.
+fa9c470f/0/text: The idol group I admire is made up of humans.
+fa9c470f/1/text: I wanted to be closer to them. Closer to her... So I decided I wanted to be a human idol too.
+7bd254d8/0/text: I was lucky. My groupmates accepted me, even though I'm still figuring it all out.
+7bd254d8/1/text: The four of us started chasing the same dream together.
+8f152766/0/text: But because I can't control my form properly,
+8f152766/1/text: the second I get nervous, I start falling apart, melting, changing shape...!
+696d53a1/0/text: And I ruined our very first debut event...
+faa4567d/0/text: Even if the girls forgive me...
+faa4567d/1/text: I still can't forgive myself...!
+b59086fa/0/text: So this time, I decided to face it on my own...
+b59086fa/1/text: I was going to fix this stage-fright problem myself...
+e3823a4c/0/text: That was the whole plan...
+e3823a4c/1/text: So why am I still failing...?!
+6cac76ca/0/text: Ugh... sob, sob...
+2221764b/0/text: ...
+f78a64d6/0/text: This is so embarrassing...
+f78a64d6/1/text: Why am I crying... in front of a customer...?
+47c043e8/0/text: It's okay...
+54563f2d/0/text: She must have been holding all of this in for a long time...
+7c3f6178/0/text: ...Huh?
+93112968/0/text: That bag...
+d669289e/0/text: May I ask you something?
+d669289e/1/text: Is the idol you look up to... Lulua?
+a07865bb/0/text: !!
+ca6560f3/0/text: Y-You know Lulua too?!
+b2dad7c/0/text: Lulua...
+5a0d6a70/0/text: Yes.
+7b9c0f60/0/text: ...A very close friend of mine
+7b9c0f60/1/text: loves Lulua more than any other idol.
+a3776f41/0/text: Ah...!
+a3776f41/1/text: Oh... I see!
+542aa55/0/text: L-Lulua is amazing, isn't she?!
+dd10419e/0/text: She's beautiful, her smile is adorable,
+dd10419e/1/text: and her voice is incredible...!
+c4f5b506/0/text: She is. I don't know much about music,
+c4f5b506/1/text: but her songs get stuck in your head so easily. That's pretty impressive.
+43dc8cca/0/text: ...
+872cd1db/0/text: ...Hey, did you ever watch
+872cd1db/1/text: Lulua's concert in Silvano from two years ago?
+5c03aa12/0/text: I did! I've rewatched the video of that concert
+5c03aa12/1/text: fifty-eight times, and the last time was just last week!
+f2e255a/0/text: Haha... I've watched it a few times with my friend too.
+f2e255a/1/text: Then you must remember what someone in the audience asked Lulua near the end.
+d8a1c5ab/0/text: !
+ef5d1ca9/0/text: A girl with stars in her eyes asked her,
+ef5d1ca9/1/text: "Lulua, why did you become an idol?"
+1362ce7e/0/text: And the person shining on that stage answered—
+2518158d/0/text: "Because I can't imagine a future where I'm not one."...
+2dd2366/0/text: ...Exactly.
+348b6520/0/text: "The moment I wake up, I want to sing."
+5932404e/0/text: "If I go one day without dancing, my whole body feels wrong."
+187d1ea2/0/text: "Only when I'm onstage, seeing everyone smile,
+187d1ea2/1/text: do I feel like myself."
+8625b55/0/text: "Being an idol is my destiny!"
+573fc8f0/0/text: ...Ilot loves that part so much,
+573fc8f0/1/text: I somehow ended up memorizing the whole thing too.
+5d8a684d/0/text: ...
+1a345223/0/text: If that's the kind of idol you admire,
+1a345223/1/text: then I'm sure some of that same spark is in you too.
+19636463/0/text: ...!
+6d8e46f5/0/text: So the next time you feel nervous,
+6d8e46f5/1/text: why not ask yourself what she would do?
+f93fe3c/0/text: Ask myself... what Lulua...
+f93fe3c/1/text: would do...
+19396848/0/text: ...
+681df420/0/text: ...Now then, I should probably order.
+681df420/1/text: I have friends waiting for me back in the forest.
+d6faadb8/0/text: Ah, right...!
+d6faadb8/1/text: I'm so sorry for taking up so much of your time!
+fdd7d855/0/text: What would you like to order...
+9847d4e8/0/text: Thank you so much!
+9847d4e8/1/text: ...And again, I'm really, really sorry about earlier!!!
+8578c7d8/0/text: I cried in front of a customer,
+8578c7d8/1/text: and then made you comfort me...
+68de4437/0/text: It's really okay.
+68de4437/1/text: Everyone has days like that.
+df616d81/0/text: ...Before I go, may I ask
+df616d81/1/text: what your group is called?
+f08b3cd9/0/text: !!
+f08b3cd9/1/text: W-We're Heartbeat Girls!
+125d8b1b/0/text: Heartbeat Girls...
+6fc91ad5/0/text: What a cute name.
+6fc91ad5/1/text: She'll definitely be interested.
+d1ff95da/0/text: She...?
+34bc659e/0/text: A human-form idol group
+34bc659e/1/text: born from admiration for Lulua, with members from different species.
+ef37aa9e/0/text: I'll tell my friend about you.
+3d44710b/0/text: !
+e7fb451d/0/text: So keep going, okay?
+5d8a684d/1/text: ...
+b983ac13/0/text: Y-Yes!
+b983ac13/1/text: Thank you so much!!!

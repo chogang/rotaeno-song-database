@@ -1,0 +1,36 @@
+6e17b22e/0/name: Tuan
+fb86e02e/0/text: Makanan yang dimasak Nyonya benar-benar lezat!
+7ed8bf24/0/text: Lebih lezat dari restoran di luar!
+1fcd8978/0/text: Wah, terima kasih, aku sangat senang~
+7cbf2e28/0/text: Mulut Ilot manis sekali~
+327fcdcb/0/text: Hanya mengatakan apa adanya…
+667bcfa4/0/text: Hihi. Tapi alasan makanannya lezat kemungkinan karena bahannya segar, kan~?
+133ca33d/0/text: Ah … benar, pet Nyonya selalu pulang dengan membawa mangsa yang diburu setiap hari…
+6dc634eb/0/text: (Kalau kucing gunung tidak berburu, akan digantikan oleh serigala besar, atau ular besar itu, atau…)
+5c4cbd47/0/text: … Hebat sekali.
+b9ccc66a/0/text: (Dalam segala hal. )
+4a737dc/0/text: … Apakah Ilot tertarik dengan berburu?
+61e1edce/0/text: … Eh?
+a17f458e/0/text: Bagaimana kalau aku menyuruh sayangku bawa kamu saat berburu?
+72573dae/0/text: Eh? !
+7e81a944/0/text: Itu...
+496b02a7/0/text: Sayangku...
+43b33dbf/0/text: Bisa sekalian bawa Ilot, kan~~? Berburu~
+d0148a5/0/text: (Nyonya, "Sayangku" yang kamu maksud adalah "Sayangku" yang mana? !)
+8eec5bff/0/text: (Apakah nanti aku akan kembali ke sini dengan status sebagai bahan makanan …)
+f2cf4dcb/0/text: Baik.
+e85d8d99/0/text: …
+7a1d4bcc/0/text: … Huh…
+6502edb1/0/text: (Ternyata adalah bos… benar juga…)
+b8dd32a1/0/text: (Aku berpikir terlalu banyak. )
+d2e111b6/0/text: …
+abdd0522/0/text: (Wah… kemampuan bos sangat bagus!) )
+e9edd1e0/0/text: Strategi dasar seperti itu.
+5203f086/0/text: Kepung target dulu lalu menghabisinya dalam satu serangan.
+2065fd43/0/text: Gerakan bos sangat mahir, hebat sekali!
+8f0d6496/0/text: Apakah bos juga sering berburu?
+a0abfe13/0/text: Awalnya aku mengira pekerjaan berburu di Penginapan ditanggung oleh para pet…
+d2e111b6/1/text: …
+69f9accd/0/text: Apakah kamu mau coba?
+f0b86d2a/0/text: Eh? Apakah… aku boleh?
+1561ca00/0/text: Ya, aku akan melihat di samping.

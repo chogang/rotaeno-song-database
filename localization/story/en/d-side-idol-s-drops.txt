@@ -1,0 +1,47 @@
+26522376/0/name: Lime's Wife
+6179b553/0/text: ...
+a805a577/0/text: ...How long are you planning to roll around over there, old man?
+7fb5d860/0/text: Sigh...
+54a5539e/0/text: Don't "sigh" at me. Say what's wrong.
+3537adec/0/text: ...Honey.
+3537adec/1/text: Am I... kind of useless?
+30228d5/0/text: Where's that coming from?
+16d469cb/0/text: I mean...
+7f36d0dd/0/text: Other slimes all have these big dreams, right?
+7f36d0dd/1/text: They want to change the world, make history, be somebody...
+8b7ad2fc/0/text: But me? I just want us to live comfortably.
+8b7ad2fc/1/text: A quiet life. No trouble...
+d1b80096/0/text: I'm happy being one little drop of "water" in a big ocean...
+d1b80096/1/text: Is that... lame?
+29cda313/0/text: ...Honey.
+1440879f/0/text: Yeah...?
+5c629a54/0/text: Come here.
+b4919d23/0/text: Oh. Okay—
+41ceeef9/0/text: Ow! Ow, ow, ow?!
+6d619eda/0/text: Clear-headed now? You've been sulking over there for ten minutes.
+6d619eda/1/text: What is this, a delayed teenage crisis?!
+72aeaa5a/0/text: And what's wrong with being "water," huh?
+e0d049b9/0/text: No water means no life. No life means no us.
+e0d049b9/1/text: And no ocean, either!
+67fc0ebf/0/text: Not everyone needs some grand dream.
+67fc0ebf/1/text: If you don't have one, you don't have one!
+4faf90e2/0/text: And if you want one later, then go find it later.
+9dcc83ac/0/text: Besides... setting aside what you want
+9dcc83ac/1/text: because there's someone you love more? That takes courage too.
+7436a99b/0/text: !
+2928715a/0/text: The slime I fell for
+2928715a/1/text: is the kind of big soft idiot who works hard for his wife and would fight the world for his daughter.
+2973612/0/text: Honey...
+919c50d2/0/text: So? Still think you're useless?
+919c50d2/1/text: Or are you saying I have terrible taste in "water"?
+1ea6aa20/0/text: (Honey...)
+bbdc740/0/text: ...Heh... hehe...
+1d3aaaf8/0/text: (She loves me so much I'm gonna cry—!)
+d6104b6c/0/text: Stop smiling like a creep.
+29c3daf1/0/text: Hehehe...!
+29c3daf1/1/text: ...Okay! I'm done overthinking it!
+ff4c4f4e/0/text: From now on, my dream is to be the best little drop of "water"
+ff4c4f4e/1/text: for you, and for this family!
+a69e3dae/0/text: For my dearest, sweetest, most beloved wife,
+a69e3dae/1/text: I'll give it everything I've got!!!
+21e9b657/0/text: ...Hmph. Don't get too pleased with yourself.

@@ -1,0 +1,12 @@
+4ca103b3/0/name: Anak
+3b5d799/0/text: Berhenti!!!
+e0f8a46a/0/text: ? !
+bcf8dfd5/0/text: Ini adalah wilayah bis!
+2c275b89/0/text: Orang yang tidak berkepentingan segera pergi!
+2655e511/0/text: Ha? Atas dasar apa?
+83316622/0/text: Bos kami adalah orang yang paling keren dan paling hebat di dunia!
+af210d69/0/text: Kamu bukan orang kami, tidak boleh masuk!
+83ef84ca/0/text: …
+89967eb/0/text: (Apaan ini… permainan pemeran keluarga? )
+bfdc7956/0/text: （<color=yellow> Sepertinya harus membuktikan diri sendiri adalah orang mereka agar bisa masuk. </color>)
+99442da1/0/text: (Sangat merepotkan… lupakan, pulang saja. )

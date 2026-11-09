@@ -1,0 +1,110 @@
+a08dfce2/0/text: Hmm…
+a08dfce2/1/text: Coba kulihat…
+d76e91d0/0/text: Kepadatan dan viskositas air itu sendiri sudah berhasil disimpulkan,
+d76e91d0/1/text: data suhu juga sudah ada.
+52ce7d37/0/text: Selanjutnya adalah kecepatan dan tekanan…
+52ce7d37/1/text: Untuk bagian ini, tetap perlu melakukan perhitungan eksperimen langsung, 'kan…?
+6728614d/0/text: Hmm, oke!
+6728614d/1/text: Kalau begitu, mari kita coba!
+95eb28c/0/text: Oke…
+95eb28c/1/text: Eh?!?!
+9c6fa0be/0/text: Gawat, tangan… harus bergerak…!
+9c6fa0be/1/text: Ah, kaki juga…!
+eaef4e3f/0/text: Pffff…!
+f37c3521/0/text: Uhuk, uhuk, uhuk…!!!
+f37c3521/1/text: Uhuk uhuk!!!
+fc5a249/0/text: Ke-kenapa…
+fc5a249/1/text: Tangan dan kakiku hilang kendali…!?
+5a5f9909/0/text: Jelas-jelas data yang dibutuhkan sudah ada semua…?
+a96cd151/0/text: Harusnya nggak akan ada masalah asalkan aku mengikuti petunjuk di buku…
+a96cd151/1/text: Tapi kenapa begitu masuk ke air, anggota tubuhku bisa hilang kendali?
+7ad88935/0/text: Hmm~~~…
+e27ff73d/0/text: …Pasti karena literatur yang kubaca masih kurang banyak!
+e27ff73d/1/text: Aku harus mencari lebih banyak buku tentang mekanika fluida di perpustakaan!
+fa367d44/0/text: Wah…!
+fa367d44/1/text: Gawat, aku harus segera membersihkan kolam renang…!
+a5e2c8fc/0/text: Tugas yang diterima harus diselesaikan dengan baik.
+4b60cc88/0/text: Gerakanku harus cepat.
+4b60cc88/1/text: Setelah ini, masih ada janji dengan Ilot…!
+31219690/0/text: Hoppe! Hoppe!
+31219690/1/text: Sini~~~
+944728f7/0/text: Maaf,
+944728f7/1/text: aku terlambat…!
+ee5ee1fc/0/text: Nggak apa-apa~… Eh?
+ee5ee1fc/1/text: Kenapa rambutmu basah? Baru selesai keramas?
+83744136/0/text: Astaga, karena buru-buru bertemu dengan Ilot,
+83744136/1/text: aku lupa mengeringkan rambut…!
+50e58541/0/text: I-iya…!
+50e58541/1/text: Iya, hari ini agak panas, jadi…
+967de669/0/text: Oh, oh!
+967de669/1/text: Benar banget——
+45c692e9/0/text: —Jadi!
+45c692e9/1/text: Bagaimana kalau kita makan mie dingin malam ini?!
+f7a96ec0/0/text: Oh, boleh!
+c2514228/0/text: OK☆
+c2514228/1/text: Kalau begitu, ayo♪
+5da4f357/0/text: Kita makan di restoran Gang 32 saja, ya~?
+28934a9/0/text: ! Apa, nggak boleh!
+28934a9/1/text: Ganti yang lain, aku pikir dulu……
+6ae263a3/0/text: Hmm?
+6ae263a3/1/text: Ada apa dengan restoran itu…?
+418b8428/0/text: Oh~? Mau tahu?
+418b8428/1/text: Huhuhu…♪
+92a1a973/0/text: …?
+979863fe/0/text: Restoran itu,
+979863fe/1/text: ada makanan yang——
+e16a5337/0/text: bisa membuat Hoppe-ku muntah!
+f05781d7/0/text: !!
+6a8ffe76/0/text: Hehehe, muntah karena Tahu Busuk——
+ae7527f5/0/text: Ba-baiklah!
+ae7527f5/1/text: Itu sudah lama berlalu, jangan diungkit lagi…!!!
+93cc543f/0/text: Hahaha, tapi itu benaran lucu banget☆
+93cc543f/1/text: Hoppe yang mungil, berlari ke toilet dengan air mata di wajahnya dan Tahu Busuk di mulutnya. Hahaha——
+45d9ed37/0/text: Ka-kalau masih ketawa, aku akan pulang!
+8ef1f6c2/0/text: Ha-hahaha…!
+8ef1f6c2/1/text: Sudah, sudah. Jangan pergi dong! Aku nggak ketawain kamu lagi. Haha……
+2889794c/0/text: Hmm…
+21018d64/0/text: …Benar,
+21018d64/1/text: Pasti…
+9e46e8/0/text: Pasti nggak boleh beri tahu Ilot kalau aku nggak bisa berenang…!!!
+10e8bf57/0/text: Hari akhir pekan.
+2221764b/0/text: ……
+b8200f0c/0/text: Akhirnya…
+b8200f0c/1/text: Tetap nggak bisa.
+19d68ae4/0/text: Setiap kali masuk ke air,
+19d68ae4/1/text: anggota tubuhku jadi hilang kendali…
+643e0e8f/0/text: Seharusnya nggak begitu, 'kan…
+f630e919/0/text: Kenapa nggak bisa selancar yang ditulis di buku…?
+300cd6a8/0/text: …Aku benar-benar nggak ingin pergi.
+149fd102/0/text: …Atau… Cari alasan…?
+818b4d06/0/text: Kadang-kadang seperti Ilot begitu…
+818b4d06/1/text: Nggak apa-apa juga, 'kan…?
+ff0544c5/0/text: Contohnya bilang aku… flu?
+52017ba3/0/text: Hmm……!
+c4fd0bdc/0/text: "Halo, Hoppe!
+c4fd0bdc/1/text: Kamu di mana? Aku sudah di depan taman!]
+eaab404e/0/text: Hmm… Ah…
+eaab404e/1/text: Aku masih di jalan……
+e6a9cf1/0/text: …Kamu cepat sekali.
+97baeedb/0/text: "Hehehe, aku sudah nggak sabaran☆"
+f43d3c8e/0/text: "Aku beri tahu kamu, ya.
+f43d3c8e/1/text: Aku telah membeli baju renang yang—super lucu!
+f43d3c8e/2/text: Begitu melihatnya, kamu pasti akan terngakak-ngakak!]
+2221764b/1/text: ……
+aaa2bbc/0/text: —Oh, iya?
+aaa2bbc/1/text: Kalau begitu, aku akan menantikannya.
+b224154c/0/text: Aku akan sampai dalam 10 menit.
+b224154c/1/text: …Sampai ketemu nanti.
+276f5500/0/text: Huhu…
+276f5500/1/text: Apa yang kulakukan…
+f3f069ef/0/text: Jawaban begitu 'kan jadi harus pergi…
+2221764b/2/text: ……
+4f39f595/0/text: Tapi, suara Ilot terdengar sangat senang…
+4f39f595/1/text: Aku benar-benar nggak tega membuatnya kecewa…
+90ca74ff/0/text: …Hmm, pasti akan baik-baik saja!
+766086c7/0/text: Lagi pula, cuman beberapa jam.
+766086c7/1/text: Asalkan aku hati-hati, harusnya nggak akan ada masalah!
+b5a5cae3/0/text: Oke…
+b5a5cae3/1/text: Semangat, Hoppe!
+b4b01afb/0/text: Supaya Ilot bisa main sepuasnya,
+b4b01afb/1/text: dan supaya "rahasia" ini nggak terbongkar…!

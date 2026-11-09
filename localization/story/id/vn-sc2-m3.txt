@@ -1,0 +1,183 @@
+4add8ad/0/text: Hari Festival Sekolah——
+fdfac199/0/name: Kelas 2-E Siswa A
+744c98fd/0/name: Kelas 2-E Siswa B
+985412ea/0/name: Kelas 2-E Siswa C
+3e7a11c0/0/name: Kelas 2-E Siswa D
+3a09e050/0/name: Siswa A
+f652ae1c/0/name: Kelas 2-E Seluruh Siswa
+46dec000/0/name: Kelas 2-A Siswa A
+4889e19b/0/name: Lime
+6905ea51/0/text: Selamat datang,
+6905ea51/1/text: silakan duduk~!
+f8f53a22/0/text: Pelayan Anda hari ini adalah... Eh?
+f8f53a22/1/text: Ah, maaf, sepertinya semuanya sedang...
+fc3ce707/0/text: Ah! Ilot!
+69a99954/0/text: Aku datang~
+a8dfa70c/0/text: Kuserahkan padamu, ya!
+45382841/0/text: Oke!
+7a4fe1c0/0/text: Selamat datang, Tuan!
+7a4fe1c0/1/text: Anda pasti kelelahan, ya?
+7a16e4a/0/text: Ini menu yang dirancang oleh koki hari ini.
+7a16e4a/1/text: Silakan dilihat apakah ada yang Anda sukai, meong~♡
+13fed704/0/text: O-oke...!
+13fed704/1/text: Kalau begitu...
+e96bacc3/0/text: Ada yang bisa membantuku?
+dc733b9d/0/text: Aku~!
+554fe241/0/text: Tuan, aku harus membantu koki dulu...
+1e53a631/0/text: Meskipun kita baru bertemu sudah harus berpisah,
+1e53a631/1/text: tapi setelah bertemu dengan Tuan, semua rasa lelahku hilang~semua, meong!
+9f9612ca/0/text: ...!
+8942d935/0/text: Aku permisi, ya.
+8942d935/1/text: Semoga harimu menyenangkan!
+f9a43ae0/0/text: Ilot, ini pesanan meja 3!
+73736d7b/0/text: Oke, meong!
+462e994a/0/text: Haha,
+462e994a/1/text: kau sangat mendalami karakter ini, ya?
+6b5d4be9/0/text: Hei, kau nggak mengerti.
+6b5d4be9/1/text: Ini namanya selalu siap siaga!
+525f893d/0/text: Hari ini aku adalah Ilot "Sang Pelayan Kucing".
+525f893d/1/text: Aku harus mendalami karakter pelayan kucingku!
+f9284301/0/text: Demi camilan!
+4bde7fae/0/text: Iya, demi camilan!!!
+37e2739c/0/text: Maaf menunggu,
+37e2739c/1/text: ini parfe pisang dan roti renyah kedua tuan~
+95afd2e9/0/text: Aah...
+2f70d66e/0/text: Oh!
+2c1f7a74/0/text: Nyam——
+2c1f7a74/1/text: Huff~ Akhirnya hidup kembali... 
+2c1f7a74/2/text: Hari ini benar-benar panas banget——
+662ee68e/0/text: Itu siswa SMA yang legendaris—pengulang abadi,
+662ee68e/1/text: Noah!!
+27621150/0/text: Krak, krak——
+7d3c214a/0/text: Nyam... krim di dalam roti,
+7d3c214a/1/text: rasanya biasa saja.
+9482c04b/0/text: Dan senior Lime yang selalu bersamanya!
+47500c43/0/text: Noah, jangan makan terlalu cepat.
+47500c43/1/text: Nggak bagus untuk lambungmu.
+1aa9a04/0/text: Tenang saja... Nggak masalah...
+1aa9a04/1/text: Uh, perutku... kembung...!
+1b886a27/0/text: Haih, anak sekarang...
+f4468e43/0/text: ……
+a694d1ea/0/text: Benar-benar duo yang lucu.
+e405db4d/0/text: Oh, iya, kudengar beberapa waktu lalu mereka telah mengikuti kelas simulasi mengemudi,
+e405db4d/1/text: dan hampir mengakibatkan kecelakaan karena salah mengatur setelan?
+663d4110/0/text: Kudengar Bu Cheri hampir menangis karena kekacauan itu...
+e8e4f5e0/0/text: Wah~~~
+e8e4f5e0/1/text: Kalau bukan karena karakter sekarang, aku benar-benar ingin menanyakannya langsung——
+c42e6ab3/0/text: Ilot!
+c42e6ab3/1/text: Kemari~
+7eb95d60/0/text: Oke——
+7eb95d60/1/text: Kalau begitu, kedua Tuan, silakan menikmati.
+7ec5a686/0/text: Huff——
+70bb41e/0/text: Akhirnya istirahat~☆
+dca94a8b/0/name: Siswa C
+4a7c9202/0/name: Siswa B
+b147f5c8/0/name: Siswa F
+41166440/0/text: Masih harus tunggu berapa lama...
+6d22d523/0/text: Segera, segera.
+9444ad6f/0/text: Kudengar kostum gadis pelayan kelas ini imut bangeeeeet lho!
+9444ad6f/1/text: Bertahanlah sebentar lagi.
+5406531f/0/text: Benar, kami semua sangat imut lho♪
+5406531f/1/text: Karena kami telah mengerahkan banyak~upaya untuk kostum dan aksesorisnya!
+a02fcd4/0/text: Mhmm~...
+a02fcd4/1/text: Antriannya panjang banget☆
+776fc54a/0/text: Bagus.
+776fc54a/1/text: Aku sangat puas♡
+3f78a5a4/0/text: I-Ilot!
+3f78a5a4/1/text: Syukurlah, aku sedang mencarimu!
+d0505954/0/text: Ha?
+7f0b31b3/0/text: Oh, kamu sudah datang!
+81f6acbb/0/text: I-iya...
+81f6acbb/1/text: Hmm... di-dia benaran akan...
+18b37b12/0/text: Tentu saja~
+18b37b12/1/text: Kamu datang pada waktu yang tepat, dia baru saja kembali dari waktu istirahat!
+d7e83e71/0/text: Waduh,
+d7e83e71/1/text: jodoh, nih! Bagaimana kalau kamu ungkapkan perasaanmu pada hari ini juga?
+e756c100/0/text: !! Apa katamu!
+e756c100/1/text: Hu-hubungan kami masih belum...
+7da73bda/0/text: Ooh——
+7da73bda/1/text: Be-lum?
+de22b7e7/0/text: !!!
+1be4dd0c/0/text: Hehehe, cepat masuk.
+1be4dd0c/1/text: Semoga lancar~
+be64a658/0/text: Te-terima kasih...
+16db699e/0/text: Sama-sama.
+16db699e/1/text: Tapi——
+f2a38dc/0/text: Jangan lupa dengan perjanjian kita☆
+888d0ab0/0/text: Aku sudah membujuk Mina menjadi gadis pelayan,
+888d0ab0/1/text: jadi kamu harus——
+5261517a/0/text: Iya, iya, nggak masalah!
+5261517a/1/text: Suaraku dan sahabat-sahabatku sudah pasti untuk kelas kalian!
+c53afaa0/0/text: Sudah, ya. Aku masuk dulu.
+c53afaa0/1/text: Dah!
+5a8472f6/0/text: Baiklah☆
+63ec19d/0/text: Terima kasih atas kedatangannya♡
+c540480a/0/text: Ayo, ayo.
+c540480a/1/text: Semua~ datanglah ke kelas kami!
+cd53f0f8/0/text: Lalu, berikan semua suara kalian!
+417d8113/0/text: Hore~~~!
+2e486830/0/text: Setelah melihat beberapa kelas yang aku waspadai sebelumnya,
+2e486830/1/text: mereka bukanlah lawan kami!
+f12bc2fc/0/text: Hehe, sudah pasti menang♪
+578235f9/0/text: Aku nggak menyangka kelas Mona bisa membuat "Studio Foto MoeMoe"...
+578235f9/1/text: Itu sudah ketinggalan zaman.
+81b2e7be/0/text: Di era semua orang memfoto dengan ponsel,
+81b2e7be/1/text: mana ada lagi yang mau ke galeri foto?
+e7d49c97/0/name: Siswa G
+75b416ca/0/name: Siswa H
+ad708614/0/text: Hei, ayo kita lihat stan adik-adik SMP.
+9218c0db/0/text: Ha? Untuk apa?
+9218c0db/1/text: Aku rasa semua tema mereka sangat kekanak-kanakan...
+ddd891ce/0/text: Nggak kok~ kudengar ada kelas yang membuat Kompetisi Rintangan Pesawat Ruang Angkasa.
+ddd891ce/1/text: Semua orang saling bertabrakan, seru banget!
+12e40df1/0/text: Kompetisi Rintangan... saling bertabrakan?
+12e40df1/1/text: Apa itu sejenis balap gokar?
+74c2beeb/0/text: Iyakah...
+69f32ad1/0/text: Dan juga, kudengar,
+69f32ad1/1/text: mereka masih menyediakan... hadiah...
+35d1cf8c/0/text: Kedengarannya sangat seru.
+35d1cf8c/1/text: Mungkin aku harus pergi melihatnya nanti?
+4a4a3bfe/0/text: ...tapi mari selesaikan penyelidikan situasi lawan dulu!
+1b5c0add/0/text: Selanjutnya... Oh,
+1b5c0add/1/text: Sisa kelas Hoppe.
+7a0e1677/0/text: Meskipun ancaman dari kelas master akademis seharusnya nggak tinggi...
+7a0e1677/1/text: tapi aku tetap harus memeriksanya, jaga-jaga saja.
+a428d6eb/0/text: Hmm... Kira-kira apa tema mereka?
+fc916955/0/text: Siswa-siswa berprestasi seperti mereka nggak akan menghabiskan terlalu banyak waktu di hal selain belajar.
+fc916955/1/text: Jadi, tema mereka harusnya sangat sederhana, mungkin berhubungan dengan membaca...?
+51eb0b95/0/text: ...?
+f446357f/0/text: Antrian apa ini...?
+b5c62cc7/0/text: Di depan itu nggak ada kelas, 'kan?
+b5c62cc7/1/text: Apa yang mereka antrikan?
+4e1871fc/0/text: ...setelah belokan,
+4e1871fc/1/text: masih antrian bagai garis nggak berujung?!
+8ea5434b/0/text: Ini...!
+27b0da61/0/text: Hei~
+27b0da61/1/text: Ini 'kan Ilot~
+f5c04e2b/0/text: Ka-kalian ini...
+897c02fd/0/text: Antrian gila ini...
+897c02fd/1/text: berasal dari kelas Hoppe?!
+4fe3f0d4/0/text: Kaget, ya?
+610064be/0/text: Hehe,
+610064be/1/text: kamu terlalu meremehkan kami!
+1a0811c2/0/text: Kamu kira kelas kami ini sekumpulan kutu buku,
+1a0811c2/1/text: nggak akan bisa melawan kalian, 'kan?
+5d79c199/0/text: Ka-kalian...
+b045a558/0/text: Kuberi tahu, ya——
+e998c79b/0/text: Benar!
+e998c79b/1/text: Kami ini kutu buku!
+d2653e78/0/text: Tapi justru karena kami ini kutu buku,
+d2653e78/1/text: jadi kami akan melakukan apa pun demi akses perpustakaan tanpa batas!
+f860a2e8/0/text: ...!!!
+79bad066/0/text: Bisa-bisanya...
+d6ca3de0/0/text: aku salah menilai daya tarik akses perpustakaan bagi siswa berprestasi...
+bc2cf46c/0/text: Apa tema...
+bc2cf46c/1/text: kelas kalian...?
+b6b1d93e/0/text: Apa?
+b6b1d93e/1/text: Oh, kamu nggak melihatnya... 
+b6b1d93e/2/text: Antriannya menutup semua dekorasi kami.
+b6b1d93e/3/text: Maaf, ya~
+eb1013e8/0/text: ...Menyebalkan sekali.
+9fc05517/0/text: Kalau begitu, masuklah untuk melihatnya~
+9fc05517/1/text: Tapi kuberi tahu dari sekarang, ya. Nggak boleh mengganggu Hoppe, dia sangat sibuk!
+8433013f/0/text: Hoppe...?

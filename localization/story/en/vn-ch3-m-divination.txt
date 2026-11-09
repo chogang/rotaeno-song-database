@@ -1,0 +1,160 @@
+f8dff522/0/text: Ilot, thanks for today!
+9c3d41c1/0/text: But...
+9c3d41c1/1/text:  It was supposed to be a fun day in the forest.
+9c3d41c1/2/text: But somehow I kept bringing up topics that make you unhappy...
+88f8a71/0/text: That's not true!
+88f8a71/1/text: I enjoyed myself today!
+2576648b/0/text: Without you,
+2576648b/1/text: I wouldn't have the courage to see the forest...
+dbd8b86f/0/text: And get the chance to observe elflings up close with my own eyes,
+dbd8b86f/1/text: talk to the treants, or go to the hot springs in the forest!
+38641e9c/0/text: Not to mention
+5a2f2c87/0/text: that I can spend the day with a stunning beauty like you!
+93f90c9f/0/text: I'm over the moon!
+93f90c9f/1/text: What a lucky girl I am!
+978e7504/0/text: ...
+d467d977/0/text: Ilot, you're the best human...
+d467d977/1/text: I've ever met.
+58cc9b2f/0/text: I shall pray to the Starsoul.
+58cc9b2f/1/text: May it keep your journey safe and smooth.
+f43cfb47/0/text: Cheri...
+7a7bfcdb/0/text: Heh, since you are gonna pray for me...
+7a7bfcdb/1/text: Can I wish my own wish?
+c081188b/0/text: Your own wish...?
+9a902b2f/0/text: Yes!
+9a902b2f/1/text: I don't need a safe or smooth journey...
+9a902b2f/2/text: I just want to find my good friend!
+9bbe5ec0/0/text: I wish that in the next planet,
+9bbe5ec0/1/text: Hoppe will be right there!
+f9854e8e/0/text: Hoppe...?
+afe32602/0/text: Yes, that's the name of my best friend!
+afe32602/1/text: She's also an Aquarian!
+978e7504/1/text: ...
+e8ad24e5/0/text: Your best friend...
+e8ad24e5/1/text: Hoppe...
+5104ca50/0/text: Is she the girl with deep blue hair...
+5104ca50/1/text: Two ponytails, and a pair of amber eyes?
+ad6831dc/0/text: !!!
+4e99ead4/0/text: Yes, that's right!
+975f34ff/0/text: Look, this is a picture we took together!
+975f34ff/1/text: Is she the one you saw?!
+da6d7671/0/text: Ah...
+da6d7671/1/text: Yes, this girl...
+da6d7671/2/text: ...came to us before!
+957b232f/0/text: It's probably...
+957b232f/1/text: ...about four months ago?
+e49b2df9/0/text: Four months ago, huh...
+e49b2df9/1/text:  That's during the period when she went missing!
+88354f31/0/text: D-Do you know where she is now?!
+eadafad0/0/text: Hmm...
+ddf6aa2b/0/text: I have no idea...
+b4ae6116/0/text: Oh...
+642e1678/0/text: Well...
+642e1678/1/text: It's been four months, even though she spoke of her next destination...
+642e1678/2/text: ...she has probably left the place.
+409ca68e/0/text: But since I've seen that kid...
+409ca68e/1/text: ...I still remember her aura.
+7c187b8d/0/text: If I were to make a divination with the Starsoul,
+7c187b8d/1/text: I may be able to locate her.
+4937268e/0/text: !!!
+ae660635/0/text: Cheri, is the accuracy of the divination...
+ae660635/1/text: Uh...
+ae660635/2/text: ...High?
+b5c4a84b/0/text: Ah, I don't mean to be disrespectful by asking this!
+b5c4a84b/1/text: It's just that... The last time when I used the Destiny Stone to seek guidance from the Orb Starsoul...
+6d53b75c/0/text: And, uh...
+b5d53099/0/text: ...It brought me here.
+31c24c69/0/text: Hmm...
+31c24c69/1/text:  I just don't feel that...
+31c24c69/2/text: ...it's accurate.
+31c24c69/3/text:  I guess...?
+a997170c/0/text: The Destiny Stone?
+a997170c/1/text: Hmm...
+a997170c/2/text:  Was the preparation ritual complete?
+b8f475b3/0/text: Preparation ritual?
+574903c1/0/text: The person who gave me the stone didn't tell me about that...
+25fb627/0/text: Ah...
+25fb627/1/text: Haha!
+a4d6ed6f/0/text: The one who gave you the Destiny Stone probably came from a race that was already connected to Starsoul...
+a4d6ed6f/1/text: ...or possesses a high-level spirituality.
+cd16176a/0/text: Hmm...
+cd16176a/1/text:  Let's put it this way.
+cd16176a/2/text: Most humans are at a low level of spirituality.
+d633e301/0/text: Hence, they aren't able to sense Starsouls,
+d633e301/1/text: and it's also difficult for the Starsouls to hear you.
+231ab8af/0/text: The preparation ritual is created for humans.
+231ab8af/1/text: It is the simplest way to increase your spirituality temporarily.
+e4b730fe/0/text: I see...
+9d0bd1f7/0/text: This means that...
+9d0bd1f7/1/text: The lady boss possesses a high level of spirituality...?
+fff0161c/0/text: Her husband came from a mysterious alien race, while she possesses a unique ability...
+fff0161c/1/text: ...That's really amazing.
+ec44821d/0/text: She's truly the chosen one!
+42efd187/0/text: For future divination, it's usually around 60% accurate.
+42efd187/1/text: After all, the future is changeable, and change is always happening.
+93c8a1a1/0/text: But if we were to only use it to find someone,
+93c8a1a1/1/text: as long as Starsoul is willing to answer, it's impossible to go wrong.
+ad6831dc/1/text: !!!
+6eb6af16/0/text: Lord Starsoul, I'm a faithful believer!
+6eb6af16/1/text: I really want to find Hoppe!
+b3264ed6/0/text: I'm worried about her! If she is in trouble...
+b3264ed6/1/text: ...I hope to be with her!
+b8ac11f3/0/text: Please, tell me where Hoppe is!!!
+33478a02/0/text: Haha!
+8ef134d3/0/text: Don't worry,
+8ef134d3/1/text: I'm sure the Starsoul will be willing to help Ilot and Hoppe.
+4d977532/0/text: You are good kids, after all.
+2c7617cc/0/text: Now, I shall begin!
+3ac8881/0/text: Please!!!
+2dda2695/0/text: Please...!
+9a930253/0/text: ...?
+289a9101/0/text: What's that?
+feff7a48/0/text: ...Someone is coming.
+a3004b2c/0/text: A passenger...?
+68952f72/0/text: Here...!
+c9656748/0/text: Anga...!
+5cbcd108/0/text: Ilot, stay behind me.
+1819dd5f/0/text: Ah...
+9995f84e/0/text: Angatu! Show yourself!!!
+4937268e/1/text: !!!
+952a1a72/0/text: It's that group of aunties and uncles yesterday!
+40f85391/0/text: Angatu is out.
+40f85391/1/text: How can I help you?
+9892ea6e/0/text: Isn't it obvious?
+9892ea6e/1/text: Give us back our people!
+622150e6/0/text: Let my brother off!
+622150e6/1/text: That Conservation Act...We didn't agree to it!
+33a390b2/0/text: Who gave you the right to chase us away?
+fc104496/0/text: There was a referendum during the drafting of the Conservation Act...
+fc104496/1/text: ...and more than half of the population voted for it.
+4cdbe6dc/0/text: I didn't!
+4cdbe6dc/1/text: Neither did we!
+582669ad/0/text: There's no use in talking to a useless girl like you.
+582669ad/1/text: Get Angatu out and speak with us!
+8426d4fa/0/text: Hey, mind your language!
+180d930b/0/text: It's one thing to be unreasonable, but speaking so rudely is uncalled for!
+efa3de87/0/text: Go back to your mother planet, you trash!
+c3f673c8/0/text: Ilot...!
+e67231a/0/text: These people are getting in the way...
+e67231a/1/text: ...of Cheri's divination!
+34e1a0cf/0/text: If the Starsoul refuses to help because of these people,
+34e1a0cf/1/text: I won't be able to get news of Hoppe!
+60db276b/0/text: You... Aren't you that brat?!
+8595c9e0/0/text: I see... <br>You're in cahoots with these elves. It's no wonder you'd create trouble for us!
+6f98b602/0/text: We were so kind to you, <br>yet you can't even tell right from wrong!
+966ae24f/0/text: Huh? <br>Are you kidding me?
+abce1f3f/0/text: Who's the unreasonable one here?
+c97ee338/0/text: Aunties and uncles... <br>We are now in the era of the Cosmic-net,
+b101e011/0/text: Why don't you koogle and see if the consumption of any normal household is as high as yours?
+ca3cdf04/0/text: Those backward families have a lower standard of living!
+dd09c7a/0/text: You're the one who is backward here!!!
+f912cc80/0/text: As one of the top three technological planets, the Aquarians have never criticized others for being backward. <br>What gave you, an emerging technological planet, the right to criticize others?
+a2a0b782/0/text: Y-You...!
+dff34807/0/text: That's enough. <br>I said it's useless to talk to them.
+7a20f4e2/0/text: Fine! <br>Sharp-tongued, aren't you?
+b2707a6d/0/text: Since you love this pathetic forest so much, <br>I'll burn it down!
+673b0d31/0/text: Without the forest, <br>the elves won't be able to survive!
+298b91c8/0/text: Stop!
+5a9494fd/0/text: These imbeciles! <br>Starting a fire in the forest is no joking matter!
+12f79e30/0/text: Stop!!!
+1368bf9f/0/text: Oh no, <br>the spark is about to fall onto the grass patch!

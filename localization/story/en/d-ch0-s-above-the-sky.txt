@@ -1,0 +1,18 @@
+cab00e3d/0/text: Somewhere on Floating Island...
+47bdb002/0/text: Hmm...
+6a1e4dd7/0/text: The working class labor shortage grew worse again this month...
+73b9ca45/0/text: If this continues, we may need to close --
+d3616e3f/0/text: No. That would only cause a panic.
+fd09c4c6/0/text: Indeed.
+7e493c18/0/text: The Endless Rain has decimated our planet's population in the past few years.
+4028d332/0/text: Even the smallest disruption in the surface dwellers' lives could cause Aquarian society to collapse.
+24621916/0/text: Send the middle class down to help, and tell them to think of a way to keep our labor force from fleeing the planet.
+77cf041b/0/text: The influx of Slime immigrants has indeed helped fill some of the vacancies...
+b9160b4/0/text: But their total population is still... *sigh*
+f4ad6a1/0/text: We should produce more orphans. Slimes can only work near water. There are too many other jobs they can't handle.
+1ef38ff8/0/text: The only demographic we can control is the supply of orphans. We shouldn't place all our bets on immigration.
+5872d760/0/text: Get someone to tell the office next door that we'll have a meeting in a week.
+2393e0ca/0/text: Weren't they furious last time? What makes you think they will agree to this plan?
+7f331a9/0/text: Then they'll just have to agree to disagree. We're moving forward.
+cf37dfc3/0/text: Their money is the only reason they can stay on Floating Island in the first place.
+12ea4e58/0/text: Hmph... What a bunch of narcissistic upstarts.

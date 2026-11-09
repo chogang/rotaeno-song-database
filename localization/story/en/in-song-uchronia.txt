@@ -1,0 +1,13 @@
+f393a0cf/0/text: Welcome to our interview!
+cd87fd53/0/text: First, please introduce yourself to everyone!
+5628a181/0/text: I am 7mai!
+db06e4ca/0/text: Thank you for your support in the songs "Chrysanthemum" and "Cynthia"!
+ad6b9168/0/text: Congratulations on having your new song selected as the contested winner!
+9edb2c89/0/text: Could you tell us more about your newly released song, "Uchronia"?
+367529d1/0/text: "Uchronia" means an ideal land that has already been completed, so there are no historical changes or developments, like a world where time has stopped.
+f112fc22/0/text: In terms of the music, although it starts with a solemn atmosphere, the arrival of a "certain someone" who might disrupt order and balance in a good or bad way causes the halted history to start moving again...
+e96da/0/text: It was created with such an atmosphere in mind.
+f31b86de/0/text: Sounds like a fascinating story!
+60e6ee3c/0/text: Finally, do you have any messages for the players?
+94a0ee5c/0/text: The chart is expected to feature slightly fast 16th-note streams, making it quite a challenging chart.
+868a5008/0/text: It's definitely something to look forward to!

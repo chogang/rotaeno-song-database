@@ -1,0 +1,160 @@
+56f02283/0/text: "Wah..."
+aa149d5b/0/text: Di koridor logam yang dingin, Bolt dengan putus asa mengangkat kepalanya, mengagumi kendaraan luar angkasa di sekitarnya yang jauh lebih tinggi darinya.
+c16ed8a4/0/text: Ternyata ada begitu banyak jenis pesawat ruang angkasa?
+f53fe173/0/text: Kalau begitu kenapa keluarga mereka selalu naik pesawat yang sama setiap kali keluar?
+de786b72/0/text: "Wah, desain ini keren sekali! "
+43164c98/0/text: "Ekor ini rasanya bisa terbang sangat cepat—"
+edd97936/0/text: "Yang ini terlalu besar! Berapa banyak orang yang diperlukan untuk menggunakannya ..."
+6f669211/0/text: Lihat kiri dan kanan, Bolt yang pertama kali masuk garasi pesawatnya seperti berada di taman hiburan, dia hampir lupa alasan dia datang kesini karena terlalu bersemangat.
+267d497e/0/text: hampir.
+cb7ae22a/0/text: "...! "
+11dafcc/0/text: Setelah beberapa lama, anak muda itu akhirnya sadar ketika dia secara tidak sengaja melihat sekilas jam elektronik yang diproyeksikan di dinding.
+31f0c8c9/0/text: Gawat gawat gawat gawat!
+9ae2ea2c/0/text: Ha-hampir saja lupa hal penting!!!
+34213814/0/text: Dia menepuk pipinya dengan keras untuk membangunkan dirinya,
+34213814/1/text: Bolt akhirnya mulai fokus mencari tempat bersembunyi.
+399f2bda/0/text: "Hmmm... dimana aku bisa tinggal agar tidak ketahuan..."
+a76734ae/0/text: Dengan cepat melewati baris demi baris pesawat ruang angkasa,
+a76734ae/1/text: Ekspresi anak laki-laki itu berubah dari yang penuh tekad menjadi tertekan.
+6c3e3896/0/text: "Sepertinya tidak ada apapun di sini selain pesawat ruang angkasa ..."
+4a3ffc28/0/text: Tsk... Sayang sekali pesawat ruang angkasa ini terlalu tinggi,
+4a3ffc28/1/text: Meskipun pintu masuknya terbuka, tidak bisa naik tanpa eskalator...
+69d52749/0/text: Sudah terlambat untuk bersembunyi sekarang...
+a0fc413d/0/text: Apakah hari ini akan berakhir dengan kegagalan...
+b956ce2e/0/text: "Haa..."
+312750ae/0/text: 15 menit kemudian, Bolt berhenti dengan kecepatan yang melambat,
+312750ae/1/text: menghela napas.
+2e8c433e/0/text: Bersandar,
+2e8c433e/1/text: Dia berbaring di tanah dalam posisi jatuh bebas dengan suara "poof".
+d9d814ae/0/text: "Sudahlah...
+d9d814ae/1/text: Aku sudah berjuang, biarkan saja. "
+289d99d0/0/text: Tidak apa.
+289d99d0/1/text: Berusaha lagi setelah 2 minggu!
+6281245a/0/text: menenangkan diri dalam hati,
+6281245a/1/text: Bolt memutuskan hari ini tertangkap dengan postur seperti itu.
+410ba209/0/text: "...Uh? "
+c6821e0d/0/text: ——Namun, saat aku hendak memejamkan mata,
+c6821e0d/1/text: Anak muda itu sepertinya melihat sesuatu dari sudut matanya.
+3d0062cc/0/text: Di sudut itu...
+4526005/0/text: "Hei! "Dengan putaran dan lompatan cepat, Bolt berdiri lagi, menepuk debu di celananya dan berjalan menuju posisi yang menarik perhatiannya.
+5318d3/0/text: Lalu...
+8f9dc24c/0/text: "...! "
+8f9dc24c/1/text: Di antara banyak pesawat ruang angkasa, baik penumpang maupun kargo,
+8f9dc24c/2/text: Diam-diam tinggal di sebuah pesawat ruang angkasa kecil di sudut ruangan.
+692e5a44/0/text: "Huh......"
+65197e47/0/text: Melihat bahwa pintu kokpit akhirnya pas dengan badan pesawat,
+65197e47/1/text: Bolt menghela nafas panjang dan mengangkat tangannya untuk menyeka keringat di dahinya.
+b0e75b15/0/text: Aduh... Pintu ini beraaat sekali!
+cb3124fd/0/text: Menggerakkan tubuh yang hampir kelelahan,
+cb3124fd/1/text: Bolt berbalik dan mulai melihat ke dalam kabin.
+89dd63e7/0/text: Kaca transparan menempati sepertiga dari pesawat ruang angkasa, memungkinkan orang bisa melihat dengan jelas pemandangan di luar kabin.
+89dd63e7/1/text: Di bawahnya, berbagai dashboard dan tombol tertata rapat.
+65f9a9ac/0/text: Ini... adalah tempat untuk mengarahkan pesawat ruang angkasa?
+e809c0a8/0/text: Biasanya saat bepergian bersama keluarga, wajar jika pengemudi akan bertanggung jawab atas pekerjaan mengemudikan pesawat ruang angkasa.
+f33f8b32/0/text: Dan karena menggunakan kapal penumpang paling mewah, ada banyak fasilitas di kapal,
+f33f8b32/1/text: Sebagai seorang anak berusia tujuh tahun, dan tuan muda tercinta dari keluarga,
+f33f8b32/2/text: Bolt bahkan belum pernah melewati pintu kokpit di setiap perjalanan pesawat ruang angkasa ini.
+3c3e089e/0/text: Ini pertama kalinya dia melihat kokpit.
+2f51e3/0/text: "Keren sekali..."
+2f51e3/1/text: Duduk di satu-satunya kursi pengemudi, bocah itu mempelajari berbagai panel di depannya dengan penuh minat.
+8555c585/0/text: "Tertulis RV di atasnya, apa artinya? "
+47bc01f4/0/text: "Ah! Kudengar dari guru kimia ada sejenis bahan bakar organik yang dapat mempercepat pesawat ruang angkasa secara instan. Sepertinya RV, Apakah itu? "
+846760ce/0/text: "Ini untuk menghitung cadangan kapasitas penyimpanan oksigen kan? "
+d8348bf4/0/text: "Stopwatch di sini adalah..."
+786d23eb/0/text: Semakin melihat lebih dekat, Bolt semakin tertarik pada semua yang ada di depan.
+5fcaa93f/0/text: Menarik sekali.
+5677c609/0/text: Jika benar-benar dapat melihatnya beraksi ...
+ffdaf70f/0/text: Saat pikiran ini muncul di pikirannya, anak muda itu tanpa sadar mengalihkan pandangannya ke tombol start pesawat ruang angkasa.
+3d2836/0/text: "......"
+9c94c503/0/text: Menatap tombol bulat merah yang seperti mendorongnya untuk menekan,
+9c94c503/1/text: Bolt ragu... selama tiga detik.
+51a0dabf/0/text: Dapat mengamati perubahan nilai di dasbor secara real time jika menyalakan mesin...
+29b88736/0/text: … hidupkan saja mesinnya, jangan gerakkan apapun, seharusnya tak masalah bukan?
+6a6e4aed/0/text: Sambil meyakinkan dirinya dalam hati, tangan anak muda itu sudah menekan tombol dengan tidak sabar.
+e53033d9/0/text: Saat tombol mulai ditekan, pesawat ruang angkasa mengeluarkan bunyi "bip",
+e53033d9/1/text: Setelah itu, lampu di dalam kabin menyala baris demi baris, dan dashboard di depan Bolt mengeluarkan cahaya,
+e53033d9/2/text: Mulai memberi tahu pengemudi tentang parameter pesawat ruang angkasa saat ini.
+9bbd730/0/text: "Wah......"
+c2ad80bf/0/text: Anak muda itu berseru dengan tulus.
+86bf7847/0/text: Tidak tahu kenapa, dia merasa pemandangan di depannya sangat indah.
+2941f01c/0/text: Tidak peduli itu lampu putih di atas kepala atau dasbor yang menyala,
+2941f01c/1/text: Atau lampu indikator yang berkedip menunjukkan kondisi suatu bagian.
+911628fa/0/text: sangat cantik.
+1a269951/0/text: Setelah kagum, anak muda itu terus fokus pada penelitian besarnya.
+6a69708d/0/text: "Jika batas atas adalah 800, berarti jarak tempuh maksimum yang bisa ditempuh kapal ini adalah..."
+ab2a7a8c/0/text: "Jika kapasitas penyimpanan oksigen cadangan adalah 90,
+ab2a7a8c/1/text: Itu artinya berapa lama aku bisa bernafas normal jika generator oksigen mati…"
+3266047f/0/text: Jika Guru Glenn di kelas piano melihat Bolt saat ini, dia mungkin tidak dapat menahan diri untuk berteriak, "Jika Anda dapat memberikan sepersepuluh dari antusiasme ini untuk kelasku, aku, orang tua yang malang, akan mati tanpa penyesalan!!! "Sesuatu seperti itu.
+dbc3d0b5/0/text: "Parameter di dasbor mungkin sudah jelas..."
+dbc3d0b5/1/text: Setelah menghitung jawaban untuk nilai terakhir, Bolt menunjukkan senyum puas.
+e740ca82/0/text: "Menarik sekali..."
+7b18b8e0/0/text: Sambil menyandarkan tubuhnya di sandaran kursi, anak muda itu memandangi semua yang ada di depannya,
+7b18b8e0/1/text: Bayangkan diri sendiri benar-benar mengemudikan pesawat ruang angkasa.
+bffb5f1a/0/text: "Mulailah dengan mengaktifkan sistem pendingin mesin..."
+eee71374/0/text: "Kemudian tekanan tangki bahan bakar..."
+4949d8ad/0/text: "Berikutnya..."
+3232bb1a/0/text: Mengikuti suaranya, tangan kecil itu menjalankan petunjuk satu per satu.
+6d6ea81e/0/text: Hanya mengandalkan pengetahuan yang kudengar di kelas dan penelitian serta pemahaman dalam waktu kurang dari setengah jam,
+6d6ea81e/1/text: Bolt mampu melakukan proses lepas landas pesawat ruang angkasa.
+3b6ed8db/0/text: Dan sepenuhnya benar.
+54560b29/0/text: Namun, anak muda itu saat ini tidak mengetahuinya.
+db47cbe1/0/text: Jadi saat lengannya menyentuh joystick secara tidak sengaja,
+db47cbe1/1/text: Bolt menjadi bingung.
+7edf831b/0/text: "...? "
+f48c8f02/0/text: Seolah seluruh tubuhnya membeku, anak muda itu menoleh dengan kaku untuk melihat lengan kanannya.
+2c4bb777/0/text: Joystick yang awalnya berada di "0" bergerak maju dua langkah dan berhenti di "2".
+72ef6bdd/0/text: Aku...seharusnya tidak...
+72ef6bdd/1/text: Tidak sengaja menjalankannya kan?
+d0d9a856/0/text: Seolah-olah sedang mengkonfirmasi idenya,
+d0d9a856/1/text: Pesawat ruang angkasa itu mulai bergerak maju dengan pelan.
+86ba8c2a/0/text: "Ti-tidak mungkin..."
+2ce9b332/0/text: Bagaimana ini?
+18141cd7/0/text: "Apa menarik joystick saja sudah bisa? ! Sepertinya tidak bisa? !"
+ad1b9e1b/0/text: "Ah, apa yang harus dilakukan jika suhu mesin naik! Tidak, apakah ini benar-benar suhu mesin? Aku tidak yakin—"
+4de595c2/0/text: "Bip—bip——"
+ce29897d/0/text: "Lampu isyarat di sayap belakang berdering! Apa artinya ini aaaa? !"
+72ad4e33/0/text: Nilai di dasbor terus berubah dan petunjuknya terus berbunyi.
+72ad4e33/1/text: Pikiran Bolt menjadi kacau.
+2cc18515/0/text: Seolah mengejek kepanikannya.
+2cc18515/1/text: Pesawat ruang angkasa semakin lama semakin cepat.
+6a367277/0/text: "Ah, aaaa...
+6a367277/1/text: Ti-tidak peduli lagi!!! "
+3b372497/0/text: Melihat pesawat ruang angkasa telah meninggalkan gudang dan mulai meluncur di tanah datar di luar,
+3b372497/1/text: Bolt akhirnya memutuskan untuk melepaskan diri dan berhenti berpikir.
+44558df5/0/text: Karena, jika membiarkan pesawat ruang angkasa luar angkasa terus bergerak maju seperti ini,
+44558df5/1/text: bisa langsung menabrak gedung laboratorium!!!
+9a6c017/0/text: Dia harus menghentikan pesawat ruang angkasa!
+6671adcf/0/text: Karena tidak tahu cara mengoperasikannya, hanya bisa mengandalkan intuisi!
+32e1d4d9/0/text: Ibu selalu mengatakan keberuntunganku sangat baik meskipun aku suka seenaknya.
+32e1d4d9/1/text: Sekarang saatnya perlu keberuntungan, bukan? !
+181cfaf8/0/text: Ti-tidak masalah!!!
+8e5f48c0/0/text: "Tarik napas~~ Buang napas~~
+8e5f48c0/1/text: Tarik napas~~ hembuskan...ha—"
+6b0435d5/0/text: Setelah menarik napas beberapa kali, dengan wajah tegang, anak muda itu mempersiapkan diri dengan terpaksa.
+6b0435d5/1/text: Tatap panel rumit selama beberapa detik.
+d1c092e4/0/text: Mengumpulkan keberaniannya, dia menekan beberapa tombol dengan cepat.
+de8edd81/0/text: Lalu menutup mata dan menunggu hasilnya.
+c4475bb7/0/text: Setelah satu detik.
+e18507d9/0/text: Pesawat ruang angkasa berhenti.
+e18507d9/1/text: Bolt mengintip.
+1841db2e/0/text: Setelah dua detik.
+d1561714/0/text: Arah pesawat ruang angkasa berubah 90 derajat ke atas.
+d1561714/1/text: Bolt menatap tajam.
+aad8525f/0/text: 3 detik kemudian.
+b86c5709/0/text: Dengan suara "wuss", pesawat ruang angkasa itu melesat menuju langit cerah di sore hari.
+b86c5709/1/text: Bolt......
+420041a4/0/text: "WAAAAAAAAAAA......"
+ad539dd9/0/text: — teriak dengan keras.
+fb04a21/0/text: "…＠＃…"
+93b5e96e/0/text: "... bzzz—"
+9d34d282/0/text: "—Kai? Kai? !
+9d34d282/1/text: Apakah itu Kai? !"
+b386d166/0/text: "! !"
+cec880b1/0/text: "Apa kamu mendengar perkataanku? !
+cec880b1/1/text: Kai? !"
+29d207aa/0/text: "Aku sudah menyalakan mikrofonmu,
+29d207aa/1/text: aku bisa dengar jika langsung bicara, bagaimana denganmu? ! Tidak terluka kan? Jawab aku! !"
+74f38dc8/0/text: Saat mendengar kalimat ini,
+74f38dc8/1/text: Bolt yang sangat panik hampir kehilangan akal akhirnya berteriak.
+4c7e8dc1/0/text: "Ka-ka-ka-kakak......"
+da513a96/0/text: "To-to-tolong a-a-aku aaaaa..." !!!"

@@ -1,0 +1,28 @@
+3aa94b24/0/name: ぴれんどらー
+417c7072/0/text: Selamat datang kembali di sesi wawancara kami! Halo, silakan perkenalkan diri Anda kepada semua orang!
+75901e7a/0/text: Halo！！！！Saya ぴれんどらー, kali ini hadir di Rotaeno!
+aef6d546/0/text: ぴれんどらー terdengar sangat bersemangat ya!
+c680e1ff/0/text: Bisa ceritakan tentang lagu baru Anda, "ephemeralization"?
+b241de5d/0/text: Pertama-tama, saya sangat berterima kasih kepada tim Rotaeno yang sudah memilih lagu saya
+988c2f58/0/text: (saya senang sekali, sampai hampir menangis)!
+c39336c9/0/text: Tentang "ephemeralization",
+2f505bfe/0/text: ini adalah lagu hardcore dengan nuansa dunia lain,
+9654d6da/0/text: tujuannya menghadirkan perpaduan suasana intens, singkat, dan illusif,
+3e577db2/0/text: nama lagu juga diambil dari kata "ephemeral" (sementara, singkat).
+b9afb2e/0/text: Saya rasa, baik intro maupun reff-nya,
+8d9ba992/0/text: saya berhasil menulis melodi yang benar-benar terasa "ephemeral".
+4d7a70aa/0/text: Di lagu ini juga ada drop dengan BPM tinggi, khas game musik,
+8afb54b9/0/text: sangat powerful! Luar biasa!
+6a5b7d10/0/text: Benar-benar lagu yang penuh kekuatan!
+4d19ab7/0/text: Saya sangat suka membuat dan mendengarkan lagu dengan gaya seperti ini,
+d95b2278/0/text: dan memang ini salah satu genre favorit saya.
+c6a0470d/0/text: Bisa membawa genre ini masuk ke game ritme komersial,
+bcfd1ce7/0/text: rasanya sangat berarti dan mengharukan bagi saya.
+dd96f88/0/text: Selamat telah mencapai tujuan Anda!
+bb6c93fc/0/text: Lalu, adakah pesan yang ingin disampaikan untuk para pemain Rotaeno?
+f6ea26ab/0/text: Halo semua pemain Rotaeno, salam kenal pertama dari saya!
+3892a4c3/0/text: Saya ぴれんどらー, gimana menurut kalian tentang lagu saya?
+f26c3ee6/0/text: Kalau kalian suka, saya akan sangat senang!
+68573a32/0/text: Saya juga sangat berterima kasih pada tim Rotaeno yang sudah menyiapkan chart dan art yang keren buat saya,
+5a4911a0/0/text: benar-benar bikin terharu!
+156b37dc/0/text: Ke depannya saya akan terus membuat lebih banyak lagu hardcore nuansa dunia lain, mohon dukungannya!!

@@ -1,0 +1,34 @@
+71191023/0/name: Lime
+d172e288/0/text: Semuanya,
+d172e288/1/text: Sekarang——kuis dadakan!
+ace5fd34/0/name: Semuanya
+c5035718/0/text: Apaaaa?!
+769394ef/0/text: Sudah, sudah.
+769394ef/1/text: Jangan mengeluh~
+ffe39d32/0/text: Bukalah panel kontrol sekarang.
+ffe39d32/1/text: Centang "Latihan Tempur Langsung" di halaman b-12.
+293ac33f/0/text: Haih, orang-orang sekarang...
+293ac33f/1/text: Kuis doang, apa yang harus ditakutkan...
+19d39d87/0/text: Noah, kamu duluan.
+19d39d87/1/text: Aku akan membantumu mengendalikannya.
+16ffeb00/0/text: Oke!
+a7a92893/0/text: Coba kulihat,
+a7a92893/1/text: b…b apa tadi...
+7af840e6/0/text: Oh, ketemu,
+7af840e6/1/text: <b>"Latihan Tembak Langsung."</b>
+3c4c2a78/0/text: Harusnya sudah berhasil.
+20065a18/0/text: Hehe,
+20065a18/1/text: aku benar-benar genius.
+e8395253/0/text: Apakah semuanya sudah siap~?
+257a47c9/0/text: Kalau begitu, mari kita mulai!
+257a47c9/1/text: 3, 2——1!
+d5d941a3/0/text: ...?
+47828fde/0/text: Hei, Lime,
+47828fde/1/text: Sepertinya ada yang janggal...
+f81605e1/0/text: Nggak mungkin, setelannya sudah sesuai.
+f81605e1/1/text: Tenang saja, ini hanya kuis dadakan~
+ac152505/0/text: Tapi...
+ac152505/1/text: ?!
+e5d11cb1/0/text: Sakit! Sakit banget?!
+e5d11cb1/1/text: Apa ini benaran normal—?!
+3610178/0/text: <size=60>AAAHHH—</size>

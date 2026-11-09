@@ -1,0 +1,38 @@
+e7b6a876/0/name: ItsMeFisher
+94ff8ac9/0/text: Selamat datang di sesi wawancara! Bisa tolong perkenalkan diri Anda kepada semuanya?
+f47a5fe6/0/text: Halo!! Nama saya ItsMeFisher, saya seorang komposer baru di dunia game ritme!
+1e3cb74a/0/text: Pasti rasanya luar biasa ya, bisa mendengar karya sendiri di Rotaeno?
+9b5ab04/0/text: Boleh diceritakan tentang ide-ide kreatif asli Anda?
+8c87c24e/0/text: Ini adalah lagu pertama saya yang masuk ke dalam game ritme komersial!
+d11f2be5/0/text: Ini juga pertama kalinya saya terpilih dalam sebuah kontes lagu,
+1ea76d1f/0/text: jadi saya benar-benar berterima kasih kepada tim Rotaeno atas kesempatan yang diberikan!
+d581eb11/0/text: Saya dengar inspirasi lagu ini ada hubungannya dengan dunia dan kisah di Rotaeno!
+eafec2fd/0/text: Bisa cerita sedikit lebih detail tentang hal itu?
+2843555d/0/text: Waktu membuat lagu ini,
+e8d6391c/0/text: saya mencoba memasukkan lagu ini ke dalam cerita dan dunia Rotaeno
+cd5cc753/0/text: serta membayangkan rasanya mengendalikan pesawat luar angkasa di tengah galaksi,
+64cb7334/0/text: makanya saya memberi judul lagu ini Cosmic Voyage.
+5516cb88/0/text: Wow! Pesawat luar angkasa memang keren banget — ngomong-ngomong!
+d95b621b/0/text: Lagu ini terdengar lebih pelan dibanding kebanyakan lagu di game ritme. Memang sengaja dibuat seperti itu?
+bc404b58/0/text: Genre lagu ini adalah Midtempo, dengan tempo 110 BPM,
+537a711c/0/text: yang jadi salah satu favorit saya, walaupun jarang dipakai di game ritme.
+5ded2880/0/text: Menurut saya, lagu pelan dalam game ritme punya daya tarik unik tersendiri:
+b05dbeb4/0/text: kalau dibandingkan lagu yang lebih cepat, lagu pelan bisa
+79551e49/0/text: menunjukkan keunikan lagu itu sendiri dan juga keunikan gamenya.
+e5fc888/0/text: Buat saya, mendengarkan lagu yang pelan itu rasanya seperti mendengarkan seseorang bercerita.
+6a210c9f/0/text: Faktanya, esensi beberapa game ritme justru bisa ditemukan di lagu-lagu yang pelan.
+f35cc4c6/0/text: Rasanya seperti pengalaman ajaib!
+a8f6951e/0/text: Jadi, alasan itulah juga yang membuat saya menggarap lagu ini dengan memikirkan cerita Rotaeno.
+c3e701ec/0/text: Romantis banget ya...! Ngomong-ngomong, ada pesan buat para pemain?
+14816d57/0/text: Terima kasih banyak sudah mendengarkan dan memainkan lagu ini!
+3f571e8d/0/text: Terima kasih juga kepada para ilustrator yang sudah membuat jacket keren,
+9e19ab7c/0/text: dan kepada para charter yang sudah membuat chart yang seru!
+4cf6687/0/text: Kalau kalian suka lagu ini, saya benar-benar merasa sangat terhormat!
+b3f4eb37/0/text: Saya akan terus belajar dan membuat karya baru kedepannya!
+640bee7c/0/text: Terima kasih juga sudah menyetujui wawancara ini!
+c417af51/0/text: Omong-omong, kami dengar beberapa pemain merasa lagu ini agak pelan.
+9eead2ab/0/text: Menurut Anda, bagaimana pendapatnya?
+4edd3fff/0/text: Kalau menurut kalian lagu ini terlalu pelan, hmm…
+8c1ac3b3/0/text: Coba mainkan lagu ini dengan speed dua kali lipat
+21c00854/0/text: maka tempo lagu jadi 220 BPM!
+af1135be/0/text: Sudah tidak pelan lagi kan :D

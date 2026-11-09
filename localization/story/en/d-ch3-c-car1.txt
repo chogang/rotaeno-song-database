@@ -1,0 +1,23 @@
+9e7ca0b3/0/text: (Vroom vroom)
+b6d6dbbd/0/text: Whoa, who's burning rubber like that?
+dd8e7ce5/0/name: ???
+1c38e752/0/text: Yah—
+a8e4cf7d/0/text: (Hmm? The voice sounds familiar.)
+19c23d8d/0/name: Bolt
+ee93db5b/0/text: Hmm? Hey! If it isn't Ilot. Haven't seen you for a while.
+55bfb8e0/0/text: Bolt?!
+8e7887cf/0/text: Hey, you on the motorcycle, pull over for inspection!
+1c515c4b/0/text: I say again, red motorcycle, pull over now for an inspection!!
+e0f8a46a/0/text: ?!
+3c0350bc/0/text: Why-why are the police after you?
+dc8ad2c8/0/text: I have no idea.
+6578a7a0/0/text: I took care of all the paperwork as soon as I touched down. And now this? Such a nuisance...
+a2de6475/0/text: But that's the police...
+4f6fd098/0/text: Well, whatever. I'm in a hurry!
+ca77de1d/0/text: I'll hit the gas and peel out with the <color=yellow>top speed</color>.
+e721d4ec/0/text: Huh?
+a4fdb2e2/0/text: The red motorcycle... And that blue-haired girl!
+f7e00b12/0/text: (?!?!)
+dca40e89/0/text: Stop for inspection immediately!
+29f66729/0/text: Huh?
+7b23c105/0/text: Why am I also caught up in this?

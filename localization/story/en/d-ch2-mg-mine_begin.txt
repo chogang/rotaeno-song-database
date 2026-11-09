@@ -1,0 +1,4 @@
+e9f4c19d/0/text: OK. Here we go. Hold out the pickaxe with both your hands.
+9285f8b7/0/text: Hoo--
+859735ed/0/text: Very good. Now lift it up!
+ae9cd302/0/text: And, go!

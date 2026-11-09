@@ -1,0 +1,18 @@
+65f2afb/0/name: Siswa A
+c13258a0/0/name: Siswa B
+62423c5a/0/text: Kamu sudah dengar belum? 
+62423c5a/1/text: Persaingan antara Kelas 2-A dan 2-E SMA ketat banget!
+d82bf84b/0/text: Tim mereka hampir memenuhi seluruh lantai,
+d82bf84b/1/text: bagaimana mungkin nggak tahu...
+355851a8/0/text: Haha, kamu nggak merasa sangat seru?
+b02cabc5/0/text: Untungnya, setiap kali berada dalam posisi yang kurang menguntungkan, mereka tetap bisa menemukan trik baru untuk menarik perhatian keramaian♪
+b02cabc5/1/text: Kira-kira siapa yang akan menjadi pemenang kali ini!
+445b9120/0/text: Oh! Lihatlah.
+445b9120/1/text: Pengintai kelas A sedang diam-diam mendekati kelas E!
+be3f184f/0/text: ...Mereka bahkan mengutus pengintai...
+be3f184f/1/text: Memangnya ninja, ya...
+37340102/0/text: Oh, oh!
+37340102/1/text: Ninja? Keren juga!
+bb031272/0/text: Hattori Hanzo vs Sarutobi Sasuke!
+bb031272/1/text: Siapa pemenangnya masih belum pasti!
+4ed16d06/0/text: Sudah nggak tertolong lagi...

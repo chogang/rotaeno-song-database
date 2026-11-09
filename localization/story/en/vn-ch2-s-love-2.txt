@@ -1,0 +1,49 @@
+65f377f2/0/text: Aaaah! 
+65f377f2/1/text: I'm. SO. Angry!!!
+3e84aa76/0/text: It's already been a few days, 
+3e84aa76/1/text: but I'm still seriously ticked off...!!!
+f84c079a/0/text: Sure, she said I was "so cute and so fascinating", 
+f84c079a/1/text: but that Vicker only said so to poke fun at me!
+a8fe9fd9/0/text: That's unforgivable, even for a beautiful lady!
+c1f6c7e2/0/text: Well actually, who knows if she even is beautiful! 
+c1f6c7e2/1/text: After all, Vickers don't have bodies, and it's the previous Orbian that is actually pretty!
+3965193/0/text: Speaking of which... 
+3965193/1/text: Are Vickers genderless...?
+84d7143d/0/name: Innkeeper (Wife) 
+6c87f54e/0/text: What's wrong, Ilot-chan? 
+6c87f54e/1/text: Is our hot cocoa that bad?
+bd8b6e5a/0/text: Ah, 
+bd8b6e5a/1/text: it's not that! 
+bd8b6e5a/2/text: The cocoa is great!
+49eb6087/0/text: I'm just thinking about the Vickers... 
+49eb6087/1/text: It's the first time I've met such a magical species. 
+49eb6087/2/text: My head is spinning... 
+49eb6087/3/text: Hehe.
+2996e709/0/text: Oh, really? 
+2996e709/1/text: The Vickers ——
+5c633610/0/name: Giant Bobcat 
+338179b7/0/text: *Meow* ——
+4c925086/0/text: Ah, my love~ 
+4c925086/1/text: You're back~
+285cce1/0/text: Look at you, you're just covered in mud... 
+285cce1/1/text: Hunting was hard today, wasn't it. Do you want a bath first?
+abdbc978/0/text: *Growling happily* ——
+11792c3/0/text: I'll go draw you some hot water.
+97c762e/0/text: Apologies, miss Ilot. 
+97c762e/1/text: Feel free to stick around. Let the restaurant staff know if you need anything!
+a1f13798/0/text: All right~
+ad461ea2/0/text: She sure does keep a lot of pets...
+38a4143/0/text: But if she calls them all "my love"... 
+38a4143/1/text: Wouldn't that confuse all of them?
+d08ea0c7/0/text: The innkeeper... 
+d08ea0c7/1/text: She doesn't seem to have any hate for the Vickers.
+44847f8d/0/text: I guess not all Orbians hate the Vickers.
+53cc0e96/0/text: And that Vicker beauty that spoke to me... 
+53cc0e96/1/text: It was infuriating that she was making fun of me, 
+53cc0e96/2/text: but at the same time, she doesn't seem to have any ill will to me.
+525e2b92/0/text: Still... 
+525e2b92/1/text: She had no right to call me stupid!!!
+6298173e/0/text: Sharp tongues are just the worst!
+ee03e304/0/text: But I guess... 
+ee03e304/1/text: Every species has good souls and bad souls... 
+ee03e304/2/text: right?

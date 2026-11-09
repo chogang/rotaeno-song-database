@@ -1,0 +1,12 @@
+5e611a5f/0/name: Villager A
+cfc2bed7/0/name: Villager B
+b82cfc4b/0/text: What's wrong? You look worried.
+ee855e9c/0/text: Uh... My kid has been spending a lot of time in the wasteland in the north.
+596a8566/0/text: I'm worried about him. Because he always came home covered in dirt.
+8fdffe84/0/text: Perhaps he is keeping a kitten or a puppy. Kids love pets.
+b4ef87a2/0/text: But he has been mumbling something like "Stunts", "It's so cool"...
+af2edab/0/text: Those don't sound like keeping pets, right? And keeping pets is not frowned upon in our family.
+94696bb9/0/text: I see... Perhaps he was trying to teach a dog to shake hands, or sit, or something like that?
+9ce5df4e/0/text: Hmm, why don't you just talk to him? You'll figure it out by then.
+4def5afe/0/text: OK. I'll have a talk with him tonight.
+59368341/0/text: Good. I'm sure you have nothing to worry about. Relax.

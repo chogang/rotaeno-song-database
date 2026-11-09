@@ -1,0 +1,21 @@
+1032882f/0/text: Selamat datang di wawancara kami!
+cd87fd53/0/text: Silakan perkenalkan diri kepada semuanya terlebih dulu!
+2ffb249f/0/text: Namaku ああああ!
+73eb8edc/0/text: Aku sangat menyukai musik yang dapat membuat orang merasakan cerita dan pemandangan, dan aku adalah seorang komposer bebas.
+dde23d95/0/text: Aku bisa membuat musik jenis apa pun.
+76483c74/0/text: Namaku 打打だいず!
+50a7d826/0/text: Aku suka semua jenis musik, baik yang cerah maupun gelap, aku adalah komposer yang serba bisa!
+338965c/0/text: Senang dapat bertemu kalian berdua!
+38226a1c/0/text: Apakah bisa menjelaskan secara detail tentang lagu baru "Starlight Traveler" dan pengalaman kalian bekerja sama dalam lagu ini?
+13dfc03/0/text: 打打だいず adalah kreator yang selalu aku hormati, kolaborasi kali ini sangatlah penting bagiku.
+7abcc49a/0/text: Dalam proses produksi, aku terus memperhatikan karakteristik game musik, sambil sepenuh hati mencari cara untuk memaksimalkan bakat 打打だいず.
+3e158b9/0/text: Proses produksi ini sungguh sangat menyenangkan.
+63395f9c/0/text: Aku bertanggung jawab atas keseluruhan komposisi dan beberapa penyusunan lagu, 打打だいず bertanggung jawab atas sebagian besar penyusunan lagu.
+8b9e8c1b/0/text: Ini adalah lagu pertama hasil kolaborasi bersama ああああ yang sangat aku hormati!
+54c08b1a/0/text: Kami tidak pernah ragu dalam memadukan elemen yang kami sukai masing-masing, aku rasa kami telah menciptakan suatu lagu yang luar biasa!
+c254f0fc/0/text: Dapat merasakan kegembiraan dari lagu baru ini!
+de44154e/0/text: Aku yakin lagu ini akan memberiakn pengalaman menarik bagi pemain.
+ebe1eab7/0/text: Terakhir, ada yang ingin kalian sampaikan kepada para pemain?
+b12b5c73/0/text: Nikmati perjalanan luar angkasa kecepatan tinggi melintasi galaksi!
+b7ac3e9/0/text: Terima kasih banyak!
+85932a46/0/text: Semoga perjalanan semuanya menyenangkan!

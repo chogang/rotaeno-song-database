@@ -1,0 +1,33 @@
+f816958b/0/text: ......
+3676fcf1/0/text: After making such a scene, guess I can't go back to that tavern for a while.
+29099102/0/text: Where should I head next...
+29099102/1/text: I need to find a place with plenty of food.
+8b84b393/0/text: Social animals are such a pain.
+8b84b393/1/text: The food has to be shared with the rest of the pack. If I don't find enough—
+29d94ed8/0/name: ???
+dacfa98a/0/text: Excuse me! You're making things very difficult for us!
+d97c1feb/0/text: I-I'm so sorry! ! !
+ab628cb2/0/text: ...Huh?
+90978864/0/name: Tavern Boss
+48b399c3/0/name: Tavern Staff
+55cbbb9/0/text: Causing such a huge commotion!
+b857300/0/text: You're a grown adult, not a child anymore,
+b857300/1/text: don't you know better than to mess around with dangerous objects?!
+625d6272/0/name: Human Woman
+a10cff58/0/text: I'm, I'm very sorry...
+a10cff58/1/text: I just panicked in the moment......
+d6fc712b/0/text: Dealing with drunk customers is our staff's job.
+d6fc712b/1/text: We appreciate your help, but—Ah! ! !
+6c560891/0/text: Good heavens! What on earth happened to your hands!
+6c560891/1/text: They're filthy! Did you actually walk here like that?!
+80bedebb/0/text: N-No, boss!
+80bedebb/1/text: She looked perfectly fine when she came in...!
+875b44cd/0/text: Ah, it's not her fault...
+875b44cd/1/text: It's because I just touched a mouse......
+e5132a5a/0/text: A m-mouse?!
+d65b145d/0/text: Ew—how disgusting...!
+1de1e501/0/text: I'm sorry, miss,
+1de1e501/1/text: please leave, right now!!!
+e8b27664/0/text: Our shop doesn't welcome troublemakers like you!!!
+348fb74e/0/text: I'm, I'm sorry...!!!
+f816958b/1/text: ......

@@ -1,0 +1,164 @@
+9e73dcd1/0/name: Koordinator lokasi 
+d7969a57/0/text: Terakhir, tinggal tanda tangan di sini… Oke!
+d7969a57/1/text: Sudah beres!
+71a704ca/0/text: Dengan begini, hak pakai lokasi minggu depan resmi menjadi milikmu!
+2048d6de/0/text: Waktu masuk dan pengembalian lokasi sudah tertulis di sini,
+2048d6de/1/text: Jangan melebihi waktu atau kamu akan dikenakan biaya tambahan, lho~
+942451b2/0/text: Oke!
+942451b2/1/text: Nggak masalah!
+3819a48a/0/text: Haha, benar-benar bocah yang penuh semangat.
+3819a48a/1/text: Masih muda tapi sudah punya ide seperti ini, mau bikin perlombaan sendiri, ya~
+9674ba0a/0/text: Hehe… Terima kasih sudah mau menyewakan lokasi ini untukku, Om.
+9674ba0a/1/text: Aku sudah menanyakan beberapa tempat, tapi mereka melihatku terlalu muda, jadi nggak mau menyewakannya…
+b0c9d67a/0/text: Ha, Om berbeda dengan orang-orang tua kolot itu~
+b0c9d67a/1/text: Apa hubungannya bisnis dengan umur, 'kan?
+fa318a2/0/text: Ya! Om benar-benar orang baik!
+fa318a2/1/text: Kalau ada waktu, Om boleh datang menyaksikan perlombaan kami juga, lho!
+e4e09a19/0/text: Nanti aku juga akan mengadakan upacara pembukaan pesawat ruang angkasa yang spektakuler! Sangat keren, lho!!!
+48903385/0/text: Haha, pasti datang~
+cbd3cbc9/0/text: Eh? Ah!
+cbd3cbc9/1/text: Gawat, sudah hampir waktunya kelas. Aku harus segera ke lapangan latihan!
+5f119a93/0/text: Huh~♪
+5f119a93/1/text: Huhu~♫
+709512fa/0/text: Haaaah——
+709512fa/1/text: Setelah mengikuti cara yang diajari kakak, semuanya menjadi super lancar!
+a82f0735/0/text: Jumlah orang yang mengeklik iklan meningkat 200 kali lipat dibanding sebelumnya,
+a82f0735/1/text: sedangkan biayanya malah menurun sebanyak 90%!
+9abe96a8/0/text: Orang yang mendaftarkan kelas trial penerbangan juga meningkat drastis!
+85e82387/0/text: Huwa~~~
+4a6545b2/0/text: Walaupun cuman mengingat kembali tiga hari pelatihan ala Sparta kakak saja, perutku langsung mulas…
+9ab2601e/0/text: Tapi! Hasilnya benar-benar sangat memuaskan!!!
+5d8e9f1c/0/text: Kakak benar-benar kakak terhebat!!!
+13bc8603/0/name: Polisi
+6aaa4ce2/0/text: Motor di depan,
+b5cd7d03/0/text: hentikan motormu untuk diperiksa!
+bb9235dc/0/text: Hmm?
+395e98c/0/text: Pak Polisi~
+f0f108df/0/text: Bukankah kalian sudah memeriksa motorku kemarin, dua hari lalu, dan tiga hari lalu?
+f77fd338/0/text: Izin motorku lengkap, kok.
+b5dda710/0/text: Kalian sudah memeriksanya berulang kali juga, 'kan?
+6aaa4ce2/1/text: Motor di depan,
+b5cd7d03/1/text: hentikan motormu untuk diperiksa!
+a1fdc0a3/0/text: …Mereka sama sekali nggak mendengarkan omonganku…
+4793a92e/0/text: Huh~~~…Bodoh amat!
+9b81de1d/0/text: Maaf, aku terburu-buru!
+353ae787/0/text: Hari ini nggak ada waktu. Sampai ketemu lagi!
+26330c1f/0/text: Oke, maju dengan kecepatan penuh——!!!
+f9ec284e/0/name: ???
+8c29ed0b/0/text: Wah…!!!
+987d0d83/0/text: Motor siapa selaju itu?!
+c778d25e/0/text: Huwaaa——
+ddf87eda/0/text: …Hmm?
+ddf87eda/1/text: Sepertinya aku mendengar suara yang kukenal tadi…?
+f0d37318/0/text: Eh? Ah!
+f0d37318/1/text: Bukankah ini Ilot? Lama nggak bertemu!
+55bfb8e0/0/text: Bolt?!
+50c19f1d/0/text: Motor di depan,
+50c19f1d/1/text: hentikan motormu untuk diperiksa!
+5f135b/0/text: Mereka masih mengejar, ya… Ribet banget…
+351f4e8f/0/text: Diulang, motor merah di depan,
+351f4e8f/1/text: hentikan motormu untuk diperiksa!
+3c0350bc/0/text: Ke-kenapa polisi mengejarmu?!
+dc8ad2c8/0/text: Aku nggak tahu juga~
+73b9fcb0/0/text: Jelas-jelas aku sudah mengurus semua administrasi dokumen saat pendaratan,
+73b9fcb0/1/text: beberapa hari ini selalu begitu. Ribet banget…
+a2de6475/0/text: Meskipun ribet, kamu juga…
+302f2929/0/text: Hmm!
+302f2929/1/text: Biarin saja, aku terburu-buru!
+be137675/0/text: Marilah kita kabur dengan kecepatan tertinggi~~~!
+e721d4ec/0/text: Hah?!
+4d23a6fb/0/text: Motor merah di depan…
+4d23a6fb/1/text: dan gadis berambut putih di sampingnya!
+b5cd7d03/2/text: hentikan motormu untuk diperiksa!
+29f66729/0/text: Hah?!
+7b23c105/0/text: Kenapa aku tiba-tiba dipanggil juga?!
+f0aece2b/0/text: Hahaha, abaikan saja, abaikan.
+f0aece2b/1/text: Polisi di sini aneh banget~~~
+ae41ac21/0/text: Bagaimana aku bisa mengabaikannya——
+b2f0da0b/0/text: Huh~~~ Akhirnya berhasil kabur!
+ce66fbb2/0/text: Entah kenapa tiba-tiba dianggap menjadi sekutumu…
+4a12b813/0/text: Hahaha!
+4a12b813/1/text: Maaf~…
+2b7ecf02/0/text: Meskipun sebenarnya hanya perlu dijelasin sebentar,
+2b7ecf02/1/text: tapi aku benar-benar terburu-buru, karena semua orang sedang menungguku!
+7a5024a5/0/name: Anak A
+e13d8eef/0/text: Oh! Bos datang!
+b80cfb8a/0/name: Anak C
+7f8133f/0/text: Itu Bolt!
+1547b0d1/0/name: Anak B 
+5af32749/0/text: Wahhh——
+ffe14af5/0/text: !!
+8013d4ca/0/text: Hehe, bagaimana?
+8013d4ca/1/text: Jauh lebih ramai dibanding waktu di Orb, 'kan?
+6710dc7a/0/text: Hebat banget… Bagaimana caranya kamu melakukan ini?
+97cca92/0/text: Hehe~ Aku, hanya meminta bantuan luar…?
+b4c652c9/0/text: Meskipun itu adalah bantuan luar terhebat di dunia♪
+eede9703/0/text: Hei, jangan bahas ini lagi. 
+eede9703/1/text: Jarang-jarang ada kesempatan begini. Maukah kamu mengikuti kelas penerbangan akrobat terbaru kami?
+8285e567/0/text: Aku——
+46b85f52/0/text: Meskipun Ilot adalah murid pertama di kursusku,
+46b85f52/1/text: tapi semua yang baru bergabung juga sangat berbakat, lho!
+7405f45a/0/text: Kalau nggak latihan berulang kali,
+7405f45a/1/text: siap-siap saja "Whoosh——" disalip~ Hehe~
+2bf3bbdc/0/text: Ngomong-ngomong, sepertinya perkembangan Puno akhir-akhir sangat cepat, ya…
+2bf3bbdc/1/text: Apa perlu ditingkatkan sedikit tingkat kesulitan kelasnya…?
+bc6bd71b/0/text: Aku ng-nggak keberatan, kok!
+78001665/0/text: Hmm~ Jadi, Ilot nggak mau ikut, nih?
+24cf2ba7/0/text: ……'Kan kamu sudah di sini juga,
+24cf2ba7/1/text: Ikut… saja deh?
+fdd8a763/0/text: Oke!
+12102413/0/text: Oh~ Lumayan hebat,
+12102413/1/text: Kamu pantas menjadi murid pertamaku!
+96371db/0/text: Hehehe~☆
+fb976b70/0/text: Oh, iya!
+fb976b70/1/text: Ilot yang hebat, maukah kamu ikut lomba?
+c5b6696d/0/text: Lomba?
+3c43cb9b/0/text: Ya, lihatlah!
+54ddb485/0/text: "Whoosh~ Whoosh Perlombaan Pesawat Ruang Angkasa Berkecepatan Tinggi"…?
+af461f56/0/text: Wah, hadiah peringkat 3 besar terlalu gila, 'kan?!
+97427387/0/text: Voucher minum sepuasnya Happy Drink selama setahun, Voucher belanja Amozom sebesar…1-100.000?!
+90fe8ab8/0/text: Hehe, lumayan, 'kan? Cukup menarik, 'kan?
+90fe8ab8/1/text: Slot terbatas, jadi kalau tertarik, lebih baik segera daftar, ya!
+a349c67a/0/text: Wah……
+887fccf0/0/text: Dari jumlah murid yang meningkat drastis hingga perlombaan sebesar ini…
+887fccf0/1/text: Ini benar-benar luar biasa……
+d8f42ac8/0/text: Haha, semua ini berkat bantuannya "Bantuan Luar"!
+e6c4b457/0/text: "Bantuan Luar"… yang tadi kamu sebut, ya?
+e6c4b457/1/text: Siapa? Perusahaan humas?
+fb4b5cb0/0/text: Bukan, bukan~ Perusahaan humas biasa mana mungkin sehebat ini!
+fb4b5cb0/1/text: Tentu saja adalah yang terhebat! Di dunia ini!
+60cdea4f/0/text: Kakakku!!!
+e60b8713/0/text: Ha, kakakmu???
+56d8b9fe/0/text: Benar!
+56d8b9fe/1/text: Kakakku adalah orang tertampan, terpintar, tercerdas, terhebat di seluruh galaksi ini!!!
+2f85c2ff/0/text: ……Ternyata dia begitu tergila-gila sama kakaknya.
+390de6ac/0/text: ?
+f0cdcd04/0/text: Wah, bukankah ini Nona Ilot!
+6b6cb0c/0/text: !!
+922b731f/0/text: Puno?!
+922b731f/1/text: Kok kamu bisa datang ke Silvano?!
+87db5b5e/0/text: Aku sedang belajar ke planet ini bersama bos!
+87db5b5e/1/text: Nona Ilot yang cantik dan agung, senang bisa bertemu denganmu lagi!
+b7922d0c/0/text: Ca-cantik dan agung……
+71a496a0/0/text: Bos, bos!
+71a496a0/1/text: Balonnya sudah dipesan, kata toko, mereka akan mengirimnya ke lokasi sebelum jam 7 hari Sabtu! Ini fakturnya, nah!
+a378efc7/0/text: Oh, baguslah,
+a378efc7/1/text: terima kasih, Puno. Kamu benar-benar sangat membantuku!
+1a8da78b/0/text: Lokasi… Puno juga sedang membantu urusan perlombaan?
+1a8da78b/1/text: Hebat sekali……
+2c01bc8/0/text: Nggak, kok. Aku cuman membantu hal-hal kecil!
+2c01bc8/1/text: Hal-hal penting tetap diurus langsung oleh bos!
+eec5685c/0/text: Bos-lah yang paling hebat!
+58480e99/0/text: Hehe, ini semua berkat ajaran kakakku.
+58480e99/1/text: Jadi, kakakku-lah orang yang paling hebat!
+8739a295/0/text: Ya, ya.
+8739a295/1/text: Bos dan bos tua adalah yang paling hebat!!!
+87763ac3/0/text: Ini grup pujian grup sales, ya……
+54b89b6f/0/text: Kalau begitu, akankah kakaknya Bolt juga datang di hari perlombaan nanti?
+54b89b6f/1/text: Aku jadi sangat penasaran karena kalian begitu mengagungkannya…!
+10560ed5/0/text: Hmm~ Belum tentu?
+10560ed5/1/text: Soalnya kakakku harus sibuk dengan riset dan urusan keluarga… Tapi mungkin saja dia akan datang untuk melihat hasil akhir…?
+5620133c/0/text: Andai saja bos tua bisa datang, pasti seru banget!
+d0ff8ba1/0/text: Ya, benar!
+1627581a/0/text: Ahhhh——
+1627581a/1/text: Aku nggak sabar menunggu hari perlombaan itu!!!

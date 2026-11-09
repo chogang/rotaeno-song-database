@@ -1,0 +1,31 @@
+da96cc2d/0/name: Moon Jelly
+efe3f87a/0/name: AQUASINE
+f2a88c4e/0/name: MEMODEMO
+f393a0cf/0/text: Selamat datang di sesi wawancara kami!
+3a9ff4ba/0/text: Untuk memulai, bisakah kalian semua memperkenalkan diri secara singkat?
+cf387a13/0/text: Aku sangat suka steak.
+c729233c/0/text: Aku rasa aku tidak akan bisa hidup di dunia tanpa steak.
+cccff5a5/0/text: Biasanya aku suka tingkat kematangan medium-rare, dan potongan favoritku mungkin filet mignon atau skirt.
+9f651cd8/0/text: Ah, tapi YAKINIKU juga luar biasa.
+6c19d8c8/0/text: Aku suka YAKINIKU, apalagi kalau dagingnya tanpa lemak.
+48755752/0/text: Aku hidup di dunia tanpa steak.
+d0adf1f4/0/text: Sepertinya aku alergi terhadap sebagian besar jenis daging.
+43e2dbbb/0/text: Bukan cuma ada reaksi buruk, tapi aku juga merasa seperti ada kutukan daging tersendiri.
+17d1fa56/0/text: Waktu kuliah, aku selalu dapat nilai A di semua ujian, kecuali saat aku makan daging merah.
+8674ae7b/0/text: Terakhir kali aku makan burger, kami harus buru-buru antar nenek ke rumah sakit.
+204097e/0/text: Kangen, Nek.
+4deeb87b/0/text: 14 tahun pertama hidupku dihabiskan di ruangan gelap dengan sebuah tombol besar bercahaya bertuliskan "DISPENSE MEAT CURSE".
+1c9c4fd/0/text: Aku suka menekan tombol itu karena kalau ditekan keras-keras suaranya "klunk" banget.
+300a3763/0/text: ...？
+8fbd7e07/0/text: Hmm… kayaknya kalian punya pikiran yang seru soal daging ya!
+45631dbd/0/text: Bisa ceritakan lebih detail tentang lagu terbaru kalian, "HARMONIC EVASION 101"?
+ca5c31c6/0/text: Aku berharap bisa teriak "AKU SUKA DAGING!" sepanjang lagu, tapi ini juga oke.
+49739e3f/0/text: Saat mengerjakan lagu ini, aku kepikiran soal video tutorial komputer yang biasanya tidak banyak harmoni jazz-nya.
+d9144392/0/text: Restoran favoritku tutup jam 9 malam, jadi kalau mau pesan makanan, harus pastikan pesan paling lambat sekitar jam setengah 9, supaya masih sempat ambil sebelum resto tutup.
+28ae7f7b/0/text: Biasanya aku usahakan pesan lebih cepat juga, soalnya pesan di detik terakhir itu kurang keren.
+e04ea80/0/text: ...OK?
+1a4f751/0/text: Sebelum kita selesai, ada pesan lain yang ingin kalian sampaikan ke para pemain?
+a9ad82b4/0/text: AKU SUKA DAGING!
+b04683f5/0/text: Lagu ini bukan tentang daging, ini tentang sesuatu yang lain. Ingat ya.
+dd6eeadd/0/text: Lagu ini mungkin soal daging, tapi sebenarnya bukan. (Sudah aku cek kok)
+d6c9d88c/0/text: (Produser… yakin aku dikasih skrip yang benar? Rasanya kayak skrip acara komedi…)

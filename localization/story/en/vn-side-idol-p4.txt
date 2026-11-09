@@ -1,0 +1,106 @@
+5e6cdc93/0/name: Heartbeat Girls Member A
+5574bf7b/0/name: Heartbeat Girls Member B
+d5f7bcc7/0/name: Heartbeat Girls Member C
+2a781bcf/0/text: Jolly, are you sure about this...?
+d9e3d598/0/text: I can come with you if you want!
+4a1b3e2c/0/text: No. None of you can come!
+d6d4b73f/0/text: Every time we practiced dealing with stage fright, you were always there with me.
+e74f4288/0/text: Maybe that's why I froze last time!
+e74f4288/1/text: I leaned on you all too much!
+ed9534f4/0/text: Jolly...
+a4ba7e2d/0/text: When we're on stage, our focus should be on the audience and on our own performance.
+8029f15a/0/text: I can't keep making you worry about me.
+8029f15a/1/text: I have to fix this!
+a0949cff/0/text: I have to learn how to be nervous without falling apart.
+a0949cff/1/text: No more melting. No more losing my human form!
+dfce80c2/0/text: I can't let an audience come to see us
+dfce80c2/1/text: and leave disappointed again!
+1437531b/0/text: Jolly, you're a slime.
+1437531b/1/text: You don't have to be so hard on yourself—
+dbf73e69/0/text: No. I do!
+faf9ec25/0/text: I chose to become a human-form idol.
+53177039/0/text: I've never hated being a slime. Actually...
+53177039/1/text: I love slimes!
+f3fd8ac3/0/text: But because I love her, because I want to get as close to her as I can...
+ee55377e/0/text: I want to become a human idol, just like her!
+a4e9238b/0/text: I knew from the start that this would be hard.
+a4e9238b/1/text: And I chose it anyway.
+c431e724/0/text: And all of you... accepted me like this.
+dd441e37/0/text: So I don't want to... No.
+624715c6/0/text: I can't
+624715c6/1/text: be dead weight to people as kind as you!
+650989c7/0/text: ...
+d8a8fad3/0/text: Mmmgh... That's not fair!
+d8a8fad3/1/text: How am I supposed to stop you when you say something that cute?
+2ec3d32c/0/text: Haha. Look at you blushing.
+7651ab9a/0/text: Sh-Shut up!
+993b0112/0/text: ...All right.
+e324a208/0/text: Then at least let us come get you
+e324a208/1/text: when your shift ends, okay?
+6ce0b78b/0/text: Everyone...
+c9c53c95/0/text: ...Okay!
+deb273/0/text: How did I get lucky enough
+deb273/1/text: to find friends this wonderful?
+ac7ec15f/0/text: I'm heading out!
+b65eb2f/0/text: For them,
+b65eb2f/1/text: this plan has to work!
+fcfd510a/0/text: Excuse me!
+714c56d6/0/name: Café Staff
+f463a329/0/text: Oh... Are you the new part-timer starting today?
+20b6fc68/0/text: Yes! I'm Jolly.
+20b6fc68/1/text: I'm looking forward to working with you!
+4fa3cff5/0/text: Mm. Rough day to start, honestly.
+4fa3cff5/1/text: We've got a lot of reservations today, so it's going to be busy.
+da500f90/0/text: !!
+db0ebc59/0/text: P-Perfect...!
+8badab94/0/text: Huh?
+e6155c1c/0/text: N-Nothing!
+e6155c1c/1/text: I'll do my best!!!
+d01323e4/0/text: Haha. Love the energy.
+d01323e4/1/text: All right, let's start with the menu...
+49aacdcd/0/text: Thank you for waiting. Here's your...
+49aacdcd/1/text: M-Midsummer Mango Lovers Parfait...
+a03d103b/0/name: Customer A
+7d7a3a65/0/text: Thanks... Huh?
+7d7a3a65/1/text: Um, are you okay? Your face looks kind of... see-through...
+da500f90/1/text: !!
+d731e9d0/0/text: I-It does not!
+d731e9d0/1/text: Please enjoy!!!
+67731f48/0/text: Your total comes to $350.80.
+67731f48/1/text: Would you like to pay by card or cash?
+359a693d/0/name: Customer B
+ab60b3f6/0/text: Cash is fine. Here you go.
+2fe2e865/0/text: Thank you! Your change is—
+eface5a9/0/text: Ah, no!
+eface5a9/1/text: The coin dropped...!
+19e5f396/0/text: Splash!
+3670d697/0/text: !!
+25d1c662/0/text: Huh? Did somebody spill a drink?
+25d1c662/1/text: Why did I just hear water?
+1978d3e9/0/text: ...Hand sweat!
+1978d3e9/1/text: Th-That was my hand sweat! Ahahaha...!
+eed191f1/0/text: Ugh...
+1167aa83/0/text: Is the plan...
+1167aa83/1/text: already failing...?
+c0f05e38/0/text: I haven't completely lost my human form,
+c0f05e38/1/text: but I keep messing up little things...
+37e4bf1a/0/text: I'm so useless...
+38d34bd/0/text: Ah, welcome...!
+2221764b/0/text: ...
+f1005fd9/0/text: Miss Cheri told me to get some fresh air...
+f1005fd9/1/text: Do I really look that bad?
+f50db29/0/text: If I'm supposed to clear my head... where should I even go?
+ea667afd/0/text: I really am boring...
+ea667afd/1/text: Without my research, I don't know what to do with myself...
+7c3f6178/0/text: ...Huh?
+19d6d715/0/text: A café...
+3edb5b04/0/text: The young spirits back in the forest seem pretty curious about human things...
+3edb5b04/1/text: Maybe I could bring them some sweets.
+d3f48f65/0/text: The investigation into the changes in the Spirit Forest is almost finished.
+d3f48f65/1/text: I suppose it won't be long before I have to say goodbye to everyone there.
+18213399/0/text: ...The data matches my predictions, but...
+98f15df9/0/text: whether I look at the cause or the effect,
+98f15df9/1/text: none of it lines up with Aquaria's situation...
+fc3f8b3b/0/text: Another investigation is ending,
+fc3f8b3b/1/text: and I still haven't found the answer I wanted...
+8023e53/0/text: ...No. For now, I should just do what I can.

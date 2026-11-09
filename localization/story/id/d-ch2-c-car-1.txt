@@ -1,0 +1,42 @@
+4ca103b3/0/name: Anak
+2ff94b08/0/text: Bos!
+b156326b/0/text: Teman Anda, seorang wanita indah dan anggun datang untuk mengunjungi Anda!
+48bf47ac/0/text: Hmm?
+a266fe75/0/text: Wah, bukankah ini Ilot?!
+701611d9/0/text: Lama tidak bertemu!
+c45c9f87/0/text: Aku masih penasaran alasan kamu tiba-tiba hilang, ternyata datang ke Orb!
+19100a0d/0/text: Makanya bos… Itu Bolt ….
+c7c2dcdf/0/text: (Meh… kesan Bolt memang seperti keberadaan pemimpin yang disukai anak. )
+a08782a0/0/text: Haha… Aku sudah bilang berkali-kali ke Puno untuk langsung panggil namaku saja, tapi dia tidak mau mengubahnya…
+164dd673/0/text: Tidak boleh kasar kepada Bos!
+d3120b85/0/text: Ahaha… Baik, asalkan kamu senang.
+bb3e29d7/0/text: Baik~ Ilot mau datang untuk menantang program aerobatik yang baru saja aku rancang, kan?
+9a8584a8/0/text: Jangan tunda lagi, ayo kita mulai sekarang!
+32033544/0/text: (Ha? !)
+7092b63c/0/text: Tunggu! Bukan…!!!
+f52c7ffd/0/text: ?
+98ce6962/0/text: Aku datang ke sini karena mendengar kabar tempat ini di pasar…
+f24e1353/0/text: Penasaran! Hanya penasaran!
+688f599d/0/text: (Aku tidak mau lagi mencoba pengalaman mengerikan seperti main kereta luncur 360°) !! )
+6a48a386/0/text: … Bukankah di datang karena melihat brosur yang aku tempel di papan pengumuman?
+26bc8739/0/text: Brosur …?
+9d55f48c/0/text: … Hah, sepertinya brosurku tidak mempan...
+124b1d0/0/text: Sudah melakukan acara promosi selama semingguan di Orb, tapi Ilot… adalah orang pertama yang datang ke sini.
+ab51bfc7/0/text: Aku mengira… akhirnya sudah ada orang yang memperhatikan introduksiku yang begitu antusias...
+eff3aa20/0/text: (Wah… dia menunjukkan lagi ekspresi ingin menangis…)
+672c82c1/0/text: Em … bukan berarti tidak ada orang yang memperhatikannya … Oh ya! Bukankah ada si Puno? !
+e79d8b54/0/text: Saat bos baru saja tiba di Orb, aku sudah menyadari kehebatannya dan memutuskan untuk mengikuti bos seumur hidup!
+b5aa772e/0/text: Tidak perlu seperti orang biasa yang sadar setelah melihatnya!
+c29cea14/0/text: … Benar. Saat aku turun dari pesawat ruang angkasa, Puno berada di sekitar.
+83ef84ca/0/text: …
+cb23ffad/0/text: Huh… Sepertinya aku tidak pintar dalam hal promosi…
+70b36dd7/0/text: Apakah mungkin karena program yang aku rancang kurang menarik…?
+83ef84ca/1/text: …
+b1c5c518/0/text: (Huh… Menyebalkan…)
+eb057952/0/text: Baiklah. Aerobatik sebelumnya, kan? Akan kucoba.
+757308b3/0/text: !!!
+f75cb915/0/text: Ilot...
+80341dcd/0/text: Terima kasih! Kamu adalah orang baik!!!
+88204077/0/text: Aerobatik membuat orang kecanduan, kan? !
+b022736b/0/text: Hatimu ternyata memang suka dengan pesawat ruang angkasa!!!
+8252400/0/text: (Tidak, aku hanya tidak bisa mengabaikan panggilan dari hati nuraniku…)

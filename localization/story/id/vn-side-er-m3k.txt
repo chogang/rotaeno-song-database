@@ -1,0 +1,47 @@
+1ee28577/0/name: Pegawai Bar
+5a98f410/0/text: Ini bir madumu.
+5a98f410/1/text: Silakan dinikmati!
+21b53c4e/0/text: Terima kasih, ini bayarannya~
+2bda5bf0/0/text: Oh, kami sini bisa dibayar setelah selesai!
+4eac84c7/0/text: Nggak apa-apa.
+4eac84c7/1/text: Aku punya firasat nggak akan terlalu lama di sini~
+79dc6d09/0/text: Hah? Oh, ba-
+79dc6d09/1/text: baiklah…?
+e3707a51/0/text: Terima kasih~
+83d12f68/0/text: Huh~ Hmm…
+709948ba/0/text: Ke-keras banget bir ini!
+21b1a2f/0/text: Tahu begitu, aku pesan jus saja……
+2078b9a2/0/text: Hmm~~~
+f93c03b8/0/text: Setelah sampai di tempat ini,
+f93c03b8/1/text: rasa penunjuk arah yang kuat itu menghilang……
+83bdba89/0/text: Malah muncul rasa gelisah yang samar…?
+83bdba89/1/text: Mungkinkah akan terjadi sesuatu?
+fd08da01/0/text: Hmm…
+fd08da01/1/text: Kalau di bar, memang harus minum bir, 'kan…?
+25c133c3/0/text: Birnya nggak masalah, pegawainya juga baik-baik saja……
+3d6dbf60/0/text: Berarti… Pelanggan?
+3d6dbf60/1/text: Atau mungkin bangunan ini sendiri?
+35131a0f/0/text: Hmm… Nggak terlihat——
+35131a0f/1/text: …Eh?
+e5585551/0/text: Balok di sana……
+12241dff/0/text: Tikus itu……
+b8b4b6ec/0/text: Sepertinya agak aneh…
+a3f037f0/0/text: Sepertinya… rada…
+1a243907/0/text: ?!
+d84107b2/0/name: Pelanggan Bar B
+a569fba4/0/text: Hei!
+a569fba4/1/text: Aku akan menjatuhkannya!
+f7be578e/0/text: Orang-orang itu!
+ed619f42/0/name: Pelanggan Bar A
+2c3f0a62/0/text: Dia membuat keributan karena mabuk? Firasatku sangat buruk…!
+2c3f0a62/1/text: Aku harus menghentikan mereka!
+8c2c651c/0/text: Hei, hewan kecil, jangan kabur!
+d84107b2/1/name: Pelanggan Bar B
+d0c2fd3f/0/text: Ha! Rasakan——
+8d11e767/0/text: Gawat! Tuan Tikus!!!
+fb88f107/0/text: Aarrgghh! Bos!
+fb88f107/1/text: Maaf, ya——!
+1a702615/0/text: Astaga!!!
+66c07438/0/text: Kenapa tiba-tiba awannya jadi sebanyak ini?!
+66c07438/1/text: Apa akan terjadi longsoran batu?
+ad715dd5/0/text: …Oke! Sekarang!

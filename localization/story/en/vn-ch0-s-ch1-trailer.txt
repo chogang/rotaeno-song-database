@@ -1,0 +1,23 @@
+da2d810c/0/text: Trailer|Dance in the Desert
+511e938e/0/text: I said... run faster! 
+511e938e/1/text: Don't you realize you're running for your life?!
+34397fdc/0/text: Yes, yes!
+796d3423/0/text: Isn't "Danger - Falling Rocks" one of the very first travel precautions? 
+796d3423/1/text: Weren't you paying attention to the spaceport attendant?
+5ce6ec01/0/text: Geo Village, just like most other settlements on Planet Orb, 
+5ce6ec01/1/text: is host to more than just humans.
+99c58d1a/0/text: More than just humans...?
+9c05853e/0/text: If you see strange things in the village - anything that doesn't seem like a normal human - you'd better be on your guard.
+2f4d57b7/0/text: It might not be AI. It could be the Vickers.
+41e57752/0/text: Dear Ilot, 
+41e57752/1/text: I hope everything is going well for you.
+d60a7ede/0/text: ... Something is wrong.
+5e151b7d/0/text: I can't explain it... 
+5e151b7d/1/text: But something is different about Hoppe's messages.
+a15eba62/0/text: It's...
+d00046ec/0/text: Like a soul... 
+d00046ec/1/text: Could I recognize something so intangible?
+6750a81b/0/text: If Hoppe changed bodies and became someone else - or something else...
+6750a81b/1/text: Would I still know it was her...?
+9b2b81d3/0/text: Ilot's journey has only just begun.
+1cf0b019/0/text: Coming soon: Chapter 2 - Dance in the Desert

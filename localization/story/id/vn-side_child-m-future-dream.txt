@@ -1,0 +1,132 @@
+8e7b61f/0/text: Hei, Ilot.
+6eb6dcd2/0/text: Pernahkah kamu berpikir,
+6eb6dcd2/1/text: mau jadi apa saat dewasa nanti?
+1a5fe9bc/0/text: Apa maksudnya jadi apa? Pekerjaan kah?
+af293d15/0/text: Um... apa saja boleh?
+af293d15/1/text: Pekerjaan ideal, atau impian yang ingin dicapai.
+8b10b9e8/0/text: Hah....
+440ee128/0/text: Tidak ada sama sekali.
+32f56095/0/text: Bisa dikatakan, hanya dengan memikirkannya saja sudah membuatku merasa lelah.
+33a876ed/0/text: Haha, Ilot sangat "biasa"~
+b18e8f2f/0/text: ...Ini adalah kata yang kupelajari di internet akhir-akhir ini.
+b18e8f2f/1/text: Apakah seperti itu cara pakainya?
+6cc4616a/0/text: Ya, benar!
+6cc4616a/1/text: 100 poin!
+9cc1cf61/0/text: Aku adalah raja biasa...
+79bf8f29/0/text: Bagaimana dengan Hoppe? Apa impianmu?
+79bf8f29/1/text: Mau jadi apa saat dewasa nanti?
+dd9a46fd/0/text: Dokter? Ilmuwan? Pedagang?
+cb2093cf/0/text: Hoppe sangat pintar, rasanya akan cocok melakukan apa saja.
+ab148c21/0/text: Haha, Ilot selalu menganggapku terlalu hebat...
+9ffba370/0/text: ...
+c16812b0/0/text: ...Tapi, kalau boleh,
+c16812b0/1/text: sangat ingin menemukan mengurangi kemiskinan.
+bac716b4/0/text: Mengurangi kemiskinan?
+bac716b4/1/text: Bagaimana caranya?
+b1040880/0/text: Aku juga tidak tahu...
+b1040880/1/text: Para cendekiawan saat ini tampaknya telah menemukan banyak solusi,
+b1040880/2/text: tapi tidak berhasil saat diimplementasikan.
+260a7151/0/text: Tapi jika ada "mimpi yang ingin dicapai",
+260a7151/1/text: aku rasa itu.
+35d0fb6a/0/text: Hah... Hoppe memang...
+22f1c1c5/0/text: selalu seperti tokoh utama dalam anime.
+ac62995a/0/text: Peduli terhadap negara dan rakyat, dengan sentimen yang mulia.
+a771ee6e/0/text: Daripada mengkhawatirkan orang miskin,
+a771ee6e/1/text: lebih baik memikirkan kita sendiri dulu...
+274f62cc/0/text: Anak Yatim sangat menyedihkan...
+274f62cc/1/text: Lemah dan tak berdaya, seseorang bertanya apakah kita ingin dibuat...
+d4826012/0/text: ...Justru aku ingin "kemiskinan" lenyap di Aquaria karena "Anak Yatim".
+ac7434c5/0/text: …Hah? Apa hubungannya?
+eef46b47/0/text: Ada.
+da7f5b9c/0/text: ?
+44541455/0/text: Dari mana hubungannya?
+906ef3db/0/text: Kenapa aku tak bisa melihatnya, apakah ini perbedaan antara jenius dan biasa?
+c3de7012/0/text: ...Kita tidak dilahirkan karena 2 orang jatuh cinta...
+c3de7012/1/text: Keberadaan "Anak Yatim"... untuk apa?
+7448443e/0/text: ...Untuk mengkompensasi tingkat kelahiran yang menurun tajam di Aquaria.
+7448443e/1/text: Kita... adalah eksistensi yang digunakan untuk mengisi populasi yang hilang.
+f62ffb1e/0/text: Dan tingkat kelahiran Aquaria yang rendah,
+f62ffb1e/1/text: berawal dari kesenjangan kekayaan yang ekstrem.
+448d5bef/0/text: Orang kaya tinggal di Pulau Floating,
+448d5bef/1/text: dan orang miskin tinggal di tanah.
+f85bf1b3/0/text: Daratan Aquaria sangat luas...
+f85bf1b3/1/text: Kenapa semua orang yang tinggal di sini miskin?
+9b1a5c1b/0/text: Orang miskin berjuang memenuhi kebutuhan hidup,
+9b1a5c1b/1/text: bahkan mereka tidak mau berkeluarga walau memiliki pasangan yang penuh kasih.
+aa37f7b1/0/text: Apa yang mereka khawatirkan...?
+aa37f7b1/1/text: Apakah takut menghadapi masa depan yang susah dengan mereka di kehidupan baru?
+acef3f8c/0/text: Kalau begitu,
+acef3f8c/1/text: bagaimana jika bisa mengatasi masalah mereka?
+5dfb5092/0/text: Saat semua orang tidak lagi dilanda kemiskinan,
+5dfb5092/1/text: saat mulai memiliki ruang memikirkan hal-hal lain...
+d18ce455/0/text: Apakah tingkat kelahiran akan meningkat lagi?
+68e2afc/0/text: ...Keberadaan seperti kita
+68e2afc/1/text: "Anak Yatim" yang menyedihkan ini...
+ee83ce56/0/text: ...Apakah tidak akan ada lagi?
+7bb86e9a/0/text: Hoppe...
+3ea899f/0/text: ...
+567ff6dc/0/text: Meski selalu bersikap dewasa,
+1bdbe333/0/text: terlihat begitu istimewa dibandingkan yang lain, sehingga sama sekali tidak tampak seperti spesies yang sama.
+d363e2a5/0/text: Tapi...
+d3fa2c0c/0/text: Kesepian yang dirasakan sebagai "Anak Yatim",
+535e41b3/0/text: tetap saja tak bisa dihindarkan.
+ca403746/0/text: ...Hmm,
+ca403746/1/text: maaf tiba-tiba mengatakan begitu banyak!
+38ad201a/0/text: Apakah Ilot akan merasa membosankan?
+38ad201a/1/text: Maaf...
+489b6f48/0/text: Tidak...
+489b6f48/1/text: ...Walaupun aku tak mengerti sebagian besar yang kamu katakan, hehe☆
+8ec5492d/0/text: Tapi karena mau mengatasi kesenjangan antara kaya dan miskin,
+8ec5492d/1/text: maka harus melakukan penelitian. Jadi ingin menjadi cendekiawan?
+b995da7f/0/text: Jadi, Profesor Hoppe!
+b995da7f/1/text: Pada saat itu, pastikan untuk menyisakan jabatan untukku!
+36a22005/0/text: Pekerjaannya adalah~
+36a22005/1/text: ...Menonton anime dan bermain game?
+d57e2efa/0/text: Apakah pekerjaan seperti ini benar-benar ada...
+e515d16a/0/text: Di mana ada kemauan, di situ ada jalan!
+2b60ca57/0/text: ...Jelas-jelas selama kamu serius, kamu bisa belajar dengan sangat baik...
+2b60ca57/1/text: Bukankah tepat jika menggunakan pepatah lama ini...
+f1c4e405/0/text: Hmm~? Apakah kamu baru saja mengatakan sesuatu?
+f1c4e405/1/text: Anginnya terlalu besar, aku tak mendengar jelas~
+34a86563/0/text: Haha...
+1051b38e/0/text: Oh ya, omong-omong...
+1051b38e/1/text: Ilot baru saja bilang sesuatu seperti "Seseorang bertanya apakah kita ingin dibuat"?
+aeb4086a/0/text: Ilot...
+aeb4086a/1/text: tidak ingin terlahir ke dunia ini?
+903bbab3/0/text: Um... ini...
+51f7b3b7/0/text: Meski cukup menyebalkan untuk diciptakan tanpa ditanya,
+51f7b3b7/1/text: tapi makanan Aquaria lumayan enak, subsidi yang diberikan pemerintah juga lumayan.
+51f7b3b7/2/text: Intinya vicovico sangat keren!
+dc5e346b/0/text: Meski memikirkan masa depan dan dewasa membuatku pusing...
+dc1cb8/0/text: Tapi tidak perlu mempedulikan omong kosong itu sekarang!
+34903711/0/text: Berpikir seperti ini sepertinya...
+34903711/1/text: tidak buruk, kan?
+acb755f/0/text: Haha.
+ae9be5d/0/text: Syukurlah.
+da7f5b9c/1/text: ?
+450f987/0/text: Kalau aku...
+450f987/1/text: Selalu senang bertemu Ilot.
+3b41a86e/0/text: Sebelum bertemu Ilot,
+3b41a86e/1/text: aku tidak pernah berinteraksi dengan orang lain seusiaku.
+d636dc35/0/text: Robot Pengasuh selalu ingin aku fokus pada studi,
+d636dc35/1/text: jangan mempedulikan hal lain.
+13d38792/0/text: Meski belajar itu menyenangkan,
+13d38792/1/text: Tapi aku juga merasa sedikit... entahlah,
+13d38792/2/text: kosong?
+7633a8c/0/text: Hoppe...
+ce94c9a5/0/text: Jadi aku sangat menghargaimu yang bersedia menjadi temanku,
+ce94c9a5/1/text: Ilot.
+42b2c421/0/text: Aku... bersyukur Ilot lahir ke dunia ini.
+3ea899f/1/text: ...
+d6f19559/0/text: Bagaimana jika tiba-tiba ingin menangis.
+30f4b3f1/0/text: Ini adalah pertama kalinya aku diperlakukan begitu berharga oleh seseorang.
+760e2c82/0/text: ...A, aku juga senang bertemu dengan Hoppe!
+bc623558/0/text: Tapi kita bukan hanya teman,
+bc623558/1/text: kita adalah BFF!!! BFF!!!
+32b5714c/0/text: "BFF"...?
+d7b36caa/0/text: Er, kamu memang seorang pemula internet!!!
+d7b36caa/1/text: BFF adalah teman yang lebih baik daripada teman baik! ! !
+2aecba9b/0/text: Sini, lihat ini.
+2aecba9b/1/text: Penjelasan ini!
+13583564/0/text: Aku lihat...
+13583564/1/text: "BFF", berarti sebuah planet pada zaman dahulu kala...

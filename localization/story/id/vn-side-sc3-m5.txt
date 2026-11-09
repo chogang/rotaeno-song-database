@@ -1,0 +1,72 @@
+100e58d5/0/name: Sekretaris
+fe9b1b75/0/name: Nyonya Ramboshark
+9a13e6aa/0/name: Tuan Ramboshark
+d915dbcd/0/text: Tuan Abram,
+d915dbcd/1/text: makan sedikit, ya.
+857f9103/0/text: Taruh saja. Aku makan setelah menonton itu.
+c90c8fb1/0/text: Kalau begitu,
+c90c8fb1/1/text: Minumlah cairan nutrisi ini terlebih dahulu.
+e4e530b4/0/text: Meskipun ada banyak pekerjaan yang menumpuk,
+e4e530b4/1/text: tapi kesehatan Tuan Abram jauh lebih penting dari apa pun.
+4caf351c/0/text: …Baiklah.
+3a391261/0/text: !
+7c381e6b/0/text: …Panggilan dari Tuan Besar dan Nyonya.
+30e50a12/0/text: …Cih.
+38881bf2/0/text: Bagaimanapun tetap harus dihadapi… Angkat saja.
+63f8beed/0/text: Abram.
+4291d0bd/0/text: Ibu, Ayah.
+f041b840/0/text: Aku melihat siaran langsung.
+f041b840/1/text: Whoosh apa itu… Perlombaan pesawat ruang angkasa?
+921c8ff7/0/text: Meskipun masih berkesan sedikit kekanak-kanakan,
+921c8ff7/1/text: tapi sepertinya ini bukan prestasi yang biasanya bisa dicapai Kai. Kamu membantunya?
+cf877923/0/text: …Benar.
+505e501f/0/text: Abram Ramboshark!
+505e501f/1/text: Apa yang kamu pikirkan?!
+4f5f7238/0/text: Waktu itu kami mau membekukan akun Kai untuk memaksanya pulang, kamu nggak setuju.
+4f5f7238/1/text: Katamu, jika menekannya terlalu keras, dia mungkin akan melukai dirinya sendiri.
+4f5f7238/2/text: Kami kompromi. Meskipun jelas-jelas ada pengawal mengikutinya dan nggak akan terjadi apa-apa padanya.
+f444bbc0/0/text: Tapi kini kamu malah membantunya?!
+1f794b68/0/text: Abram, ibumu cemas, jadi bahasanya kasar, tapi kali ini kamu benar-benar keterlaluan.
+1f794b68/1/text: Kami menyuruhmu pergi untuk membujuknya pulang.
+38882f9f/0/text: …Ayah, Ibu.
+38882f9f/1/text: Aku sudah mengamatinya dengan cermat, Kai sangat serius dengan ini. Karena dia punya impian——
+c013eb17/0/text: Impian!
+c013eb17/1/text: Benar, impian! Kamu selalu mengatakan ini!
+d26b27f9/0/text: Kami bukan nggak mengizinkannya punya impian, tapi impian apa nggak boleh? 
+d26b27f9/1/text: Kenapa harus mempromosikan perlombaan pesawat ruang angkasa?
+ac506035/0/text: Dia boleh menyukai pesawat ruang angkasa, bergabung ke dalam militer dan menjadi komandan armada di masa depan, 'kan?
+ac506035/1/text: Jelas-jelas dia begitu berbakat, data pengujiannya juga membuktikan dia cocok berkembang ke arah ini!
+7ec9f294/0/text: Kini dia sedang menyia-nyiakan bakatnya!
+7ec9f294/1/text: Kamu malah ikut membuat keributan bersamanya!
+c508ab4/0/text: Dia nggak menyia-nyiakan bakatnya, kok——
+62ebe739/0/text: Memangnya bisa dibandingkan?!
+62ebe739/1/text: Memangnya Keluarga kita Komite Olimpiade? Atau perusahaan promosi?!
+7f1dc531/0/text: Ini sungguh mempermalukan Keluarga Ramboshark!!!
+8e3b09e4/0/text: Sudah, sudah.
+8e3b09e4/1/text: Tenang, kesehatanmu kurang baik. Jangan marah-marah, ya……
+a3ae43cf/0/text: Masalah Keluarga kita sampingkan dulu,
+a3ae43cf/1/text: Ibumu sebenarnya juga khawatir dengan Kai.
+ae793468/0/text: Menciptakan sesuatu yang baru itu sangat sulit. Kita nggak tahu berapa lama perjalanan ini harus berlangsung,
+ae793468/1/text: nggak tahu juga apa bisa berhasil. Meskipun keluarga memiliki sumber daya, tapi kenapa nggak memilih jalan yang lebih mudah saja?
+ae793468/2/text: Anak keluarga kita nggak kekurangan modal.
+2bd7d346/0/text: ……
+97451e2d/0/text: Ambil kamu sebagai contoh, Abram.
+97451e2d/1/text: Bukankah kamu juga bisa mencapai impian tanpa mengabaikan keluarga?
+1b075a2d/0/text: Ayah, itu karena,
+1b075a2d/1/text: Yang kuidamkan sejalan dengan harapan keluarga.
+f60e345e/0/text: Tapi,
+f60e345e/1/text: Nggak semua orang seberuntung aku.
+650989c7/0/text: ……
+f8b599d1/0/text: Aku percaya dengan tekad Kai.
+f8b599d1/1/text: Dia pasti akan segera menunjukkan hasil yang memuaskan.
+54e1776e/0/text: Bukankah kali ini juga sebuah kemajuan?
+b1650417/0/text: …Dasar, kamu biarkan saja dia terus berbuat sesuka hatinya!
+3bc94752/0/text: Nyonya…—
+b62f1880/0/text: ……
+6ecc617e/0/text: Tuan Abram……
+ef04c4cb/0/text: Nggak asyik lagi, ayo makan.
+75c3dd6e/0/text: …Baik.
+75c3dd6e/1/text: Aku menghangatkan makanannya dulu.
+ccd7dd74/0/text: ……
+2a83cab/0/text: Haih…
+2a83cab/1/text: Benar-benar, ribet banget……

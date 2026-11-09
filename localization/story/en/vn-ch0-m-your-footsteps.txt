@@ -1,0 +1,136 @@
+ac6a81f8/0/text: It's overwhelming...
+d1bf2e09/0/text: My eyes hurt.
+e22f7a51/0/text: I didn't realize there were so many planets around Aquaria...
+578a7178/0/text: I can't make a decision! There are too many factors.
+76934160/0/text: Climate, population, diversity, natural disasters...
+acdcbb4c/0/text: I shouldn't rush this. 
+acdcbb4c/1/text: Too bad I didn't pay attention in data analytics...
+4b10bbe7/0/text: Why can't the spaceport be like Vicovico? 
+4b10bbe7/1/text: Gimme a guide with "Best Planets for Newbies", "Top 10 Vacation Planets", "Nature Planets"...
+84b1991b/0/text: Something easy enough for an idiot to handle!
+32af8bdc/0/text: ... Darn.
+4fdac217/0/text: Man... 
+4fdac217/1/text: Do I really want to leave?
+26c62503/0/text: ...
+770126ad/0/text: I've been feeling restless 
+770126ad/1/text: ever since I accidentally opened that video of me and Hoppe...
+726a0c46/0/text: I can't even concentrate on "KiraKira☆Love Express♪"! 
+726a0c46/1/text: I've been so disrespectful to Lulua.
+67b39d15/0/text: Then today, I woke up with a feeling I couldn't shake. 
+67b39d15/1/text: I packed my things and rushed to the spaceport.
+554551e0/0/text: It was a hasty decision. 
+554551e0/1/text: Was it even a good idea?
+7157d7d2/0/text: If only Hoppe were here...
+7157d7d2/1/text: she could just do all the hard thinking for me.
+898449be/0/text: And, on top of her not being here,
+898449be/1/text: I don't even know what planet she's on!
+d4b3f16/0/text: I haven't heard from her in over half a year...
+cff753d2/0/text: Why hasn't she contacted me since then?
+615de563/0/text: Did something happen to her network again?
+615de563/1/text: Maybe she's on a planet with no signal.
+25ff96ff/0/text: Or maybe... 
+25ff96ff/1/text: she's forgotten about me?
+82050b95/0/text: ...
+55658c6e/0/text: No, that's impossible.
+8b5e267b/0/text: Ahhhhh... 
+8b5e267b/1/text: Ugh... My eyes. I still can't make my mind up.
+eeebeec7/0/text: Who can save me now...
+7dd77faa/0/text: Oh! Maybe I could ask someone at the information desk?
+43d297a4/0/text: Yeah. That seems like a good idea.
+48f7d645/0/text: I'm so smart! 
+48f7d645/1/text: I deserve to be proud of myself for a few seconds.
+d9f9cef8/0/text: Oh, lucky me! 
+d9f9cef8/1/text: There isn't anyone in line. I don't even have to wait~ ♪ !
+faef15ce/0/text: Hey...
+6524fab0/0/text: That's... that's a Slime! 
+6524fab0/1/text: I don't see them in the city that often.
+eb32f3fb/0/text: They're always squirming around... 
+eb32f3fb/1/text: I heard a Slime's body loses water if they stay in the same pose for too long, so that's why they keep moving. Seems true to me.
+9835f2c6/0/text: Hey, kid. 
+9835f2c6/1/text: Are you done staring?
+cf57ccb3/0/text: (Uh oh...)
+cf9accf5/0/text: He's so cute... I guess there's nothing to be afraid of.
+402cab44/0/text: ... Sorry.
+b5e59098/0/text: I don't see many Slimes 
+b5e59098/1/text: where I'm from.
+e1b7e58b/0/text: Hmph... Another snobby human. Typical.
+631fa14b/0/text: I take it back. 
+631fa14b/1/text: He's not cute! Not at all!
+e914c34/0/text: Is this how someone is supposed to treat their clientele? 
+e914c34/1/text: He can't speak to me like this!
+9f464a26/0/text: Now listen here, 
+9f464a26/1/text: more and more of my people will be coming to Aquaria in the future.
+440bbacf/0/text: ...?
+a96f528e/0/text: This <color=cyan>Endless Rain</color> is quite the disaster for you humans, 
+a96f528e/1/text: but it's created a paradise for my people!
+1d934786/0/text: ... Oh.
+bb11c4e8/0/text: Right, 
+bb11c4e8/1/text: Slimes love water.
+f1410e62/0/text: I've seen countless people like you trying to leave over the past few years. 
+f1410e62/1/text: They've all had the same ugly Kentish scowl as the one plastered across your face.
+9bc640b7/0/text: ... Kentish? What species is that? 
+9bc640b7/1/text: I'll Yoogle it later.
+c13adf2/0/text: It sure doesn't sound like a compliment...
+61ff1e60/0/text: In my opinion, people leaving their home planet is never a good thing - 
+61ff1e60/1/text: but who can say that staying will turn out better?
+cf9c9ab9/0/text: He is making a lot of sense... 
+cf9c9ab9/1/text: but I haven't even asked a question yet!
+cb31107d/0/text: In a few years, 
+cb31107d/1/text: there won't be anywhere left on Aquaria for humans to live.
+eb6ce7e6/0/text: Believe me or don't, I care not, 
+eb6ce7e6/1/text: but us Slimes are the closest living thing to water. 
+eb6ce7e6/2/text: You should heed my words.
+fdd431ef/0/text: Any humans left here will eventually have to live on Floating Island. 
+fdd431ef/1/text: Won't it seem like a prison with so many people crowded in side-by-side?
+7913463b/0/text: ... Will it really come to that?
+6ccd7915/0/text: Floating Island could never be a prison. All the rich people live there!
+6ccd7915/1/text: It couldn't get that bad... right?
+2a5a2942/0/text: But...
+30401e7c/0/text: This sounds just like what Hoppe was trying to tell me.
+b9f1f80f/0/text: "We don't have much time left on Aquaria. 
+b9f1f80f/1/text: Nowhere is safe from the rising waters."
+b0ec6149/0/text: Jeez...
+5b73289f/0/text: Maybe I should have left with Hoppe in the first place.
+cc8228b4/0/text: So... 
+cc8228b4/1/text: What is your destination? How long will you rent a ship for? 
+cc8228b4/2/text: Which type of ship do you require?
+ab7ab67c/0/text: Umm...
+56f7722c/0/text: You still haven't made a decision?
+7a7a9b3b/0/text: I was thinking maybe you could help... 
+7a7a9b3b/1/text: For a first-time explorer like me, which planet do you think...
+52bf8d56/0/text: H-his mood sure has changed...
+a9f948d6/0/text: This is a ship rental service. 
+a9f948d6/1/text: I. Am. Not. Your. TRAVEL AGENT!
+fac26e0/0/text: Whoa, whoa! 
+fac26e0/1/text: S-so-sorr---
+38aba5c5/0/text: Oh well, since you've asked so sincerely, 
+38aba5c5/1/text: I'll help you out!
+97c0461a/0/text: This rental is good for three days. I've selected a flight path for you, 
+97c0461a/1/text: but you'll need to pay up front - NOW!
+ba0b7c84/0/text: Huh?!
+86bebe18/0/text: This is all happening so fast!
+64829e59/0/text: Wh-where am I even going?
+c657b4/0/text: Can't you just look at the ship's dashboard after boarding? 
+c657b4/1/text: What's the use of knowing your destination? 
+c657b4/2/text: You wouldn't be taking up half my day if you knew where to go!
+e65d1e3a/0/text: Trust me. I've chosen a planet perfect for humans. You're gonna love it, kid! 
+e65d1e3a/1/text: Now go and stop bothering me.
+f2087f35/0/text: But...
+42d278e9/0/text: No buts. 
+42d278e9/1/text: You've already paid! Your rental time has already started! 
+42d278e9/2/text: All rentals are final. No refunds.
+61b1a367/0/text: !!!
+6873371d/0/text: Ugh! I forgot I had my payments set on automatic... 
+6873371d/1/text: all so I don't miss flash sales on trendy stuff and concert tickets...
+d82f145e/0/text: I should have known. 
+d82f145e/1/text: All I thought about was modern convenience!
+e0a100d0/0/text: What a crook! 
+e0a100d0/1/text: Does his family own this spaceport?! Is he getting a cut of the profits?!
+39ab5d91/0/text: Finished? 
+39ab5d91/1/text: Pleasant journey. Go find your ship.
+fe8d394d/0/text: You...
+e6306f8a/0/text: Ah! I hate my life!
+f2bc90c9/0/text: Being a part-time psychologist for passengers wasn't in my job description. 
+f2bc90c9/1/text: Why is life so hard?
+d759ba1/0/text: Bah, forget it. 
+d759ba1/1/text: It's not like anyone has ever called me a kind and helpful Slime.

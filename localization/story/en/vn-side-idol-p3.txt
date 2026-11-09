@@ -1,0 +1,72 @@
+1ca629e/0/text: Dad, what are you doing in Silvano?
+61fe031e/0/text: Finally found you. Good thing my memory isn't completely useless.
+61fe031e/1/text: You mentioned this arena thing before, remember?
+6737807d/0/text: ...
+660e2dab/0/text: Dad... You remembered our debut event?
+7c46964a/0/text: You always got mad whenever I talked about idols...
+7c46964a/1/text: So you were listening after all...
+5bda55a1/0/text: Huh...? Hey, hey!
+5bda55a1/1/text: Why are you crying?!
+cd7f17dd/0/text: Did someone bully you? Did you run into some creep?!
+46728167/0/text: !
+46728167/1/text: N-No, it's not like that...!
+728e3c49/0/text: Are you sure?
+2cf11421/0/text: If someone gave you trouble, don't keep quiet about it. My coworkers always say nice people get bullied,
+2cf11421/1/text: and that applies to slimes too, you know.
+6bfb57d6/0/text: No one bullied me!
+6bfb57d6/1/text: ...It was my fault.
+faade233/0/text: ...
+cbcbb1/0/text: Did something go wrong during the performance?
+3670d697/0/text: !!
+186939b2/0/text: That face says yes.
+4aada100/0/text: Sigh... See? This is what I was talking about.
+4aada100/1/text: You're such a timid kid. How are you supposed to be an idol?
+cbc4ece4/0/text: !!
+2f620f85/0/text: And not just any idol—a human-form idol?
+2f620f85/1/text: You're a perfectly good slime. Why force yourself to act human?
+59254466/0/text: Because the idol I admire most is human...
+869ae796/0/text: Wanting to follow in the footsteps of someone you look up to...
+869ae796/1/text: isn't that normal?!
+4f89a595/0/text: Humans, huh...
+4f89a595/1/text: They're not like us slimes. They can be real crafty.
+ab472bd2/0/text: Didn't I tell you about that DJ side job I had?
+5390cf29/0/text: That shady boss made me sign a contract in the dark,
+5390cf29/1/text: then pulled out all these tiny little clauses afterward and chopped my pay to pieces!
+6e596505/0/text: If a random bar can be that sneaky,
+6e596505/1/text: imagine how bad the actual entertainment industry must be!
+3cf249e6/0/text: Dad... I've told you so many times. You can't judge everyone by one bad person.
+3cf249e6/1/text: Every industry has good people and bad people!
+e5c0cf98/0/text: I know you're worried about me, and I promised I'd be careful,
+e5c0cf98/1/text: so why—
+df66cf44/0/text: No means no!
+396305a5/0/text: You're still a kid. How are you supposed to outsmart adults?
+396305a5/1/text: When you actually get tricked, it'll be too late to cry about it!
+a8bf9591/0/text: That's enough. Come home with me.
+a8bf9591/1/text: Your mom is waiting.
+494e098/0/text: Mom...
+5d462f/0/text: Honestly, you're old enough to know better.
+5d462f/1/text: Why are you still acting out like this?
+99253df9/0/text: ...There it is again. You're treating me like I'm three years old.
+512ea2bb/0/text: Of course you are...
+16232911/0/text: And you even ran away from home!
+16232911/1/text: Do you know how worried your mother and I were while we were at wor—
+d3208d10/0/text: You have never treated me like an equal!
+7a54d45d/0/text: And running away... was that really only my fault?
+d00ae0f6/0/text: I begged you again and again. I told you how important this event was.
+d00ae0f6/1/text: We worked so hard for it. This was our debut.
+4c667f17/0/text: Mom understood. She said yes. You were the only one
+4c667f17/1/text: who refused no matter what!
+d0ca5940/0/text: You say you're worried about me,
+d0ca5940/1/text: but you never once tried to understand what we're doing.
+78b494a/0/text: Our work... our plans...
+78b494a/1/text: everything we've put into this...
+98727031/0/text: You—
+198da3ab/0/text: I'm not going back.
+198da3ab/1/text: I'm never going back!
+485827b9/0/text: Jolly—!
+4adb0f8/0/text: Nothing...
+4adb0f8/1/text: Nothing is going to make me give up on our dream!
+54959439/0/text: Not for myself, and definitely not for the girls who have always stood by me!
+97252677/0/text: I am not giving up. No matter what!
+4edbcdf5/0/text: If something gets in my way...
+4edbcdf5/1/text: then I'll get over it!

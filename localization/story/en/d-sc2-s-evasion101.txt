@@ -1,0 +1,34 @@
+71191023/0/name: Lime
+d172e288/0/text: Alright, class,
+d172e288/1/text: pop quiz——right now!
+ace5fd34/0/name: Everyone
+c5035718/0/text: Whaaat?!
+769394ef/0/text: Alright, alright,
+769394ef/1/text: simmer down~
+ffe39d32/0/text: Open up your control panels
+ffe39d32/1/text: to page b-12, and check "Live Combat Exercises".
+293ac33f/0/text: Ugh, people these days...
+293ac33f/1/text: It's just a test, no big deal...
+19d39d87/0/text: Noah, you go first,
+19d39d87/1/text: I'll handle the controls for you.
+16ffeb00/0/text: Got it!
+a7a92893/0/text: Let's see,
+a7a92893/1/text: b…b something...
+7af840e6/0/text: Oh, found it,
+7af840e6/1/text: <b>"Live Fire Exercise."</b>
+3c4c2a78/0/text: That should do it.
+20065a18/0/text: Heh,
+20065a18/1/text: I'm such a genius~
+e8395253/0/text: Is everyone ready~?
+257a47c9/0/text: Then let's get going!
+257a47c9/1/text: In 3, 2——1!
+d5d941a3/0/text: ...?
+47828fde/0/text: Hey, Lime,
+47828fde/1/text: something feels a bit off...
+f81605e1/0/text: No way, all the settings are in place.
+f81605e1/1/text: Relax, it's just a pop quiz~
+ac152505/0/text: But...
+ac152505/1/text: ?!
+e5d11cb1/0/text: Ouch! It hurts?!
+e5d11cb1/1/text: Is this really normal—?!
+3610178/0/text: <size=60>AAAHHH—</size>

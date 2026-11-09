@@ -1,0 +1,25 @@
+f393a0cf/0/text: Selamat datang di wawancara kami!
+cd87fd53/0/text: Silakan perkenalkan diri kepada semuanya terlebih dulu!
+659790ef/0/text: Halo semuanya, namaku ShiBa!
+f1bb66c6/0/text: Meski aku masih termasuk pemula dalam penciptaan musik untuk game musik, aku akan terus berusaha.
+9f16a992/0/text: Mohon panduannya!
+b3c952b1/0/text: Senang berkenalan denganmu!
+3b7c05e5/0/text: Bisakah kamu menjelaskan secara detail tentang lagu baru "Toys' Nightlife Area" pada kami?
+8f63c69a/0/text: Lagu ini diciptakan saat aku pertama kali mulai membuat lagu di komputer, lagu ini sangat berarti bagiku (meski sekarang kedengarannya lebih seperti malu dan bukan bernostalgia tentang kurangnya kemampuanku...).
+711e9976/0/text: Lagu ini bisa disertakan di dalam Rotaeno, aku sangat senang dan juga terkejut.
+32e633c9/0/text: Terima kasih banyak telah memberi kesempatan ini untukku.
+98fb752e/0/text: Aku dengar bahwa pandangan dunia dalam lagu ini cukup unik, bisa jelaskan pandangan dunia dalam lagu ini kepada semuanya?
+f65448b5/0/text: Lagu ini didasarkan pada adegan indah "setelah anak kecil tertidur, mainan mereka akan menjadi hidup, bernyanyi dan menari dengan ceria".
+1a328596/0/text: Aku menambahkan efek suara mainan, memasukkan beragam perubahan seperti bagian yang imut, bagian fantasi, bagian keramaian ke dalam lagu. Tidak hanya menunjukkan adegan ini secara detail, tapi juga berharap pemain dapat merasakan menikmati petualangan yang tidak membosankan saat bermain.
+871b534f/0/text: Pasti akan memberikan para pemain petualangan yang menarik!
+f3bc05f1/0/text: Tampaknya ada beberapa desain khusus untuk ritme?
+b3496bed/0/text: Lagu ini memiliki BPM 111, yaitu tempo yang relatif lambat untuk game musik.
+d8ca451/0/text: Tapi justru karena BPM rendah, dapat memaksimalkan detail lagu dan meningkatkan rasa yang mendalam. Selain itu, sedikit perubahan ritme akan berdampak besar dan meningkatkan kesulitan, semua ini adalah faktor yang membuat game musik semakin menarik.
+99aa2607/0/text: Karena itu, lagu ini diciptakan dengan fokus pada "pandangan dunia" dan "kesenangan bermain".
+7540cba1/0/text: Ternyata begitu!
+60e6ee3c/0/text: Terakhir, ada sesuatu yang ingin disampaikan kepada para pemain?
+1a21630a/0/text: Pertama, aku ingin mengucapkan terima kasih kepada semua yang telah mendengarkan lagu ini, artis yang menggambar cover, pembuat chart... Terima kasih banyak semuanya!
+eacd2a82/0/text: Jika ada yang menyukai lagu ini, aku akan sangat senang...!
+f8d03e0f/0/text: Semoga dapat menggunakan pengalaman ini sebagai kesempatan untuk mencapai perkembangan yang semakin baik, mohon dukungan dari semuanya.
+b6b86a03/0/text: (Sebutkan namaku lagi... ShiBa...)
+9f38832e/0/text: Semoga Anda dapat mengubah diri sendiri menjadi mainan yang diam-diam beraktivitas di tengah malam, serta membenamkan diri dalam pandangan dunia dari lagu ini!

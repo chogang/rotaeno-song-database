@@ -1,0 +1,134 @@
+e368b52e/0/text: Have you packed your bag? 
+e368b52e/1/text: Don't forget to bring your stuff.
+a425a767/0/text: Hmm. I double-checked. Everything is in my bag.
+445b9f7/0/text: I've also mailed all of the specialties except those for Hoppe.
+eb45a194/0/text: That's great. Remember to visit Orb again 
+eb45a194/1/text: once you've found your friend.
+b730ed70/0/text: Ilot-chan, you are leaving way too soon. 
+b730ed70/1/text: It's a pity that you have only explored around Geo Village.
+d9b0036a/0/text: The western continent of Orb has many distinct landscapes. 
+d9b0036a/1/text: They are breathtaking,
+9110a821/0/text: especially the Sahith Desert, 
+9110a821/1/text: which has beautiful stars and afterglows at night.
+b9a30110/0/text: Oh, 
+b9a30110/1/text: It's also where my love and I met for the first time.
+7f6808c9/0/text: Your first meeting with your husband...
+11fa7f8f/0/text: Ugh, I'm curious about how you looked at the time...
+2814ed00/0/text: I was a wolf at that point.
+272c51b0/0/text: Due to severe dehydration, 
+272c51b0/1/text: my body was already useless.
+9e5d8e42/0/text: There weren't many living things in the Sahith Desert, 
+9e5d8e42/1/text: so I had to hang onto it until I came across a fresh corpse.
+9f8cdbe0/0/text: And... 
+9f8cdbe0/1/text: That's when she showed up.
+553f8286/0/text: Like a goddess.
+d2a58412/0/text: It was Starsoul who led me to you.
+2cb6e073/0/text: It must have sensed that my destined love needed my help, 
+2cb6e073/1/text: so it brought us together time after time.
+73537d8d/0/text: My love... 
+73537d8d/1/text: I love you.
+7b410b76/0/text: I love you, too. 
+7b410b76/1/text: I looooove you most.
+90758a04/0/text: Whoa! 
+90758a04/1/text: Oh my eyes...
+39b79201/0/text: ... Oh.
+ed54f889/0/text: Ilot-chan, 
+ed54f889/1/text: this is for you.
+87222429/0/text: Huh? This is...
+e1b0beec/0/text: Such a dark stone.
+dd245337/0/text: This is a piece of "Destiny Stone", 
+dd245337/1/text: a specialty of the Orb.
+1c783566/0/text: The Destiny Stone is said to contain the willpower of Orb's Starsoul. 
+1c783566/1/text: When you are baffled, pray earnestly to the Destiny Stone, 
+1c783566/2/text: and the Starsoul will lead you in the right direction.
+b8979d01/0/text: Whoa!
+868ee55d/0/text: Umm... 
+868ee55d/1/text: Is the stone expensive...? 
+868ee55d/2/text: I don't feel good about taking it if it's expensive...
+245c4e/0/text: Don't worry, it isn't expensive. 
+245c4e/1/text: Consider it a farewell gift to our sweet Ilot-chan~
+1bab2055/0/text: If you want to thank us, 
+1bab2055/1/text: just come here again.
+f46c1dd3/0/text: We hope you will find your friend soon!
+44e32b45/0/text: Kakari···
+34802094/0/text: Ok! 
+34802094/1/text: Thank you!
+bb06ba61/0/text: Bye!
+a4c8df0f/0/text: Oh, hello, Ilot! 
+a4c8df0f/1/text: Uh? You are carrying a lot of things...
+766191e8/0/text: Are you going to leave? 
+766191e8/1/text: I believe you've only recently arrived...
+18da3850/0/text: Yes! 
+18da3850/1/text: But I need to leave early due to an emergency...
+3ced2eb4/0/text: I see.
+28f92d20/0/text: It is... not anything bad, right? 
+28f92d20/1/text: If there's anything I could help with, just ask me right away!
+f35230f4/0/text: Hopefully...
+34460f0/0/text: Nah, it's probably not a big deal. 
+34460f0/1/text: Thank you, uncle Noah.
+14915889/0/text: That's good to know.
+189a08a/0/text: You can come to me at any time, 
+189a08a/1/text: and I will help you if I can!
+3fc8ee85/0/text: Oh my goodness, 
+3fc8ee85/1/text: there are so many nice people on Orb.
+2119a2a2/0/text: Thank you! 
+2119a2a2/1/text: Bye!
+9619c1cc/0/text: Today is a sunny day. ☆ 
+9619c1cc/1/text: Perfect day for taking off!
+63ff91cb/0/text: When I first come here, all that I could think of is to return to Aquaria ASAP. 
+63ff91cb/1/text: But before I knew it, I had been staying on Orb for almost a month.
+70e8282/0/text: I would have never imagined that I could tolerate such a high temperature, 
+70e8282/1/text: a terrible bed, and a poor network...
+22cd480/0/text: Is this... 
+22cd480/1/text: growing up?
+8ef0f4a1/0/text: For the first time,
+8ef0f4a1/1/text: I am seeing all these things that I have only seen through monitors in person.
+9cddb486/0/text: It is, not a bad feeling.
+70870b37/0/text: ...
+a2c164bc/0/text: I still haven't heard from Hoppe...
+c286becd/0/text: So it really is true...
+c286becd/1/text: She is hiding her whereabouts in the previous letter on purpose.
+4aa2243f/0/text: Humph, you think I can't find you?
+1b7ec4e6/0/text: Naive!
+745627dc/0/text: I'm Detective Ilot, who has seen every detective drama ever made!
+a0536160/0/text: Miss, 
+a0536160/1/text: the leads in your letter are more than enough for me to discover the truth!
+d1ed3a16/0/text: "In contrast to the lovely green place I'm in, Orb is always dusty... 
+d1ed3a16/1/text: But there is one thing they all have in common: disputes between races."
+904adf2c/0/text: Lovely green place... Disputes between races... 
+904adf2c/1/text: Oh, and the network is good...
+edf4eb1e/0/text: Hoppe appears to have just arrived on a planet, 
+edf4eb1e/1/text: and she would probably stay for a while to conduct research.
+124ed74/0/text: In this case, I have...
+79f64330/0/text: Two to three months! 
+79f64330/1/text: Yep, that's enough!
+22fd70e2/0/text: Hehehe, 
+22fd70e2/1/text: this is a piece of cake.
+a23d615b/0/text: List the planets that are rich in plants, have a stable network and have a large scale of race disputes!
+fb14b92e/0/text: Listing the planets that are rich in plants, have a stable network and have a large scale of race disputes...
+ef97492a/0/text: Haha, don't underestimate the power of technology!
+c084c080/0/text: These are the findings.
+95d8ab52/0/text: Umm...
+45040c3/0/text: I had no idea there were 
+45040c3/1/text: so many planets that qualify...
+4bc50841/0/text: *inhale and exhale* 
+4bc50841/1/text: *inhale and exhale*
+94fd8efa/0/text: It's okay, 
+94fd8efa/1/text: I should believe in myself!
+7dd4c6ec/0/text: Assume I'm Hoppe and choose based on her preferences. 
+7dd4c6ec/1/text: That would be no problem!
+2423e0f2/0/text: And I have the Destiny Stone! 
+2423e0f2/1/text: Starsoul will guide me!
+52bc2b3d/0/text: Starsoul, please. 
+52bc2b3d/1/text: I'm willing to go a year, no, a month without buying any merchandise.
+b95d9f64/0/text: Starsoul, please help me find Hoppe.
+ed7005e3/0/text: Alright... I'm going to visit...
+8fb22493/0/text: Silvano!
+ae9eeffd/0/text: Ok, before I get analysis paralysis, 
+ae9eeffd/1/text: I better hurry.
+c27a15e7/0/text: Plan a route to the spaceport!
+7ceef59b/0/text: Planning the shortest route to the spaceport.
+c7fe76dd/0/text: Route planned.
+2b76a8dd/0/text: Enjoy your journey.
+13639e9d/0/text: Wait for me, Hoppe!
+756c921c/0/text: I will definitely find you!

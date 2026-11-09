@@ -1,0 +1,19 @@
+9693aae9/0/text: Born a wolf, yet cast out by the pack.
+e75778c4/0/text: I've always known about the loners among wolves,
+e75778c4/1/text: but I never imagined I would one day end up with the same fate.
+3da2e62d/0/text: ...But why?
+35c2f8b1/0/text: Was it because I didn't save that pup?
+bcf01c5c/0/text: Isn't self-preservation the most basic animal instinct?
+eb8d9e33/0/text: That little thing was as good as gone. Even if I'd stepped in,
+eb8d9e33/1/text: its odds of survival was fifty-fifty at best.
+b524e370/0/text: And the chances of me getting injured would've been just as high.
+34a0ced2/0/text: It was just too risky.
+be80d24e/0/text: My choice was rational. It was correct.
+7f8905ea/0/text: —So why snarl at me in such a rage?
+5d4b2c7e/0/text: Why drive me away?
+947a87c5/0/text: I don't get it.
+7f12c318/0/text: ...Could it be that the host I chose is genetically flawed?
+e44959f0/0/text: Inhabiting other species to analyze and learn—that's how our species has always survived.
+f8b0075c/0/text: So why can't I seem to understand "their" thoughts?
+921a5fdf/0/text: Is the flaw in the individual I've chosen,
+921a5fdf/1/text: or is it...

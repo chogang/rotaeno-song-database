@@ -1,0 +1,92 @@
+8d7410ad/0/name: Pegawai Toko A
+6c49b581/0/text: Kakari, meja 11 menambah seporsi omelet!
+727167be/0/text: Oke~
+86e8a51e/0/name: Pegawai Toko B
+ee93e8f6/0/text: Kakari,
+ee93e8f6/1/text: Beef Risotto meja 32 belum selesai, ya?
+4c8d7c47/0/text: Coba kulihat… Oh, waktunya sangat pas.
+4c8d7c47/1/text: Tinggal dikeluarkan dari oven!
+81777f40/0/text: Baguslah~!
+81777f40/1/text: Aku saja yang ambil. Kamu lanjutkan kesibukanmu!
+54723734/0/text: Ah, terima kasih~
+54723734/1/text: Sarung tangannya ada di sana. Hati-hati panas, ya!
+815ff924/0/text: Oke!
+ad752164/0/text: La～♪ La～～♫ ♩ ～
+54ad7501/0/name: Koki
+be596643/0/text: Kakari, senang sekali kamu hari ini!
+1c677269/0/text: Iya, nih!
+1c677269/1/text: Aku punya firasat akan terjadi sesuatu yang istimewa♪
+6ec46ee4/0/text: Oh? Apa itu?
+6ec46ee4/1/text: Firasat baik, ya?
+66d6a7e2/0/text: …Mungkin saja, siapa tahu!
+66d6a7e2/1/text: Aku sangat menantikannya~
+d967268f/0/text: Hahaha, Kakari benar-benar gadis kecil.
+d967268f/1/text: Bisa-bisanya percaya dengan "indra keenam"! Imut sekali!
+af3281a6/0/text: ……
+a41ebe71/0/text: Oh! Jumlah piring kotor sudah lumayan banyak.
+a41ebe71/1/text: Aku akan membawanya ke Bibi Mina!
+d05399cc/0/text: Bantu aku jaga apinya, ya!
+a087f62/0/text: Oke, nggak masalah!
+a087f62/1/text: Terima kasih~
+f7108d9c/0/text: ……
+d98e7911/0/text: Imut…nya.
+d554a2d0/0/text: !
+d6237f8c/0/text: Ah……
+cc438e9a/0/text: ……
+ab43c4c6/0/text: Ada apa… di barat…?
+38ae6646/0/text: …Hmm~ Kehidupan di sini,
+38ae6646/1/text: sudah waktunya berakhir juga!
+f34027f/0/text: …Tempat ini sungguh indah~!
+f34027f/1/text: Andai saja aku juga bisa membuka toko sehebat ini suatu hari nanti……
+ccce301e/0/text: Aku kembali~ Eh?
+ccce301e/1/text: Kenapa kamu melamun di depan kompor, ada yang gosong?
+3c0291e6/0/text: Ah… Nggak kok~
+3c0291e6/1/text: Mungkin hanya sedikit kecapean~?
+2c1db5bd/0/text: Supnya sudah enak.
+2c1db5bd/1/text: Sepertinya hanya perlu dimasak 5 menit lagi!
+cadf8aa0/0/text: Oke! Makasih, ya~
+f7108d9c/1/text: ……
+df33814b/0/name: Bos Restoran
+914e0603/0/text: Bos, maaf,
+914e0603/1/text: boleh ganggu bentar nggak?
+58b0abe3/0/text: Oh, Kakari, ya.
+58b0abe3/1/text: Tentu saja boleh.
+fb2ffc53/0/text: Ada apa?
+493f107d/0/text: Iya, anu…
+7a2c3b5b/0/text: Saya sangat berterima kasih atas perhatian dan dukungan dari bos dan rekan-rekan lainnya,
+7a2c3b5b/1/text: tapi karena alasan pribadi, saya harap Anda bisa mengizinkan saya untuk mengundurkan diri.
+4037e558/0/text: Mengundurkan diri…?!
+b10d8c82/0/text: Kok tiba-tiba sekali?
+b10d8c82/1/text: Apa ada yang nggak disenangi selama bekerja?
+64943655/0/text: Atau kamu merasa gajimu kurang memuaskan?
+64943655/1/text: Kalau iya, semua itu bisa dibahas…!
+a91fd413/0/text: Bukan! Semuanya sangat baik pada saya, gajinya juga sangat memuaskan.
+a91fd413/1/text: Saya hanya ingin istirahat sebentar, mungkin pergi jalan-jalan.
+4464c28f/0/text: Oh! Jalan-jalan, ya~ Tentu saja nggak masalah.
+4464c28f/1/text: Ambil cuti saja. Nggak perlu mengundurkan diri, 'kan?
+51b3ff15/0/text: Haha, terima kasih!
+7c8bc3df/0/text: Tapi, gaya saya jalan-jalan sangat santai~ Tujuannya nggak pasti,
+7c8bc3df/1/text: durasinya juga nggak tentu, waktu pulangnya semakin nggak bisa diprediksi.
+98ea58fd/0/text: Demi nggak merepotkan rekan-rekan,
+98ea58fd/1/text: mohon izinkan saya mengundurkan diri.
+129cf285/0/text: ……
+1668cba0/0/text: Benar-benar nggak ada solusi lain?
+d7e93ea6/0/text: Sejujurnya, kemampuan kerjamu sangat bagus.
+d7e93ea6/1/text: Semua orang di restoran ini sangat menyukaimu. Kalau bisa——
+efccdb7d/0/text: Saya benar-benar sangat berterima kasih dengan perhatian dan dukungan semuanya selama ini.
+3151325/0/text: …Huh~ Panas banget.
+72bfb99d/0/text: Kali ini,
+72bfb99d/1/text: bakal melihat apa lagi, ya…?
+22063d00/0/text: Semua yang di restoran, apa kabar, ya…?
+bb837d2/0/text: Apa mengundurkan diri adalah pilihan yang tepat…
+bb837d2/1/text: Padahal mereka semua sangat menjagaku…
+8d8a5603/0/text: Tapi……
+1960dec0/0/text: …Hmm… Ada apa, ya?
+1960dec0/1/text: Kelihatannya cuman tanah tandus yang sunyi……
+39e6a8ae/0/text: Tapi entah kenapa,
+39e6a8ae/1/text: aku sangat ingin ke sini……
+7c3f6178/0/text: …Hmm?
+3a10e748/0/text: Di balik batu besar itu,
+3a10e748/1/text: ada sesuatu bukan…?
+ff83acd/0/text: Coba kulihat……
+1884a044/0/text: …!

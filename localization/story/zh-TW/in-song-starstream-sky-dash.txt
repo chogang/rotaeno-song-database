@@ -1,0 +1,17 @@
+b6f7adcf/0/name: Violet Delta
+d1c20a22/0/text: 歡迎來到採訪室！
+501888ff/0/text: 請先為大家做個自我介紹吧？
+cb73ea6b/0/text: 嗨，我是 Violet Delta，一位來自馬來西亞的新人音樂遊戲作曲家。
+3ea96655/0/text: 竟然是新人…！
+c4580265/0/text: 能跟我們介紹一下您這次的新歌「Starstream Sky Dash」嗎？
+1d827008/0/text: 非常感謝 Rotaeno 團隊提供了我這個機會。
+6f51b844/0/text: 在比賽期間，我問我自己：
+bee7fa02/0/text: 如果我做一首歌，聽起來像是乘坐太空船以極高的超音速穿越宇宙，那會是什麼感覺？
+9fcac98f/0/text: 然後我試著將這種體驗融入到我的歌曲裡。
+f13560ab/0/text: 聽起來很酷耶！
+188839d/0/text: 這就是「Starstream Sky Dash」誕生的由來。
+de1e6c10/0/text: 這也是我第一次嘗試製作並結合兩種相當不同的曲風，也就是 Techcore 和 Footwork。
+7540cba1/0/text: 原來如此！
+aba78326/0/text: 謝謝您願意將這創新的作品交給Rotaeno！
+b810e6b9/0/text: 那麼，對於玩家們您有想要傳達的話嗎？
+2f5b13ef/0/text: 我希望大家能盡情享受我的歌曲，如果可以的話，也歡迎大家在社群媒體上分享遊玩我歌曲的體驗。

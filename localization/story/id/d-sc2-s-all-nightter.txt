@@ -1,0 +1,23 @@
+d6982a96/0/text: Akhirnya——Sampai!!!
+d6982a96/1/text: "Pemburu Liar"…!
+a5a3a9e6/0/text: Keren~banget♪
+7039897f/0/name: Pengingat ponsel
+852c2d0d/0/text: ～♪ ～♬～♩♬～
+adcdcc14/0/text: Berisik banget——
+73d7b9e3/0/text: Aku nggak mau…
+73d7b9e3/1/text: kerjain PR...
+2b9c97b6/0/text: ...Nggak masalah juga 'kan kalau main dulu baru kerjain?
+3a94eb4f/0/text: ...Ya! Tentu saja nggak masalah!
+3a94eb4f/1/text: PR doang, 10 menit saja bisa beres!
+f86b9975/0/text: (Nggak masalah,
+f86b9975/1/text: Pemburu Liar lebih membutuhkanku sekarang!)
+7c5af73c/0/text: …
+3ea899f/0/text: ……
+852c2d0d/1/text: ～♪ ～♬～♩♬～
+e0f8a46a/0/text: ?!
+109316dc/0/text: (Sudah… pagi?!)
+c506da42/0/text: Gawat!
+c506da42/1/text: PR-ku...
+62f721fb/0/text: Ng-nggak apa-apa,
+62f721fb/1/text: Persiapan berangkat segala,
+62f721fb/2/text: 10 menit saja bisa beres...!

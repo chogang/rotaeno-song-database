@@ -1,0 +1,21 @@
+1032882f/0/text: Welcome to our interview, both of you!
+cd87fd53/0/text: First, could you please introduce yourselves?
+2ffb249f/0/text: I'm ああああ!
+73eb8edc/0/text: I love music that evokes stories and landscapes, and I'm a freelance composer.
+dde23d95/0/text: I can create any type of music.
+76483c74/0/text: I'm 打打だいず!
+50a7d826/0/text: Whether it's bright music or dark music, I enjoy all styles—I'm a versatile composer!
+338965c/0/text: It's great to meet you both!
+38226a1c/0/text: Could you tell us more about your new song "Starlight Traveler" and your thoughts on working together?
+13dfc03/0/text: Since 打打だいず-kun is a creator I've admired for a long time, I took this collaboration very seriously.
+7abcc49a/0/text: During the production process, I focused on the unique features of rhythm games while doing my best to maximize 打打だいず-kun's talents.
+3e158b9/0/text: The production process was truly enjoyable.
+63395f9c/0/text: I was responsible for the overall composition and part of the arrangement, while 打打だいず-kun handled most of the arrangement.
+8b9e8c1b/0/text: This is the first time I've collaborated with ああああ-sensei, whom I deeply respect!
+54c08b1a/0/text: We combined our favorite elements without holding back, and I believe we created an amazing track!
+c254f0fc/0/text: You can really feel a sense of joy in this new song!
+de44154e/0/text: I'm sure it will provide players with an exciting experience.
+ebe1eab7/0/text: Lastly, do you have any messages for the players?
+b12b5c73/0/text: Please enjoy this high-speed journey through the galaxy to the fullest!
+b7ac3e9/0/text: Thank you so much, everyone!
+85932a46/0/text: We wish you a pleasant journey!

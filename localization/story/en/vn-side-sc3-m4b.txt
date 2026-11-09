@@ -1,0 +1,144 @@
+9e73dcd1/0/name: Venue Manager
+462f774b/0/name: Secretary
+1d3894bb/0/text: Sir Abram, over there...!
+e2a5a4e8/0/text: How did this happen?
+4a79487a/0/text: My deepest apologies,
+4a79487a/1/text: it's my mistake!
+86b05394/0/text: This man went to some backwater planet last month, changed his name, and returned to Silvano to conduct shady deals.
+86b05394/1/text: He exploited a time delay in document processing...
+fda47dd7/0/text: We just discovered he has multiple prior commercial fraud convictions...
+fda47dd7/1/text: I am truly, deeply sorry!!!
+6ac466c2/0/text: Tsk...!
+815a885/0/text: I see him!
+815a885/1/text: He's right there...!
+5b46baeb/0/name: Kelut
+8a65dc2b/0/text: I don't agree!!!
+aa251e84/0/text: ...?
+4f3fd073/0/text: Huh...?
+a1adda8/0/text: We signed a contract two weeks ago,
+a1adda8/1/text: it's a legally binding contract!
+fc270164/0/text: Heh! Listen up, kid~ It's like I said before,
+fc270164/1/text: I had no idea your little get-together would be such a huge event~
+b3272130/0/text: Cut the nonsense,
+b3272130/1/text: all of the materials I gave you had the entire event's proposal, schedule, and layout plans!
+b3272130/2/text: I even checked the max capacity of the venue with you, it's all written in the contract!
+31dca242/0/text: We've been keeping a headcount of every person that entered,
+31dca242/1/text: and we're well within the contract's limits!
+fc812f5a/0/text: Well——
+43805fcc/0/text: And don't pretend you had no idea about the event's size. We each have a copy of the signed contract,
+43805fcc/1/text: and I emailed you a copy of every document I ever showed you.
+43805fcc/2/text: If you didn't read them, that's on you!
+3a391261/0/text: !
+b071ec38/0/text: Maybe you should learn to read the fine print before you do business, old man.
+76a17b43/0/text: You...! Hold on!
+76a17b43/1/text: What about these Elemental Spirits?!
+4061d336/0/text: What about them? Does the event say only humans are allowed?!
+4061d336/1/text: We've even got Vickers and Kent contestants today! Even Slimes in the cheerleading squad!
+8ff089d7/0/text: Are you being racist?
+8ff089d7/1/text: Aren't you aware of Article 78952, the "Fairness for All Act", in the "Cosmic Accords"?
+d7504a21/0/text: Huh—— Is there even such an act?
+d7504a21/1/text: Looks like we've got some homework to do, right, Angatu?
+e8cb1596/0/text: ...Throwing him out would've been simpler.
+5e33bd87/0/text: !!!
+4b392fa8/0/text: I, I... I own this place!
+e8632e6c/0/text: Sure, you own the venue,
+e8632e6c/1/text: but during the rental period, I have the right to use it!
+74361d38/0/text: Mister, do you know anything about contract laws?
+74361d38/1/text: During the rental period, unless stated otherwise in the contract, I can refuse you entry to the venue.
+a2900e0/0/text: And right now, I do NOT want you here!
+a2900e0/1/text: So you better leave, right now!!
+10f76ab0/0/text: Wh-what...?!
+defa6cd0/0/text: If you're going to keep this ruckus up,
+defa6cd0/1/text: then let's see what the police and lawyers have to say!
+cb22ee6/0/text: ?!
+e8bf02b0/0/text: Puno, call the police!
+b886504d/0/text: You got it, Boss!!!
+ae70ddab/0/text: Um, no, wait, just hold on...!
+faf802ab/0/text: ...Hmph.
+7e86c9fc/0/text: Come on, let's go find our seats.
+4c9f3cda/0/text: Huh? But what about the young master...?
+31f6472d/0/text: Isn't he handling it just fine?
+31f6472d/1/text: Let's go.
+4d8b89c9/0/text: Yay—!!
+5d41dc4b/0/text: That annoying old geezer is finally gone~
+e21738dd/0/text: Tommy~?
+e21738dd/1/text: That's not a nice way to talk.
+30150627/0/text: Aww, it's fine, Cheri,
+30150627/1/text: No need to be polite to jerks☆
+5fc49d22/0/text: Yeah, that's right~
+fb8ad2f0/0/text: ...Tommy.
+9c9226d4/0/text: Ugh...!
+9c9226d4/1/text: Okay, I get it, Grampa Angatu...
+36b5db9e/0/text: Haha, it's a good thing we didn't delay the opening ceremony!
+e8e6f1cb/0/text: Yeah! The opening ceremony!
+e8e6f1cb/1/text: Are you going to go get ready for it now, Boss?!
+365bd63d/0/text: Yeah!
+365bd63d/1/text: Alright, I'm off to backstage!
+f7bea170/0/text: Yay—!
+f7bea170/1/text: I just can't wait to see Boss's super~~~ amazing stunt flying!
+847dbdef/0/text: Come on, let's go to our seats too!
+847dbdef/1/text: Good luck, Ilot!
+a93c51f1/0/text: Y-yeah!!!
+a93c51f1/1/text: Amozom shopping spree, here I come!!!
+462f774b/1/name: Secretary
+8d2a7847/0/name: Host
+640a05d8/0/text: Ladies and gentlemen!
+640a05d8/1/text: Welcome, to the "Whoosh~Whoosh Extreme Spaceship Speed Race"!
+e4b1b4ee/0/text: As you may know, this spectacular event today would not have been possible
+e4b1b4ee/1/text: without the dedicated efforts and dreams of a kid who just loves spaceships.
+db0fa457/0/text: Huh?
+db0fa457/1/text: How did I first get into spaceships...?
+ce726fe7/0/text: Mhm!
+ce726fe7/1/text: Well, it's because Boss is so cool!
+e5a74e06/0/text: He's only a bit older than me, but he's got this grand dream!
+e5a74e06/1/text: So Boss must have loved spaceships for a long time, right?!
+bbb8ad0e/0/text: ——Oh! Could it be that Boss is like one of those "chosen ones" in stories,
+bbb8ad0e/1/text: who loves spaceships from the moment you were born?!
+1caed33a/0/text: Haha, no way~
+1caed33a/1/text: Let's see, if I had to pick a moment when I first fell in love with spaceships,
+47f05cd/0/text: Hm... It had to be on that day.
+b5e688bc/0/text: He's young, but his passion is unstoppable! He's green, but he's got guts! He started out alone, but he never, ever quit!
+e7002930/0/text: How about——
+6b6cb0c/0/text: !!
+e07ba775/0/text: You there, miss! Do you want to become—
+fbdc42fc/0/text: Nope, no need, pass.
+fbdc42fc/1/text: Thanks.
+ec8e5c2f/0/text: Let's give it up for—
+ec8e5c2f/1/text: Bolt!!!
+4e980336/0/text: Yay—!
+ebaaf0b7/0/text: Long live the Boss—!!!
+bf7570df/0/name: Crowd
+f38de86e/0/text: Whoa—
+3b608193/0/text: Look at him soar! It's like he's dancing in the sky!
+b993815b/0/text: Woohoo!
+4f94b4a1/0/text: Wow, I had no idea a spaceship could move like that...!
+e67b3347/0/text: Human tech sure is fascinating~
+605dd2c1/0/text: ...Hmph.
+96c148cf/0/text: Bolt——!!!
+c20f6dfe/0/text: Could you ever have imagined this moment?
+ce93a66c/0/text: Wow... So cool...
+24b5c25a/0/text: Wait, hold up!
+b020a0a8/0/text: Will the competition later be this good as well?!
+27241bde/0/name: Child
+a66bbc5b/0/text: Mommy, look, that bird is writing words in the sky...!
+4ae2b437/0/name: Woman
+feace965/0/text: Hehe, that's no bird.
+944a72e2/0/text: It's a spaceship~!
+98d068f4/0/text: Space, ship...?
+28577a68/0/text: It's not a typical, boring space bus or some hunk of junk that's doomed from the start——
+8d912fcc/0/text: Whoa— That's why you're the Boss!
+8d912fcc/1/text: Just unbelievable!!!
+56478029/0/text: I've gotta step up my game too!
+8ee00f96/0/text: I'm with you all the way, Boss——!!!
+5ccdf012/0/text: The young master sure is talented.
+fb41b8a5/0/text: ...Yeah.
+495ac5d8/0/text: Check out the new era of sports! One that brings joy and excitement!
+51dc141d/0/text: Hm... So this is stunt flying with spaceships.
+51dc141d/1/text: Next time, I'm going to challenge him to a race.
+a56be7dc/0/text: Oh? Do you want to try and fly spaceships too, Tommy?
+faf13d7b/0/text: Yeah! Piloting this hunk of metal should be a piece of cake, right?
+faf13d7b/1/text: It can't be any harder than magic!
+7ed0cdc4/0/text: Hehe, and once I get the hang of it, I'm gonna beat him♪
+78aeeaee/0/text: Everyone, let me hear you scream! And cheer!
+96e1ffe7/0/text: I hereby declare, the "Whoosh~Whoosh Extreme Spaceship Speed Race"——
+f908ab58/0/text: officially starts NOW!!!

@@ -1,0 +1,68 @@
+9e73dcd1/0/name: Koordinator lokasi 
+8a5304ed/0/text: Bos, bos!
+8a5304ed/1/text: Sampahnya sudah dibuang~!
+94ce927a/0/text: Oh! Terima kasih, Puno!
+aba9ea9f/0/text: Jadi, kerjaan pembersihan sudah beres semua. 
+aba9ea9f/1/text: Om, silakan diperiksa.
+a363091a/0/text: Um, um……
+fda2d204/0/text: Oke.
+fda2d204/1/text: …Sudah sesuai, nggak masalah.
+6f692bcd/0/text: Terima kasih. Kalau begitu, kami pamit dulu.
+6f692bcd/1/text: Sampai jumpa.
+129cf285/0/text: ……
+380c308d/0/text: Huh——
+380c308d/1/text: Lelah banget!
+c716452a/0/text: Haha, iya!
+c716452a/1/text: Tapi sangat senang, 'kan?
+f994d953/0/text: Ya, bos.
+f994d953/1/text: Kamu benar-benar hebat banget!
+48a268da/0/text: Jelas-jelas Om itu sangat~~~ menyebalkan,
+48a268da/1/text: bos masih bisa menjawabnya dengan begitu sabar dan tenang!
+5723dcb6/0/text: Tadi waktu bersih-bersih area, aku melihatnya terus bergumam sendiri, 
+5723dcb6/1/text: beberapa kali aku benar-benar pengin banget datang dan memarahinya!
+9dd551c8/0/text: Harusnya tadi kita melapor polisi!
+9dd551c8/1/text: Biar dia ditangkap!!!
+f44cc252/0/text: Hahaha~ Apa boleh buat. Dia muncul di saat mendekati upacara pembukaan.
+f44cc252/1/text: Demi nggak menunda upacara pembukaan, kita terpaksa untuk menanganinya dengan cepat.
+d7b82e0f/0/text: Cuman, itu nggak menandakan selesai, kok.
+b7285261/0/text: Tuan Evan harusnya sudah menghubungi pengacara,
+b7285261/1/text: dan mulai menangani proses selanjutnya.
+8340b03c/0/text: …Haih, sampai terakhir pun harus merepotkan kakak.
+a29b1e96/0/text: Hmm~~~ Tapi!
+a29b1e96/1/text: Bos benar-benar sangat hebat!!!
+e82773f1/0/text: Lomba yang seramai dan sebesar ini!
+e82773f1/1/text: Persis seperti mimpi menjadi kenyataan!
+2093db6/0/text: Mimpi menjadi kenyataan……
+f41de12b/0/text: Ya! Bos dan bos tua,
+f41de12b/1/text: benar-benar sangat hebat!!!
+3a252fe3/0/text: … Haha, ini semua berkat kakak.
+cc12ec3a/0/text: Kalau nggak ada dia…
+cc12ec3a/1/text: Kali ini pasti akan seperti acara-acara sebelumnya… Nggak ada yang peduli.
+499bb03d/0/text: Sungguh berat untuk mengakuinya.
+fc131722/0/text: Kapan aku baru bisa menjadi
+fc131722/1/text: kebanggaan kakak, ayah dan ibu?
+f9055e36/0/text: Nggak, kok! Meskipun bos tua sangat hebat juga,
+f9055e36/1/text: tapi bos tetaplah yang paling hebat!
+fad86dbd/0/text: Mempelajari begitu banyak hal dalam waktu begitu singkat.
+fad86dbd/1/text: Kalau aku, pasti nggak akan bisa!
+31c60d22/0/text: Melihat bos mencari referensi,
+31c60d22/1/text: mempelajari kasus, survei lokasi, dan masih harus mengerjakan tugas yang memuaskan bos tua tanpa mengenal cape!
+99f84485/0/text: Haha, itulah proposal…
+a8fe1570/0/text: Aku, Puno!
+a8fe1570/1/text: Benar-benar sangat terharu!!!
+925a4830/0/text: Dengan begini terus, impian kita untuk menyebarluaskan budaya olahraga pesawat ruang angkasa di seluruh alam semesta, 
+925a4830/1/text: pasti akan segera tercapai!!!
+d034c901/0/text: Puno……
+3dc64285/0/text: …Ya.
+3dc64285/1/text: Aku 'kan sudah membuat banyak kemajuan kali ini?
+9769d8d6/0/text: Asalkan maju terus,
+9769d8d6/1/text: suatu hari nanti, aku pasti akan mencapai ketinggian yang kuidamkan.
+a11ad82e/0/text: Menjadi orang yang bisa meraih mimpi sendiri
+a11ad82e/1/text: dan membanggakan keluarga.
+1d8c208d/0/text: Aku akan mencapai Tanah Perjanjian-ku.
+4055d0b5/0/text: …Ya, benar!
+970903ca/0/text: Oke~ Kalau begitu, ayo teruskan!
+6e8fe9d9/0/text: Marilah kita sebar luaskan kegembiraan membalap bersama-sama!!!
+c973a986/0/text: Hore!!!
+b4a91b7b/0/text: Untuk itu,
+b4a91b7b/1/text: Aku akan maju terus tanpa ragu!

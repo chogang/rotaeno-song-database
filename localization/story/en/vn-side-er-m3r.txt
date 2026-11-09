@@ -1,0 +1,67 @@
+ed619f42/0/name: Tavern Guest A
+981093ee/0/name: Tavern Guest B
+460ec172/0/name: Mouse
+467eaee8/0/text: Cheers!
+9d03b1a4/0/text: Aah——
+9d03b1a4/1/text: Nothing beats a nice, cold one after getting off work!
+335e848a/0/text: That's right!
+335e848a/1/text: Hahaha!
+f816958b/0/text: ......
+72a57a3/0/text: So noisy.
+55135bcd/0/text: Having sensitive ears at a place like this
+55135bcd/1/text: feels just like torture.
+7834e3a3/0/text: How do sewer rats stand this piercing racket
+7834e3a3/1/text: while they're out scavenging?
+3ce80fdc/0/text: And all the different smells are mixed together...
+3ce80fdc/1/text: ...How annoying.
+3a5603a/0/text: Weren't your ancestors out running across the vast plains, hunting for prey?
+337fe86f/0/text: ...How long ago was that now?
+1534fabf/0/text: Field mice have turned into sewer rats,
+1534fabf/1/text: the hunting field has transitioned from brushes and stones to these filthy, cramped man-made structures.
+3a8c1b02/0/text: That reminds me,
+3a8c1b02/1/text: hasn't it been getting way hotter lately?
+d7118464/0/text: ——Humans.
+b01580b6/0/text: The most widespread intelligent race in Orb these days.
+7ad9956f/0/text: They have the common trait among short-lived races: a strong reproductive drive.
+7ad9956f/1/text: That's how their population grew so rapidly.
+af6aeb87/0/text: What a disaster for every other species on the planet.
+c91a3af/0/text: Yeah, and it hasn't rained in days.
+c91a3af/1/text: I'm practically baking out there—
+27cf6bdb/0/text: Honestly, what's the difference between intelligent life and beasts?
+c0fd0ad6/0/text: Beasts have no self-control; they just follow instinct
+c0fd0ad6/1/text: and take whatever they want.
+4480028a/0/text: But don't humans spend all their time stripping other creatures of their homes and resources?
+8a2f02/0/text: No. Maybe...
+16702226/0/text: To have intelligence and still feel zero pity
+16702226/1/text: while destroying everything around just to feed an endless greed makes humans worse than—
+7b146d41/0/text: Sigh, it's just,
+7b146d41/1/text: there's nothing fun to do... Huh?
+5306321c/0/text: What's wrong?
+b0d9c961/0/text: Look! Over there!
+b0d9c961/1/text: It's a huge mouse!
+905d0762/0/name: A mouse?
+1795ecf0/0/text: !
+aa97ae18/0/text: Oh no... I wasted too much time thinking useless thoughts.
+47472d2a/0/text: Squeak——?!
+ac1da6bd/0/text: Hah!
+ac1da6bd/1/text: Watch me knock that thing down!
+2eb7b696/0/text: These people...
+cfd947ff/0/text: Shh, shh! Don't throw stuff!
+cfd947ff/1/text: The boss is going to get angry!
+7e3e4860/0/text: But,
+7e3e4860/1/text: we finally have something fun to do...!
+26ef0133/0/text: Don't be impatient.
+26ef0133/1/text: Look, I brought a lighter.
+25396bc/0/text: What'd you say we catch it...
+25396bc/1/text: ...then... burn it...
+ce31395f/0/text: ...I smell trouble.
+ce31395f/1/text: Better scram.
+778f43e5/0/text: It's painful enough exchanging these bodies each time.
+778f43e5/1/text: I don't need some ugly creeps torturing me.
+8c2c651c/0/text: Hey, the rat's getting away!
+76d96377/0/text: Hah! Check this out——
+9505303f/0/text: ...!
+6c37b023/0/text: Oh no——
+6deae9c5/0/name: ???
+9c0988d0/0/text: Oh my! Where did all these clouds come from?!
+9c0988d0/1/text: Is a rockfall about to happen?

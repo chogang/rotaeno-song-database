@@ -1,0 +1,21 @@
+836f302c/0/text: Hah...
+836f302c/1/text: Besok harus sekolah lagi...
+ffcf2634/0/text: Hei Hoppe,
+ffcf2634/1/text: Menurutmu, kenapa kita tidak bisa sama seperti Pulau Floating~?
+2837e691/0/text: Sudah mau tahun baru? Baik,
+2837e691/1/text: Semuanya libur tiga hari!
+9086814b/0/text: Lalu? Perayaan besar,
+9086814b/1/text: Karnaval meriah!!!
+355f6c8e/0/text: Kembang api menakjubkan hanya bisa dilihat melalui layar,
+355f6c8e/1/text: Betapa indahnya jika bisa melihat secara langsung...
+f50bbcc2/0/text: Hm...
+d36c00eb/0/text: Meski kita tidak punya pesta mewah resmi di sini,
+d36c00eb/1/text: Tapi semuanya punya kegiatan kecil masing-masing.
+30a0f370/0/text: Seperti besok malam di Plaza,
+30a0f370/1/text: Akan diadakan pertunjukan kembang api.
+b553eb7f/0/text: Pertunjukan kembang api?!
+9ec86f63/0/text: Hm, meskipun hanya kembang api kecil,
+9ec86f63/1/text: Tapi tampaknya semua perserta akan diberikan gratis masing-masing satu.
+5a86c1c5/0/text: (Mungkin suatu kegiatan yang diselenggarakan beberapa orang dewasa baik hati untuk anak-anak "Anak Yatim" di sekitar...)
+3abf754c/0/text: Mau pergi?
+b98cc3ea/0/text: Ayo!!!

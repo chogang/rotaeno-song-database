@@ -1,0 +1,144 @@
+9e73dcd1/0/name: Koordinator lokasi 
+462f774b/0/name: Sekretaris
+1d3894bb/0/text: Tuan Abram, sebelah sini…!
+e2a5a4e8/0/text: Kenapa bisa terjadi hal begini?
+4a79487a/0/text: Mohon maaf.
+4a79487a/1/text: Ini kesalahan saya!
+86b05394/0/text: Orang ini sebulan lalu baru saja kabur ke planet terpencil, lalu ganti nama dan kembali lagi ke Silvano sebagai pedagang,
+86b05394/1/text: dengan memanfaatkan celah waktu pengiriman dokumen…
+fda47dd7/0/text: Saya baru menemukan ternyata dia telah terjerat dalam beberapa kasus penipuan bisnis sebelumnya…
+fda47dd7/1/text: Mohon maafkan saya!!!
+6ac466c2/0/text: Cih…!
+815a885/0/text: Aku melihatnya!
+815a885/1/text: Di depan sana…!
+5b46baeb/0/name: Kairoth
+8a65dc2b/0/text: Aku nggak setuju!!!
+aa251e84/0/text: …?
+4f3fd073/0/text: Ah…?
+a1adda8/0/text: Kita sudah menandatangani perjanjiannya dua minggu yang lalu.
+a1adda8/1/text: Perjanjian itu sah secara hukum!
+fc270164/0/text: Waduh! Anak muda, Om 'kan sudah mengatakannya,
+fc270164/1/text: Om waktu itu nggak tahu kalau kamu akan mengadakan acara sebesar ini~
+b3272130/0/text: Jangan sembarang ngomong.
+b3272130/1/text: Di materi referensi yang aku kasih, jelas-jelas ada proposal acara, alur acara, dan denah lokasi yang lengkap!
+b3272130/2/text: Waktu itu aku juga sudah mengonfirmasi soal kapasitas maksimal lokasi denganmu, dan itu juga tercantum di dalam perjanjian!
+31dca242/0/text: Kami telah menghitung jumlah pengunjung saat masuk,
+31dca242/1/text: dan jumlahnya masih sesuai dengan jumlah ketentuan perjanjian!
+fc812f5a/0/text: Ini——
+43805fcc/0/text: Jangan bilang kamu nggak tahu skala acara juga, baik perjanjian yang telah ditandatangani kita berdua,
+43805fcc/1/text: ataupun materi referensi yang kutunjukkan sebelumnya, juga telah kukirimkan ke emailmu sebagai cadangan.
+43805fcc/2/text: Kalau kamu nggak membacanya, itu bukan tanggung jawab kami!
+3a391261/0/text: !
+b071ec38/0/text: Kalau nggak mau membaca, ya jangan berbisnis di luar, Om.
+76a17b43/0/text: Kamu…! Oke!
+76a17b43/1/text: Kalau begitu, bagaimana dengan Spirit ini?!
+4061d336/0/text: Ada apa dengan spirit? Memangnya perjanjian kita ada mencantumkan hanya boleh dihadiri manusia?!
+4061d336/1/text: Peserta kami hari ini masih ada Vickers dan Kent! Bahkan ada Slime di Tim Cheerleader!
+8ff089d7/0/text: Kamu yakin mau bersikap rasis?
+8ff089d7/1/text: Kamu nggak tahu Pasal 78952 "Konvensi Semesta" tentang "Hukum Anti-Diskriminasi", ya?
+d7504a21/0/text: Wah—— Ternyata ada hukum seperti itu?
+d7504a21/1/text: Tampaknya kita harus lebih banyak belajar daring ke depannya. Ya, 'kan, Angatu?
+e8cb1596/0/text: …Padahal langsung buang ke luar jauh lebih gampang.
+5e33bd87/0/text: !!!
+4b392fa8/0/text: A-a-aku 'kan pemilik lokasi ini!
+e8632e6c/0/text: Memang benar kamu pemilik lokasi ini,
+e8632e6c/1/text: tapi selama masa sewa, hak pakainya ada padaku!
+74361d38/0/text: Om, tahu hukum perjanjian nggak?
+74361d38/1/text: Selama masa sewa masih berlaku dan perjanjiannya nggak menerangkan, maka aku berhak menolak kamu masuk ke sini.
+a2900e0/0/text: Dan sekarang, aku nggak setuju kamu masuk ke sini!
+a2900e0/1/text: Silakan segera pergi dari sini!!
+10f76ab0/0/text: A-apa…?!
+defa6cd0/0/text: Kalau kamu masih membuat keributan,
+defa6cd0/1/text: maka kami akan memanggil polisi dan pengacara untuk menangani ini!
+cb22ee6/0/text: ?!
+e8bf02b0/0/text: Puno, lapor polisi!
+b886504d/0/text: Oke, bos!!!
+ae70ddab/0/text: Jangan, eh, tunggu…!
+faf802ab/0/text: …Huh.
+7e86c9fc/0/text: Ayo kita ke tempat duduk penonton.
+4c9f3cda/0/text: Ah? Tapi Tuan muda sana…?
+31f6472d/0/text: Bukankah dia sudah mengurusnya dengan baik?
+31f6472d/1/text: Ayo.
+4d8b89c9/0/text: Hore——!!!
+5d41dc4b/0/text: Bangkai tua yang menyebalkan akhirnya pergi~
+e21738dd/0/text: Tommy~?
+e21738dd/1/text: Jangan berkata kasar, ya.
+30150627/0/text: Hei, nggak apa-apa, Kak Cheri.
+30150627/1/text: Kita nggak boleh terlalu sopan terhadap orang yang menyebalkan☆
+5fc49d22/0/text: Benar, benar~
+fb8ad2f0/0/text: …Tommy.
+9c9226d4/0/text: Huh…!
+9c9226d4/1/text: Aku mengerti, Kakek Angatu……
+36b5db9e/0/text: Haha, syukurlah, upacara pembukaan nggak jadi tertunda!
+e8e6f1cb/0/text: Oh, iya! Upacara pembukaan!
+e8e6f1cb/1/text: Bos, mau mulai siap-siap dari sekarang nggak?!
+365bd63d/0/text: Ya!
+365bd63d/1/text: Kalau begitu, aku pergi ke belakang panggung dulu!
+f7bea170/0/text: Hore——!!!
+f7bea170/1/text: Penerbangan Akrobat su~~~per kerennya bos! Aku sangat menantikannya!!!
+847dbdef/0/text: Kalau begitu, ayo kita ke tempat duduk penonton juga!
+847dbdef/1/text: Ilot, semangat, ya!
+a93c51f1/0/text: Oke!!!
+a93c51f1/1/text: Voucher belanja Amozom dalam jumlah besar, aku datang!!!
+462f774b/1/name: Sekretaris
+8d2a7847/0/name: Pembawa Acara
+640a05d8/0/text: Ladies And Gentlemen!
+640a05d8/1/text: Selamat datang di "Whoosh~ Whoosh Perlombaan Pesawat Ruang Angkasa Berkecepatan Tinggi"!
+e4b1b4ee/0/text: Seperti yang kita ketahui, acara megah yang indah dan keren hari ini,
+e4b1b4ee/1/text: sebenarnya diadakan oleh seorang pemimpi yang sangat menyukai pesawat ruang angkasa, dengan visi yang membara dan suci.
+db0fa457/0/text: Eh?
+db0fa457/1/text: Kenapa aku bisa menyukai pesawat ruang angkasa, ya…?
+ce726fe7/0/text: Ya!
+ce726fe7/1/text: Karena bos terlalu hebat!
+e5a74e06/0/text: Jelas-jelas cuman lebih tua beberapa tahun dariku, tapi sudah punya cita-cita sebesar ini!
+e5a74e06/1/text: Jadi, bos pasti sudah menyukai pesawat ruang angkasa sejak dulu, 'kan?!
+bbb8ad0e/0/text: ——Ah! Jangan-jangan bos itu sama seperti "Orang Terpilih" yang ada di dongeng-dongeng,
+bbb8ad0e/1/text: terlahir sambil memegang pesawat ruang angkasa?!
+1caed33a/0/text: Haha, bagaimana mungkin~
+1caed33a/1/text: Hmm, kalau mau memastikan kapan aku mulai menyukai pesawat ruang angkasa…
+47f05cd/0/text: Ya… hari itu, 'kan.
+b5e688bc/0/text: Dia mungkin muda, tapi penuh semangat; Dia mungkin lugu, tapi nggak kenal takut; Dia pernah kesepian, tapi nggak pernah menyerah!
+e7002930/0/text: Itu——
+6b6cb0c/0/text: !!
+e07ba775/0/text: Nona ini! Maukah kamu menjadi——
+fbdc42fc/0/text: Nggak mau. Nggak ingin. Nggak Perlu.
+fbdc42fc/1/text: Terima kasih.
+ec8e5c2f/0/text: Mari kita sambut——
+ec8e5c2f/1/text: Bolt!
+4e980336/0/text: Hore——!
+ebaaf0b7/0/text: Hidup—bos—!!!
+bf7570df/0/name: Keramaian
+f38de86e/0/text: Wah——
+3b608193/0/text: Lihatlah! Gerakannya di angkasa persis seperti ikan yang berenang bebas!
+b993815b/0/text: Wah!
+4f94b4a1/0/text: Hebat banget! Ternyata pesawat ruang angkasa bisa bergerak seperti ini juga…!
+e67b3347/0/text: Teknologi manusia, benar-benar menarik~
+605dd2c1/0/text: …Huh.
+96c148cf/0/text: Bolt——!!!
+c20f6dfe/0/text: Sebelum ini, bisakah kamu membayangkannya?
+ce93a66c/0/text: Wah… Keren sekali…
+24b5c25a/0/text: Eh, tunggu!
+b020a0a8/0/text: Lawanku nanti nggak sehebat ini juga, 'kan?!
+27241bde/0/name: Anak kecil
+a66bbc5b/0/text: Ma, burung itu sedang menulis di langit…!
+4ae2b437/0/name: Wanita
+feace965/0/text: Hehe, itu bukan burung, lho.
+944a72e2/0/text: Itu pesawat ruang angkasa~!
+98d068f4/0/text: Pesawat, ruang angkasa…?
+28577a68/0/text: Bukan sekadar bus antariksa yang biasa dan membosankan, atau perusak yang memulai acara seperti bencana——
+8d912fcc/0/text: Wah—— Bos memang hebat!
+8d912fcc/1/text: Hebat banget!!!
+56478029/0/text: Aku harus terus berusaha juga!
+8ee00f96/0/text: Aku bersumpah akan mengikuti bos sampai akhirat——!!!
+5ccdf012/0/text: Tuan muda benar-benar sangat berbakat.
+fb41b8a5/0/text: …Ya.
+495ac5d8/0/text: Melainkan olahraga era baru yang membawakan kegembiraan dan inspirasi!
+51dc141d/0/text: Oh… ini dia pesawat ruang angkasa akrobatik!
+51dc141d/1/text: Hmm, lain kali aku juga mau menantangnya.
+a56be7dc/0/text: Eh? Tommy mau main pesawat ruang angkasa juga?
+faf13d7b/0/text: Ya! Belajar mengendarai barang logam ini harusnya nggak terlalu sulit, 'kan?
+faf13d7b/1/text: Pastinya nggak akan lebih sulit dari sihir!
+7ed0cdc4/0/text: Huhu, begitu aku mempelajarinya, aku pasti bisa mengalahkannya♪
+78aeeaee/0/text: Semuanya, teriaklah! Bersoraklah!
+96e1ffe7/0/text: Di sini saya nyatakan, "Whoosh~ Whoosh Perlombaan Pesawat Ruang Angkasa Berkecepatan Tinggi"——
+f908ab58/0/text: Resmi dibuka!!!

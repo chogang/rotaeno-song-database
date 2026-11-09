@@ -1,0 +1,12 @@
+4ca103b3/0/name: Kid
+3b5d799/0/text: Stop!!!
+e0f8a46a/0/text: ?!
+bcf8dfd5/0/text: You're in my Boss' territory!
+2c275b89/0/text: Get out of here. Now!
+2655e511/0/text: Huh? Why should I?
+83316622/0/text: Because my Boss is the most handsome and greatest person in the world!
+af210d69/0/text: You are not one of us. So you can't be here!
+83ef84ca/0/text: ...
+89967eb/0/text: (Are they playing some game of make-believe?)
+bfdc7956/0/text: (<color=yellow>So I have to prove that I'm one of them before I can get in.</color>)
+99442da1/0/text: (Sounds complicated. Forget it. I'm going back.)

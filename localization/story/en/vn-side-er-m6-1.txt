@@ -1,0 +1,130 @@
+ad752164/0/text: Hmm~♪ Hmm~~♫♩～
+a5e0a447/0/text: The shed is all cleaned up.
+f7515a65/0/text: ?!
+f7515a65/1/text: So, so quick...!
+2402a455/0/text: Thanks! Great job~
+2402a455/1/text: It's so good to have you here, Rumil!
+ca1ad9e6/0/text: Oh, remember those scissors you said were missing?
+ca1ad9e6/1/text: I found them.
+d554a2d0/0/text: !
+af11ca75/0/text: Oh my gosh, I've been looking for those forever!
+af11ca75/1/text: Were they in the shed this whole time...?!
+4593af45/0/text: ...Get it together. Remember when you left the warehouse keys on the counter?
+4593af45/1/text: Someone almost cleared out the entire inventory.
+ccfe6cc6/0/text: Ah, hehe... sorry...
+ccfe6cc6/1/text: But since then, I've been checking everything at least three times before I clock out!
+1b010bf3/0/text: Anyway, forget about that! The tea is ready.
+1b010bf3/1/text: Come here, let's take a break~!
+1be81842/0/text: ~♫~ Hm~♩~~
+9c3c1c78/0/text: ......
+fe897d99/0/text: Just as I thought.
+8ea8b70e/0/text: Even after staying here for a month,
+8ea8b70e/1/text: I still don't get it.
+a8607dde/0/text: Is cleaning really that much fun?
+d7ec332c/0/text: Yeah!
+1c443805/0/text: It's exhausting, but now that everything is reorganized,
+1c443805/1/text: the inn feels so much cozier!
+9ebf87d/0/text: I bet the guests will be much happier too♪
+9c3c1c78/1/text: ......
+b882c8d0/0/text: This human.
+95c42ac7/0/text: Is really, truly bizarre.
+65e7fd7d/0/text: Rumil...?
+1fce27e/0/text: But, perhaps only someone like her can answer the question
+1fce27e/1/text: I've been pondering all this time.
+754e6dc9/0/text: ...Kakari.
+9f6cee0b/0/text: For the past month, I've watched her fumble time and time again.
+3b8dc697/0/text: Yes?
+c7cf772a/0/text: Even knowing she knows she's putting herself in danger,
+c7cf772a/1/text: she still chooses to lend out a helping hand.
+3f5a967d/0/text: What do you think life is?
+e7035fab/0/text: Calling her dumb wouldn't be wrong.
+84adf467/0/text: But she really has changed things.
+132c0631/0/text: ...Just like how she changed my own path back then.
+28840b4b/0/text: ——So, what kind of answer will you give me?
+3203ad68/0/text: Huh? That's so sudden...
+3203ad68/1/text: What do you mean by life?
+96b8eefc/0/text: What do you think is the purpose of a species?
+96b8eefc/1/text: No, to be precise, what do you think——
+59abdf5f/0/text: As an "individual",
+59abdf5f/1/text: what is the purpose of your existence?
+50403076/0/text: ......
+9530aee5/0/text: Um... may I first ask,
+9530aee5/1/text: why you're asking me this?
+dd426c76/0/text: Because I can't wrap my head around you.
+e6d24ece/0/text: Huh...?
+6c2fda93/0/text: As an independent individual, you never put yourself first.
+6c2fda93/1/text: Instead, you're always fretting over things that have nothing to do with you.
+44d7c887/0/text: Worrying about the safety and happiness of others,
+44d7c887/1/text: the fate of the planet.
+5d3b43d4/0/text: Other people's circumstances and emotions clearly have nothing to do with you.
+5d3b43d4/1/text: The future of this planet won't be changed by a life as tiny and short as yours.
+b171d0e8/0/text: A plain human with no standing should be focused on
+b171d0e8/1/text: maximizing their own interests.
+d1d9e341/0/text: Instead of wasting time on things that don't matter,
+d1d9e341/1/text: you should be finding ways for this inn make more money.
+41132974/0/text: ...In fact, if she keeps this aimlessness up,
+41132974/1/text: her kindness and clumsiness are going to be the end of this place.
+c624424f/0/text: ......
+1e3a3f0a/0/text: Living like that...
+1e3a3f0a/1/text: It's just too sad.
+88011262/0/text: Sad? What do you mean?
+4fbcaca3/0/text: Is it sympathy? Pity?
+5b17cade/0/text: Do these emotions actually benefit you? Or is it just self-satisfaction?
+5b17cade/1/text: Or do you just care what others think because you're afraid of being alone?
+f3e0d70b/0/text: Why are you so special?
+7c8d1b83/0/text: The instinct of all living beings is survival at any cost.
+a578c484/0/text: If the world ran on "kindness,"
+a578c484/1/text: the universe would have never even existed——
+30778e95/0/text: ——Because survival is only possible
+30778e95/1/text: by committing act after act of "evil."
+af3281a6/0/text: ......
+91cb2b3a/0/text: Ah... she's getting that look like she's about to cry again.
+d9205673/0/text: Maybe I shouldn't have been so blunt.
+710bad4e/0/text: To someone like her, that way of thinking must be unbearable.
+65aa0459/0/text: My chest feels heavy.
+65aa0459/1/text: What's going on...
+a7f8cc55/0/text: Rumil.
+daa8b8b5/0/text: ......
+68e92a83/0/text: Phew, you sure threw a lot of questions at me~...
+27e3b7f1/0/text: ...?
+84df23a5/0/text: What is this reaction...?
+d17c4ef8/0/text: ...I will answer you about the purpose of "my" existence.
+d17c4ef8/1/text: But before that, can you answer something for me?
+a33597a6/0/text: ...Fine.
+22b0c4dd/0/text: Rumil, what do you think is the purpose of "your" existence?
+9c6dc1c0/0/text: ......
+170db8ee/0/text: ...I don't know.
+9b84688/0/text: That's what I've always wanted to find out.
+7263d1d/0/text: No. That's not right.
+bc2dc300/0/text: What I mean is,
+bc2dc300/1/text: I've always believed that everything in this world is pointle——
+6eb52dfb/0/text: Huaaah!!!
+4e2c249/0/text: ?!
+9aee036e/0/text: Hold it right there!
+9aee036e/1/text: Not another word!
+5418514c/0/text: Huh...?
+df03a201/0/text: What a weirdo...
+df03a201/1/text: Wasn't she the one who asked me first...?
+6134d16/0/text: Phew~... Seriously...
+6d29a7b3/0/text: Okay~! I'm cutting that last question off!
+6d29a7b3/1/text: I'm asking a different one instead!
+232ea4df/0/text: ...Isn't this just cheating.
+941ec3e/0/text: Rumil,
+941ec3e/1/text: what kind of species have you been before~?
+71900777/0/text: Tons.
+953591f6/0/text: Honestly, asking me out of the blue like this...
+953591f6/1/text: I don't even know where to start.
+3b071904/0/text: That's fine~
+3b071904/1/text: Just say whatever pops into mind first!
+daa8b8b5/1/text: ......
+be7f107a/0/text: Well, you already know about the cat, scorpion, mouse, and wolf.
+be7f107a/1/text: Then there's spider, and desert fox-bear...
+b4aa90d7/0/text: Just to name a few for now.
+fee6a4d9/0/text: ...You've been rummaging through the kitchen for so long,
+fee6a4d9/1/text: what on earth are you—
+b1f3e155/0/text: It's done!!!
+4e2c249/1/text: ?!
+957ff607/0/text: Where did all those bags and bundles come from...??
+6da3d748/0/text: Come on, Rumil,
+6da3d748/1/text: follow me!
+94684df/0/text: ...Huh?

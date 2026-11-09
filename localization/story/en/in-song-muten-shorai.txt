@@ -1,0 +1,13 @@
+f1404c92/0/name: Se-U-Ra
+77e0a16/0/text: Welcome to our interview! Could you please introduce yourself for us?
+e445ab3e/0/text: I'm Se-U-Ra. I like creating all sorts of things.
+258955a/0/text: I tend to move a lot after eating sushi.
+ad74a55e/0/text: Haha, your love for food is really strong…
+be9c2c8b/0/text: Could you make an introduction to your new song "六天照來"  here?
+6a316975/0/text: I remember the song being inspired by a bright, mischievous Amaterasu-like character.
+95c66485/0/text: It's a bouncy track with distinctive triplets.
+4d674947/0/text: I had sushi after finishing it.
+4b1d164e/0/text: …Wow, this song feels just as energetic as you…!
+ed181095/0/text: So, is there anything you'd like to say to the players?
+74ef4f26/0/text: Let's all eat sushi.
+ede13c4e/0/text: …(Last time it was steak… and this time it's sushi…)

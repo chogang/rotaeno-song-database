@@ -1,0 +1,18 @@
+cab00e3d/0/text: Pulau Floating
+47bdb002/0/text: Uh...
+6a1e4dd7/0/text: Kekurangan pekerja tingkat bawah naik lagi bulan ini…
+73b9ca45/0/text: Jika ini terus berlanjut, kita mungkin harus menutup beberapa...
+d3616e3f/0/text: Tidak bisa. Ini akan menyebabkan kepanikan.
+fd09c4c6/0/text: Benar.
+7e493c18/0/text: Dalam beberapa tahun terakhir, tingkat kehilangan populasi planet kita meningkat banyak karena "Hujan Abadi".
+4028d332/0/text: Jika ada perubahan yang menyinggung mental rakyat saat ini, populasi Aquaria bisa jatuh.
+24621916/0/text: Biarkan orang-orang tingkat menengah turun dan membantu, biarkan mereka berpikir cara mempertahankan pekerja tingkat bawah.
+77cf041b/0/text: Baru-baru ini, banyak Slime berimigrasi ke sini, mengisi lowongan...
+b9160b4/0/text: Tapi populasi keseluruhan masih... Argh...
+f4ad6a1/0/text: Mari tingkatkan produksi "Anak Yatim". Slime memiliki ciri-ciri menyukai air dan takut kekeringan, banyak jenis pekerjaan yang tidak cocok untuk mereka.
+1ef38ff8/0/text: Satu-satunya populasi yang dapat kita kendalikan adalah "Anak Yatim". Jangan menaruh harapan pada para pendatang.
+5872d760/0/text: Mintalah seseorang memberitahu yang di sebelah bahwa akan ada pertemuan minggu depan.
+2393e0ca/0/text: Mereka... ribut cukup sengit terakhir kali, apakah kalian pikir mereka akan setuju kali ini?
+7f331a9/0/text: Mereka harus setuju walaupun tidak setuju.
+cf37dfc3/0/text: Jika bukan karena uang, bagaimana mungkin mereka bisa tinggal di Pulau Floating.
+12ea4e58/0/text: ...Huh, hanya sekelompok orang kaya baru yang berpikir begitu tinggi tentang diri mereka sendiri.

@@ -1,0 +1,36 @@
+8c30f1be/0/name: Essbee
+bff8c9a2/0/text: Duurrr…! Kita sambut juara pilihan kita～～～
+fb043c5f/0/text: Halo, saya Essbee, seorang komposer.
+d9c34497/0/text: Baik untuk teman yang baru bertemu saya,
+1155302e/0/text: maupun teman lama yang sudah mengenal saya, mohon dukungannya!
+107c6c60/0/text: Selamat, lagu barumu terpilih jadi lagu juara! Bisa ceritakan soal "悔_"?
+c58321ae/0/text: Lagu ini saya buat waktu baru mulai pakai software vokal sintesis.
+b5f087cd/0/text: Saat itu juga saya baru belajar bikin lagu yang ada vokalnya.
+6232433e/0/text: Karena itu, pengalaman bikin vokal di lagu ini lumayan penuh tantangan.
+d93f4066/0/text: Bagian tersulit buat saya adalah menulis lirik.
+8a8ebb96/0/text: Apalagi, bahasa Jepang bukan bahasa ibu saya,
+45021638/0/text: jadi agak sulit menyampaikan makna yang ingin saya tuangkan ke dalam lirik.
+f6810880/0/text: Lagu ini bergaya Artcore.
+74de7fa/0/text: Menurut saya, genre Artcore cocok banget buat lirik yang abstrak dan dreamy seperti ini.
+13a3b723/0/text: Tentu saja, gaya ini juga sangat pas buat game ritme!
+fac5bcde/0/text: Di dalam musiknya, saya suka sekali nuansa yang misterius dan intens,
+2ee096e5/0/text: makanya aransemen lagunya juga saya buat dengan vibe seperti itu.
+c1dcf038/0/text: Lagu vokal pertama langsung pilih bahasa non-ibu...!
+bf87ba96/0/text: Pilihan yang berani dan keren banget!
+8e15fd34/0/text: Ngomong-ngomong soal lirik, bisa cerita lebih detail?
+4598e38f/0/text: Isi liriknya tentang:
+348df240/0/text: Meski kadang kita merasa menyesal, jangan biarkan hal itu membuat kita terjebak.
+e1ebd8a5/0/text: Sebaliknya, tetaplah berani melangkah ke depan.
+efeefe3b/0/text: Mungkin ini terdengar seperti nasihat yang biasa saja.
+f94012a8/0/text: Tapi pada kenyataannya, waktu hal-hal sederhana seperti ini benar-benar terjadi di hidup kita,
+ffdea8d8/0/text: nggak selalu gampang untuk menjalankannya. Saya sendiri juga pernah mengalaminya (hehe).
+1c2ff0/0/text: Kalau teman-teman bisa menganggap lirik lagu ini sebagai
+b8ed10a6/0/text: "cuplikan cerita nyata dari pengalaman pribadi saya", saya bakal sangat berterima kasih.
+5a83adff/0/text: Essbee memang kayaknya banyak pengalaman hidup, ya…
+20cae894/0/text: Terakhir nih, ada pesan atau harapan khusus untuk para pemain Rotaeno?
+582d69ce/0/text: Terima kasih banget buat semua yang sudah dengar dan mainin lagu saya,
+d7f9c709/0/text: dan juga untuk tim Rotaeno atas kesempatan luar biasa ini!
+617196ad/0/text: Sekarang kesan dan pengalaman soal lagu ini sepenuhnya ada di tangan kalian.
+e45a2c7b/0/text: Kalau lagu ini bisa memunculkan perasaan atau bayangan tersendiri di pikiran kalian,
+f63deef8/0/text: saya sebagai komposer pasti senang banget.
+eeb42fba/0/text: Ke depannya, saya juga mau bikin lagu dengan berbagai gaya, jadi mohon dukung terus ya!!

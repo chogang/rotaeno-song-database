@@ -1,0 +1,17 @@
+cbc7be44/0/text: Coming soon|Chapter Three: A Land Divided
+d1b4f16f/0/text: Whoa...
+d1b4f16f/1/text: I'm finally arriving...
+38836a61/0/text: I've been stuck in the spaceship for two weeks.
+38836a61/1/text: It starts to give me claustrophobia.
+22b183fb/0/text: I am really, really far away from Aquaria now.
+7830d664/0/text: So, this is Silvano...
+6e10a863/0/text: This planet is exactly the same as described in the letter.
+185d2bc3/0/text: Would you be here?
+185d2bc3/1/text: ...Hoppe.
+b131a60b/0/text: ...Couldn't you be a little bit nicer to humans?
+647db729/0/text: Why should I be nice, to a foolish being who never learns from his mistakes?
+ecb77c5f/0/text: I understand your anger.
+ecb77c5f/1/text: But...
+76ecca30/0/text: If they refuse to change,
+76ecca30/1/text: I don't mind making the whole human race GONE, forever, from Silvano!
+9f455c63/0/text: Please look forward to Chapter Three: A Land Divided

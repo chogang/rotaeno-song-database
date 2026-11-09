@@ -1,0 +1,21 @@
+8531efe5/0/name: seatrus
+5f1cccbe/0/text: Selamat datang di ruang wawancara! Silakan perkenalkan diri Anda kepada semua orang.
+17f3638/0/text: Halo! Nama saya seatrus, komposer asal Jepang.
+59e894a2/0/text: Selain itu, saya juga rutin berlatih sebagai pemain game ritme!
+3990bf20/0/text: Senang sekali bisa bertemu dengan kalian! Bisa ceritakan tentang karya baru "INN3RFLAME"?
+c333c8f6/0/text: Lagu "INN3RFLAME" yang saya ikutsertakan kali ini,
+48d360b/0/text: masih membawa ciri khas gaya saya, tapi dengan sentuhan yang sedikit lebih fresh.
+ae4578c0/0/text: Saya mengangkat tema semangat perlawanan dan gairah yang tersembunyi,
+fd5a4348/0/text: dengan nuansa yang berenergi namun tetap terasa tenang dan berkesan mendalam.
+17ca25b0/0/text: Ada tempo cepat khas game musik, dipadukan dengan bass ala Hitech,
+9100f62b/0/text: hasilnya, lagu ini terasa groovy sekaligus penuh power.
+9dc88783/0/text: Lagunya benar-benar keren!
+215988f6/0/text: Selain itu, supaya cocok dengan sensasi bermain Rotaeno yang khas,
+470e8e5d/0/text: ritme dan struktur lagu saya susun dengan sangat detail!
+c6847680/0/text: Ternyata, pembuatan lagunya dipikirkan sampai sejauh itu ya!
+2d9e3390/0/text: Saya yakin lagu dan chart ini bakal disukai banyak pemain!
+2419b5c/0/text: Kalau begitu, ada pesan lain untuk para pemain?
+a4cb82d/0/text: Terima kasih banyak atas dukungannya!
+c3551788/0/text: Saya harap kalian juga bisa menikmati sisi baru dari seatrus,
+6336866e/0/text: beda dari lagu-lagu saya yang sudah pernah ada di Rotaeno!
+53227754/0/text: Saya sendiri juga akan mencoba menaklukkan lagu ini :)

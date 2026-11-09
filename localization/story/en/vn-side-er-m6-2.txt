@@ -1,0 +1,106 @@
+7e206124/0/text: Oh, the view here is perfect♪
+7e206124/1/text: Alright! Let's pick this spot~!
+9c3c1c78/0/text: ......
+c132e2ca/0/text: Rice, seeds, jerky,
+c132e2ca/1/text: H-hay...?!
+b3d421d/0/text: What are all these for...???
+c7cf031c/0/text: It's a ritual!
+a79a15d4/0/text: A ritual...?
+25712b9/0/text: For who?
+71c5853/0/text: Wait, don't tell me—
+eaa21e47/0/text: I was thinking, since haven't found your own purpose yet,
+eaa21e47/1/text: you probably haven't had a chance to properly thank all those who let you borrow their bodies.
+45a59143/0/text: That just won't do.
+45a59143/1/text: You need to give a proper goodbye to the lives you've shared paths with~!
+9c3c1c78/1/text: ......
+bc40422d/0/text: You——
+c55fbb5/0/text: Rumil.
+c079f933/0/text: !
+30ef26c6/0/text: A lot of people think
+30ef26c6/1/text: this world is just a filthy mess.
+60d6ec2e/0/text: Every day, every minute, every second,
+60d6ec2e/1/text: something tragic is happening somewhere.
+b3679a22/0/text: ...And it's just like you said,
+b3679a22/1/text: to keep surviving in this world, we're forced to commit "evil."
+1f81ab7/0/text: For a long time, I wavered too.
+1f81ab7/1/text: I was so confused...
+7416fa2c/0/text: Does being "good" even matter?
+7416fa2c/1/text: Is all this just for my own self-satisfaction? For my own self-righteous hypocrisy?
+daa8b8b5/0/text: ......
+f863e669/0/text: But after meeting you,
+f863e669/1/text: after seeing how hard you've fought to live... I finally understood!
+313d12c4/0/text: Me..?
+313d12c4/1/text: Fought to live...?
+e38636f7/0/text: Maybe we can never be truly, purely good.
+e38636f7/1/text: But!
+72f30522/0/text: I still want to try my best to spread happiness,
+72f30522/1/text: to give everyone the courage to overcome their sadness!
+37e9d382/0/text: The original sins we carry aren't a reason to stop being kind to others,
+37e9d382/1/text: nor are they an excuse to hurt other living things.
+b9b05b82/0/text: If every soul could share even a tiny bit of kindness with one another,
+b9b05b82/1/text: and remember the lives that were lost because of us...
+565e40a7/0/text: If we spend every single day thinking...
+565e40a7/1/text: "How can I become a better version of myself?"
+615f97ce/0/text: If we cherish every connection—
+c157d4a6/0/text: Then maybe this beautiful, broken world
+c157d4a6/1/text: will slowly start to fill with a little more love.
+12ace3e9/0/text: From the morning sun that greets me when I wake up... to when the doorbell rings and I see each smiling guest...
+12ace3e9/1/text: To chatting with the neighbors when I'm out shopping... and of course, your arrival, Rumil!
+fec8ee5e/0/text: Every little thing brings me so much joy!
+1e96d1cf/0/text: So to all the people who bring me so much joy,
+1e96d1cf/1/text: how could I possibly stand to watch them suffer?
+9c3c1c78/2/text: ......
+bebc0847/0/text: …So that's
+bebc0847/1/text: your "purpose"?
+aef9fa95/0/text: Yes.
+6de6c3c4/0/text: Now, I can finally say it with pride,
+6de6c3c4/1/text: to myself, and to the rest of the world:
+53dd407/0/text: This is what I live for!
+488e761a/0/text: …Hey, Rumil, why don't you try living "my life" for a bit?
+1ab356c6/0/text: Maybe if you change your perspective just a little,
+1ab356c6/1/text: you'll find a "purpose" that belongs only to you.
+a05f39fe/0/text: Think of it as some heartfelt advice from someone who's finally found her way, okay~?
+9c3c1c78/3/text: ......
+3b30ffa6/0/text: Geez...
+752d8c3e/0/text: ...The princess in the ivory tower
+752d8c3e/1/text: has completely lost it.
+66562cb7/0/text: Hm? What's that?
+72229796/0/text: Nothing.
+72229796/1/text: So, what exactly are we supposed to do for this ritual?
+d554a2d0/0/text: !
+fec5b39f/0/text: You don't know, Rumil?
+fec5b39f/1/text: It's simple, I'll show you!
+76f7b254/0/text: Yeah.
+9f625486/0/text: Hehe, I'm telling you now,
+9f625486/1/text: I'm actually a pro at this!
+a741ed60/0/text: First, let's sweep away all the dust~
+a741ed60/1/text: And over here...
+1c713e5e/0/text: The twilight glow outlined her silhouette
+1c713e5e/1/text: in a soft, golden light.
+8536b41f/0/text: For some reason,
+8536b41f/1/text: that was the image that came to mind as I was fading away.
+abad3df9/0/text: It was a blinding light, radiating a sorrowful yet sacred aura...
+ddd6d405/0/text: ...And~!
+ddd6d405/1/text: All done♪
+c4e1bee2/0/text: See, just like that!
+c4e1bee2/1/text: Piece of cake, right~?
+77a48a92/0/text: ——...
+5c4e6dd1/0/text: But, why?
+8b450329/0/text: Why does this person in front of me
+8b450329/1/text: feel more and more——
+4204c274/0/text: Hehe, the preparations are all done,
+4204c274/1/text: now let's light the lanterns!
+1f18a136/0/text: Watching the lanterns carry our feelings into the sky.
+1f18a136/1/text: It will be a marvelous sight!
+c2f9f302/0/text: Just wait and see♪
+3389fa7e/0/text: ...Mm.
+a27d2edc/0/text: A strange feeling was stirring inside me.
+1b43c8cc/0/text: Phew~~~
+b7085b96/0/text: It feels like as long as I'm by her side...
+9c3c1c78/4/text: ......
+7283e982/0/text: Here, give me a hand,
+7283e982/1/text: hold this right here~
+b84dafb8/0/text: When I count down to 1, we let go together!
+b84dafb8/1/text: 3, 2... 1~!
+bc271c9e/0/text: ——All my confusion,
+bc271c9e/1/text: the "purpose" I've sought for so long... I think I'm finally going to find the answer.

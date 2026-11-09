@@ -1,0 +1,52 @@
+4b6540f3/0/name: System Broadcast
+5ec2513b/0/name: Lime's Wife
+c3de693d/0/text: This flight has arrived at Silvano.
+c3de693d/1/text: Please collect your belongings and follow the signs to the exit.
+f2898d80/0/text: Thank you for flying with Cosmic Express.
+6179b553/0/text: ...
+44a6c63f/0/text: Phew... finally.
+b3d7ac88/0/text: Unbelievable...!
+b3d7ac88/1/text: Running off to another planet after one fight... that little brat!
+e88f39b2/0/text: I said no, and I meant no!
+4dd23d37/0/text: If you have time for these ridiculous dreams, you have time to study
+4dd23d37/1/text: and get yourself a proper job one day!
+7321b404/0/name: ???
+ade60abc/0/text: Dad... you never even tried to understand my dream!
+fa3d38f4/0/text: You just talk over me and treat me like a little kid!
+fa3d38f4/1/text: I hate you when you're like this!!!
+7fc58efb/0/text: Jolly...!
+7fc58efb/1/text: Ugh, what a pain...
+dad9f277/0/text: Hey. Big guy.
+dad9f277/1/text: Did you just make my precious daughter run away?
+1a73b57/0/text: Honey! Listen—
+fd5a2240/0/text: I'm not listening to anything!!!
+f11a5990/0/text: !!
+93b273cd/0/text: You made her cry, yelled until she ran off,
+93b273cd/1/text: and you call that parenting?!
+3e12648c/0/text: I-I...!
+4c1255be/0/text: Oh, now you're scared?
+4c1255be/1/text: You sounded pretty confident five seconds ago!
+fe06f392/0/text: N-No, I—
+462310fe/0/text: Listen to me. If you don't bring her back,
+462310fe/1/text: I'm putting you in tonight's soup!
+ae3fc363/0/text: Ugh... even when she's mad, she's gorgeous...
+ae3fc363/1/text: and absolutely terrifying!
+c94fdaa2/0/text: Why are you still standing here?
+c94fdaa2/1/text: Go after her!!!
+235b19bd/0/text: Don't come back without her.
+235b19bd/1/text: Now. Move. Out!!!
+a0a19ed7/0/text: Y-Yes, ma'am!!!
+eb2dfafb/0/text: Running off alone on a planet she doesn't know...
+eb2dfafb/1/text: Ugh... Thank goodness we can track her phone.
+be607ab8/0/text: But it only gives me the general area...
+6179b553/1/text: ...
+841d841f/0/text: Where do I even start looking?
+3b30ffa6/0/text: Come on...
+b10e6c8c/0/text: I need to find Jolly fast.
+ef5a2f5/0/text: If I don't, Honey's going to kill me,
+ef5a2f5/1/text: and work's going to be a whole other problem...
+d0ad2971/0/text: She's such a good kid.
+d0ad2971/1/text: Why does she have to dream about being an idol...?
+7c3f6178/0/text: ...Huh?
+72cf14e6/0/text: Wait. Didn't Jolly say something before
+72cf14e6/1/text: about doing an event here in Silvano with her friends?

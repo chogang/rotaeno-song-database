@@ -1,0 +1,34 @@
+7eea926a/0/text: Bolt
+7eea926a/1/text: "Kemarin malam turun saljunya lebat banget, benar-benar waktu yang pas untuk main kereta salju!
+7eea926a/2/text: Kita harus cari bukit yang panjang dengan jalur yang terbuka. Lerengnya harus cukup curam biar bisa ngebut, tapi jangan terlalu berbahaya, dan pastinya nggak ada batu atau semak-semak yang menghalangi!"
+e881c0ce/0/text: Tommy
+e881c0ce/1/text: "Dengan pengalamanku bertahun-tahun menjelajahi hutan buat mengumpulkan bahan, aku tahu ada satu tempat di atas jalur timur yang hampir sama persis dengan deskripsimu."
+1496b383/0/text: Puno
+1496b383/1/text: "Mau main kereta salju, Bos? Tapi kita benaran boleh menyia-nyiakan waktu latihan yang berharga ini? Padahal aku masih mau melatih teknik baru yang baru saja kamu ajarkan……"
+31903d4e/0/text: Tommy
+31903d4e/1/text: "Ya, kudengar latihan olahraga yang beragam itu sangat penting untuk meningkatkan performa, sekaligus menghindari cedera akibat penggunaan otot berlebihan."
+28687fa2/0/text: Puno
+28687fa2/1/text: "Hei, Spirit… Bi-bisa dijelaskan dengan lebih sederhana nggak?"
+bb075237/0/text: Tommy
+bb075237/1/text: "Padahal nggak sulit dimengerti lho, Bocah. Kamu benaran harus lebih rajin membaca."
+90bf8684/0/text: Puno
+90bf8684/1/text: "Hmm……"
+9bf0d6f8/0/text: Bolt
+9bf0d6f8/1/text: "Sebenarnya dia nggak salah. Maksud dia itu, latihan silang memungkinkan kita untuk melatih seluruh tubuh, nggak cuman melatih satu bagian saja, dan sekaligus bisa belajar teknik baru. Istirahat diperlukan supaya kita bisa melangkah lebih jauh!"
+f5f932b7/0/text: Puno
+f5f932b7/1/text: "Wah! Bos, kamu memang paling bijak! Ternyata kamu sudah punya rencana sebesar ini sejak awal! Pantas saja kamu sudah menyiapkan kereta salju sebelumnya, tapi bagaimana caranya kita mendapatkan izin untuk memasuki hutan?"
+5120bbeb/0/text: Tommy
+5120bbeb/1/text: "Aku bisa meminta izin ke Kakek Angatu supaya kalian berdua boleh masuk hutan. Karena aku sudah menjadi penjamin kalian, nanti kalau sudah di dalam, kalian harus patuh, ya. Bisa, 'kan?"
+a5bc8e77/0/text: Bolt
+a5bc8e77/1/text: "Oh, tentu saja bisa! Kalau dia bisa mengizinkan kami untuk masuk, kami pasti akan sangat berterima kasih padanya! Perlukah kami siapkan hadiah sebagai imbalan?"
+dcdf0fbe/0/text: Tommy
+dcdf0fbe/1/text: "Sejujurnya, aku selalu sangat tertarik dengan metode latihan kaum manusia. Aku ingin kalian membantuku menemukan titik pengamatan terbaik, agar aku bisa melihat langsung bagaimana kalian berlatih."
+36333e34/0/text: Bolt
+36333e34/1/text: "Jangan berkata begitu, kamu harus main bersama kami juga, dong! Setelah mendapat izin dari tetua, maukah kamu ikut kami ke bukit yang kamu katakan tadi? Aku akan mengajarimu teknik bermain kereta salju yang paling keren!"
+f0c6010a/0/text: Tommy
+f0c6010a/1/text: "……Ya. Karena kamu sudah berkata begitu, aku terima ajakanmu, deh. Kalian tunggu di sini sampai aku kembali dan lakukan semuanya sesuai instruksiku, ya."
+1e38db16/0/text: Puno
+1e38db16/1/text: "Wah, dia masuk ke dalam hutan…… Haih, kenapa dia nggak mau jujur saja?
+1e38db16/2/text: Jelas-jelas dia juga sangat menantikannya? Aku ikut juga, Bos! Aku pasti akan berusaha menunjukkan performa terbaikku dalam latihan silang kali ini!"
+e2f13de8/0/text: Bolt
+e2f13de8/1/text: "Tentu saja! Mari kita jadikan waktu istirahat ini sebagai bahan penyemangat untuk penampilan kita berikutnya!"

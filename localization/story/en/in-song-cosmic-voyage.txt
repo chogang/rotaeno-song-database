@@ -1,0 +1,38 @@
+e7b6a876/0/name: ItsMeFisher
+94ff8ac9/0/text: Welcome to the interview! Could you please introduce yourself to everyone?
+f47a5fe6/0/text: Hello!! My name is ItsMeFisher and I am a newcomer composer in rhythm games!
+1e3cb74a/0/text: It must be very exciting to be able to hear your own work in Rotaeno, right?
+9b5ab04/0/text: Could you share your original creative ideas with us?
+8c87c24e/0/text: This is my first song in any commercial rhythm game!
+d11f2be5/0/text: his is also my first time getting selected in a song contest,
+1ea76d1f/0/text: so a massive thank you to the Rotaeno team for giving me this opportunity!
+d581eb11/0/text: I heard that the inspiration for this song is related to Rotaeno's world and lore!
+eafec2fd/0/text: Could you tell us a bit more about it?
+2843555d/0/text: During the creation of this song,
+e8d6391c/0/text: I tried to fit the song into Rotaeno's story / world view
+cd5cc753/0/text: and capture what it would feel like to pilot a spaceship through space
+64cb7334/0/text: which is why this song is named Cosmic Voyage.
+5516cb88/0/text: Wow! Spaceships are really cool — and by the way!
+d95b621b/0/text:  This song seems to be a bit slower than most rhythm game songs. Was that intentional?
+bc404b58/0/text: The genre of this song is Midtempo at 110 BPM,
+537a711c/0/text: which is one of my favorite genres but is very uncommon in rhythm games.
+5ded2880/0/text: I believe slow songs in rhythm games have a unique appeal:
+b05dbeb4/0/text: compared to the faster songs, slow songs have the capacity
+79551e49/0/text: to show how itself and the game is special.
+e5fc888/0/text: To me, listening to a slow song feels just like listening to someone telling me a story.
+6a210c9f/0/text:  In fact, the essence of some rhythm games is contained in slow songs.
+f35cc4c6/0/text: It's a magical experience!
+a8f6951e/0/text: This is also partly the reason why I approached the creation of this song with the story of Rotaeno in mind.
+c3e701ec/0/text: How romantic...! So, do you have any words for the players?
+14816d57/0/text: Thank you so much for listening and playing!
+3f571e8d/0/text: Also, huge thanks to the artist(s) for creating such a cool jacket
+9e19ab7c/0/text: as well as the charter(s) for making such a fun chart!
+4cf6687/0/text: If you liked this song, I am truly honored!
+b3f4eb37/0/text: I will keep improving and composing songs in the future!
+640bee7c/0/text: Thank you for agreeing to this interview!
+c417af51/0/text: Incidentally, we've heard some players comment that the music feels a bit slow.
+9eead2ab/0/text: What are your thoughts on that?
+4edd3fff/0/text: If you thought this song was too slow, then uhh…
+8c1ac3b3/0/text: Play this song at two times speed
+21c00854/0/text: and you will get a song at 220 BPM!
+af1135be/0/text: Not so slow now huh :D

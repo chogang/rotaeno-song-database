@@ -1,0 +1,22 @@
+9e7ca0b3/0/text: (Broom broom...)
+b6d6dbbd/0/text: Wah...!!!! Motor siapa yang melaju begitu cepat?!
+dd8e7ce5/0/name: ???
+1c38e752/0/text: Uwah...
+a8e4cf7d/0/text: (Eh? Suara ini... kedengarannya sedikit akrab...?)
+19c23d8d/0/name: Bolt
+ee93db5b/0/text: Eh? Hah! Ternyata Ilot? Lama tidak bertemu!
+55bfb8e0/0/text: Bolt?!
+8e7887cf/0/text: Motor di depan, segera berhenti untuk diperiksa!
+1c515c4b/0/text: Saya ulangi, motor di depan, segera berhenti untuk diperiksa!
+e0f8a46a/0/text: ?!
+3c0350bc/0/text: Kenapa ada polisi yang sedang mengejarmu?!
+dc8ad2c8/0/text: Aku juga tidak tahu~
+6578a7a0/0/text: Semua dokumen dan formalitas sudah siurus saat aku mendarat, tapi tiba-tiba begini, sungguh repot...
+a2de6475/0/text: Meski kamu berkata repot...
+4f6fd098/0/text: Ah! Lupakan saja, aku juga sedang buru-buru!
+ca77de1d/0/text: Cepat gunakan <color=yellow>kecepatan maksimum</color> untuk lari~~~!
+e721d4ec/0/text: Hah?!
+f7e00b12/0/text: (?!?!)
+dca40e89/0/text: Segera berhenti untuk diperiksa!
+29f66729/0/text: Hah?!
+7b23c105/0/text: Kenapa aku juga tiba-tiba dipanggil?!

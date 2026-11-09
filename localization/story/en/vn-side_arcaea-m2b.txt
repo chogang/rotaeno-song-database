@@ -1,0 +1,86 @@
+5cc91f97/0/text:  We did it!
+5cc91f97/1/text: We really did it!!!
+d8852c3a/0/text: Ilot, stop pacing back and forth!
+d8852c3a/1/text: We'll get caught!
+33bb31db/0/text: Why are there no windows?
+33bb31db/1/text: I want to see outside so badly...!
+6f33a9c7/0/text: A huge ship flying in the sky,
+6f33a9c7/1/text: Taking me to the floating island...!!!
+544fd3d9/0/text: Is this a dream?
+544fd3d9/1/text: Is it not a dream?
+8c1e699e/0/text: How could there be windows in a cargo hold?
+20e3b300/0/text: Huh? This is a cargo hold...?
+4055604b/0/text: You...
+4055604b/1/text: You really didn't notice at all...?
+4eafe946/0/text: Ah... Haha...
+4eafe946/1/text: Because... I was just focused on following you closely...
+3592ef1c/0/text: ......You're really something,
+3592ef1c/1/text: aren't you.
+32a259f/0/text: Hehe...
+36efcc52/0/text: Sit down,
+36efcc52/1/text: It'll probably take a while before we arrive, let's chat.
+1f22d40b/0/text: So, it was you after all~
+da7f5b9c/0/text: ?
+e01fd74/0/text: No, nothing,
+e01fd74/1/text: So then you decided to sneak onto the island by yourself?
+77ee368c/0/text: Yep!
+5870d7ea/0/text: See,
+5870d7ea/1/text: I succeeded, didn't I!
+a2c18b88/0/text: That's because you met me,
+a2c18b88/1/text: Otherwise...
+8ed93e67/0/text: N-Not at all!
+8ed93e67/1/text: Even if it was just me——
+905087b2/0/text: Hmm~
+905087b2/1/text: Impossible, impossible~♪
+4da40df4/0/text: What's that,
+4da40df4/1/text: Are you looking down on me...!
+d7cef6dd/0/text: Not at all~
+8967b69f/0/text: But I just know♪
+aa5b30eb/0/text: Hmph——!!!
+aa5b30eb/1/text: You are looking down on me!!!
+2f5760d3/0/text: ...♪～♪♪～
+dc3ba41/0/text: Ignoring me now...!
+dc3ba41/1/text: That's too much...
+d85fb168/0/text: ～♪～♫♪～～
+eeee84a1/0/text: Wow...!
+eeee84a1/1/text: What a beautiful voice...!!!
+3fba709e/0/text: Luna...
+3fba709e/1/text: Are you... perhaps an idol...?!
+802ca7db/0/text: Idol? What's that?
+802ca7db/1/text: Is it some kind of statue?
+409386df/0/text: You don't know what an idol is?!!
+d8ad2a7d/0/text: Shh!
+d8ad2a7d/1/text: Keep your voice down!!!
+6b4dfc1c/0/text: Oh oh oh...!
+6b4dfc1c/1/text: Sorry sorry...
+ce24fe87/0/text: But... you don't know what an idol is?!
+ce24fe87/1/text: What about Master Orlan?
+427ea932/0/text: ?
+c8495a15/0/text: Lulua?
+d524cfa0/0/text: ...?
+f059328c/0/text: Oh my...!!!
+f059328c/1/text: You really don't know what an idol is!!!
+5d7fe4c0/0/text: How can you not know what an idol is?!
+5d7fe4c0/1/text: Let me tell you, an idol is...
+938278d4/0/text: Oh~
+2c022fd7/0/text: Isn't it great,
+2c022fd7/1/text: Master Orlan's song...!
+681d6911/0/text: Hmm... indeed,
+681d6911/1/text: It's quite interesting...
+c1c34d71/0/text: So this is what an idol is...
+5ff15048/0/text: Hey hey,
+5ff15048/1/text: Luna, why don't you participate in an audition?!
+f914313a/0/text: If it's you,
+f914313a/1/text: You'd definitely debut successfully!!!
+19c46cc1/0/text: Me?
+75d7a96a/0/text: Mhm mhm!
+75d7a96a/1/text: And I'll be your first fan!!!
+2559785f/0/text: 『Hello, this is your captain speaking. Our airship will arrive at its destination in 5 minutes,
+2559785f/1/text: Please return to your seats and fasten your seatbelts. Thank you for your cooperation.』
+6c81f11d/0/text: Looks like we're about to land.
+9ced21/0/text: Let's go,
+9ced21/1/text: We can't be discovered!
+b3dd8906/0/text: Hmm~ We should be fine here?
+9586e9b6/0/text: Okay, the exit should be...
+58ac2c2f/0/text: Here!
+eedecb2e/0/text: Wow——

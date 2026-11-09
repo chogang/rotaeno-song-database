@@ -1,0 +1,57 @@
+194c6c24/0/text: Ini adalah tempat acara protes...
+4a034323/0/text: (Sungguh banyak bibi dan paman...)
+e18bfaa6/0/text: Protes!
+ce2de053/0/text: Protes!
+baaf0c1e/0/text: Anti hukum yang jahat!!!
+4dbcb989/0/text: (Berisik sekali...)
+5b02d0f2/0/text: Eh?
+93f3eedd/0/text: Gadis kecil, anak yang baik,
+93f3eedd/1/text: Jarang ada anak kecil yang pintar, paham betapa buruknya pelanggaran hukum!
+776853a0/0/text: Ah?
+776853a0/1/text: Bukan, aku hanya datang untuk berkunjung...
+395f51e8/0/text: Eh, gadis kecil,
+395f51e8/1/text: Kamu juga menganggap ini sangat tidak masuk akal bukan?
+27cfe8da/0/text: Bagaimana bisa membatasi kami menggunakan air?
+95d7791c/0/text: Hm,
+95d7791c/1/text:  Ini ya...
+95d7791c/2/text: Sedikit...
+cad6227/0/text: Benar, penggunaan air tidak boleh melebihi 20 ton setiap bulan, tidak masuk akal!
+8f921855/0/text: (20... ton?)
+c8616c2d/0/text: Haih, sudah dikatakan berkali-kali,
+c8616c2d/1/text: Tidak mungkin dapat berkomunikasi dengan ras barbar...
+b57e8c62/0/text: Kita harus menggunakan kekerasan untuk membuat mereka takut!
+1a4623a8/0/text: (... Orang yang bisa berkata seperti itu...
+1a4623a8/1/text: Sebenarnya siapa yang barbar...)
+f9ae1831/0/text: ... Xiaozhi, berapa liter air dalam 20 ton?
+7d1d3013/0/text: Master Ilot, 20 ton dikalkulasi 20.000 kg,
+7d1d3013/1/text: Dihitung berdasarkan berat dan kapasitas air kira-kira 1:1, kurang lebih sama dengan 20000 liter.
+83ef84ca/0/text: ...
+2c375c67/0/text: Ada juga pembatasan penggunaan daya listrik yang konyol,
+2c375c67/1/text: 4000 daya setiap bulan, tentu tidak cukup!
+8245e221/0/text: ... Kalian, bisa menggunakan 4000 daya setiap bulan?
+7652982f/0/text: Daya sebanyak itu, tentu habis dalam seminggu?
+7652982f/1/text: Oh anak kecil, hidup tidak perlu terlalu hemat, jadi orang tentu harus bisa menikmati~
+765d13ff/0/text: Benar, sekarang sudah jaman apa,
+765d13ff/1/text: Masih mau hidup seperti manusia primitif?
+81e191d3/0/text: ... Bibi dan paman,
+81e191d3/1/text: Rumah kalian pasti sangat besar?
+b4915b6d/0/text: Misalnya, satu orang punya satu kastil,
+b4915b6d/1/text: Juga punya tambang di belakang gunung?
+982710ce/0/text: Eh~ Gadis kecil mulutnya cukup manis,
+982710ce/1/text: Tidak begitu, paman tidak sekaya itu, rumahnya hanya 20 meter persegi~
+82b51da1/0/text: (... Jadi kalian cukup hebat bisa seboros ini...)
+12cb3fec/0/text: Sini, gadis kecil,
+12cb3fec/1/text: Kamu juga merasa keterlaluan bukan? Ayo berteriak bersama kami~
+bce59752/0/text: Anti hukum yang jahat!!!
+83ef84ca/1/text: ...
+c91f94f9/0/text: Ada yang salah dengan kalian!
+13a94e07/0/text: ... Ah?
+e093a385/0/text: Apa... Ternyata datang untuk mencari masalah?
+fce27920/0/text: Cih, aku kira akhirnya ada anak muda yang pintar!
+f28cccea/0/text: Karena anak muda yang pntar, tidak akan muncul di sini!!!
+75a1a0f4/0/text: Ah, gawat! Akhirnya tidak tahan dan marah...)
+2a18c23/0/text: Apa maksudmu!!!
+2a18c23/1/text: Gadis kecil sialan!!!
+60e1982c/0/text: Dasar gadis sialan,
+60e1982c/1/text: Hari ini aku akan memberi pelajaran untukmu, cara menjadi orang yang baik!
+373a4537/0/text: Wah...

@@ -1,0 +1,160 @@
+f8dff522/0/text: Ilot, terima kasih banyak untuk hari ini.
+9c3d41c1/0/text: Tapi...
+9c3d41c1/1/text:  Yang seharusnya mengajakmu bermain di hutan dengan gembira,
+9c3d41c1/2/text: Tapi tanpa tidak sadar telah membahas topik yang menyedihkan...
+88f8a71/0/text: Tidak begitu!
+88f8a71/1/text: Hari ini sudah bermain dengan sangat senang!
+2576648b/0/text: Jika tidak ada kakak,
+2576648b/1/text: Aku pasti tidak berani berkunjung sendirian ke hutan...
+dbd8b86f/0/text: Pasti tidak akan ada kesempatan mengamati Elf muda dari dekat dengan mataku sendiri,
+dbd8b86f/1/text: Berbicara dengan Dryad, Bahkan bisa berendam air panas di hutan!
+38641e9c/0/text: Apa lagi
+5a2f2c87/0/text: Bisa bersama dengan seorang wanita yang cantiknya seperti boneka!
+93f90c9f/0/text: Sungguh, sangat bahagia,
+93f90c9f/1/text: Sangat beruntung!!!
+978e7504/0/text: ...
+d467d977/0/text: Ilot sungguh manusia terbaik,
+d467d977/1/text: Yang pernah aku temui belakangan ini.
+58cc9b2f/0/text: Aku akan berdoa pada Star Soul,
+58cc9b2f/1/text: Berdoa agar perjalanan Ilot lancar, juga semua keinginannya terkabulkan.
+f43cfb47/0/text: Kakak...
+7a7bfcdb/0/text: Hehe, kalau kakak mau mendoakan aku,
+7a7bfcdb/1/text: Apakah aku boleh memilih keinginanku sendiri?
+c081188b/0/text: Keinginan sendiri...?
+9a902b2f/0/text: Ya!
+9a902b2f/1/text: Aku tidak butuh perjalanan yang lancar, atau keinginan yang terkabulkan,
+9a902b2f/2/text: Aku lebih ingin menemukan sahabatku!
+9bbe5ec0/0/text: Semoga planet yang aku kunjungi berikutnya,
+9bbe5ec0/1/text: Ada Hoppe di sana!
+f9854e8e/0/text: Hoppe...?
+afe32602/0/text: Benar, itu adalah nama sahabatku!
+afe32602/1/text: Dia juga berasal dari Aquaria!
+978e7504/1/text: ...
+e8ad24e5/0/text: Sahabat Ilot,
+e8ad24e5/1/text: Hoppe itu...
+5104ca50/0/text: Apakah gadis dengan rambut biru,
+5104ca50/1/text: Kuncir ganda, dan mata berwarna kuning?
+ad6831dc/0/text: !!!
+4e99ead4/0/text: Benar! Tidak salah lagi!
+975f34ff/0/text: Lihat! Ini foto kami berdua!
+975f34ff/1/text: Orang yang kakak lihat itu dia?!
+da6d7671/0/text: Ah...
+da6d7671/1/text: Benar, anak ini,
+da6d7671/2/text: Pernah datang ke sini!
+957b232f/0/text: Kira-kira...
+957b232f/1/text: ... Empat bulan yang lalu?
+e49b2df9/0/text: Empat bulan yang lalu...
+e49b2df9/1/text:  Itu saat Hoppe kehilangan kontak...!
+88354f31/0/text: Lalu, kamu tahu di mana dia sekarang?!
+eadafad0/0/text: Uh...
+ddf6aa2b/0/text: Meski aku tidak tahu dia di mana...
+b4ae6116/0/text: Oh...
+642e1678/0/text: ... Benar juga,
+642e1678/1/text: Sudah empat bulan berlalu, meskipun Hoppe menyebutkan tujuan perjalanan berikutnya di saat itu,
+642e1678/2/text: Dia sekarang juga sudah tidak di sana lagi...
+409ca68e/0/text: Tapi, karena aku pernah bertemu dengannya,
+409ca68e/1/text: Aku masih ingat dengan nafasnya...
+7c187b8d/0/text: Jika ingin melakukan ramalan pada Star Soul,
+7c187b8d/1/text: Seharusnya bisa menemukan lokasi dia saat ini.
+4937268e/0/text: !!!
+ae660635/0/text: Kakak Cheri, tingkat akurasi ramalan,
+ae660635/1/text: Hm...
+ae660635/2/text:  Apakah tinggi?
+b5c4a84b/0/text: Hm, aku bukan bermaksud tidak menghormati Star Soul!
+b5c4a84b/1/text: Hanya saja, hm, terakhir kali aku mencoba menggunakan Batu Takdir untuk meminta panduan dari Star Soul Orb...
+6d53b75c/0/text: Lalu, hm...
+b5d53099/0/text: ... Tiba di sini.
+31c24c69/0/text: Hm...
+31c24c69/1/text:  Sepertinya...
+31c24c69/2/text: Kurang akurat...
+31c24c69/3/text:  Ya?
+a997170c/0/text: Batu Takdir?
+a997170c/1/text: Hm...
+a997170c/2/text:  Apakah sudah melakukan semua ritual persiapan sebelum berdoa?
+b8f475b3/0/text: Ritual persiapan?
+574903c1/0/text: Yang memberikannya padaku tidak pernah berkata tentang ritual persiapan...?
+25fb627/0/text: Ah...
+25fb627/1/text: Haha.
+a4d6ed6f/0/text: Jadi yang memberikan Batu Takdir padamu, sepertinya berasal dari ras yang dapat langsung terhubung dengan Star Soul,
+a4d6ed6f/1/text: Atau memiliki tubuh dengan sensitivitas tinggi?
+cd16176a/0/text: Hm...
+cd16176a/1/text:  Begini saja,
+cd16176a/2/text: Sebagian besar manusia, memiliki tubuh dengan kemampuan sensitivitas yang rendah.
+d633e301/0/text: Dengan tubuh seperti itu, selain tidak dapat merasakan keberadaan Star Soul,
+d633e301/1/text: Star Soul sebenarnya juga sulit mendengar suara kalian.
+231ab8af/0/text: Dan ritual persiapan diciptakan untuk orang seperti itu.
+231ab8af/1/text: Cara yang paling sederhana untuk meningkatkan sensitivitas pribadi untuk sementara.
+e4b730fe/0/text: Ternyata begitu...
+9d0bd1f7/0/text: Jadi, Nyonya,
+9d0bd1f7/1/text: Adalah orang dengan sensitivitas tinggi...?
+fff0161c/0/text: Suamiku berasal dari ras asing yang ajaib, juga memiliki tubuh yang sungguh sangat langka,
+fff0161c/1/text: Sangat luar biasa.
+ec44821d/0/text: Sungguh seorang putri yang terpilih!
+42efd187/0/text: Jika berhubungan dengan ramalan, akurasinya umumnya mencapai 60%,
+42efd187/1/text: Namun karena masa depan masih bisa berubah, dan perubahan juga terjadi setiap saat.
+93c8a1a1/0/text: Tapi jika hanya untuk mencari seseorang,
+93c8a1a1/1/text: Asalkan Star Soul mau memberi respons, seharusnya tidak ada kesalahan.
+ad6831dc/1/text: !!!
+6eb6af16/0/text: Master Star Soul, aku sangat tulus!
+6eb6af16/1/text: Aku sangat ingin menemukan Hoppe!
+b3264ed6/0/text: Aku sangat khawatir dengannya! Jika dia menemui kesulitan,
+b3264ed6/1/text: Aku berharap bisa ada di sisinya untuk menemaninya!
+b8ac11f3/0/text: Aku mohon, tolong beri tahu aku di mana Hoppe berada!!!
+33478a02/0/text: Haha~
+8ef134d3/0/text: Tenang saja,
+8ef134d3/1/text: Aku yakin Star Soul pasti bersedia membantu Ilot dan Hoppe.
+4d977532/0/text: Lagipula kalian semua adalah anak-anak yang sangat baik.
+2c7617cc/0/text: Kalau begitu, aku akan mulai!
+3ac8881/0/text: Mohon bantuannya!!!
+2dda2695/0/text: Tolong...!
+9a930253/0/text: ...?
+289a9101/0/text: Suara apa itu?
+feff7a48/0/text: ... Ada yang datang.
+a3004b2c/0/text: Turis...?
+68952f72/0/text: ... Keluar...!
+c9656748/0/text: ... Yang...!
+5cbcd108/0/text: Ilot, berdiri di belakangku.
+1819dd5f/0/text: Ah...
+9995f84e/0/text: Angatu! Cepat keluar!!!
+4937268e/1/text: !!!
+952a1a72/0/text: Kelompok paman dan bibi kemarin!
+40f85391/0/text: Angatu sedang pergi keluar,
+40f85391/1/text: Ada masalah apa?
+9892ea6e/0/text: Masalah apa lagi!
+9892ea6e/1/text: Cepat kembalikan orang kami!
+622150e6/0/text: Lepaskan adikku!
+622150e6/1/text: Hukum perlindungan apaan...Kami juga tidak setuju!
+33a390b2/0/text: Kenapa kami harus pergi hanya dengan kalian yang berkata mengusir kami!
+fc104496/0/text: Ada pemungutan suara umum yang dilakukan saat merancang hukum perlindungan,
+fc104496/1/text: Penerapan hukum telah disetujui lebih dari separuh ras manusia...
+4cdbe6dc/0/text: Aku tidak setuju!
+4cdbe6dc/1/text: Kami tidak setuju!
+582669ad/0/text: Tidak ada gunanya berbicara dengan gadis seperti kamu,
+582669ad/1/text: Biarkan Angatu yang keluar dan berbicara!
+8426d4fa/0/text: Hei, kalian!!!
+180d930b/0/text: Berbicara tanpa akal, juga sangat tidak enak didengar!
+efa3de87/0/text: Kalian kembali saja ke planet asal kalian!!!
+c3f673c8/0/text: Ilot...!
+e67231a/0/text: Menghalangi,
+e67231a/1/text: Mengganggu ramalan kakak Cheri!
+34e1a0cf/0/text: Jika Star Soul tidak bersedia membantu karena mereka,
+34e1a0cf/1/text: Dan tidak mendapatkan informasi tentang Hoppe...!
+60db276b/0/text: Kamu... bocah kecil dari hari itu?!
+8595c9e0/0/text: Baiklah, <br>Ternyata kamu satu komplotan dengna para Elf ini, pantas saja datang mengganggu kami!
+6f98b602/0/text: Percuma kami sudah baik padamu, <br>Tidak tahu balas budi!
+966ae24f/0/text: Ha? <br>Kalian sedang bercanda?
+abce1f3f/0/text: Siapa yang tidak tahu balas budi?
+c97ee338/0/text: Bibi, paman, <br>Sekarang sudah jamannya jaringan kosmik,
+b101e011/0/text: Kalian bisa mencoba KOOGLE dulu, melihat planet mana dengan penggunaan normal sebanyak kalian?
+ca3cdf04/0/text: Itu karena standar hidup mereka yang rendah!
+dd09c7a/0/text: Kamu yang rendah, semua keluargamu rendah!!!
+f912cc80/0/text: Teknologi Aquaria dengan peringkat Top 3 bahkan tidak pernah mengatakan orang lain rendah, <br>Kalian, bintang teknologi baru, beraninya mengatakan orang lain rendah?!
+a2a0b782/0/text: Kamu, kamu...!
+dff34807/0/text: Sudah, cukup, <br>Aku sudah berkata, tidak ada yang perlu dibahas dengan mereka.
+7a20f4e2/0/text: Baiklah, <br>Punya mulut yang tajam, bukan begitu?
+b2707a6d/0/text: Huh, sangat suka dengan hutan yang kumuh ini bukan, <br>Aku akan membakarnya semua hari ini!!!
+673b0d31/0/text: Asalkan tidak ada hutan, <br>Ras Elf tidak akan bisa bertahan hidup!!!
+298b91c8/0/text: Hentikan!!!
+5a9494fd/0/text: Orang-orang ini bodoh ya?! <br>Tidak boleh sembarangan menyalakan api di dalam hutan!!!
+12f79e30/0/text: Berhenti!!!
+1368bf9f/0/text: Gawat, <br>Percikan api akan jatuh ke rumput...!!!

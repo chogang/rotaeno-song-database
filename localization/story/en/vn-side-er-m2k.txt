@@ -1,0 +1,92 @@
+8d7410ad/0/name: Shop Clerk A
+6c49b581/0/text: Kakari, table 11, extra omelet!
+727167be/0/text: Alright~
+86e8a51e/0/name: Shop Clerk B
+ee93e8f6/0/text: Kakari,
+ee93e8f6/1/text: where's that beef risotto for table 32?
+4c8d7c47/0/text: Let's see... Ah, perfect timing.
+4c8d7c47/1/text: Just need to take it out of the oven!
+81777f40/0/text: Great~!
+81777f40/1/text: I'll take that, you keep busy!
+54723734/0/text: Ah, thanks~
+54723734/1/text: The mitts are right there, and be careful, it's hot!
+815ff924/0/text: Got it!
+ad752164/0/text: Hmm~♪ Hmm~~♫♩～
+54ad7501/0/name: Chef
+be596643/0/text: You're in a great mood today, Kakari!
+1c677269/0/text: That's right!
+1c677269/1/text: I just have a feeling something special is bound to happen♪
+6ec46ee4/0/text: Oh? What's that,
+6ec46ee4/1/text: a lucky hunch?
+66d6a7e2/0/text: ...Maybe it is!
+66d6a7e2/1/text: I can't wait~
+d967268f/0/text: Hahaha, Kakari is such a dreamer,
+d967268f/1/text: believing in that "sixth sense" stuff! How cute!
+af3281a6/0/text: ......
+a41ebe71/0/text: Oh! The dirty dishes are piling up,
+a41ebe71/1/text: I'll take them over to Auntie Mina!
+d05399cc/0/text: Keep an eye on the stove for me!
+a087f62/0/text: You got it, no problem!
+a087f62/1/text: Thanks a bunch~
+f7108d9c/0/text: ......
+d98e7911/0/text: Dreamer... hm.
+d554a2d0/0/text: !
+d6237f8c/0/text: Sigh...
+cc438e9a/0/text: ......
+ab43c4c6/0/text: Is there anything... to the west...?
+38ae6646/0/text: ...Sigh~ Looks like my days here
+38ae6646/1/text: are coming to an end.
+f34027f/0/text: ...What a great place~!
+f34027f/1/text: Wonder if I will be able to open such a wonderful shop myself someday...
+ccce301e/0/text: I'm back~ Huh?
+ccce301e/1/text: Why are you just staring at the stove? Did something burn?
+3c0291e6/0/text: Ah... no, it's nothing~
+3c0291e6/1/text: Maybe I'm just a little tired~?
+2c1db5bd/0/text: The soup is fine,
+2c1db5bd/1/text: just 5 more minutes should do it!
+cadf8aa0/0/text: OK! Thanks~
+f7108d9c/1/text: ......
+df33814b/0/name: Restaurant Boss
+914e0603/0/text: Boss, sorry to bother you,
+914e0603/1/text: do you have a minute~?
+58b0abe3/0/text: Oh, what's up, Kakari?
+58b0abe3/1/text: Of course.
+fb2ffc53/0/text: What's on your mind?
+493f107d/0/text: Well, you see...
+7a2c3b5b/0/text: I'm so grateful for how you and everyone else have looked after me,
+7a2c3b5b/1/text: but for personal reasons, I'd like to submit my resignation.
+4037e558/0/text: Resignation...?!
+b10d8c82/0/text: Wh-Why so sudden?
+b10d8c82/1/text: Did something happen at work?
+64943655/0/text: Or is it the pay?
+64943655/1/text: We can talk about it...!
+a91fd413/0/text: No, it's not that! Everyone has been wonderful and the pay is fine,
+a91fd413/1/text: I just want to take a break, go on a trip or something.
+4464c28f/0/text: Oh! A trip! Well, that's no problem at all.
+4464c28f/1/text: Just take a vacation. No need to resign, right?
+51b3ff15/0/text: Haha, thank you!
+7c8bc3df/0/text: But my travel style is a bit random~ I don't have a fixed destination,
+7c8bc3df/1/text: no fixed timeline, and I honestly don't know when I'll be back.
+98ea58fd/0/text: I don't want to cause any trouble for the team,
+98ea58fd/1/text: so please, let me resign.
+129cf285/0/text: ......
+1668cba0/0/text: Is there really no other way?
+d7e93ea6/0/text: To be honest, you're a great worker,
+d7e93ea6/1/text: and everyone here loves you. If there's any way—
+efccdb7d/0/text: I am truly grateful for everything you've done for me.
+3151325/0/text: ...Phew, sure is hot out here~
+72bfb99d/0/text: I wonder,
+72bfb99d/1/text: what will I encounter this time...?
+22063d00/0/text: I wonder how everyone at the restaurant is doing...?
+bb837d2/0/text: Was quitting really the right choice...
+bb837d2/1/text: Everyone was so kind to me...
+8d8a5603/0/text: But...
+1960dec0/0/text: ...Hm... is there something over there?
+1960dec0/1/text: It looks like a complete wasteland as far as I can see......
+39e6a8ae/0/text: But for some reason,
+39e6a8ae/1/text: I just felt drawn to come this way......
+7c3f6178/0/text: ...Huh?
+3a10e748/0/text: What's that over there,
+3a10e748/1/text: next to that big rock...?
+ff83acd/0/text: Let's see...
+1884a044/0/text: ...!

@@ -1,0 +1,128 @@
+984d67b4/0/text: One summer.
+baa39e2a/0/text: Phew—
+baa39e2a/1/text: Ugh, it's boiling out here...
+a7be5de0/0/text: It rains every single day,
+a7be5de0/1/text: so why is it still so hot?!
+74a121b5/0/text: Summer is the worst!
+74a121b5/1/text: And this stingy school with its lousy central AC—absolutely the worst, ughhh!
+669be11d/0/text: Haha...
+669be11d/1/text: Alright, look, the cocoa's ready.
+ce95f06d/0/text: Want some ice in it?
+51254d7c/0/text: Oh, yes please!
+51254d7c/1/text: Load it up with ice!
+cbb89d1a/0/text: Ooh, I can smell the cocoa from here!
+cbb89d1a/1/text: Who's the little troublemaker sneaking home during summer break to cook—
+cbb89d1a/2/text: Oh, it's you two.
+5db66a02/0/text: Ooooh~ Hoppe!
+5db66a02/1/text: My dearest junior, Hoppe~♪
+4616a026/0/text: Blegh—
+e0e739d7/0/text: Oh, sweetie. Your poor senior just finished morning study.
+e0e739d7/1/text: And her stomach is starving.
+37c0c9d4/0/text: Yeah, yeah, I know.
+fd7df319/0/text: Thanks. Here.
+8c53ea84/0/text: Yay♪
+8c53ea84/1/text: Hoppe's the best!
+1e9b7338/0/text: Tch—
+1e9b7338/1/text: Another one here to steal my cocoa...
+9e8575c5/0/text: Freeloader, shut up! Take this!
+27b633f0/0/text: ?!
+ab385d83/0/text: Hey! Get away! Keep that steaming cup at least half a meter from me!
+ab385d83/1/text: It's so hot!
+2256e84a/0/text: Uwaaa!
+2256e84a/1/text: Hoppe, look!
+345e0bb0/0/text: There's someone here drinking iced cocoa!
+345e0bb0/1/text: Who puts water in cocoa, ugh!
+b6cbf23e/0/text: Someone who wastes good cocoa like that doesn't deserve yours.
+b6cbf23e/1/text: I'll take the rest off your hands.
+a7e1301a/0/text: Ha... haha...
+b6004be0/0/text: Shut it, cocoa thief!
+b6004be0/1/text: It's just so hot!
+ad9281e2/0/text: Ahhh!
+ad9281e2/1/text: Is this planet supposed to be the Creator's bathhouse or something?
+ad9281e2/2/text: Cause how else do you explain the rain being hot?!
+de3f02b9/0/text: Oh?
+de3f02b9/1/text: So you're saying we've been
+9bd24d20/0/text: standing in someone's bathwater all along?
+26f6e03/0/text: Uh, hey... m-maybe we could change the topic...?
+26f6e03/1/text: Feels like if we keep going, this is gonna get... weird.
+bba0f26f/0/text: Ehhh? No way!
+bba0f26f/1/text: For once, I think Ilot's got an interesting idea here!
+4d7c54dc/0/text: Look, if this endless rain is really the god's bathwater,
+4d7c54dc/1/text: then maybe those gray clouds on cloudy days are the god's feet—
+5167ca39/0/text: Ah! Ahhh!
+5167ca39/1/text: R-right!
+7038e52a/0/text: Well, since Mona's here too, cocoa's not enough.
+7038e52a/1/text: I'm making something better!
+f531c6bf/0/text: Uh—y-yeah. I'll, um... go get started.
+f531c6bf/1/text: You two can keep chatting!
+80452aa6/0/text: Ah, she ran off...
+722e1ff3/0/text: Told you, you pushed it too far.
+722e1ff3/1/text: Hoppe can't handle gross talk like that.
+3a5aba7d/0/text: Yeah, but she's sooo cute when she's confused...
+acfcdd6e/0/text: Mhm. True.
+acfcdd6e/1/text: I get what you mean.
+8d1cdb38/0/text: Our perfect, on-top-of-everything Hoppe suddenly not knowing what to do...
+8d1cdb38/1/text: Hsss... it's just too cute!
+1f61d51b/0/text: Whoa, hey!
+1f61d51b/1/text: Don't sit so close!
+5e5aae65/0/text: You're melting all my ice!
+8c6b475d/0/text: Soon this is gonna turn into watered cocoa!!!
+a8327d2a/0/text: Serves you right.
+18d01eac/0/text: That's what you get for adding ice.
+c6bf4f5/0/text: It's really hot, okay!
+2f70c5a/0/text: It's not that bad. The school's AC is on.
+2f70c5a/1/text: You're way too heat-sensitive.
+5945a021/0/text: Please. You and Hoppe are just freakishly heatproof.
+cb7e8670/0/text: Mmmm...
+38e04957/0/text: !
+d8e7dd2e/0/text: Hey, hot-blooded one,
+d8e7dd2e/1/text: wanna come to the water park where I work?
+2191823d/0/text: Water park?
+9d3de340/0/text: That's right!
+9d3de340/1/text: Huge slides. A pretty artificial beach. Thrilling river rapids!
+e3fbe5b7/0/text: Best part!
+bff1bbd5/0/text: Unlike the god's bathwater,
+bff1bbd5/1/text: everything there is ice-cold!
+bb7201ff/0/text: Ooh...！
+36dc47d3/0/text: And also...
+36dc47d3/1/text: Let me tell you a secret...
+4f7eee92/0/text: Mmm?
+a08d34ce/0/text: We've got a summer promo running.
+a08d34ce/1/text: The last hour before closing every weekend this month,
+c505de8d/0/text: there's a special show on the main stage!
+34bbdf1/0/text: Special show?
+ef740d8/0/text: That's right!
+a32ac42a/0/text: It's called "Summer Madness! Hot! Sexy! Adults-Only! Limited-Time Dance Party!"
+a32ac42a/1/text: And it's ridiculously good!
+2bbdb9a5/0/text: Hot... s-sexy?
+2bbdb9a5/1/text: Adults-only?
+9881fb4b/0/text: A-are you sure minors can go?
+559a8867/0/text: Relax. Summer break's all about family fun.
+559a8867/1/text: No way the boss would make anything not kid-friendly!
+de604493/0/text: Though it might be just a tiny bit spicy...
+28d5be25/0/text: Ooooh...!
+fb376be8/0/text: We even shelled out for some super high-profile guests!
+fb376be8/1/text: It's a rare chance. You don't wanna miss it.
+a8e70094/0/text: Sorry for the wait.
+a8e70094/1/text: Turns out the fridge still had leftover batter from last time.
+a8e70094/2/text: So I made a crepe ca—
+5eb86e46/0/text: Hoppe!
+d3318d26/0/text: Huh?! Y-yeah...?
+e7ddfdc4/0/text: Let's go to the water park!
+a4be5eec/0/text: The... water park?
+1933d902/0/text: Mhm!
+1933d902/1/text: That's where Mona works. She says there's all kinds of fun stuff going on!
+a851be8f/0/text: Let's go, yeah? Yeah?
+a851be8f/1/text: This weekend?
+340c2ffa/0/text: Th-this weekend...?
+340c2ffa/1/text: But didn't you say you were going to the mall for new sandals...
+56a529d1/0/text: Sandals can wait. I'll just order them online!
+56a529d1/1/text: The water park sounds way more fun!
+67c77900/0/text: C'mon, let's go.
+67c77900/1/text: Please?
+7bf305d2/0/text: Pleeease...
+5feeaf04/0/text: If you really want to...
+5baa5b6f/0/text: Yesss!
+b9481482/0/text: Oh!
+b9481482/1/text: Thanks for coming, folks!
+9afab2bc/0/text: ...

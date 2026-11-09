@@ -1,0 +1,56 @@
+bbd32a8b/0/text: Sudah kembali.
+65fea301/0/text: ... Hm.
+7c9b8417/0/text: Parlemen ras manusia telah diberitahu,
+7c9b8417/1/text: Mereka akan diusir bersama dengan kelompok orang yang diusir minggu depan.
+a29e6476/0/text: Oh?
+a29e6476/1/text: Aku kira kamu akan berhati lembut lagi.
+a36d16de/0/text: ... Aku masih bisa membedakan masalah yang ringan dan serius...
+e11d2a0c/0/text: Aku hanya merasa,
+e11d2a0c/1/text: Tidak perlu menyalahkan semuanya hanya karena ulang beberapa orang.
+7a0d0a51/0/text: Tapi mereka yang menyakiti para Elf, dan Hutan Elf,
+7a0d0a51/1/text:  Aku tidak akan berbaik hati pada mereka.
+ebdfa89c/0/text: Kegigihan yang tidak berguna.
+cbb4a4d/0/text: Mencari daun yang belum terkena korosi penuh, dari ras yang akarnya sudah busuk,
+cbb4a4d/1/text: Sama sekali tidak berarti.
+d38f889f/0/text: Manusia bukanlah tumbuhan...
+d38f889f/1/text: Mereka adalah individu yang mandiri, dengan pemikiran yang mandiri...
+5e680a07/0/text: Mereka adalah makhluk sosial, dengan arus kesadaran utama, yang pada dasarnya buruk,
+5e680a07/1/text:  Yang benar-benar berpikir, membedakan yang benar dan yang salah, ada berapa banyak orang?
+3c4ae43e/0/text: ...
+6ffea01a/0/text: Kamu sangat...
+6ffea01a/1/text: Keras kepala.
+3abbbcc/0/text: Kamu juga dulu,
+3abbbcc/1/text: Pernah berteman dengan ras manusia.
+924593a5/0/text: Sepati ini sudah melamun saja?
+2e2fdea7/0/text: Tidak kok! Namanya Adam!
+2e2fdea7/1/text: Ras manusia yang pertama terlahir di planet ini!
+eeaef09f/0/text: !
+2dfb76f8/0/text: Tuan Yue sudah memberi tahu aku!
+3420d0f/0/text: ... Bocah itu,
+3420d0f/1/text: Selalu suka berkata hal-hal yang tidak perlu.
+a3322558/0/text: Karena dapat berteman dengan ras manusia pertama,
+a3322558/1/text: Membuktikan bahwa kamu tidak membenci manusia sejak awal?
+dc4f77e4/0/text: Aku mengerti situasi saat ini, kesarakahan manusia,
+dc4f77e4/1/text: Ratapan Star Soul...
+dc4f77e4/2/text:  Membuat kami sangat cemas.
+763b6939/0/text: Tapi, keberadaan ras manusia,
+763b6939/1/text: Kelahiran dan evolusi mereka, juga ada dengan izin dari Star Soul.
+922d7bfc/0/text: Intervensi yang terlalu berlebih,
+922d7bfc/1/text: Akhirnya akan mendapatkan reaksi balik...
+e9509e10/0/text: ... Kami.
+e4bdd52c/0/text: Jika Star Soul yang lemah dapat dipulihkan,
+e4bdd52c/1/text: Tidak apa, meski harus menahan reaksi balik.
+f8b0ca06/0/text: Aku tahu kamu akan berpikir begitu!
+f8b0ca06/1/text: Karena itu aku bersikeras harus menangani mereka!!!
+8305f974/0/text: Tahu tidak, kamu barusan tadi...
+8305f974/1/text:  Sungguh sangat menakutkan.
+eac8c631/0/text: Aku takut kamu akan membunuh mereka karena emosi!
+f5bdc318/0/text: Bahkan jika kamu menerima reaksi balik...
+f5bdc318/1/text: Bahkan jika kamu menghilang karena ini...
+a42e38b5/0/text: Di antara para tetua Elf, hanya tersisa Tuan Yue dan diriku...
+cec27ac8/0/text: Aku sudah,
+cec27ac8/1/text: Tidak ingin kehilangan teman lagi...
+d395245e/0/text: ...
+6e9697cb/0/text: ...
+7231eac2/0/text: Adam...
+7231eac2/1/text: Sebuah nama yang sudah lama hilang.

@@ -1,0 +1,4 @@
+6e17b22e/0/name: Innkeeper
+31aec127/0/text: The most important thing about hunting is to calm down and observe.
+773e5a4f/0/text: Some animals here can move so fast that they are even invisible.
+5de0118b/0/text: But you can figure out their patterns by observing the movement of wind, and then catch your prey.

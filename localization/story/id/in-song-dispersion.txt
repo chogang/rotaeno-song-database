@@ -1,0 +1,20 @@
+59cefb74/0/name: Dxsbond
+23cd138/0/text: Selamat datang di ruang wawancara! Silakan perkenalkan diri Anda kepada semua orang.
+fe19a78a/0/text: Saya Dxsbond, masih baru di dunia musik berlisensi untuk game,
+7d668c51/0/text: tapi sudah memproduksi musik elektronik selama 6 tahun.
+6e6160ba/0/text: Senang sekali bisa bertemu dengan kalian semua!
+15931ff/0/text: Bisa ceritakan tentang lagu terbaru Anda yang berjudul "Dispersion"?
+d1f98713/0/text: Lagu saya berjudul Dispersion.
+648053a6/0/text: Nama itu saya ambil karena,
+b3de6699/0/text: saya menggunakan plugin fx disperser berkali-kali—mungkin sampai jutaan kali—di lagu ini haha.
+855ab45c/0/text: Proses membuat lagu ini benar-benar seru,
+8bbf8abf/0/text: rasanya ini salah satu momen langka di mana saya bisa keluar dari pola komposisi dan format yang biasanya,
+b69e40b5/0/text: dan menciptakan sesuatu yang benar-benar "baru" di kepala saya.
+9c13deae/0/text: Saya sangat senang punya kesempatan untuk membagikan musik saya ke audiens yang lebih luas,
+df9610c1/0/text: karena sejak awal saya bermusik, itu memang sudah jadi mimpi saya.
+6591fdeb/0/text: Hah, jutaan kali?! Kedengarannya keren dan menarik banget...
+cce07d5/0/text: Ngomong-ngomong, ada pesan untuk para pemain?
+93b815d6/0/text: Menurut saya, hal terpenting yang harus diingat sebagai musisi itu adalah untuk selalu berkarya sesuai keinginan sendiri!
+320a27c8/0/text: Kalau kamu mulai membatasi diri hanya dengan melihat seberapa menguntungkan suatu karya,
+5c0290dc/0/text: lambat laun kamu bisa kehilangan minat dengan karya seni kamu sendiri.
+e18d566a/0/text: Pada akhirnya, yang penting adalah kamu menikmati prosesnya!

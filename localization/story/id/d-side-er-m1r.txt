@@ -1,0 +1,19 @@
+9693aae9/0/text: Sebagai serigala, malah diusir oleh kawanan serigala.
+e75778c4/0/text: Meskipun aku tahu dalam kawanan serigala selalu ada individu penyendiri,
+e75778c4/1/text: tapi aku nggak pernah menyangka suatu hari aku juga akan berada dalam keadaan yang sama.
+3da2e62d/0/text: …Kenapa?
+35c2f8b1/0/text: Apa hanya karena aku nggak menyelamatkan anak serigala itu?
+bcf01c5c/0/text: Bukankah menghindari bahaya dan mencari keselamatan itu naluri alami setiap makhluk hidup?
+eb8d9e33/0/text: Leher anak serigala itu sudah tergigit, kalaupun berhasil diselamatkan,
+eb8d9e33/1/text: kemungkinan untuk bertahan hidup pun hanya 50%.
+b524e370/0/text: Sedangkan itu, kalau aku mau menyelamatkannya, kemungkinan aku terluka nggak kurang dari 50%.
+34a0ced2/0/text: Ini tindakan yang berisiko tinggi.
+be80d24e/0/text: Pilihanku rasional dan benar.
+7f8905ea/0/text: ——Jadi, kenapa harus marah padaku?
+5d4b2c7e/0/text: Kenapa harus mengusirku?
+947a87c5/0/text: Nggak paham.
+7f12c318/0/text: …Mungkinkah individu yang kupilih memiliki cacat genetik?
+e44959f0/0/text: Menumpang pada spesies lain, lalu mengamati dan belajar dari mereka, harusnya adalah cara bertahan hidup spesies kami.
+f8b0075c/0/text: Lalu, kenapa aku justru nggak bisa memahami pemikiran "mereka"?
+921a5fdf/0/text: Sebenarnya yang cacat itu, individu yang kupilih,
+921a5fdf/1/text: atau……

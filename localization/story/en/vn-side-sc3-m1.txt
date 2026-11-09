@@ -1,0 +1,144 @@
+1ee28577/0/name: Shop Clerk
+553707ed/0/name: Woman
+60cce387/0/name: Man
+9b354036/0/text: Here you go! One honey yuzu soda and one root beer float~!
+47c5819f/0/text: Thank you!
+26888598/0/text: Glug glug glug—
+26888598/1/text: Ahhh~!
+a35e81bc/0/text: Silvano,
+a35e81bc/1/text: This place is awesome!
+6d55daa8/0/text: Great internet connection, cutting edge tech.
+6d55daa8/1/text: Feels just like home!
+952faf9b/0/text: Totally, Boss!
+952faf9b/1/text: This has got to be the best planet we've visited so far!
+7a3a3d09/0/text: Haha,
+7a3a3d09/1/text: You like this place that much?
+69312fc7/0/text: But, Puno,
+69312fc7/1/text: I told you to stop calling me Boss...
+43c1dda0/0/text: No can do!
+43c1dda0/1/text: Once the Boss, always the Boss!
+902db727/0/text: And me?
+902db727/1/text: I'll always be your loyal sidekick!
+4512e212/0/text: Side, sidekick...
+5e07d17/0/text: Hold it!!!
+5e07d17/1/text: This here's my Boss's turf!
+2c275b89/0/text: If you don't have business here, scram!
+8f90cab9/0/text: Uh, hahaha...
+bed471c/0/text: Now that I think about it,
+bed471c/1/text: we've been to a ton of places together, Puno!
+3e060d74/0/text: Totally, Boss!
+3e060d74/1/text: Even though we always leave after a few short days...
+e2285a4d/0/text: Well... our deal with your parents was for four months,
+e2285a4d/1/text: I just wanted to pack in as much sightseeing as possible for you!
+4646ba70/0/text: A study abroad trip?!
+f04c6da2/0/text: Out of the question!
+f04c6da2/1/text: It's too dangerous...!
+fa050a1a/0/text: Don't worry, Mr. and Mrs. Puno!
+fa050a1a/1/text: Haven't you seen what we can do?
+1f8c6bde/0/text: Besides, Puno's a natural spaceship pilot!
+1db46d47/0/text: If he keeps it up,
+1db46d47/1/text: he will become an amazing spaceship pilot one day!
+2a0e85e0/0/text: So, don't worry,
+2a0e85e0/1/text: I'll keep Puno safe!
+b512235c/0/text: But...
+66f50d39/0/text: ...Honey, our baby's all grown up.
+66f50d39/1/text: Let him go out and see the world.
+f6c0b802/0/text: Orb has been getting more barren lately, and more uncertain...
+f6c0b802/1/text: Letting Puno study on other planets might open up opportunities.
+2bd7d346/0/text: ...
+3676edbe/0/text: ...So...
+67efb4ad/0/text: !!
+978bb2b4/0/text: You've been rushing all this time because of me, Boss...?!
+6b4a7c5/0/text: No! You, you can't!!!
+9cafdb02/0/text: Huh...?
+652e9af2/0/text: Boss! You're meant for greater things!
+652e9af2/1/text: You can't let a nobody like me hold you back!!!
+336918f7/0/text: A no-nobody...
+bc4af51d/0/text: Hold back...???
+a329d87e/0/text: Boss!!!
+d37e68c8/0/text: Y-yeah...?
+b99bf6c/0/text: Listen to me!
+b99bf6c/1/text: Don't change your plans for my sake!
+8edbb9ad/0/text: Your journey is among the stars!
+8edbb9ad/1/text: Just look straight ahead and don't let me hold you back!!!
+f7505000/0/text: Uh, okay...?
+c63d81f2/0/text: So, what you're trying to say is, you want to stay longer on each planet, right...?
+c4b74a4c/0/text: Hm... It's true, if we're rushing too much,
+c4b74a4c/1/text: it's not helping the event promotions...
+6bb89ed3/0/text: ...Yeah!
+6bb89ed3/1/text: Got it, then let's stay longer this time!
+d01d83da/0/text: Besides, this place has advanced tech,
+d01d83da/1/text: it's perfect for promoting spaceship races!
+b720daab/0/text: Yeah~ That's the spirit!
+b720daab/1/text: That's why you're the Boss!!!
+a04ae42d/0/text: Ha... haha...
+f9e709d/0/text: I feel a little embarrassed now...
+6397a79c/0/text: Mmm...
+6397a79c/1/text: How should we promote it this time...
+3e5f8c0e/0/text: Mm... For this planet,
+3e5f8c0e/1/text: how about we buy some full-screen ads on some of the platforms?
+b13e7b8c/0/text: That's why you're the Boss!
+b13e7b8c/1/text: But last time, 99% of the comments were calling us out for blocking their videos... Is this a good idea?
+db55936b/0/text: That's true...
+db55936b/1/text: How about handing out flyers?
+8e84c4b3/0/text: That's why you're the Boss!
+8e84c4b3/1/text: But last time, everyone just threw our flyers in the trash... Is this a good idea?
+47ace137/0/text: Yeaaah... That's not good...
+47ace137/1/text: Bad for the promo and the planet...
+a6361b1f/0/text: Then... a free trial event!!
+ea7d71d9/0/text: That's why you're the Boss!
+ea7d71d9/1/text: It was your stunt flying trial class on Orb that brought us together and helped me find my calling!
+240866eb/0/text: Even though I was the only one who showed up,
+240866eb/1/text: it totally blew my mind!!!
+5f7d835b/0/text: ...
+5632e37a/0/text: I'm such... a failure...
+ef265873/0/text: Boss?!
+ef265873/1/text: What's wrong?!
+25b02642/0/text: It's nothing...
+c41963de/0/text: Sure, more people know about stunt flying now,
+c41963de/1/text: but for all the efforts we put in...
+de22723b/0/text: you'd think we'd get more results...
+259b37e4/0/text: We've got to do even better...!
+99e91572/0/text: Mmm...
+99e91572/1/text: How do we gather a really big crowd...?
+8a7c7ab7/0/name: Ad
+52f3644a/0/text: "The 'Rising Star' Idol Auditions
+52f3644a/1/text: Seeking the extraordinary in you. Preliminary round ends soon..."
+1520aa3/0/text: Auditions... Contests...!
+8edd7244/0/text: Exactly!!!
+7a71e993/0/text: We're on an awesome planet like Silvano,
+7a71e993/1/text: so why not host our own big event?!
+d7878230/0/text: Woohoo!
+d7878230/1/text: Boss's got a new idea!!!
+e2c2af5e/0/text: Mhm!
+e2c2af5e/1/text: Puno, let's do this!
+bd95993a/0/text: The Whoosh~Whoosh Extreme Spaceship Speed Race!!!
+67964743/0/text: Wow—!!! That's why you're the Boss!!!
+67964743/1/text: I'm with you all the way, Boss!!!
+7d057b47/0/text: So, Boss!
+7d057b47/1/text: What's the next move?!
+11a91307/0/text: ...
+52264772/0/text: ...?
+66c11412/0/text: No...
+13f11a8d/0/text: No?
+850d80bf/0/text: ...I... have no clue...
+6197f568/0/text: What should we do first? Promotions?
+6197f568/1/text: How should we go about it? Buying ads will make people mad, our flyers get thrashed, the trial event...
+6e957739/0/text: Hehe,
+6e957739/1/text: you're such a kidder, Boss!
+61bf2833/0/text: No, I'm being serious...
+f6263fa9/0/text: Just what kind of person
+f6263fa9/1/text: am I in Puno's mind...?
+91702712/0/text: Any plan you concoct is going to be awesome!
+91702712/1/text: After all, you're a genius!!!
+5f977bc4/0/text: G-genius...
+7c3f6178/0/text: ...Huh?
+fdb6abc5/0/text: Genius... awesome...
+8677c274/0/text: That's right!
+8677c274/1/text: You're the best genius there is, Boss!
+69c4be67/0/text: I've got it!!!
+d3a7f880/0/text: Ooooh!
+64429e7b/0/text: I know who we can call for help!!!
+673873e6/0/text: ...Huh??? Help???
+16332cc0/0/text: That's right, Puno!
+8d0ba681/0/text: We can always seek "backup"...!!!

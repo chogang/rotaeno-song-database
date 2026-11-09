@@ -1,0 +1,20 @@
+f393a0cf/0/text: Welcome to our interview!
+cd87fd53/0/text: Could you please introduce yourself to our audience?
+ae15a59e/0/text: Hello!
+7d78a254/0/text: I'm INuya, and I mostly compose cute music >o<
+b3c952b1/0/text: It's great to meet you!
+4eca7026/0/text: Could you tell us more about your new song, "Love Splash"?
+a728fdd6/0/text: "Love Splash" is an electro-house track with a cute vocal.
+e5ac0c0/0/text: The lyrics describe the feelings of a girl who doesn't know what to do in front of someone she likes.
+aed12e58/0/text: I thought it would be fun to express her heart, which feels like it's about to burst, with the word "Splash," so that's how the title "Love Splash" came about.
+1c5b0083/0/text: Oh, so that's what the title means!
+be591166/0/text: What was your approach to the composition?
+266137b/0/text: I wanted to create a song where you can enjoy multiple layers of fun from start to finish.
+2dc4fc11/0/text: By paying attention to the placement of various sounds and instruments, I believe listeners can find even more things to enjoy.
+d8e2b496/0/text: This song really sounds so interesting!
+e8bb9012/0/text: Could you share what makes this song special to you?
+6e05aa1d/0/text: From start to finish, the song is filled with sounds that I personally love—like the glitchy piano and bass that cut off abruptly, the thick synthesizer tones, and the complex bass lines of Complextro... It's just amazing!
+7540cba1/0/text: I see!
+60e6ee3c/0/text: Lastly, do you have any message for the players?
+571d314a/0/text: I hope everyone likes this song as much as I do.
+7569fc07/0/text: Please play it a lot, and I'll keep working hard to create even cooler and cuter music... Splash!

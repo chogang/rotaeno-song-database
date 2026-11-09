@@ -1,0 +1,209 @@
+b8979d01/0/text: Wah——
+f1d427d6/0/text: Taman ini luas sekali……
+2c05cc3f/0/text: Ya.
+2c05cc3f/1/text: Tampaknya bisa main sampai matahari terbenam!
+f05781d7/0/text: !!
+316d4f78/0/text: Nggak, tenang!
+316d4f78/1/text: Nggak apa-apa, hanya sisa 4 jam lagi matahari akan terbenam.
+316d4f78/2/text: Setelah ini, kita akan pergi ke——
+f46170df/0/text: Jangan main sampai lupa dengan pertunjukan akhir kami, ya♪
+17e340e4/0/text: Mona!
+cb281d85/0/text: Selamat datang☆
+cb281d85/1/text: Aku dari jauh sudah mendengar suara Ilot yang keras~
+2f97aab/0/text: Selamat siang. Wah… Mona yang memakai baju renang,
+2f97aab/1/text: tampak sangat dewasa…
+1c57c6c7/0/text: Hehe~ Cakap, 'kan?
+1c57c6c7/1/text: Cantik, 'kan? Bagaimana? Sudah jatuh cinta padaku, ya?☆
+9bf78591/0/text: Cih, terlalu percaya diri……
+f372315f/0/text: Hei~~~
+f372315f/1/text: Suara iri siapa nih~?
+cc6aa7b2/0/text: Cuih, aku nggak iri kok!
+cc6aa7b2/1/text: Kuberi tahu, ya! Baju renangku hari ini super spektakuler!
+be125274/0/text: Begitu dipakai, pasti akan mengagetkanmu!
+c489a2c5/0/text: Oh, iya! Tadi di telepon, Ilot bilang,
+c489a2c5/1/text: dia menyiapkan baju renang yang super lucu…?
+e9848020/0/text: Ya! Tapi kurang cocok untuk berenang.
+e9848020/1/text: Jadi, aku siapin satu set ekstra yang biasa!
+68cfb77a/0/text: Ku-kurang cocok untuk berenang,
+68cfb77a/1/text: Tapi itu baju renang…?
+2666885a/0/text: Firasatku agak buruk…
+d4d45beb/0/text: Pfffft, Ilot selalu suka melakukan sesuatu yang konyol~
+d4d45beb/1/text: Waduh—Sayang sekali, aku harus kembali bekerja…
+d490e139/0/text: Hoppe sayang, tolong fotokan gaya bodoh Ilot dan kirim ke LIME-ku, ya~
+d490e139/1/text: Bagikan sedikit kebahagiaan kepada budak perusahaan sepertiku~ Tolong ya, Hoppe kesayangan~♡
+86178db2/0/text: Eh? Ba-baiklah…?
+d60f9e7e/0/text: Huh! Jangan harap! Kami nggak akan membagikan foto apa pun padamu.
+d60f9e7e/1/text: Biarkan kamu penasaran!
+a7e1301a/0/text: Hahaha……
+3cd7187/0/text: Ayo, Hoppe!
+3cd7187/1/text: Kita ganti baju☆
+91770794/0/text: I-iya…!
+fe85c481/0/text: Huhu…sudah mau mulai…
+fe85c481/1/text: Aku gugup banget…
+798db70f/0/text: Hati-hati~
+798db70f/1/text: Jangan lupa datang tonton pertunjukan final saat senja~~~
+69dbc97/0/text: Pasti, pasti——
+463a4888/0/text: Harus datang, ya!
+6adbe68f/0/text: Huh…
+6adbe68f/1/text: Ilot belum keluar?
+63cac56b/0/text: Baguslah…
+63cac56b/1/text: Aku bisa siapkan mental dulu!
+6e992ba9/0/text: Waktu sekarang adalah pukul 12:30,
+6e992ba9/1/text: Masih ada tiga setengah jam sampai "Pertunjukan Final" itu…
+4c003496/0/text: Ho——ppe——
+361ca3e1/0/text: Ah, Ilot sudah keluar.
+a4b46ea/0/text: Ilot, kamu——
+a4b46ea/1/text: ?!??!
+994259cd/0/text: I-ini…?!
+95516d4f/0/text: Hehe!!!
+4501adf0/0/text: Huhuhu♪
+c0230cf2/0/text: Lihatlah!!!
+52ec2b42/0/text: Ini se-sebenarnya…
+fc24e8bf/0/text: Tadaaa~~~
+fc24e8bf/1/text: Konyol, 'kan? Lucu, 'kan?
+90185eae/0/text: ……
+218ff2c3/0/text: Astaga…
+218ff2c3/1/text: Sepertinya perhatian semua orang terfokus pada kami——…!
+a94895/0/text: Hei, jangan tutup wajahmu dong~~~
+a94895/1/text: Lihatlah, betapa lucunya diriku☆
+ad38f35/0/text: I-Ilot…
+ad38f35/1/text: …Ini…terlalu…
+879b5c88/0/text: C-A-N-T-I-K, 'kan?
+1c755afb/0/text: ……～～～
+9e09f688/0/text: bukan,
+9e09f688/1/text: Terlalu memalukan…!
+ef5c7fcc/0/text: Ki-kita benaran mau main dengan pakaian seperti ini…?
+16c886f2/0/text: Sepertinya terlalu…
+16c886f2/1/text: me-menarik perhatian?
+150d6218/0/text: Biarkan saja☆
+150d6218/1/text: Yang penting kita senang~
+e91416f7/0/text: Aku nggak senang——!
+e91416f7/1/text: …Tapi, sepertinya Ilot sangat menikmatinya…
+f8f5b548/0/text: Astaga, bagaimana ini~——…!
+51a2e83f/0/text: Lihatlah, baju renangmu sangat imut.
+51a2e83f/1/text: Terlihat sangat cocok dengan punyaku!
+284d378/0/text: Kita… Sangat cocok?
+50722d1d/0/text: Imajinasi macam apa ini…?
+b2fc9c3b/0/text: Benar!
+b2fc9c3b/1/text: Beauty and the Beast, cocok, 'kan♪
+2fb3a15b/0/text: ……
+9a54a20c/0/text: Sudah, sudah. Ayo masuk!
+9a54a20c/1/text: Main——☆
+aadffac4/0/text: Ha-haha……
+b04965/0/text: Eh——Lihat, Hoppe!
+b04965/1/text: Seluncurannya besar sekali!
+35040a80/0/text: Oke, permainan pertama sudah ditentukan!
+35040a80/1/text: Cepat, cepat. Mari kita mulai——☆
+d3f18b44/0/text: !
+c9a0ca2c/0/text: Sa-sampai!
+c9a0ca2c/1/text: Masalah pertama!
+efa140f2/0/text: Aku harus mencari cara!
+efa140f2/1/text: Cepat cari alasan, Hoppe…!
+c4dbed62/0/text: …Oh, iya!
+c4dbed62/1/text: Ilot, pakaianmu seperti ini, harusnya nggak bisa main seluncuran, 'kan?
+7e7bd12e/0/text: Apa? Harusnya bisa.
+7e7bd12e/1/text: Nggak masalah, aku bisa menahan bagian kepala dan ekor!
+464a0142/0/text: Hmm… Tapi, sepertinya sedikit berbahaya.
+464a0142/1/text: Bagaimana jika siripnya tersangkut pada sesuatu…
+8cc0c84/0/text: Lagi pula!
+8cc0c84/1/text: Kita baru saja sampai dan belum melakukan pemanasan apa pun!
+46ccffd0/0/text: Oh, iya! Pemanasan!
+46ccffd0/1/text: Pemanasan paling nggak bisa menghabiskan 15 menit?!
+b6fbc8f/0/text: Ya, ya. Ayo, kita lakukan pemanasan dulu.
+b6fbc8f/1/text: Lalu, rendamkan kaki untuk meregangkan otot!
+7c604e9a/0/text: Dengan begini, harusnya sudah setengah jam, kan…?!
+192011a1/0/text: Hmm~~~
+8b88ae35/0/text: Repot sekali…
+4525fbb4/0/text: De-demi keselamatan, bersabarlah!
+4525fbb4/1/text: Oke…?
+92f16371/0/text: Hmm…
+92f16371/1/text: Oke, mama——
+3b384219/0/text: Huh——…
+b3872548/0/text: Woaah——
+b3872548/1/text: Adem banget!!!
+2c102de6/0/text: Hehe… Ah, Ilot! Jangan tendang terlalu kuat.
+2c102de6/1/text: Hati-hati percikan airnya mengenai orang lain.
+4f1125b7/0/text: Baiklah——
+e3eeeacf/0/text: Huh… Rendam kaki benar-benar sangat nyaman.
+e3eeeacf/1/text: Bisa memijat kaki juga…
+8944ec21/0/text: Dan yang terpenting, sudah berlalu…
+8944ec21/1/text: setengah jam…!
+6a7baf46/0/text: Hehe, Hoppe, kita sudah pemanasan,
+6a7baf46/1/text: sudah meregangkan otot kaki juga. Ayo kita pergi ke taman yang airnya lebih dalam?
+345195d0/0/text: Aku mau menyelami air!
+796dde0d/0/text: Daerah gelombang buatan di sana terlihat keren!
+b6120ba2/0/text: !
+a32b251d/0/text: Airnya kelihatan sangat dalam…?!
+38d00a48/0/text: Hmm…
+38d00a48/1/text: …Iya, ayo kita ke sana.
+537da176/0/text: Hore!!!
+b5dc0504/0/text: Nggak, aku harus mencari cara…
+b5dc0504/1/text: Ah, dapat!
+8cba1df1/0/text: Oh, iya!
+8cba1df1/1/text: Ilot, kamu duluan, ya!
+98634dd4/0/text: Ha?
+61536bc8/0/text: Aku pergi beli minuman…!
+61536bc8/1/text: Na-nanti setelah berenang, pasti akan lelah dan ingin minum sesuatu, 'kan?
+8a796c3b/0/text: Lebih baik disiapkan dulu!
+86046bfb/0/text: Oh, benar juga.
+86046bfb/1/text: Kalau begitu, kita barengan——
+c55d38ca/0/text: Nggak boleh!
+e29c3380/0/text: Nggak apa-apa, aku saja. Ilot, kamu duluan. Aku akan segera menyusul!
+1221c382/0/text: Kalau Ilot ikut, aku nggak bisa memanfaatkan alasan belanja minuman untuk mengulur waktu…!
+c84ff7b8/0/text: ?
+c84ff7b8/1/text: Ba…baiklah…?
+9cfa7358/0/text: Huh——
+464a7500/0/text: Bagus, sesuai rencana…!
+464a7500/1/text: Akhirnya bisa mengulur beberapa waktu lagi!
+d6fa39c5/0/text: Meskipun hampir dikira pencuri oleh staf toko suvenir karena terlalu lama di situ…
+858a1bd/0/text: Coba kulihat, Ilot di…
+b6c31ebc/0/text: Oh, ketemu.
+6d5fe5a2/0/text: Aku kembali, Ilot.
+6d5fe5a2/1/text: Capek nggak? Nih, Soda Persik.
+9b163876/0/text: Hoppe!
+9b163876/1/text: Kamu lama sekali——
+2d56be7/0/text: I-iya.
+2d56be7/1/text: Tokonya agak ramai jadi……
+1e4190f9/0/text: Ternyata… Huh, tahu begitu aku akan pergi bersamamu.
+1e4190f9/1/text: Antrean sepanjang itu, kamu pasti sangat bosan, kan?
+895b4238/0/text: Hmm, iya.
+895b4238/1/text: Nggak terlalu……
+5c63642a/0/text: Huhu…
+5c63642a/1/text: Perasaan berbohong benar-benar sangat buruk……
+1f9d0a8/0/text: Hmm~~~ Ya, sudah!
+1f9d0a8/1/text: Oke, cepat turun dan berenang. Biar kamu nggak kepanasan!
+2a5a2648/0/text: Suhu air di sini sangat dingin,
+2a5a2648/1/text: nyaman banget lho!
+1a1951ca/0/text: !
+6b947cd/0/text: Air di sini…
+6b947cd/1/text: Te-terlalu dalam! Kalau aku turun, pasti akan ketahuan…!
+8e7cfff1/0/text: Hmm…
+8e7cfff1/1/text: Tapi Ilot baru saja selesai satu putaran, 'kan?
+d4d43677/0/text: Aku temani kamu istirahat dulu deh.
+d4d43677/1/text: Kalau nggak, kamu sendirian pasti sangat bosan…!
+ac2026ea/0/text: Hmm… iya sih……
+4f1400b6/0/text: Iya, 'kan?!
+3ca78e5c/0/text: Huh…
+3ca78e5c/1/text: Selanjutnya, aku harus mengalihkan topik… Oh, iya!
+4701660/0/text: Lagi pula, tadi saat melewati toko suvenir,
+4701660/1/text: Sepertinya mereka sedang menjual barang kolaborasi dengan Orlan lho…!
+f7f57ab0/0/text: Orlan?!
+89524c5a/0/text: Woooahhh! Luar biasa?!
+89524c5a/1/text: Tanam air ini terlalu hebat!
+130a9bc6/0/text: Benar.
+130a9bc6/1/text: Setiap kali mendengar idola favoritnya, Ilot akan kehilangan akal…
+532d0d17/0/text: Waduh~ Nggak boleh!
+532d0d17/1/text: Demi Orlan, aku harus memainkan setiap wahana di tanam air ini!
+2b4fe91b/0/text: ?!
+c5574130/0/text: Ke-kenapa bukan pergi ke toko suvenir,
+c5574130/1/text: malah bermain dengan lebih serius…?!
+8656be54/0/text: Boleh ya, Hoppe?!
+8334ab90/0/text: Bo-boleh……
+d2e723ca/0/text: Hore——!!!
+d2e723ca/1/text: Waduh, tapi kalau mau mendominasi peta, sepertinya baju renang ini terlalu merepotkan dan nggak efisien~…
+fe1da086/0/text: Tunggu sebentar, Hoppe!
+fe1da086/1/text: Aku ganti baju renang dulu, baru kita mulai tur taman air!!!
+3700e5c1/0/text: …Oke……
+2b851dd3/0/text: Op-optimis sedikit,
+2b851dd3/1/text: setidaknya dia akhirnya mengganti baju renang aneh itu…
+8d320a12/0/text: 2.5 jam lagi waktunya "Pertunjukan Final"

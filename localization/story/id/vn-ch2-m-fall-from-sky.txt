@@ -1,0 +1,51 @@
+412ca1a7/0/text: A-apa itu?!
+f8bb28c9/0/text: Po... 
+f8bb28c9/1/text: Pokoknya kabur dulu...!
+465aea81/0/text: Tapi harus ke mana?
+997357/0/text: Wah!!!
+401219b8/0/text: Bahaya sekali, hampir saja tersandung! 
+401219b8/1/text: Jalan di sini juga sangat buruk...!!!
+82368fe2/0/text: Menyeramkan sekali... 
+82368fe2/1/text: Di mana ada tempat yang aman...
+b8533d6/0/text: Aku sama sekali tidak tahu!!!
+db2c32cf/0/name: ??? 
+909bfc36/0/text: ...Oi!!!
+16e127cb/0/text: Adududuh!!!
+d0d23d53/0/text: Maaf tiba-tiba menangkapmu. 
+d0d23d53/1/text: Tapi sekarang bukan waktunya bengong!
+9f6fd684/0/text: Ma... 
+9f6fd684/1/text: Maaf...
+9b018458/0/text: Jangan banyak omong kosong! 
+9b018458/1/text: Cepat! Ikuti aku! Lari!
+d75fb927/0/text: Y-ya!
+511e938e/0/text: ...Kubilang... lari lebih cepat, 
+511e938e/1/text: Kamu tahu kamu sedang melarikan diri, kan? !
+1c2aa63e/0/text: Ya 
+1c2aa63e/1/text: Ya!
+dfe6dd9b/0/text: Uuuuugghh! Tangan kakiku dengarkan aku!!! 
+dfe6dd9b/1/text: Tuan kalian hampir mati!!!
+364b9eda/0/text: Ah...
+ee596af4/0/text: Akhirnya... 
+ee596af4/1/text: Tidak ada bayangan yang mengikuti...!
+d2b45861/0/text: 『BOOM...』
+9bff9e38/0/text: Waaaaaa...!!!
+297b5291/0/text: Aku...masih hidup...
+18649775/0/text: Fuuhh... Bahaya sekali. 
+18649775/1/text: Hampir saja menjadi dendeng.
+a51a64de/0/text: Ah...
+8cf61f69/0/text: Benar, 
+8cf61f69/1/text: Kita selamat karena... paman ini.
+d4ea51f5/0/text: Oi, apa kamu tidak apa-apa?
+8dd490ae/0/text: Ya...
+89c17394/0/text: Syukurlah jika tidak apa-apa, tanahnya sangat panas, 
+89c17394/1/text: Ayo, berikan tanganmu. Cepat berdiri.
+29066067/0/text: ...Terima kasih!
+40ce5d47/0/text: ...Belum pernah melihat gaya berpakaian ini. 
+40ce5d47/1/text: Apakah penduduk asli planet ini...?
+6b3dee26/0/text: Aku sedang membahasmu. 
+6b3dee26/1/text: Kenapa begitu ceroboh?
+671a24f8/0/text: Dia adalah tamu kan? 
+671a24f8/1/text: <color=orange>『Hati-hati batu jatuh』</color> Bukankah ini peringatan perjalanan pertama? 
+671a24f8/2/text: Apakah kamu tidak mendengarkan instruksi pelayan ketika menyewa pesawat?
+ba2c23bb/0/text: Hati-hati... 
+ba2c23bb/1/text: Batu jatuh? 

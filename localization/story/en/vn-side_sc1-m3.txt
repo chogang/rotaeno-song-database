@@ -1,0 +1,140 @@
+3d43fcbd/0/text: Welcome to the Aquaria L28 District City Library...
+3d43fcbd/1/text: If you need to... Hmm?
+e47f9ac0/0/text: ...Mona?
+d2512673/0/text: Hoppe!
+d2512673/1/text: It's been a long time!
+48ade0b1/0/text: Indeed!
+72f9a3a6/0/text: Are you here....
+72f9a3a6/1/text: ...to help your mum?
+de69f0e4/0/text: Yup!
+de69f0e4/1/text: Mom found a super high-paying temp job today...
+de69f0e4/2/text: ...so I'm here covering her shift!
+eea3e3e4/0/text: I see...
+eea3e3e4/1/text: It must be tough.
+97c899c1/0/text: It's still manageable.
+97c899c1/1/text: Not many people come to the library these days...
+97c899c1/2/text: so the visitors for the whole day can be counted on ten fingers!
+f4cc399a/0/text: By the way, are you here to borrow books?
+f4cc399a/1/text: Give me your book list, how long do you need it?
+f162a7a4/0/text: Ah, no...
+f162a7a4/1/text: I'm here to find physical books today.
+86c9f3e4/0/text: Physical books?!
+bb01f910/0/text: Yup!
+9e994a31/0/text: There's something...
+9e994a31/1/text: ...I need to check.
+6b0b1fa6/0/text: Huh?
+6b0b1fa6/1/text: Aren't they available in digital format?
+ec7f507f/0/text: Hmm...
+ec7f507f/1/text: The library system shows that only physical versions are available here and at branch O63.
+f396f46a/0/text: Hmm... I see.
+f396f46a/1/text: Hoppe, you really only read books that only geniuses can understand...
+923a28e5/0/text: Alright!
+923a28e5/1/text: What's the book title and author?
+b4d67968/0/text: Let's see... The physical collection page...
+b4d67968/1/text: Uh... where is it? The search system here is so complicated...
+11999dde/0/text: Mona...
+11999dde/1/text: ...seems really troubled.
+62f11880/0/text: Hey, it's fine.
+62f11880/1/text: I'll go in and look for it myself.
+7117a0f1/0/text: Is that okay? I'm sorry...
+1e7125c9/0/text: Yes, it's totally fine!
+1e7125c9/1/text: The physical book section isn't very big anyway...
+e269e7b7/0/text: That's true...
+e269e7b7/1/text: By the way, the physical book section closes at 4 today!
+e269e7b7/2/text: Make sure to leave before then!
+5756ff80/0/text: Sure!
+5756ff80/1/text: See you later then.
+3ea899f/0/text: ......
+61571ad1/0/text: Karan, Kafans, Kire... Ah...
+61571ad1/1/text: This is the one. Let me see...
+ae4cd033/0/text: ...Found it!
+ae4cd033/1/text: "Planet B283's Weather Observation Records".
+3ea899f/1/text: ......
+7c5af73c/0/text: ...
+3ea899f/2/text: ......
+2b76c7a5/0/text: ...72 days. 17,092.96 millimeters.
+a8df196a/0/text: The planet with the highest annual average rainfall in history...
+a8df196a/1/text: ...its longest continuous rainy days were... 72 days.
+d60fe37f/0/text: That's less than three weeks.
+d60fe37f/1/text: I'm probably just overthinking it.
+b16b9078/0/text: But with the rainfall increasing every day...
+8cdd6323/0/text: ...it feels unsettling.
+c067dfe4/0/text: Perhaps...
+c067dfe4/1/text: I should ask the professor for their opinion...?
+b3803e19/0/text: Hey!
+b3803e19/1/text: Ilot!
+f07a652a/0/text: Ilot...?
+a33295f5/0/text: Oh...!
+a33295f5/1/text: Mona! It's been a long time!!!
+1c01c22/0/text: Hey, you!
+1c01c22/1/text: Don't you know that you should remain silent in the library?!
+8efae9f4/0/text: Hah!
+8efae9f4/1/text: Take this!
+f2c80057/0/text: ?!
+f2c80057/1/text: O-Ouch!!!
+c6906c77/0/text: As a librarian, how could you use books as weapons?!
+ebc4bdba/0/text: Heh, you ignorant child.
+ebc4bdba/1/text: What else would a librarian use?
+dbb892ed/0/text: Excuse me, could you all keep it down?
+dbb892ed/1/text: And, uh, please don't be so rough with these precious books...
+ebd934b8/0/text: Ah, Hoppe!
+ebd934b8/1/text: Knew I'd find you here!
+d34c8025/0/text: I looked everywhere for you back in the neighborhood.
+d34c8025/1/text: Then I figured you might've come here to borrow books again, and indeed,
+d34c8025/2/text: bingo!
+d566f38e/0/text: Are you even trying to lower your volume...?
+d566f38e/1/text: But I guess at least it doesn't seem like there's anyone else here...
+1ba1a7b3/0/text: Ilot,
+1ba1a7b3/1/text: you were looking for me?
+d1b2e0af/0/text: Yeah!
+d1b2e0af/1/text: Aren't we baking a cake the day after tomorrow night?
+96a8c340/0/text: A cake?
+96a8c340/1/text: Whose birthday is it? Is it someone I know?
+b9c5b7c0/0/text: Nope!
+b9c5b7c0/1/text: It's for a party!
+e9d30791/0/text: A gi-gan-tic cake for the New Year's Eve party!
+5163bf7d/0/text: Um,
+5163bf7d/1/text: It's just for the two of us, so it won't be that big...
+d9c21c95/0/text: A New Year's Eve party?
+606b0c0f/0/text: Yep!
+606b0c0f/1/text: Since New Year's Eve is on a Saturday this year, Hoppe and I are having a sweet New Year's party for besties!
+15ebd89/0/text: What about your family, Mona?
+15ebd89/1/text: I wonder what parties are like for kids with parents?
+cc5087d1/0/text: Would they like be how it's portrayed in TV shows,
+cc5087d1/1/text: with a three-tier cake, champagne tower, and roasted turkey?!
+69209a9d/0/text: Isn't the last one for Christmas...?
+64ed8845/0/text: Huh?!
+64ed8845/1/text: Hello, Ilot? Do you think I live on Floating Island or something?
+b1bd436e/0/text: What do you think is the most important thing for a low-income immigrant family
+b1bd436e/1/text: during the holidays?
+e6274460/0/text: A big feast...?
+b57ddd86/0/text: Family reunion...?
+f5d42f66/0/text: Nope, you're both wrong!
+15f28bf7/0/text: It's money!
+2b9594d1/0/text: Making money! And making even more money!
+52935e84/0/text: Holidays are when high-paying temp jobs start popping up everywhere.
+52935e84/1/text: The rich get to enjoy themselves, and we get to enjoy making money off them!
+b9c15f45/0/text: My parents' schedule is already packed for New Year's Eve and New Year's Day.
+b9c15f45/1/text: They won't even be back until late on New Year's Day!
+557c33e8/0/text: That sounds so tough...
+b0ca1478/0/text: Well, it can't be helped.
+b0ca1478/1/text: Unlike you kids, we don't have an allowance to spend on living the good life.
+59348abe/0/text: If I were old enough to work nights, I'd be out there hustling with my parents too.
+59348abe/1/text: It's so boring sitting at home all by myself, doing absolutely nothing.
+ea902739/0/text: Mona...
+409c4421/0/text: Well...
+380ae15c/0/text: Yeah?
+50cf176e/0/text: If you don't have any plans for New Year's Eve,
+50cf176e/1/text: maybe you could hang out and party with us?
+d1eeef52/0/text: !
+ea8aade/0/text: ... Um?
+1ac76e52/0/text: That is if Ilot...
+3e8a5c/0/text: That's a great idea!
+3e8a5c/1/text: Whee, we're gonna be a party of three!
+1de40b70/0/text: Hey, Hoppe!
+1de40b70/1/text: This means that we need to get more snacks, right?!
+f2016bbd/0/text: I mean, there's three of us now!
+f2016bbd/1/text: Three!
+6c85b684/0/text: Alright, got it.
+6c85b684/1/text: Why don't we go now?
+86a6a1a/0/text: Yay!

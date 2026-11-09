@@ -1,0 +1,50 @@
+825b0ef9/0/text: Here are your chicken curry and iced cola. Enjoy!
+bdb2e439/0/text: Thanks!
+e34f7e29/0/text: Wow! This looks delicious!☆
+f435ccb8/0/text: Munch, munch...<br>Delicious! ♡
+d4c567d/0/text: Wow...<br>Warm dishes...It's been a long time!
+cd9710d2/0/text: While on the spaceship, meals are mostly limited to canned food or biscuits.
+7d25e3c/0/text: It's not that they taste bad, but I really don't want to eat those things for now...
+fbc6375f/0/text: Hello, today's chef recommendation is: Earl grey canelé with vanilla flower honey ice cream.
+71322f87/0/text: Would you like to try it?
+5effff8b/0/text: No, thanks.
+cf99886e/0/text: ...My wallet says no, thank you.
+448bbe6/0/text: I'm still saving up for Orlan's new single which will be released next week!
+5c129100/0/text: I understand, please excuse me.<br>Please enjoy your meal.
+8e1e4ff2/0/text: Thanks!<br>This is really delicious!
+2378777c/0/text: Speaking of which, the urban areas of Silvano...<br>...are quite similar to Aquaria.
+95854547/0/text: New technological products are everywhere and service robots are roaming around.<br>There are also floating screens displaying advertisements or news on the streets.
+c0f65a6e/0/text: It somehow makes this place feel more familiar to me.
+36ec3ef1/0/text: More importantly!<br>Like Aquaria, the network here is smooth!☆
+e319921/0/text: It's time to catch up on the new animes!♪
+f155b615/0/text: Infuriating!
+329ec2f6/0/text: ?
+db491446/0/text: Ah, it's from the next table...<br>Is that man drunk...?
+353d0bfd/0/text: That's enough, tone it down.
+95307bb8/0/text: AM I BEING LOUD NOW?!
+b3793183/0/text: No,<br>but it'd be good to lower your volume, since this is a sensitive topic...
+70f2bfbe/0/text: Sensitive? Tsk!<br>Planetary... Something?
+6e9a4883/0/text: ...The <color=yellow>"Planetary Conservation Act"</color>.
+49f3e9b1/0/text: Yes, that stupid act!
+91c29f5e/0/text: What's so good about it?!<br>Why are we... chased out just because of that useless act?
+754394f9/0/text: You saw that today!<br>That Ang... Anga... something...
+24b43435/0/text: ...Angatu.<br>As a native of Silvano...<br>...shouldn't you be familiar with the three great elves?
+3b2085e4/0/text: Who cares about them?!<br>They can kiss my butt!
+c4fe09e4/0/text: Just thinking about how he arrogantly drove us out today makes me furious!
+d6904053/0/text: What gave that mere elf the right to decide whether we stay or go?!
+f5347db5/0/text: The act was signed jointly by humans and elves.<br>Angatu was just doing his job...
+eaedb4db/0/text: Nonsense!<br>I didn't sign anything stupid like that!
+432ff3d1/0/text: ...Yeah, you're right.<br>It was the leaders and the council who signed it, but we must also abide by the terms of the act.
+5bd34f5d/0/text: Rubbish!<br>How dare they!
+21a73a79/0/text: ...
+b5310223/0/text: They can kiss my butt!
+21a73a79/1/text: ...
+89c81242/0/text: ...That's enough.
+5ce0895b/0/text: All the food on the table is now covered in your saliva.
+b166d9ca/0/text: ...Sigh.<br>Should I eat the food or not...?
+ec1daca1/0/text: The <color=yellow>"Planetary Conservation Act"</color> is just barbaric!<br>It's unreasonable! An evil act!
+1c42ea47/0/text: Yes, yes.
+cd2fcc55/0/text: ...It must be tough for that man's friend.
+92553785/0/text: But...<br>Did he mention about the elf chasing humans away...?
+ea5a4f08/0/text: Is that about what happened at the spaceport in the morning?
+e1f8b9ee/0/text: The <color=yellow>"Planetary Conservation Act"</color>...

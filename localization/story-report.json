@@ -1,0 +1,84 @@
+{
+  "objects": 1301,
+  "source_asset": "resources.assets",
+  "script_pointer": {
+    "file_id": 1,
+    "path_id": 2017
+  },
+  "source_locale": "zh-TW",
+  "source_locale_configuration_path_id": 16077,
+  "languages": {
+    "en": {
+      "documents": 186,
+      "entries": 10419
+    },
+    "id": {
+      "documents": 186,
+      "entries": 10420
+    },
+    "ja": {
+      "documents": 186,
+      "entries": 10415
+    },
+    "ko": {
+      "documents": 186,
+      "entries": 10418
+    },
+    "th": {
+      "documents": 186,
+      "entries": 10418
+    },
+    "zh-CN": {
+      "documents": 186,
+      "entries": 10418
+    },
+    "zh-TW": {
+      "documents": 185,
+      "entries": 10433
+    }
+  },
+  "command_types": {
+    "OverrideDisplayNameCommand": 1843,
+    "OverridePrintCommand": 71098,
+    "OverrideAppendLineBreakCommand": 20202,
+    "OverrideModifyCharacter": 12148,
+    "AnimsetCommand": 1411,
+    "Wait": 2319,
+    "SkipInput": 119,
+    "ModifyTextPrinter": 505,
+    "HideAllActors": 287,
+    "SetOSAuthorCommand": 105,
+    "FadeOutCommand": 457,
+    "PlaySfx": 384,
+    "ModifyBackground": 330,
+    "Spawn": 512,
+    "ModifyCamera": 1350,
+    "OverridePlayBgmCommand": 211,
+    "FadeInCommand": 348,
+    "HidePrinter": 1303,
+    "EmoteCommand": 1570,
+    "EnablePlaceOnTopCommand": 29,
+    "DestroySpawned": 77,
+    "ChangeNextRevealSpeedCommand": 74,
+    "AnimStopCommand": 118,
+    "HighlightCharacterCommand": 445,
+    "FaderCommand": 58,
+    "StopBgm": 229,
+    "StopSfx": 81,
+    "OverrideSpeakerTintColorCommand": 30,
+    "HideAllCharacters": 95,
+    "Stop": 57,
+    "LoopBgmPresetCommand": 9,
+    "ResetText": 474,
+    "DestroyAllSpawned": 12,
+    "WaitForInput": 244,
+    "AnimateActor": 30,
+    "ShowActors": 4,
+    "PlaySfxFast": 5,
+    "HideActors": 36,
+    "FloatCameraCommand": 9,
+    "ShowPrinter": 14
+  },
+  "unknown": [],
+  "format_note": "JSON and keyed TXT export of compiled dialogue and display-name fields; not original .nani source or a repackable Unity asset."
+}

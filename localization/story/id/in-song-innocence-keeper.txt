@@ -1,0 +1,27 @@
+f393a0cf/0/text: Selamat datang di wawancara kami!
+cd87fd53/0/text: Silakan perkenalkan diri kepada semuanya terlebih dulu!
+bf709cd3/0/text: Halo semua, aku adalah komposer dari Korea, Cansol!
+c561aeb9/0/text: Aku selalu berusaha belajar, demi menciptakan lagu yang menarik dan dapat menyentuh hati orang.
+a1ec5d90/0/text: Baik mereka yang baru pertama kali bertemu denganku, atau sudah mengenalku, semuanya sangat disambut!
+b3c952b1/0/text: Senang berkenalan denganmu!
+28511007/0/text: Bisakah kamu menjelaskan secara detail tentang lagu baru "Innocence Keeper" pada kami?
+19cee672/0/text: "Innocence Keeper" adalah lagu berdasarkan genre Future Core, yang menggambarkan kisah perlindungan dunia yang polos dan murni, dari serangan kekuatan eksternal.
+3a46f4dd/0/text: Meski lagu ini indah dan lembut, tapi juga memiliki elemen suara yang kuat dan menggugah.
+7bf11ced/0/text: Ternyata lagu ini menggambarkan kisah seperti itu!
+be591166/0/text: Apa yang Anda pikirkan saat sedang menciptakan lagu?
+67945d84/0/text: Saat menciptakan lagu ini, aku berharap semuanya dapat memikirkan cerita yang aku ceritakan saat mendengarkan lagu ini.
+81f9cfc4/0/text: Aku mencoba memadukan suara yang berlawanan secara alami dan musikal sambil mengejar suara jernih dari dunia yang murni, proses ini melewati beragam percobaan dan kesalahan!
+4e34a979/0/text: Sepertinya sebuah eksperimen yang menarik!
+e8bb9012/0/text: Bisa berbagi apa keistimewaan lagu ini dengan kami?
+d73e3156/0/text: Dari sekian banyak teknik komposisi, aku paling suka melakukan variasi bagian tertentu untuk kemunculan kembali.
+f8795bf2/0/text: Dalam lagu ini, kalian bisa memperhatikan melodi Intro dan bagian Drop berubah saat muncul kembali di bagian kedua, membuatnya semakin menarik untuk didengarkan.
+318ffbcc/0/text: Aku juga punya sebuah senjata rahasia (?), tidak tahu apakah ada yang sadar, ada bagian dalam lagu di mana suara "rotasi"!
+1d6e7f06/0/text: Aku khusus menekankan hal in ikepada tim Rotaeno, tidak tahu apakah mereka mencerminkannya di chart lagu :)
+65ff31ce/0/text: Oh~ Benar ada efek suara "rotasi" dalam musik!
+e341d3d0/0/text: Bagian "rotasi" dari chart tidak hanya berisi note perintah rotasi, tetapi juga efek khusus yang keren, ayo berputar!! (>w<)
+1a90d52a/0/text: Rasanya chart musik ini juga akan sangat menarik!
+60e6ee3c/0/text: Terakhir, ada sesuatu yang ingin disampaikan kepada para pemain?
+43a60688/0/text: Aku telah lama menjadi pemain game musik, bergitu juga saat ini dan di masa depan.
+4393b827/0/text: Mungkin aku mulai menciptakan musik karena terpengaruh oleh game musik, saat tersadar kembali, ternyata beberapa lagu milikku telah disertakan?
+f9ca5ad7/0/text: Terima kasih atas kecintaan semuanya terhadap game musik.
+7a7a8a24/0/text: Karena ini juga area yang sangat aku sukai, aku akan semakin berusaha, berharap dapat memberikan kenangan indah bagi semuanya.

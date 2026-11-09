@@ -1,0 +1,77 @@
+abcb6d58/0/text: Aquaria.
+abcb6d58/1/text: Sebuah planet indah yang dinamai karena sumber daya airnya yang melimpah.
+e1f64218/0/text: Iklim di sini menyenangkan, tanah subur,
+e1f64218/1/text: Meskipun tidak ada kekuatan sihir, semua jenis mineral langka di dasar laut dengan sempurna mengisi kekosongan itu,
+e1f64218/2/text: Dan membuat Aquaria secara bertahap berkembang menjadi salah satu planet teknologi terbaik di alam semesta.
+5be649b7/0/text: Lingkungan yang indah dan teknologi yang maju telah menarik perhatian banyak makhluk,
+5be649b7/1/text: Turis dan para pengusaha yang mencari kesempatan datang dan pergi...
+5be649b7/2/text: Menantikan masa depan Aquaria yang terlihat akan semakin baik.
+d7b134d4/0/text: Sampai 10 tahun yang lalu.
+d7b134d4/1/text: Hujan turun dari langit yang merupakan hal biasa bagi semua orang.
+42d3fe86/0/text: Tetes demi tetes.
+42d3fe86/1/text: Seperti mutiara yang pecah.
+f8ec19b3/0/text: Seperti garis putus-putus, tapi tidak dapat melihat ujung garis sama sekali,
+f8ec19b3/1/text: Mutiara.
+a658842e/0/text: Sekarang, alam semesta menamakan hujan tak berujung di Aquaria ini sebagai...
+49fb9a9b/0/text: ..."Hujan Abadi".
+ba3ceb91/0/text: Kehidupan biasa yang tidak berubah dari gadis berambut biru,
+1761cfb7/0/text: Karena hujan ini lalu hanyut ke aliran yang berbeda...
+86f69af8/0/name: ???
+bee40277/0/text: ...Sekolah adalah hal yang paling menyebalkan.
+e498b24d/0/text: Pendidikan wajib adalah wujud dari semua kejahatan.
+4022c602/0/text: Jelas-jelas bisa bertahan hidup tanpa belajar matematika.
+4022c602/1/text: Ada juga penerjemah bagi yang tidak mengerti bahasa asing, sehingga komunikasi bisa bebas hambatan.
+fdb16b0a/0/text: Untuk apa belajar kimia jika bukan seorang ilmuwan?
+fdb16b0a/1/text: Apa gunanya geografi jika tidak menjadi arkeolog?
+51352ee/0/text: Semua ini adalah sumber kejahatan yang menghalangi tujuan besarku mengejar idola!
+80b38215/0/text: Sedang memindai objek.
+835abe68/0/text: Sedang konfirmasi iris subjek.
+25fc9862/0/text: Konfirmasi selesai.
+25fc9862/1/text: Selamat datang, nona Ilot.
+714cd57d/0/text: Ah
+714cd57d/1/text: Yah
+714cd57d/2/text: ...
+714cd57d/3/text: Sangat lelah, sangat lelah.
+3f3378b5/0/text: Bagaimana kalau besok bolos?
+befdef29/0/text: Lagi pula yang tidak bisa lulus tetap tidak akan lulus,
+befdef29/1/text: Berjuang hanya menambah rasa sakit.
+c5857f6f/0/text: Tuan Ilot, selamat datang!
+c03f242/0/text: Sekadar mengingatkan Anda,
+c03f242/1/text: Drama idola Anda <color=yellow>"Shiny☆Love Courier♪"</color> akan dimulai setengah jam lagi!
+d65ab989/0/text: Baiklah, baiklah.
+7f7daf04/0/text: Hari ini juga bisa melihat Lulua yang imut~
+fd3cba72/0/text: Kelelahan terasa terbang menjauh~
+fd3cba72/1/text: Kenikmatan hidup, Yipee ☆
+51311afc/0/text: Cola, cola~
+51311afc/1/text: Happy Meal Fat Otaku-ku sudah siap~
+548b4d6c/0/text: ...Selain itu, sekadar mengingatkan Anda,
+548b4d6c/1/text: Tanggal 30 bulan ini adalah batas waktu relokasi penghuni di bawah lantai 161.
+acdc67c6/0/text: Apartemen Tuan Ilot terletak di lantai 152, merupakan tempat tinggal dalam lingkup relokasi,
+acdc67c6/1/text: Harap ingat untuk mengemas barang bawaan Anda, dan pindah ke apartemen baru yang ditunjuk untuk Anda sesuai jadwal.
+83ef84ca/0/text: ......
+92117c1c/0/text: ...<color=cyan>"Hujan Abadi"</color> yang menyebalkan.
+72a7ef21/0/text: Kalau <color=cyan>"Hujan Abadi"</color> dianggap sebagai orang,
+72a7ef21/1/text: Mungkin tipe orang menyebalkan yang menangis sepanjang hari.
+40a9a332/0/text: ...Tidak,
+40a9a332/1/text: Bahkan orang yang paling munafik pun tidak bisa terus menangis selama sepuluh tahun.
+564dcd11/0/text: ...Tuan Ilot,
+564dcd11/1/text:  mau kuingatkan lagi alamat apartemen baru Anda?
+f8ac868c/0/text: Ck! Sungguh menyebalkan!
+3e8af1f1/0/text: Hujan yang menyebalkan! Pindah rumah yang menyebalkan!
+5effff8b/0/text: Tidak perlu.
+76bc8e9c/0/text: Lagi pula hanya lantai yang lebih tinggi,
+76bc8e9c/1/text: Nanti saat pindah baru dibicarakan.
+8bda2f44/0/text: Lagi pula barang yang bisa dibuang telah dibuang semua,
+8bda2f44/1/text: Pindah juga mudah,
+8bda2f44/2/text:  hanya merepotkan saja.
+68b6e1a8/0/text: Hidupku tidak membutuhkan apa-apa,
+68b6e1a8/1/text: Poster Lulua dan koleksi lagu Orlan sudah cukup.
+fda60231/0/text: Hum~
+fda60231/1/text: Hum hum♪
+fda60231/2/text: Lulu~
+fda60231/3/text: a~
+137f6d06/0/text: Akan sangat bagus kalau Lulua juga tinggal di Aquaria.
+bedc4c4d/0/text: Kalau begitu, aku tidak akan melewatkan pertemuan offline!
+526663/0/text: Sudah hampir waktunya,
+526663/1/text: Pertama, login ke platform untuk mendapat posisi terbaik...
+289357de/0/text: ——！

@@ -1,0 +1,22 @@
+cf8a4d60/0/name: U-ske
+e516e263/0/text: Selamat datang di sesi wawancara kami!
+f13d569/0/text: Silakan perkenalkan diri Anda kepada semua orang!
+a2918d95/0/text: Halo para pemain Rotaeno!
+e478f1ef/0/text: Saya U-ske, seorang komposer asal Jepang.
+48ea0900/0/text: Senang bisa bertemu dengan kalian!
+b934de11/0/text: Bisa ceritakan lebih banyak tentang lagu terbaru kamu "NINJA-ish" kepada kami?
+7d7c3d5c/0/text: Menurut saya musik bergaya Jepang itu agak eksotis, tapi saya ingin menambahkan unsur pop dan kawaii ke dalamnya.
+2baa3dc/0/text: Jadi saya meminta Nanahira-san untuk mengisi vokal ninja kawaii di lagu ini.
+39fe901e/0/text: Keren banget!
+122200/0/text: Biasanya ninja suka bersembunyi dalam bayang-bayang dan menunjukkan kekuatan di saat penting.
+e03e7967/0/text: Benar, kan?
+c9a2a22d/0/text: Itu memang gambaran ninja di mata banyak orang!
+3efcbf7d/0/text: Lagu ini membawa pesan, "Santai saja dalam kehidupan sehari-hari tidak apa-apa, tapi kalau menghadapi situasi penting harus serius!"
+7540cba1/0/text: Begitu ya!
+d76d35d5/0/text: Menjelang akhir wawancara, adakah pesan untuk para pemain?
+5c275f0/0/text: Saya sebutkan tadi kalau ninja biasanya bersembunyi di dalam bayang-bayang.
+b8b43ad0/0/text: Dengan kata lain, keberadaannya harus tetap menjadi rahasia.
+f7e19df3/0/text: Sekarang sudah saya umumkan ke semua orang, mungkin saya tidak akan bisa muncul di depan publik lagi...
+e5856378/0/text: (Swoosh—boom!)
+4c23c720/0/text: UGHHH!!
+a0e8e369/0/text: Hah? Pak U-ske tiba-tiba menghilang begitu saja?!

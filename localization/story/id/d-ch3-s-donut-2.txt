@@ -1,0 +1,46 @@
+f0fd523b/0/name: ???
+e5881b3/0/text: Huh...
+b60b10e4/0/text: (Kenyang sekali~~~)
+42585089/0/text: Harus melakukan apa selanjutnya?
+3c67fcf6/0/text: ...
+9a372a61/0/text: (!!!)
+d6b4d6a7/0/text: (Shota yang terakhir kali!)
+3cd4b6ec/0/text: (!)
+dc4b043f/0/text: (Tunggu, dia datang sendirian ke kota?!)
+39c7d82d/0/text: Hm...!
+b16afce9/0/text: !!!
+95405d4d/0/text: Tunggu! Jangan lari, aku bukan orang jahat!!!
+3c67fcf6/1/text: ...
+dbd01403/0/text: Kamu datang sendirian? Kota manusia sekarang bukankah sangat berbahaya bagi Elf?
+10ab95e2/0/text: Anak kecil seperti kamu sebaiknya tidak datang ke sini sendirian?
+fe1a02fa/0/text: ... Aku lebih tua dibandingkan kamu.
+4996be67/0/text: (Hm.)
+387bfeab/0/text: (Sepertinya benar juga... Dia adalah ras Elf...)
+e4f217bc/0/text: Ahaha... Ehem, kita... tidak perlu membahas ini!
+3c6de688/0/text: Barusan melihat kamu sepertinya sedang melihat ke sekeliling. Sedang mencari sesuatu?
+3c67fcf6/2/text: ...
+4dfa1a0b/0/text: (Alisnya berkerut sepertinya bahkan dapat menjepit dan membunuh nyamuk... Apakah begitu menyakitkan berbicara denganku...)
+e50b36aa/0/text: Hm... Aku sungguh bukan orang jahat!
+700dd05e/0/text: Aku sangat suka dengan Elf!
+efb0aa74/0/text: Aku bahkan pergi berkunjung ke hutan kemarin!
+3b257173/0/text: (Meskipun akhirnya diusir...)
+842ac63e/0/text: Aku bahkan bersama yang berambut merah muda...
+c05dad5b/0/text: Sudah lihat.
+b9cc9c/0/text: Eh?
+69bdc7a3/0/text: Aku sudah lihat. Kemarin, kamu berbicara dengan kakak Cheri.
+3906ed6/0/text: Ah, hehe. Ternyata kamu sudah lihat~
+3e8caf09/0/text: Lalu diusir oleh kakek Angatu.
+83ef84ca/0/text: ...
+9cfe77f/0/text: ... Benar, Benar begitu.
+c2e1b0e2/0/text: (Tapi... Kakek Angatu...???)
+3c67fcf6/3/text: ...
+6445965e/0/text: Ayo buat kesepakatan.
+460b6dbe/0/text: ... Hah?
+e53f288d/0/text: Kamu ingin masuk ke hutan bukan?
+70937244/0/text: Ada sebuah toko dessert yang terkenal di kota, Bawakan aku satu Donat Krim Madu.
+38f73398/0/text: Setelah itu, Aku akan membantumu meminta izin dari kakek Angatu, Meminta izin untuk memasuki hutan.
+ffe14af5/0/text: !!
+d40b1031/0/text: Tidak perlu menyelinap diam-diam dengan bantuan kakak Cheri. Tapi benar-benar bisa bebas masuk dan keluar.
+e6670a5b/0/text: (Hanya satu donat, Pasti bisa...!!!)
+b6380e41/0/text: Tidak masalah! Serahkan saja padaku!!!
+53dea2c3/0/text: Aku pasti akan menemukan donat paling enak di Silvano untukmu!

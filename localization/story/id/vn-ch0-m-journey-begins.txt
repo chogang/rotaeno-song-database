@@ -1,0 +1,40 @@
+7bec35f0/0/text: Tetapkan tujuan:
+7bec35f0/1/text: Orb
+afff1970/0/text: Mode penerbangan:
+afff1970/1/text: Hemat bahan bakar
+25e7a92/0/text: Perkiraan waktu mencapai tujuan:
+25e7a92/1/text: 3 hari
+6cfa6cac/0/text: Prediksi cuaca tujuan setelah kedatangan:
+6cfa6cac/1/text: Mendung
+60fa1868/0/text: Apakah informasi di atas benar?
+e8d7da90/0/text: ......
+3623d1b0/0/text: Hah~
+3623d1b0/1/text: ...Konfirmasi, konfirmasi.
+ddb7afe9/0/text: Kupikir Slime itu hanya bercanda, tapi Spaceport benar-benar tidak mengizinkan pengembalian tiket...
+cc9c0389/0/text: Huhu... Paman Jelly sialan...!
+e9deaf71/0/text: Pengemudi telah konfirmasi informasi benar,
+e9deaf71/1/text: Perintah pilot otomatis akan dijalankan dalam 1 menit.
+585a1703/0/text: Orb... tempat macam apa itu?
+69e770b6/0/text: Bepergian tergesa-gesa seperti ini, tidak akan ada bahaya, kan...
+5ad5d7a2/0/text: Penipu... Pedagang manusia...
+377d3b2/0/text: Aah, tidak boleh dipikirkan lagi, energi negatif hilanglah...!
+4661489f/0/text: Lulua! Tuan Orlan! 
+4661489f/1/text: Tolong beri aku keberanian dan kekuatan...!
+a6afd77/0/text: Pesawat ruang angkasa akan segera dimulai.
+2286fe2/0/text: Akan masuk instruksi pilot otomatis 
+2286fe2/1/text: 10,
+2286fe2/2/text: 9,
+2286fe2/3/text: 8...
+ca6067c5/0/text: Su-sungguh akan berangkat!
+b050a63e/0/text: Se-semoga dapat menemukan Hoppe segera setelah tiba!
+863d82af/0/text: ...Haha, hal ini tidak mungkin, kan...
+863d82af/1/text: Orb dekat dengan Aquaria, Hoppe seharusnya berada di bintang yang jauh dari Aquaria sekarang...
+410955e1/0/text: 3,
+410955e1/1/text: 2...
+410955e1/2/text: 1.
+e4423234/0/text: Pesawat ruang angkasa berangkat.
+1b70918f/0/text: Wahhhh... sangat bergetar! 
+1b70918f/1/text: Terlalu bergetar! !!
+1ca2906d/0/text: Mau muntah...! !!
+7ce942d7/0/text: Semoga perjalanan Anda menyenangkan.
+de298158/0/text: Tidak menyenangkan...! !!

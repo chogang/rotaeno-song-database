@@ -1,0 +1,45 @@
+f0fd523b/0/name: ???
+1dc54ba0/0/text: Tada!!!
+e80d2341/0/text: Maaf sudah menunggu lama!!! Makanan kamu sudah tiba!!!
+a02fcf3c/0/text: !
+3ec651ba/0/text: Ini, benar Donat Krim Madu?
+af0cbc04/0/text: Tentu saja! Ilot pasti menyelesaikan tugasnya, aku tidak akan mengecewakan pelanggan!
+5f3ca75e/0/text: Ayo, silakan dinikmati~
+52e042c5/0/text: Wah...!
+84f8dede/0/text: Wangi sekali...!
+a0f4a08/0/text: Madu ini...
+592c3b78/0/text: Lalu yang berwarna putih ini, krim...?
+798a7d7d/0/text: ...? Benar...?
+69c7c51c/0/text: (Kenapa sepertinya ini pertama kalinya melihat krim yang segar...)
+d37149a7/0/text: Jangan-jangan... Kamu belum pernah makan?
+33de8f39/0/text: Benar, Tidak boleh?
+e5b80fdc/0/text: Kakek Yue berkata, Makanan manusia sangat lezat.
+9c156cc9/0/text: Salah satunya bernama "Donat Krim Madu", yang paling enak di antara semuanya.
+a6ac63e8/0/text: Ternyata, Yang kakek Yue katakan itu benar!
+b3604679/0/text: Tekstur yang renyah dan lembut ini...!
+b4083e/0/text: Dipadukan dengan rasa manis madu, dan yang disebut "krim" ini, sungguh lezat~
+83ef84ca/0/text: ...
+b053a75e/0/text: (Dia terlihat sangat senang... Baguslah.)
+de6bb8d4/0/text: ... Tommy? Kamu sedang apa di sini?
+ee3da0cb/0/text: Eh, kakak Cheri!
+472c6325/0/text: !
+c752fb27/0/text: Ah, Ilot, kamu juga di sini.
+3ba225ef/0/text: Ini... Donat Krim Madu?
+aa577ec2/0/text: Ilot yang membawakannya...?
+9567e173/0/text: Benar! Dia yang membawakannya!
+75eacfdb/0/text: Jadi aku tidak diam-diam keluar hutan!
+3e55a553/0/text: Tidak sama sekali!
+51c06582/0/text: (... Sudah lari.)
+3981ae67/0/text: Anak ini... Sungguh.
+539832ca/0/text: Maaf, apakah Tommy sudah merepotkanmu?
+4ea72cbc/0/text: Mohon maaf.
+551dd04d/0/text: Tidak bisa dibilang merepotkan... Hanya membawakan donat saja.
+83e033c3/0/text: ... Terima kasih.
+4e728cc/0/text: Umur Tommy masih muda, Sedang memiliki rasa ingin tahu yang tinggi.
+d88f00c1/0/text: Beberapa waktu lalu saat sedang menulis catatan pertumbuhan pohon willow di tepi danau,
+2d0a9966/0/text: Beberapa hari belakangan dia tiba-tiba ingat dengan cerita yang diceritakan oleh Tuan Yue,
+2c669ce9/0/text: Menjadi tertarik pada hal-hal yang berhubungan dengan manusia.
+16789ea/0/text: Argh... Sungguh saat yang tidak tepat untuk merasa penasaran.
+7a944da4/0/text: Biasa membiarkan Tommy... Anak-anak di hutan bermain dan menjelajah dengan bebas...
+f109d1b5/0/text: Kapan akan bisa terjadi lagi...
+5adec12d/0/text: Kakak Cheri...

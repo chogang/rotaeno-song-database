@@ -1,0 +1,27 @@
+97117b4a/0/text: Ilot, aku dengar kamu tidur saat kelas matematikan hari ini,
+97117b4a/1/text: Lalu dimarahi guru...?
+943f2c6c/0/text: Benar! Dimarahi cukup lama,
+943f2c6c/1/text: Menyebalkan~~~
+c33bd73c/0/text: ... Sepertinya sudah dua kali minggu ini?
+c33bd73c/1/text: Kalau begini terus, apakah akan ada masalah dalam ujian tengah semester bulan depan...?
+e33e2/0/text: Eh, iya juga, sebentar lagi ujian...
+e33e2/1/text: Hm... Kita kenapa harus sekolah ya?
+17c2a586/0/text: Teknologi sekarang sudah bisa menyelesaikan semua masalah!
+17c2a586/1/text: Hei, Xiaozhi~ 10x25x6 itu berapa~?
+3a42ff76/0/text: Halo, 10x25x6 = 1500.
+992dcc10/0/text: Lihat! Betapa mudahnya!
+34a86563/0/text: Haha...
+b186ff0c/0/text: Tapi coba kamu pikirkan, jika Ilot tidak tahu logika dari "perkalian" ini,
+b186ff0c/1/text: pasti tidak bisa bertanya pada Xiaozhi?
+6c66288a/0/text: Bagaimana mungkin tidak tahu hal semacam ini?
+6c66288a/1/text: Sejak pertama kali masuk sekolah pasti sudah... Ah.
+405e0725/0/text: Benar tidak?
+9fdd323c/0/text: Hm... Ta... tapi!
+9fdd323c/1/text: Aku juga tidak perlu mempelajarinya!
+77231fb8/0/text: ...?
+17a0feda/0/text: Masih ada kamu!
+17a0feda/1/text: Tidak masalah jika tidak mengerti, cukup dengarkan Hoppe saja♪
+9ffba370/0/text: ...
+aa6f415e/0/text: Kalau begitu, dengarkan aku,
+aa6f415e/1/text: Cepat kembali dan belajar sekarang.
+5871b1c1/0/text: ?!

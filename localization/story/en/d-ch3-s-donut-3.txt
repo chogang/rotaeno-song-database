@@ -1,0 +1,58 @@
+d485365b/0/text: Right here!
+61d6d86b/0/text: (After a whole night's search and cross-checking countless reviews...)
+53494f81/0/text: (This one has to be the best donut shop in Silvano!)
+830643ee/0/text: Welcome.
+6408186a/0/text: Sir. I want one...
+bef7af2d/0/text: Actually... Two honey cream donuts!
+466f97a5/0/text: I'll have one here and package the other for takeaway, please.
+b15a0ce2/0/text: (It's a rare opportunity, I should get one for myself, too.)
+92ed9fe8/0/text: Sorry, no takeaway service.
+ffe14af5/0/text: What?!
+e5cc1f5c/0/text: I-I don't get it...
+337cd4ce/0/text: Freshness is key to good taste. The taste of our donuts will be completely different if put longer than 10 minutes after fried.
+aa43330a/0/text: That's okay! My friend always wants to try your donuts, so...
+c0fc4f59/0/text: Sorry but we don't provide that service. It's just our policy.
+3a3e743d/0/text: Please invite your friend to come together with you next time. As a token of our apology, we shall offer you two cups of our top-selling drink for free.
+d25a9145/0/text: But...
+47fb1e9c/0/text: It's too dangerous to take an elf here, only for a donut?
+4b8c253f/0/text: (Although he's actually older than me,
+fe1b534/0/text: his innocent puerile look makes him seem vulnerable to those barbarians...)
+53d805f8/0/text: Excuse me, did you say "elf"?
+3cd4b6ec/0/text: (Hmm?)
+4d931ad7/0/text: Y-Yes. What's the matter?
+1ba3e2d7/0/text: Elves cannot eat donuts?
+8eed907e/0/text: ...
+b06eb498/0/text: (No, no, no. Is he with those villains?)
+18d0bd49/0/text: Okay. I see.
+e55ff2a4/0/text: (?! What? You see what? Is there going to be a fight?!)
+788ef74a/0/text: I can lend my personal thermostat box to you, so the donut may stay fresh.
+4df2e960/0/text: I warn you, I... Huh?
+15dc83db/0/text: But you'll have to return the box to me before we close tomorrow. Or I will call the police.
+ec5ee7a6/0/text: Is that okay for you?
+afaa9965/0/text: Yes, but... You said no takeaway...
+839bf8e9/0/text: Why...
+acb2906f/0/text: I wonder why... As well.
+633366d7/0/text: Probably it's because I miss the old days.
+9a930253/0/text: ?
+c9b529da/0/text: We used to have many elven customers in the past.
+f9504e36/0/text: They were all super into the honey cream flavor.
+de8c9bff/0/text: Why? Probably because it's made with all-natural stuff, which is right up their alley.
+2ec440a9/0/text: I see... Never thought there was a history like this before.
+8597da29/0/text: Haha, yes. You thought elves were unfriendly to humans from the beginning?
+b8f035c9/0/text: I tell you what, I love to make friends with elves.
+f6c85af/0/text: First of all, they are easygoing. Secondly, they are pretty.
+4665d6a6/0/text: Both male and female are a real treat for the eyes.
+cf3912e7/0/text: Whereas a lot humans aren't easy on the eyes, I need to give my eyes daily care.
+95119332/0/text: Haha...
+26a53035/0/text: (I, too, value the looks, so I agree... But...)
+340601dd/0/text: (I have mixed feelings...)
+636cbec2/0/text: It's only because those dummies keep making noises...
+cfb19a41/0/text: Alas, how long must I endure this painful life?
+83ef84ca/0/text: ...
+2ad817c/0/text: I feel you. Trust me, things will get better soon!
+11a5858b/0/text: Like you said, they are dummies. They're causing you headaches at the moment, but rest assured that there will be an end to it all one day!
+c6f18741/0/text: ...Well! I am looking forward to that day.
+afa31b51/0/text: Alright, you take it. Your takeaway.
+21cc3f56/0/text: Remember to return the box. It's expensive.
+e4346528/0/text: Also, don't tell people about the takeaway. This is an exception, ya understand?
+b5e1593f/0/text: Sure!

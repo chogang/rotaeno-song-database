@@ -1,0 +1,32 @@
+4888c96f/0/name: kuro
+fbe7e0e1/0/text: Selamat datang di ruang wawancara~! Pertama-tama, bolehkah kamu memperkenalkan diri?
+2f68d12d/0/text: Halo para pemain Rotaeno, perkenalkan, saya kuro!!!!
+5bab46f6/0/text: Saya membuat berbagai macam lagu—dari yang bergaya musik game,
+da765460/0/text: sampai yang di luar gaya tersebut.
+d8b36fd7/0/text: Salam kenal semua~!
+d8be39cc/0/text: Bisa ceritakan sedikit tentang karya barumu "ミルキーウェイを辿って"?
+77d8d784/0/text: Lagu "ミルキーウェイを辿って" ini,
+86af1b2e/0/text: memadukan genre Artcore yang biasanya saya buat,
+999462ec/0/text: dengan unsur yang lebih ceria, seperti HAPPY HARDCORE dan Future Bass,
+5a710e7c/0/text: lalu saya juga bereksperimen dengan berbagai pola ritme,
+d600799f/0/text: jadi lagu ini saya aransemen agar terasa lebih hidup dan dinamis dari biasanya.
+beb318e8/0/text: Saya membuatnya dengan menyeimbangkan keasyikan dimainkan di musik game
+44dc01b7/0/text: dan asyik didengarkan sebagai lagu biasa.
+ab63beb8/0/text: Bagaimana menurut kalian…?
+4733736c/0/text: Semoga kalian menikmati lagu ini…
+699b9b59/0/text: Saya benar-benar berharap kalian suka!
+63bf396a/0/text: Waktu dengar lagu ini, rasanya seperti Lulua ikut tenggelam dalam luasnya galaksi.
+e18b90a8/0/text: Apakah itu jadi inspirasi utama lagu kali ini?
+3a3295b7/0/text: Sesuai judulnya,
+859ca2d5/0/text: saya membayangkan perjalanan menuju ke tepian galaksi,
+725662c1/0/text: "Kalau aku menelusuri cahaya gemerlap ini, apa ya yang bakal kutemui!?"
+323209cf/0/text: Dengan dorongan rasa penasaran itu,
+3db5210/0/text: serasa terbang melintasi ruang angkasa, berjarak cahaya bertahun-tahun jauhnya!
+68b3117e/0/text: Keren sekali! Nah, ada pesan khusus buat para pemain Rotaeno?
+140c2349/0/text: Terima kasih banyak atas kesempatan ini.
+c71484de/0/text: Saya sebelumnya juga pernah menyumbang beberapa lagu,
+c2c3c99c/0/text: tapi ini pertama kalinya saya bikin lagu khusus buat Rotaeno,
+c04ea5f7/0/text: jadi rasanya benar-benar spesial buat saya.
+1ad3457f/0/text: Para Pilot juga, sambil membayangkan suasana seperti itu,
+5ce83fdc/0/text: jangan ragu buat mainkan game ini seasyik mungkin di perangkat kalian!!!!
+b9e46ef0/0/text: Saya juga akan ikut main dengan heboh, deh!

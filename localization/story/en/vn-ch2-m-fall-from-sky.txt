@@ -1,0 +1,51 @@
+412ca1a7/0/text: Wh-what's that?!
+f8bb28c9/0/text: I-
+f8bb28c9/1/text: I guess I should run...!
+465aea81/0/text: But where should I go?
+997357/0/text: Woah!!!
+401219b8/0/text: This is too dangerous. I almost fell again! 
+401219b8/1/text: The roads here are so terrible!
+82368fe2/0/text: This is so scary... 
+82368fe2/1/text: I need to find somewhere safe...
+b8533d6/0/text: but I don't even know where to start!
+db2c32cf/0/name: ??? 
+909bfc36/0/text: —— Hey!!!
+16e127cb/0/text: Aaaeeeee!!!
+d0d23d53/0/text: Sorry to grab you like that, 
+d0d23d53/1/text: but this is just about the worst time to be sitting around!
+9f6fd684/0/text: Sor... 
+9f6fd684/1/text: sorry...
+9b018458/0/text: Don't waste your breath! 
+9b018458/1/text: Hurry, come with me. Run!
+d75fb927/0/text: O-okay!
+511e938e/0/text: I said... run faster! 
+511e938e/1/text: Don't you realize you're running for your life?!
+1c2aa63e/0/text: Yes, 
+1c2aa63e/1/text: yes!
+dfe6dd9b/0/text: Come on, legs! Move faster! 
+dfe6dd9b/1/text: Your owner's life depends on it!
+364b9eda/0/text: Ah...
+ee596af4/0/text: Finally... 
+ee596af4/1/text: That was the last of them——!
+d2b45861/0/text: (BOOOOM!)
+9bff9e38/0/text: Aaaeeeee——!!!
+297b5291/0/text: I'm... I'm still alive...
+18649775/0/text: ... That was a close one. 
+18649775/1/text: We were just about made into meatcakes.
+a51a64de/0/text: Ah...
+8cf61f69/0/text: Right, 
+8cf61f69/1/text: I wouldn't be alive if it weren't for this guy...
+d4ea51f5/0/text: Hey, are you alright?
+8dd490ae/0/text: Yes...
+89c17394/0/text: Good. The ground is hot. 
+89c17394/1/text: Come, take my hand. Let me help you up.
+29066067/0/text: ... Thank you!
+40ce5d47/0/text: ... I've never seen anyone with clothes like this. 
+40ce5d47/1/text: Is he a local...?
+6b3dee26/0/text: Hey, you. 
+6b3dee26/1/text: How could you be so careless?
+671a24f8/0/text: You're a tourist, aren't you? 
+671a24f8/1/text: Isn't <color=orange>"Danger - Falling Rocks"</color> one of the very first travel precautions? 
+671a24f8/2/text: Weren't you paying attention to the spaceport attendant?
+ba2c23bb/0/text: Danger... 
+ba2c23bb/1/text: falling rocks? 

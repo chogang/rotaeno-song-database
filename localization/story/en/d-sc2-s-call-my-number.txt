@@ -1,0 +1,15 @@
+880363be/0/text: Sigh, no one's hyped about the festival...
+880363be/1/text: Even with such an interesting prize for this year's winner~
+7eb9f63f/0/text: Do you want to win, Kakari...?
+aeb308c4/0/text: Hm? Nah, it's just that,
+aeb308c4/1/text: it's been a while since everyone worked hard together on a project. I kinda miss that feeling.
+d2e111b6/0/text: ......
+5915fc67/0/text: ...What's wrong, Rumil~? I don't care about winning, really~
+5915fc67/1/text: And don't go convincing others either, OK?
+36cdca24/0/text: But...
+441c90f/0/text: If this is what most of the class wants,
+441c90f/1/text: then so be it! It's just a bit of a shame...
+e731d892/0/text: But on the plus side, this means that,
+e731d892/1/text: we get to totally relax on the day of the festival~!
+d101d604/0/text: That's something to look forward to, right~♪
+3d9c7df6/0/text: ......Yeah. (♡)

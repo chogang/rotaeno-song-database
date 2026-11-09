@@ -1,0 +1,17 @@
+275dfd84/0/name: Zexnum
+2cc6ad29/0/text: Selamat datang di sesi wawancara kami!
+94882f1e/0/text: Bisa tolong perkenalkan diri kamu terlebih dahulu?
+20b7826d/0/text: Halo, senang bertemu dengan kalian semua. Aku Zexnum!
+b62f6ff5/0/text: Senang juga bisa kenalan denganmu!
+234b6751/0/text: Aku sangat antusias dengan lagu barumu "Call My Number." Bisa ceritakan sedikit tentang lagu ini?
+9043e853/0/text: Aku sendiri sangat suka game musik.
+3d6fb088/0/text: Artinya sangat besar bagi saya bisa memiliki lagu saya ditampilkan di Rotaeno dengan cara seperti ini.
+a10820ab/0/text: Alih-alih menjadi lagu yang biasa kamu dengar di game musik,
+8f377654/0/text: lagu ini menggabungkan unsur EDM dan House, sehingga terasa seperti di klub malam.
+4100ce50/0/text: Saya yakin para penggemar EDM pasti akan suka banget dengan lagu ini,
+6b45e334/0/text: jadi coba mainkan di semua tingkat kesulitan—saya akan sangat senang kalau kamu menikmatinya!
+24798a98/0/text: Sepertinya lagu ini bakal sangat seru!
+ad5d6dd6/0/text: Ada pesan yang ingin kamu sampaikan ke para pemain?
+a571d8e2/0/text: Terima kasih banyak untuk semua pemain Rotaeno yang sudah memainkan lagu saya!
+1718da83/0/text: Saya juga akan berusaha menaklukkan semua tingkat kesulitan, jadi ayo kita nikmati gamenya bersama-sama!
+5120fc25/0/text: Sampai jumpa lagi!

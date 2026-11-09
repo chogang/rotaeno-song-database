@@ -1,0 +1,21 @@
+8531efe5/0/name: seatrus
+5f1cccbe/0/text: Welcome to our interview room! Please introduce yourself to everyone.
+17f3638/0/text: Hello! I am seatrus, a composer from Japan.
+59e894a2/0/text: I also regularly train myself as a rhythm game player!
+3990bf20/0/text: It's great to meet you all! Could you tell us about your new track, "INN3RFLAME"?
+c333c8f6/0/text: The track "INN3RFLAME" that I've submitted this time
+48d360b/0/text: still carries my signature style, but with a slightly fresher twist.
+ae4578c0/0/text: I built it around the theme of hidden passion and a burning will to resist,
+fd5a4348/0/text: giving it an energetic mood that's still calm and deeply moving.
+17ca25b0/0/text: It features the kind of fast tempo you'd expect from a music game, combined with Hitech‑style bass,
+9100f62b/0/text: resulting in a track that's both groovy and full of power.
+9dc88783/0/text: This is really cool!
+215988f6/0/text: On top of that, to match Rotaeno's uniquely immersive gameplay,
+470e8e5d/0/text: I paid very close attention to the rhythm and overall structure of the track.
+c6847680/0/text: So you really put that much thought into crafting this song!
+2d9e3390/0/text: I'm sure both the track and its chart will be loved by many players!
+2419b5c/0/text: In that case, do you have any other messages for the players?
+a4cb82d/0/text: Thank you all so much for your support!
+c3551788/0/text: I hope you'll enjoy discovering a new side of seatrus,
+6336866e/0/text: different from the songs I've already released in Rotaeno!
+53227754/0/text: I'll also be challenging myself to clear this track, too :)

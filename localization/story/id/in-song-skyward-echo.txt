@@ -1,0 +1,27 @@
+cffdc47a/0/name: 南愁Nanchou
+99293ac5/0/text: Sudah waktunya sesi wawancara lagi~!
+550852be/0/text: Halo! Saya Nanchou, komposer baru dari Xinjiang, Tiongkok.
+8de5f340/0/text: Hai~! Bisa ceritakan tentang karya Anda, "伊天珀凌"?
+12a45081/0/text: Saat saya bekerja membuat "伊天珀凌",
+5c196f4a/0/text: Banyak sekali gambaran yang bermunculan di kepala saya.
+3a02f9d4/0/text: Mungkin karena saya sangat suka dengan Ilot dan Hoppe,
+e7a58ba7/0/text: Jadi saya mengambil satu karakter dari nama mereka dalam bahasa Mandarin untuk menjadi judul lagunya.
+1d31c6a6/0/text: Oh, jadi ternyata ada makna tersembunyi di nama lagunya ya!
+5e254c1d/0/text: Untuk lagu ini, saya benar-benar fokus pada melodi dan ciri khas suara saya sendiri,
+1c24ad3f/0/text: Saya juga tidak terpaku pada satu genre saja,
+fc6c9633/0/text: Setiap bagian saya kombinasikan berbagai elemen yang berbeda.
+20e02472/0/text: Menurut saya, hasilnya jadi lagu yang asyik dan nggak bikin bosan saat didengarkan.
+db67a505/0/text: Yang membuat lagu ini unik adalah sensasi "kecepatan" yang terasa di ujung jari saat dimainkan.
+71e7224f/0/text: Kadang ketukan drum dan melodi berjalan beriringan, kadang saling bertukar,
+c256cea/0/text: Saya ingin menghadirkan pengalaman bermain baru yang terasa seperti sedang "berputar".
+f1e3c659/0/text: Dengan efek suara yang saya tambahkan di momen-momen penting,
+616209d0/0/text: Saya berharap setiap kali menekan not terasa seperti muncul gelombang di permukaan air.
+c1fb2700/0/text: Terima kasih sudah menciptakan lagu yang seru banget ini!
+fb9ae939/0/text: Akhir kata, ada pesan untuk para pemain?
+f0215f69/0/text: Pertama-tama, saya sangat berterima kasih pada tim Rotaeno atas kesempatan yang diberikan ini.
+518d13f0/0/text: Juga untuk semua yang sudah membantu membuat chart dan ilustrasi, terima kasih banyak.
+63af9359/0/text: Sahabat terbaik saya, Arkito, juga sudah memberikan banyak dukungan,
+a862fe67/0/text: Begitu juga dengan keluarga dan teman-teman dekat yang selalu menyemangati saya,
+48869446/0/text: Berkat semua itu, saya bisa bertahan dan terus maju sampai sekarang.
+33a64ef4/0/text: Untuk pertama kalinya saya bisa benar-benar tampil di game musik, dan rasanya sangat mengharukan.
+5851a5b1/0/text: Saya akan sangat senang jika kalian juga bisa menikmati lagu ini. Semoga harimu selalu menyenangkan!

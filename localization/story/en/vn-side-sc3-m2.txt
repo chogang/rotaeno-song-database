@@ -1,0 +1,169 @@
+100e58d5/0/name: Secretary
+322fe5e5/0/text: Sir Abram,
+322fe5e5/1/text: the annual report from the Lydia Branch has arrived.
+70400601/0/text: Mm.
+70400601/1/text: Leave it there for now.
+f0946109/0/text: Understood.
+f0946109/1/text: As for the biological survey report for Planet PJ208—
+4e9b10f/0/text: I'm looking at it now.
+ffe32848/0/text: Got it.
+ffe32848/1/text: Then I will begin organizing the latest research data Dr. Andy sent you regarding the R79 planetary ruins.
+667d797e/0/text: Thanks.
+667d797e/1/text: Are all of the arrangements for the next few days in place?
+7362f6ae/0/text: Yes. We've cancelled all your schedule for the next 3 days,
+7362f6ae/1/text: and we have also prepared a contingency plan should you need to be gone for longer.
+c50bed2d/0/text: Great work.
+c50bed2d/1/text: ...Did Kay said he'd come to the Spaceport?
+945114c5/0/text: Yes.
+945114c5/1/text: The young master said he would pick you up at the entrance.
+4b6540f3/0/name: System Broadcast
+989792c1/0/text: "Now landing at: Silvano Spaceport No. 2. Estimated landing time: 3 minutes."
+4a2d03/0/text: Whew~ Whew~...
+e9b9b21d/0/text: Are we finally here?
+e9b9b21d/1/text: Do you see him, Boss?!
+36d50a0/0/text: Hmm~...
+36d50a0/1/text: Not... Oh!
+81544385/0/text: I see him!
+e2079b5a/0/text: Bro!
+7db9c0e9/0/text: Over here!
+7db9c0e9/1/text: Right here, big bro~!!!
+7c90bea9/0/text: Ooh ooh!!!
+bde32672/0/text: Keep it down.
+3cc92c40/0/text: Are you trying to draw the entire spaceport's attention?
+babe0d8e/0/text: Hehe... I'm just happy...
+babe0d8e/1/text: It's been so long since we last met...
+8ea340ae/0/text: So you are aware about running away from home for so long.
+a72e58bc/0/text: Run away from home...? Boss?
+a72e58bc/1/text: But Boss told me that—
+a433f35/0/text: Cough, ahem!!!
+eefa3de0/0/text: It's kinda complicated.
+eefa3de0/1/text: It's hard to explain! Anyway, Puno, don't worry about it...
+aaeddbca/0/text: Who's this child...?
+aaeddbca/1/text: And what's this about a Boss...
+c53e80f0/0/text: !!
+85cc5296/0/text: Hi there!
+85cc5296/1/text: I'm Boss's sidekick, Puno!
+f1b237f/0/text: Side, sidekick...?!
+69e7db71/0/text: You must be the Old Master!!!
+69e7db71/1/text: It's my great honor to meet you!!!
+4ddfb01a/0/text: Old, Old Master?!
+dab64840/0/text: Kelut Rambsal!!!
+dab64840/1/text: Just who do you—
+7ce8e6/0/text: Oh no! His full name! Bro's going get angry...!!!
+29208c6/0/text: Aaaah, no, no, no!!!
+29208c6/1/text: It's not what you think, Bro!!!
+55d5d731/0/text: Puno is a student from my stunt flying class, he's on a study abroad trip with me!
+55d5d731/1/text: And, and I got permission from his parents!
+40919080/0/text: For some reason, he keeps calls me "Boss" and I can't get him to stop!
+40919080/1/text: It's absolutely NOT whatever you're imagining right now!!!
+8c351e89/0/text: ...
+7186ff80/0/text: ...Phew...
+332a0657/0/text: Anyhow, let's find a place to sit and talk.
+332a0657/1/text: Then you can explain your current situation to me in detail.
+78cf0/0/text: Oh, right!
+10179632/0/text: Then, let's go!
+5b46baeb/0/name: Kelut
+6a8254a3/0/text: So, you want to host this so-called "Whoosh~Whoosh Extreme Spaceship Speed Race" here on Silvano,
+6a8254a3/1/text: as a platform for enthusiasts and to promote your spaceship stunt flying classes?
+c2b238ea/0/text: Yeah, that's right!
+c16126e0/0/text: ...After all those failed attempts—spamming ads, annoying flyers— now you're going to create an even bigger ruckus? Where do you even get the confidence?
+7740f4b/0/text: Well, hehe... I know I'm in over my head,
+7740f4b/1/text: that's why I'm asking you for help, Bro...
+fa7a76c1/0/text: If you hadn't skipped so many classes back in the day,
+fa7a76c1/1/text: you wouldn't be in the mess you are now.
+253638e4/0/text: Hehehe...
+f6daa2f2/0/text: ...Ah.
+98363cb6/0/text: ...But,
+98363cb6/1/text: at least you know to ask for help. You're not completely hopeless yet.
+2fb0ca3c/0/text: And... based on the bodyguard's reports and our in-person conversation,
+2fb0ca3c/1/text: this kid's definitely got the passion for it.
+62100516/0/text: ...Even if the results so far are less than ideal.
+c3bf5573/0/text: Mmm... I expected that he would've quit by now.
+c3bf5573/1/text: Never thought he'd stick to his "stunt flying dream" this far and refuse to come home.
+b1564bd3/0/text: ...Where's the project proposal I asked you to make?
+b1564bd3/1/text: Let's take a look.
+16bed02/0/text: If this is something that you really want to do,
+16bed02/1/text: then you'd better show me that you're serious about it.
+e27a0ea6/0/text: !!
+5ae32801/0/text: Yay—!
+5ae32801/1/text: You're the best, bro! Here!!
+37cf0361/0/text: I tried super, ultra hard to write down every single idea that came to mind!
+37cf0361/1/text: Check it out!
+9d97dec2/0/text: Ooh! That's why you're the Boss!!!
+9d97dec2/1/text: We're counting on you, Boss Bro!!!
+7386cdeb/0/text: What's with this "Boss Bro"...
+ccd7dd74/0/text: ...
+ccd7dd74/1/text: ...
+16b28df4/0/text: What do you think, Bro?!
+5c1cbfc6/0/text: ...Do you want to hear the truth?
+8370724f/0/text: Of course!
+f152ab8/0/text: A total mess.
+9e19ed0/0/text: Uh...
+853bd569/0/text: A utter and complete mess.
+6c9e5a43/0/text: Um, uh...
+133a3f8/0/text: It's like I said before. If you hadn't skipped so many classes,
+133a3f8/1/text: this proposal wouldn't be such a hot mess.
+55e96e00/0/text: ...But speaking of the past,
+55e96e00/1/text: we never should have let Kay give you access to the hangar in the first place.
+17e29b00/0/text: At least not before you finished your basic training.
+4c6a71d5/0/text: Ugh... But those classes were so boring...
+8fb97670/0/text: But now you understand, right? The importance of those "boring" classes.
+8fb97670/1/text: What you thought was useless back then is just what you need now to turn your dream into a reality.
+230ea615/0/text: ...
+29bd416/0/text: ...Mm.
+43becbee/0/text: ...Sigh.
+5caa354e/0/text: Kay,
+5caa354e/1/text: I asked you this when you left home, and I'll ask again now.
+893b1301/0/text: Is this really your dream?
+893b1301/1/text: Is this something you want no matter what?
+959057df/0/text: ...Of course!
+b78cae82/0/text: I want to promote spaceship sports and let everyone experience the joy of flying!
+b78cae82/1/text: I want to do this no matter what!
+e13418d9/0/text: I want the world to know that spaceships aren't just tools for transportation or war.
+e13418d9/1/text: They have an untapped potential for entertainment and sports!!!
+91799f83/0/text: ...Fine.
+91799f83/1/text: You know that our family only accepts perfection in everything we do, right?
+add482db/0/text: Are you ready to give it your all?
+4449f0e9/0/text: Absolutely!!!
+dbaad777/0/text: Very well. For the next few days,
+dbaad777/1/text: I will dissect every piece of your proposal, line by line,
+dbaad777/2/text: point out your mistakes, as well as teach you some basic business sense.
+109d0ed4/0/text: It's going to be a nightmare since your foundation is so poor.
+109d0ed4/1/text: Think you can handle it?
+f176e011/0/text: !
+34fbfec/0/text: ...No problem!
+34fbfec/1/text: I can do it!
+3a99e9b6/0/text: I'll do whatever it takes
+3a99e9b6/1/text: to promote spaceships!
+e0bbce80/0/text: Wow wow!
+e0bbce80/1/text: That's why you're the Boss! That was sooo cool!!!
+ea6b20e2/0/text: ...Then show me how determined you really are.
+ea6b20e2/1/text: We start tomorrow.
+7b25acec/0/text: Got it!!!
+743f6193/0/name: Bolt
+8b087611/0/text: First,
+8b087611/1/text: you didn't even run the numbers here at all...
+4f8eadee/0/text: Ugh...
+386bcdf4/0/text: And here,
+386bcdf4/1/text: you completely forgot about the budget...
+a666bf3d/0/text: Ah, darn it...!
+1b0b0548/0/text: If I try this instead...
+bf8c852a/0/text: That could work,
+bf8c852a/1/text: but...
+31d5f681/0/text: Bro,
+31d5f681/1/text: I fixed up yesterday's budget plan, take a look...
+5b46baeb/1/name: Kelut
+274cf440/0/text: ...Mm.
+274cf440/1/text: Not bad.
+e0144308/0/text: Really?!
+9bf59922/0/text: Yeah, for a small event like this,
+9bf59922/1/text: this proposal will suffice.
+a1cc35ff/0/text: Awesome!!!
+bd24adbe/0/text: Well, well,
+bd24adbe/1/text: looks like he did it.
+7af28084/0/text: ...Looks like the kid's
+7af28084/1/text: finally found his calling.
+8277e4e9/0/text: Let's proceed with this proposal.
+9c0b4fd2/0/text: I'll be looking forward to the day of the event.
+26672c74/0/text: No problem!
+17370264/0/text: Just leave it to me!!!

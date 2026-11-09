@@ -1,0 +1,36 @@
+6e17b22e/0/name: Innkeeper
+fb86e02e/0/text: The food here tastes very delicious!
+7ed8bf24/0/text: Even more delicious than the food in actual restaurants!
+1fcd8978/0/text: Oh, thank you. I'm so glad to hear that.
+7cbf2e28/0/text: You're so sweet, Ilot-chan.
+327fcdcb/0/text: I was just telling the truth.
+667bcfa4/0/text: Heheh. But I think fresh ingredients are the key to making delicious food.
+133ca33d/0/text: Oh, right. I know your pets come back from hunting with animals almost every day.
+6dc634eb/0/text: (There are always pets out there hunting, if it's not the leopard cat, it will be the giant wolf, or the serpent, or...)
+5c4cbd47/0/text: That's really awesome.
+b9ccc66a/0/text: (In every way.)
+4a737dc/0/text: Are you interested in hunting, Ilot?
+61e1edce/0/text: Why?
+a17f458e/0/text: How about I ask my love to take you when he leaves for hunting today?
+72573dae/0/text: What?!
+7e81a944/0/text: Well...
+496b02a7/0/text: My love~
+43b33dbf/0/text: Could you take Ilot with you for hunting today?
+d0148a5/0/text: (Oh, my! Which "my love" did you mean, Kakari?!)
+8eec5bff/0/text: (I am not gonna come back from the hunting as food, right?)
+f2cf4dcb/0/text: Yeah.
+e85d8d99/0/text: ...
+7a1d4bcc/0/text: Phew...
+6502edb1/0/text: (So she meant her love Rumil... That only makes sense.)
+b8dd32a1/0/text: (Great. I overthought it.)
+d2e111b6/0/text: ...
+abdd0522/0/text: (Whoa! Rumil is so good at this!)
+e9edd1e0/0/text: It's the basic strategy.
+5203f086/0/text: First, trap the target, and then finish it with one strike.
+2065fd43/0/text: Ooh, pretty slick move. Impressive!
+8f0d6496/0/text: Do you hunt a lot?
+a0abfe13/0/text: I thought you had your pets do all the hunting for you.
+d2e111b6/1/text: ...
+69f9accd/0/text: Wanna have a go?
+f0b86d2a/0/text: What? Can I?
+1561ca00/0/text: Yeah. I'll be there watching.

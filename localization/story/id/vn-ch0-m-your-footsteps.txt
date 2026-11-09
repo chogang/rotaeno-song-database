@@ -1,0 +1,136 @@
+ac6a81f8/0/text: Silau.
+d1bf2e09/0/text: Mataku sakit.
+e22f7a51/0/text: Apakah ada begitu banyak planet di sekitar Aquaria...
+578a7178/0/text: Kesulitan memilih mengekspresikan kepanikan.
+76934160/0/text: Iklim, populasi, etnis, kemungkinan bencana…
+acdcbb4c/0/text: Informasi ini jelas penting,
+acdcbb4c/1/text: Tapi sebagai pemalas, informasi di depannya tidak dapat dianalisa...
+4b10bbe7/0/text: Kenapa Spaceport tidak bisa seperti vicovico,
+4b10bbe7/1/text: Tulis panduan atau sesuatu untuk mengklasifikasikan planet-planet menjadi "pemula", "rekreasi", "alami" dan seterusnya...
+84b1991b/0/text: Apa tidak bisa membuat yang mudah dimengerti orang bodoh! !!
+32af8bdc/0/text: ......Argh.
+4fdac217/0/text: Dan juga...
+4fdac217/1/text: Apakah sungguh ingin pergi dari sini?
+26c62503/0/text: ......
+770126ad/0/text: Sejak tidak sengaja membuka video itu,
+770126ad/1/text: Setiap hari selalu merasa gelisah dan mudah tersinggung.
+726a0c46/0/text: Bahkan tidak bisa menonton "Shiny☆Love Courier♪" lagi,
+726a0c46/1/text: Ini sangat tidak menghormati Lulua.
+67b39d15/0/text: Lalu aku bangun hari ini dengan sakit kepala yang tiba-tiba,
+67b39d15/1/text: Langsung mengemasi koper kecil yang menyedihkan dan berlari ke Spaceport.
+554551e0/0/text: Keputusan yang begitu tergesa-gesa,
+554551e0/1/text: Benarkah tidak apa...?
+7157d7d2/0/text: ...Andai saja Hoppe masih ada,
+7157d7d2/1/text: Aku tidak perlu memikirkan sendiri hal-hal rumit seperti itu.
+898449be/0/text: Sekarang bukan hanya Hoppe tidak ada,
+898449be/1/text: Aku juga tidak yakin di planet mana aku berada saat ini.
+d4b3f16/0/text: Sudah lebih dari setengah tahun sejak terakhir kali Hoppe mengirim berita.
+cff753d2/0/text: Kenapa masih tidak menghubungiku?
+615de563/0/text: Apakah karena jaringannya bermasalah?
+615de563/1/text: Atau telah mencapai sebuah planet tanpa jangkauan jaringan?
+25ff96ff/0/text: ...Atau
+25ff96ff/1/text:  sudah melupakanku?
+82050b95/0/text: ......
+55658c6e/0/text: ...Tidak mungkin.
+8b5e267b/0/text: Aa......
+8b5e267b/1/text: Kepalaku sakit sekali, tidak bisa memutuskan...
+eeebeec7/0/text: Siapa yang bisa membantuku...
+7dd77faa/0/text: ...Bagaimana kalau, bertanya pada orang di meja informasi?
+43d297a4/0/text: Hmm, sepertinya itu ide bagus.
+48f7d645/0/text: Aku sangat pintar,
+48f7d645/1/text: Izinkan aku diam-diam bangga selama 3 detik.
+d9f9cef8/0/text: Ah, lucky...
+d9f9cef8/1/text: Tidak ada antrian di meja informasi.
+faef15ce/0/text: Itu...
+6524fab0/0/text: Wah, Slime.
+6524fab0/1/text: Jarang terlihat di kota.
+eb32f3fb/0/text: Terus bergerak ke sana dan ke sini...
+eb32f3fb/1/text: Kudengar Slime akan kehilangan cairan tubuh jika mereka diam untuk waktu yang lama, sehingga mereka selalu bergerak. Sepertinya benar.
+9835f2c6/0/text: ...Halo, bocah,
+9835f2c6/1/text: Sudah puas melihat?
+cf57ccb3/0/text: Dipelototi...
+cf9accf5/0/text: Walau tidak terasa menakutkan karena sangat imut.
+402cab44/0/text: ...Maaf.
+b5e59098/0/text: Di tempat tinggalku,
+b5e59098/1/text: Kami jarang bertemu Slime.
+e1b7e58b/0/text: Hmph. Kampungan.
+631fa14b/0/text: Aku tarik yang baru saja kukatakan,
+631fa14b/1/text: Tidak imut, sedikit pun tidak imut!
+e914c34/0/text: Dan juga, apakah pelayanan seperti ini sungguh tidak apa-apa?
+e914c34/1/text: Setiap saat mengeluh tentangmu!
+9f464a26/0/text: Kuberitahu kamu,
+9f464a26/1/text: Di masa depan, hanya akan ada lebih banyak jenisku yang menetap di Aquaria.
+440bbacf/0/text: ...?
+a96f528e/0/text: <color=cyan>"Hujan Abadi"</color> adalah bencana bagi kalian manusia,
+a96f528e/1/text: Tapi bagi kami, itu adalah tempat terbaik untuk hidup.
+1d934786/0/text: ...Ah.
+bb11c4e8/0/text: Benar juga,
+bb11c4e8/1/text: Lagi pula, Slime paling suka air.
+f1410e62/0/text: Akhir-akhir ini, aku telah melihat banyak penduduk asli sepertimu pergi dari sini,
+f1410e62/1/text: Di wajahnya tersirat muka menyedihkan yang sama sepertimu, Kent, saat ini.
+9bc640b7/0/text: ...Kent adalah ras apa?
+9bc640b7/1/text: Cari saja di internet nanti.
+c13adf2/0/text: ...Tapi sepertinya dia tidak sedang memujiku.
+61ff1e60/0/text: Menurutku, meninggalkan kampung halaman bukan hal yang baik,
+61ff1e60/1/text: Tapi siapa bilang tinggal akan selalu baik?
+cf9c9ab9/0/text: Meskipun yang dikatakannya sangat masuk akal...
+cf9c9ab9/1/text: Tapi aku belum menanyakan apa-apa.
+cb31107d/0/text: Dalam beberapa tahun,
+cb31107d/1/text: Tidak akan ada lagi tempat di mana manusia bisa hidup di tanah Aquaria.
+eb6ce7e6/0/text: Kamu boleh saja tidak percaya,
+eb6ce7e6/1/text: Kami Slime adalah ras yang paling dekat dengan air,
+eb6ce7e6/2/text: Tidak salah mendengarkanku.
+fdd431ef/0/text: Saat itu, manusia yang masih ada di sini hanya bisa berkumpul di Pulau Floating.
+fdd431ef/1/text: Begitu banyak orang berkumpul, apa bedanya dengan penjara?
+7913463b/0/text: ...Begitu kah?
+6ccd7915/0/text: Aku tidak pernah merasa Pulau Floating itu seperti penjara, itu adalah daerah orang kaya,
+6ccd7915/1/text: Bila dipikirkan, tidak akan menjadi lebih buruk.
+2a5a2942/0/text: Hanya saja...
+30401e7c/0/text: Seperti yang dikatakan Hoppe kah.
+b9f1f80f/0/text: Segala sesuatu di tanah Aquaria,
+b9f1f80f/1/text: Pada akhirnya, tidak bisa lepas dari takdir ditenggelamkan oleh hujan.
+b0ec6149/0/text: ...Argh.
+5b73289f/0/text: Kalau saja aku tahu lebih awal, maka aku sudah pergi dengan Hoppe.
+cc8228b4/0/text: Jadi,
+cc8228b4/1/text: Kamu mau pergi ke mana? Sewa berapa lama?
+cc8228b4/2/text: Pesawat yang mana?
+ab7ab67c/0/text: Emm...
+56f7722c/0/text: Apakah belum memutuskan?
+7a7a9b3b/0/text: Aku ingin menanyakan pendapatmu...
+7a7a9b3b/1/text: Planet mana yang lebih cocok untuk pemula...
+52bf8d56/0/text: Au-auranya tiba-tiba menjadi menakutkan ...
+a9f948d6/0/text: Aku hanya menyewakan pesawat!
+a9f948d6/1/text: Apakah kamu menganggapku sebagai agen perjalanan? !
+fac26e0/0/text: Wah!
+fac26e0/1/text: Ma-maaf...
+38aba5c5/0/text: Oke, karena kamu bertanya dengan itikad baik,
+38aba5c5/1/text: Aku akan membantumu dengan belas kasihan yang besar!
+97c0461a/0/text: Waktu sewa adalah tiga hari, rute otomatis telah ditetapkan untukmu,
+97c0461a/1/text: Cepat, bayar, ayo ayo ayo!
+ba0b7c84/0/text: Hah? !
+86bebe18/0/text: Mengapa tiba-tiba diputuskan akan pergi? !
+64829e59/0/text: Per-pergi ke mana?
+c657b4/0/text: Bukankah naik pesawat dan lihat papan petunjuknya sudah cukup?
+c657b4/1/text: Apa gunanya kamu tahu tujuannya sekarang?
+c657b4/2/text:  Kalau kamu sudah memutuskan ke mana akan pergi, kamu tidak akan "bengong" di depanku seharian!
+e65d1e3a/0/text: Lagi pula ini adalah planet di mana manusia bisa hidup normal, jadi tidak masalah bagi anak sepertimu!
+e65d1e3a/1/text: Pergi lah, jangan menggangguku lagi.
+f2087f35/0/text: Tapi...
+42d278e9/0/text: Tidak ada tapi,
+42d278e9/1/text: Telah dikeluarkan dan sewanya segera berlaku,
+42d278e9/2/text: Kami tidak menerima pengembalian tiket.
+61b1a367/0/text: ! !!
+6873371d/0/text: Karena sering harus berebut tiket konser dan sejenisnya,
+6873371d/1/text: Sejak dulu cara pembayaran sudah diatur menjadi "otomatis bayar semua permintaan pembayaran"...
+d82f145e/0/text: Tak diduga hari ini,
+d82f145e/1/text: Aku dicurangi dengan fungsi yang sangat nyaman ini! !!
+e0a100d0/0/text: Pedagang culas!
+e0a100d0/1/text: Apakah Spaceport dikelola oleh keluarganya?! Atau apakah dia mendapat komisi dari menyewakan pesawat?!
+39ab5d91/0/text: Bye.
+39ab5d91/1/text: Hati-hati.
+fe8d394d/0/text: Kamu...
+e6306f8a/0/text: Ahhhhhhhhhhh, menyebalkan! !! !!
+f2bc90c9/0/text: ...Belakangan ini, menjual tiket juga sambil konseling psikologis untuk penumpang,
+f2bc90c9/1/text: Hidup sungguh sulit.
+d759ba1/0/text: ...Argh, lupakan,
+d759ba1/1/text: Siapa suruh aku adalah Slime yang baik dan suka membantu.

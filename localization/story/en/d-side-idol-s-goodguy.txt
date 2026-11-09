@@ -1,0 +1,26 @@
+26522376/0/name: Lime's Wife
+33028a10/0/text: ..."Bro, you have to see this. Absolute legendary moment."
+33028a10/1/text: And... sent!
+9748e58f/0/text: ...? What are you sneaking around over there for?
+c115876d/0/text: Oh! Honey!
+c115876d/1/text: I'm texting my buddy.
+3c4655fc/0/text: "Buddy"...? You mean that poor Orb guy from last time?
+3c4655fc/1/text: The one who dragged your half-dried slime self all the way home?
+75620cca/0/text: Yep! That's him!
+75620cca/1/text: Good old Noah!
+75cdb448/0/text: I'm pretty sure he only helped
+75cdb448/1/text: because leaving you there felt too cruel.
+aceab3ce/0/text: Then you clung to him in full trauma mode
+aceab3ce/1/text: and made him escort you right to our front door. Poor guy.
+f28f0cfd/0/text: That's not what happened! You don't understand male friendship!
+f28f0cfd/1/text: We're close!
+5d321812/0/text: As long as you don't volunteer for another Orb assignment,
+5d321812/1/text: you can call it whatever you want.
+e35e1fe8/0/text: Oh, he replied!
+1cca0612/0/text: Let's see...
+1cca0612/1/text: "Haha. Nice."
+5833f1ca/0/text: See? See?
+5833f1ca/1/text: He's totally enjoying it!
+ac185209/0/text: Oh! This video's funny too.
+ac185209/1/text: "Bro, watch this..."
+9c06a2c7/0/text: ...Sure. I'm staying out of it.

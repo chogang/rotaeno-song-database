@@ -1,0 +1,67 @@
+ca0ce4ce/0/text: "Wah! "Puno memandang bosnya dengan penuh antusias, kekaguman di matanya hampir meluap. "Jadi, bos, kamu berhasil menerbangkan pesawat ruang angkasa luar angkasa untuk pertama kalinya tanpa belajar apapun! "
+7300028a/0/text: "Uh..." Menggaruk pipinya, Bolt tersenyum tak berdaya. "Jika hanya melihat hasilnya, maka itu benar—"
+1592cee4/0/text: Tapi intinya tidak seharusnya di sini, kan ...
+981bf5dc/0/text: "Hebat sekali! Bos memang hebat! "
+2b227143/0/text: "Tidak, tidak, aku tidak hebat. "
+2b227143/1/text: Memberikan sentilan ringan pada dahi Puno, anak muda rambut coklat itu memberi peringatan serius.
+a377ccd4/0/text: "Hanya beruntung, jika saja aku menekan tombol lain,
+a377ccd4/1/text: Sekarang aku mungkin tidak bisa berdiri di depan Puno dan menjadi guru Puno. "
+861db739/0/text: "Karena itu! "
+5f52c373/0/text: "Puno harus ingat, tidak boleh mencoba trik yang belum aku ajarkan tanpa izin! "
+c124af13/0/text: "Keselamatan adalah yang utama, "
+acbb48a6/0/text: "Hmm..." Meski sedikit tidak terima, Puno mengangguk patuh ketika memikirkan ekspresi khawatir ibunya setiap kali dia keluar, dan wajah serius bos di depannya. "Aku mengerti! "
+412f72d8/0/text: "Ya, bagus, bagus! "
+9d8682c8/0/text: Anak-anak bisa diajar, muridnya sungguh luar biasa!
+e091175/0/text: "Hei..." Agar tidak diceramahi lagi, anak dari Orb mengubah topik dengan bijaksana. "Jadi setelah kejadian ini, apakah bos menyukai pesawat ruang angkasa? "
+daf2c8ab/0/text: "Hmm… iya, sejak saat itu, aku serius mempelajari hal-hal yang berkaitan dengan pesawat ruang angkasa. "
+ad2bd20e/0/text: "Wah......"
+3ab545ea/0/text: "Sudah, sudah, ceritanya sudah selesai. Waktu istirahat selesai!
+3ab545ea/1/text: Matahari hampir terbenam, cepat pulang. "
+3ab545ea/2/text: Merasakan bahwa langit di kejauhan semakin gelap, Bolt menyela anak muda yang masih ingin bertanya,
+3ab545ea/3/text: Dorong bahu lawan agar dia kembali ke desa.
+1cf6828d/0/text: "Haa... Waktu berlalu cepat sekali. "Melihat ke langit, Puno mengerutkan kening dengan getir. "...Bos, sampai jumpa minggu depan! "
+9de682c6/0/text: "Sampai jumpa minggu depan, hati-hati di jalan~"
+b2323ee7/0/text: "Minggu depan, aku pasti akan menguasai manuver kecepatan tinggi! "
+37cc342e/0/text: "Oh, sangat ambisius,
+37cc342e/1/text: Aku menunggu ya~"
+c19e55a2/0/text: Setelah melihat Puno pergi, Bolt menepuk pergelangan tangannya,
+c19e55a2/1/text: Memanggil kendaraannya sendiri.
+eede8332/0/text: Pesawat ruang angkasa satu orang datang ke anak muda rambut coklat dalam sekejap,
+eede8332/1/text: Cangkang perak yang terbuat dari logam ringan, bersinar seperti permata di bawah sinar matahari terbenam.
+a8b32736/0/text: Melompat ke dalam kabin, Bolt duduk ke kursi pengemudi,
+a8b32736/1/text: Memejamkan mata, menarik napas panjang.
+beada431/0/text: Sungguh... seperti bernostalgia.
+af58f638/0/text: Setiap kali teringat kejadian saat itu hanya dengan menutup mata,
+af58f638/1/text: Tubuh seperti masih merasakan duduk di kursi pesawat ruang angkasa itu saat masih kecil,
+af58f638/2/text: Rasakan dan saksikan saat berada di dalam pesawat menuju langit.
+fa9d35bb/0/text: Takut, panik, kewalahan.
+fa9d35bb/1/text: Dan setelah menyingkirkan emosi negatif ini, terkubur jauh di dalam hati——
+e0c09c46/0/text: puas.
+62717563/0/text: Dan rasa puas inilah yang mendorong anak muda tersebut menjadi Bolt saat ini.
+33752b57/0/text: Memanipulasi pesawat ruang angkasa, menyaksikan segala sesuatu di sekitarnya berubah menjadi meteor.
+33752b57/1/text: Dan aku seperti Spirit yang menjelajahi alam semesta, menari tanpa batas.
+350f630/0/text: "Bisa meninggalkan masalahmu dengan naik pesawat ruang angkasa, ..."
+350f630/1/text: Membuka mata lagi, Bolt bergumam pelan.
+c50d7e14/0/text: Lepaskan rasa sakit.
+b11c6269/0/text: ...jangan khawatir, jangan khawatir!
+81622ffa/0/text: Bukankah ini yang paling dibutuhkan oleh orang-orang di era ini!
+b302e6b5/0/text: "Ah...... Ternyata! "Dengan teriakan keras, anak muda berambut coklat itu berdiri dari tempat duduknya.
+9e03a500/0/text: Jika keyakinan itu dapat terwujud, orang lain mungkin akan melihat api yang berkobar-kobar di belakangnya,
+9e03a500/1/text: Seperti anak muda dengan mata yang bersinar, tidak ada yang bisa mengabaikannya.
+12c1e844/0/text: "Semua makhluk di alam semesta harus merasakan semangat Bolt! !! "
+d4bf67ef/0/text: Begitu teriakan itu keluar, anak muda berambut coklat itu seperti telah menelan segerombolan domba dalam sekejap.
+d4bf67ef/1/text: Rasa lelah akibat mengajar seharian seakan hilang dalam sekejap.
+ebc84d05/0/text: mengeluarkan buku catatan dari sakunya,
+ebc84d05/1/text: Anak muda itu dengan cepat mengambil pena lalu mulai menulis dan menggambar.
+5bfda0f4/0/text: "Segera pertahankan keindahan Bolt..."
+7c5af73c/0/text: ...
+cf9c9784/0/text: "Apakah ingin mengadakan kelas mengemudi untuk pemula?
+cf9c9784/1/text: Tapi sekarang sebagian besar planet wajib diajarkan... ah, tapi Orb sepertinya tidak.."
+7c5af73c/1/text: ...
+259311dc/0/text: "Yah...jumlah orang yang datang mengalaminya masih sangat sedikit...
+259311dc/1/text: Apakah cara beriklan yang salah? "
+7c5af73c/2/text: ...
+bf4f8dab/0/text: "Apakah ingin membeli semua situs iklan lainnya di vicovico..."
+3ea899f/0/text: ......
+6127336b/0/text: Sementara tinggal di gurun utara Desa Geo, Bolt yang menyukai pesawat ruang angkasa,
+6127336b/1/text: Hari ini sama seperti biasa, penuh dengan semangat juang.

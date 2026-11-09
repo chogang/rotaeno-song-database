@@ -1,0 +1,17 @@
+275dfd84/0/name: Zexnum
+2cc6ad29/0/text: Welcome to our interview!
+94882f1e/0/text: Could you please introduce yourself first?
+20b7826d/0/text: Hello, nice to meet you all. I'm Zexnum!
+b62f6ff5/0/text: Glad to meet you!
+234b6751/0/text: I'm super excited about your new song "Call My Number." Can you tell us a little bit about it?
+9043e853/0/text: I'm really into rhythm games myself.
+3d6fb088/0/text: it's very meaningful to me to have my music featured in Rotaeno in this way.
+a10820ab/0/text: Rather than being the typical kind of track you'd hear in rhythm games,
+8f377654/0/text: this piece incorporates EDM and house music elements, giving it more of a nightclub feel.
+4100ce50/0/text: I'm confident that EDM fans are really going to love this track,
+6b45e334/0/text: so please give it a go on every difficulty level—I'd be thrilled if you enjoy it!
+24798a98/0/text: It sounds like it's going to be a really fun track!
+ad5d6dd6/0/text: Do you have any messages you want to share with the players?
+a571d8e2/0/text: Thank you so much to all the Rotaeno players for playing my song!
+1718da83/0/text: I'll be working hard to beat all the difficulties too, so let's enjoy the game together!
+5120fc25/0/text: See you next time!

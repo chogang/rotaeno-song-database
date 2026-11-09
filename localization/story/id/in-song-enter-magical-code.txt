@@ -1,0 +1,28 @@
+f393a0cf/0/text: Selamat datang di wawancara kami!
+cd87fd53/0/text: Silakan perkenalkan diri kepada semuanya terlebih dulu!
+f7e25d77/0/text: Halo, namaku Raphiiel.
+43212924/0/text: Aku menciptakan beragam jenis musik, tentunya termasuk musik game ritme!
+b3c952b1/0/text: Senang berkenalan denganmu!
+11a17e49/0/text: Bisakah kamu menjelaskan secara detail tentang lagu baru "enter -MAGICAL CODE-" pada kami?
+d45f184c/0/text: "enter -MAGICAL CODE-" adalah lagu Tech Core yang memadukan cita rasa oriental dan elemen retro 8-bit.
+e0f88fa7/0/text: Menceritakan kisah seorang pemain yang menemukan sebuah mesin misterius.
+d4e03681/0/text: Mesin mengalami malfungsi saat diaktifkan, dan melemparkan pemain ke dimensi acak.
+678750ac/0/text: Untuk memperbaikinya, pemain harus memasukkan "Kode Sihir" agar dapat kembali ke rumah.
+b91df215/0/text: Aku sangat senang lagu ini terpilih sebagai salah satu pemenang dalam Kompetisi Musik Rotaeno.
+48a17cc2/0/text: Terima kasih kepada tim Rotaeno atas kesempatan luar biasa ini!
+5b434ff2/0/text: Mesin misterius~ Rasanya sangat menarik!
+be591166/0/text: Apa yang Anda pikirkan saat sedang menciptakan lagu?
+7f20695c/0/text: Kamu pernah membayangkan sebuah lagu dapat membawamu ke tempat yang tidak pernah kamu impikan?
+4195d0fd/0/text: Seperti mencicipi semua rasa permen, setiap rasa akan memberikan pengalaman yang baru?
+767ff64f/0/text: Itu adalah yang aku pikirkan saat menulis lagu ini.
+1668020f/0/text: Aku ingin menciptakan lagu yang "elemen acak", membuat pendengar terus penasaran, "apa yang akan terjadi berikutnya?"
+fe725f5b/0/text: Rasanya pemain akan menikmati perjalanan yang menyenangkan saat memainkan lagu ini!
+e5a160cf/0/text: Ada hal lain yang spesial tentang lagu ini?
+29cb37d5/0/text: Oh~ Kamu juga sebenarnya dapat menemukan Kode Sihir dalam lagu ini, ayo coba~
+8bec7ae8/0/text: Petunjuk: Sebuah kata yang sederhana, dan berhubungan dengan "rotasi".
+6248b02d/0/text: Ternyata kode itu ada di dalam lagu!
+60e6ee3c/0/text: Terakhir, ada sesuatu yang ingin disampaikan kepada para pemain?
+c6e19efc/0/text: Terima kasih banyak telah mendengarkan karyaku!
+41e014c6/0/text: Senang sekali Anda suka dengan pengalaman dan petualangan yang dibawakan lagu ini.
+8245ea41/0/text: Semoga Anda juga menantikan karyaku yang berikutnya!
+c6c52ca2/0/text: Aku akan terus berusaha!

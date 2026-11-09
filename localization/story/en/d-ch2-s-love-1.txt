@@ -1,0 +1,59 @@
+bf6bdb1e/0/text: Great, I've bought gifts for everyone!
+49b526ab/0/text: Now, where should I go next~?
+e59ca3b1/0/text: Oh? What's all the noise about?
+6c7f596e/0/text: Some kind of street performance?
+f5bece73/0/name: An angry customer
+38438242/0/name: An innocent-looking Goblin vendor
+6e998a51/0/name: A pretty lady
+ba5502f9/0/text: Give me my money back, bastard!
+897b1d74/0/text: I'm sorry. I don't know what you're talking about.
+48812506/0/text: I am a business person of integrity.
+c3db88cb/0/text: Why did you suddenly insult me to my face? Don't you think that is a bit too much?
+82b6842e/0/text: Uh, it seems to be a dispute over money.
+d7a80d99/0/text: Liar!
+49d86c92/0/text: From your way of speaking, you are definitely the one who sold me fake goods!
+f84c9cfa/0/text: You shameless Vickers!
+a7ba9a56/0/text: Vickers?
+80970f82/0/text: Oh, I was told before...
+2bd7d346/0/text: ...
+38438242/1/name: An innocent-looking Goblin vendor
+bed1e0a0/0/text: Well...
+d9e61547/0/name: A sarcastic Goblin vendor
+ed89bf9c/0/text: So you recognized me by my way of speaking, huh?
+55b3b7f3/0/text: (This sudden change of attitude...)
+5caf05a5/0/text: (So, the customer is telling the truth?)
+4aeb0903/0/text: (The Goblin vendor is not a Goblin, but actually a Vickers vendor in disguise?)
+26a84f0d/0/text: (Oh, I'm confused...)
+43fa996a/0/text: (It's amazing that the customer recognized him only by his way of speaking.)
+f1b6c7a5/0/text: (Is that the power of hatred?)
+dfe4dc24/0/text: Stop pretending now, huh?
+c33e5c79/0/text: Yes. I made a mistake.
+a7d454fb/0/text: But, you have no substantial proof, sir.
+f33d9cb5/0/text: You!!
+e071338d/0/text: Whoa, I have a feeling that it's not going to end anytime soon.
+e3c3886f/0/text: I am sympathetic towards the customer, but there's nothing I can do to help him.
+dc850dce/0/text: You're new here, right?
+63fc7e90/0/text: (Wow! What a beautiful lady!)
+32018216/0/text: I'm sorry you had to see that.
+38d16eb0/0/text: No. It's okay...
+d1acb509/0/text: (I think she is as good-looking as some pop idols!)
+9cd2217/0/text: With a long history of hostility between humans and Vickers, fights like that happen every day.
+a1308a34/0/text: Oh, every day?!
+cde15afd/0/text: Yeah.
+368bf5c2/0/text: Vickers think humans are greedy and stupid, and humans think Vickers are sly and untrustworthy.
+83ef84ca/0/text: ...
+80823258/0/text: They think very badly of each other.
+805e8f10/0/text: But the Vickers sold fake goods! He's the bad guy in this, right?
+3adcd0fe/0/text: Probably... But what if the customer knew about the fake?
+88be749f/0/text: What if he bought the fake because he thought a fake might cost less but work as well...
+9fe7e293/0/text: And he regretted and wanted his money back only because the fake didn't work as he expected.
+4aca67aa/0/text: It couldn't be...
+ce2741c0/0/text: Heheh, but it's possible, right?
+5260d514/0/text: Yeah... In that case, who was right or wrong?
+c4efb0aa/0/text: Or who was more wrong?
+cfd73fd3/0/text: Uh, it's so complicated.
+88bb79d/0/text: Greed aside, I think human's stupidity is actually kinda cute.
+329ec2f6/0/text: ?
+87f5e637/0/text: (Stupid humans are cute? Pretty ladies surely have an extraordinary taste for things.)
+f5570e63/0/text: Just like you, who like me simply because of my look and my words...
+f0505d17/0/text: Stupid humans, don't you think they are cute and amusing?

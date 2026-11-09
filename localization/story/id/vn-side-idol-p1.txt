@@ -1,0 +1,52 @@
+4b6540f3/0/name: Siaran Sistem
+5ec2513b/0/name: Istri Lime
+c3de693d/0/text: Penerbangan ini telah tiba di tujuan: Silvano.
+c3de693d/1/text: Mohon jangan lupa membawa barang bawaan Anda, lalu ikuti petunjuk menuju pintu keluar.
+f2898d80/0/text: Terima kasih telah terbang bersama Cosmic Express Airlines.
+6179b553/0/text: ……
+44a6c63f/0/text: Huh… Akhirnya sampai……
+b3d7ac88/0/text: Benar-benar deh…!
+b3d7ac88/1/text: Dasar nih anak, belum apa-apa langsung datang tempat sejauh ini…!!
+e88f39b2/0/text: Intinya, nggak boleh ya nggak boleh!
+4dd23d37/0/text: Daripada mimpi aneh-aneh terus, kamu lebih baik rajin belajar,
+4dd23d37/1/text: dan cari kerja yang bagus nanti!
+7321b404/0/name: ???
+ade60abc/0/text: Ayah… Ayah nggak pernah mau memahami impianku!
+fa3d38f4/0/text: Ayah selalu memutuskan semuanya sendiri dan menganggapku cuma anak kecil…
+fa3d38f4/1/text: Ayah yang seperti ini… paling menyebalkan!!!
+7fc58efb/0/text: Jolly…!
+7fc58efb/1/text: Anak ini, benar-benar……
+dad9f277/0/text: Hei… Kepala batu,
+dad9f277/1/text: kamu memarahi putri kesayanganku sampai kabur, ya——?
+1a73b57/0/text: Sayang! Lihatlah——
+fd5a2240/0/text: Lihat kepalamu!!!
+f11a5990/0/text: !!
+93b273cd/0/text: Bukan cuma membuat putrimu menangis, kamu masih memarahinya sampai kabur dari rumah,
+93b273cd/1/text: Ayah macam apa kamu ini, hah?!
+3e12648c/0/text: A-aku…!
+4c1255be/0/text: Oh, sekarang baru tahu panik?
+4c1255be/1/text: Tadi bukannya masih sok paling benar, hah?!
+fe06f392/0/text: Bu-bukan——
+462310fe/0/text: Kuberi tahu, ya! Kalau kamu nggak membujuknya pulang,
+462310fe/1/text: aku akan merebusmu jadi bubur kental buat makan malam!
+ae3fc363/0/text: Huhu…! Meskipun istriku sedang marah pun tetap cantik,
+ae3fc363/1/text: tapi, seram banget…!
+c94fdaa2/0/text: Kenapa diam saja?
+c94fdaa2/1/text: Cepat kejar sana!!!
+235b19bd/0/text: Kalau gagal mengejarnya, kamu jangan pulang juga.
+235b19bd/1/text: Sekarang! Segera! Keluar!!!
+a0a19ed7/0/text: Si-siap, Komandan——!!!
+eb2dfafb/0/text: Berani-beraninya dia pergi ke planet asing sendirian,
+eb2dfafb/1/text: Benar-benar deh… Untung kita memasang pelacak lokasi di ponselnya…
+be607ab8/0/text: Tapi cuma bisa ketahuan area perkiraannya……
+6179b553/1/text: ……
+841d841f/0/text: Selanjutnya, harus cari ke mana, ya…?
+3b30ffa6/0/text: Benar-benar……
+b10e6c8c/0/text: Aku harus segera menemukan Jolly dan pulang…
+ef5a2f5/0/text: Kalau nggak, alasan istri marah,
+ef5a2f5/1/text: nggak bisa digunakan untuk cuti ke perusahaan juga……
+d0ad2971/0/text: Anak gadis baik-baik,
+d0ad2971/1/text: kenapa malah bermimpi jadi idola terus, ya……
+7c3f6178/0/text: …Hmm?
+72cf14e6/0/text: Ngomong-ngomong, Jolly sepertinya pernah bilang,
+72cf14e6/1/text: mau mengadakan acara apa bersama temannya di Silvano…?

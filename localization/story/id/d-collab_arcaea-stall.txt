@@ -1,0 +1,14 @@
+332eddcc/0/name: Pedagang
+73478f85/0/text: Boss, mau 3 porsi Mochi Mangga!
+5b6a2a79/0/text: Baiklah,
+ff634214/0/text: Terima kasih~
+dfc1b041/0/text: Kenapa 3 porsi?
+3380a2e4/0/text: Kita hanya berdua.
+c9fd6790/0/text: !!
+7d1d5f20/0/text: Aku...
+66ef35ed/0/text: Ini, hanya takut kita nanti akan kelaparan!!
+90ff4d32/0/text: Ini namanya sedia payung sebelum hujan!
+e0bddcd2/0/text: Hm! Benar!
+bb78a39d/0/text: (... Huh~
+aea76ed/0/text:  Jelas-jelas ini dibeli untuk Hoppe♪)
+7f5f0a99/0/text: (Astaga Eto, orang ini lucu sekali~~~ ♪♫)

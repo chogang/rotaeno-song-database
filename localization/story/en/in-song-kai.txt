@@ -1,0 +1,36 @@
+8c30f1be/0/name: Essbee
+bff8c9a2/0/text: Ta-daaah! Let's welcome our champion～～～
+fb043c5f/0/text: Hello, I'm Essbee, a composer.
+d9c34497/0/text: To those of you meeting me for the first time,
+1155302e/0/text: and to those who already know me, I hope for your continued support!
+107c6c60/0/text: Your new song has been selected as the winning track. Congratulations! Could you tell us about "悔_"?
+c58321ae/0/text: I wrote this track not long after I started using vocal synthesis software.
+b5f087cd/0/text: Around that time, I had also just begun writing vocal songs in general.
+6232433e/0/text: That's why I remember the whole process of creating the vocals being quite a challenge.
+d93f4066/0/text: The hardest part for me was definitely writing the lyrics.
+8a8ebb96/0/text: Especially since Japanese isn't my native language,
+45021638/0/text: it was quite difficult to fully express what I wanted to say through the lyrics.
+f6810880/0/text: The song's genre is Artcore.
+74de7fa/0/text: I personally think Artcore is a perfect match for abstract, dreamlike lyrics like these.
+13a3b723/0/text: And of course, this style also fits rhythm games really well!
+fac5bcde/0/text: I've always loved music that feels both mysterious and intense,
+2ee096e5/0/text: so I arranged this track to capture exactly that kind of vibe.
+c1dcf038/0/text: Your very first vocal track is in a non‑native language…!
+bf87ba96/0/text: That's such a bold and cool decision!
+8e15fd34/0/text: Speaking of the lyrics, could you tell us more about them?
+4598e38f/0/text: The lyrics are about this:
+348df240/0/text: Even if you feel regret, don't let it trap or define you.
+e1ebd8a5/0/text: Instead, you should still have the courage to move forward.
+efeefe3b/0/text: It might sound like a pretty ordinary piece of advice.
+f94012a8/0/text: But when something "simple" like this actually happens in real life,
+ffdea8d8/0/text: it isn't always easy to put into practice. I've been through that myself lol.
+1c2ff0/0/text: If you could think of these lyrics as
+b8ed10a6/0/text: "a little slice of my real‑life experiences", I'd really appreciate it.
+5a83adff/0/text: It really sounds like you've gone through a lot in life, Essbee…
+20cae894/0/text: Lastly, is there any special message or hope you'd like to share with Rotaeno players?
+582d69ce/0/text: Thank you so much to everyone who has listened to and played my song,
+d7f9c709/0/text: and also to the Rotaeno team for giving me this incredible opportunity!
+617196ad/0/text: From now on, how you feel about and interpret this track is entirely up to you.
+e45a2c7b/0/text: If it sparks any feelings or vivid images in your mind while you listen,
+f63deef8/0/text: That would make me really happy as a composer.
+eeb42fba/0/text: I'm planning to write many more tracks in different styles from now on. Thank you very much for your support!!

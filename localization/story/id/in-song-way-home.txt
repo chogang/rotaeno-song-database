@@ -1,0 +1,29 @@
+c921c473/0/name: Mono.
+cea5579b/0/text: Ta-da~! Kami kembali lagi di tempat wawancara!
+99cd63f/0/text: Kali ini, kita kehadiran sang juara—Mr. Mono.☆!
+67bf44f6/0/text: Halo semuanya~! Aku Mono.!
+13cfa626/0/text: Setiap hari aku merangkai not, berharap semuanya bisa menjadi cerita yang indah
+ad6b9168/0/text: Selamat atas lagumu yang terpilih sebagai pemenang!
+629dfde0/0/text: Bisa ceritakan sedikit tentang karya luar biasa kamu "way home"?
+da0b0c32/0/text: Lagu ini melukiskan hari-hari di masa lalu—yang sedikit lebih terang, lebih jernih, dan lebih bercahaya dibandingkan dunia hari ini.
+aa32dfca/0/text: Hari-hari dihabiskan dengan melamun di meja, mendengarkan suara pelajaran yang tiada akhir dan tak bermakna, seperti lantunan mantra,
+86ae436e/0/text: menunggu bunyi bel terakhir yang menandakan berakhirnya sekolah.
+cc5c6518/0/text: Mengucapkan "sampai jumpa, nanti ketemu lagi ya" pada teman-teman, lalu melompat menuruni tangga dua anak tangga sekaligus,
+16d79f30/0/text: berlomba pulang di jalan yang sudah akrab setiap akhir hari.
+3188a462/0/text: Lagu ini adalah gema dari hari-hari itu.
+d428c714/0/text: Hari-hari itu sekarang terasa hampir seperti khayalan, seolah hanya ada dalam mimpi—namun saat itu, sungguh terasa seolah waktu itu akan berlangsung selamanya.
+80b6d880/0/text: Aku ingin berbagi denganmu kehangatan, kelembutan, dan detak jantung yang berdebar—momen-momen singkat yang dibentuk oleh suara.
+8c651d0c/0/text: Jika kamu memejamkan mata, bisakah kamu juga mengingatnya—langit merah tanpa akhir yang dibalut cahaya matahari terbenam?
+f50268e1/0/text: Wow… Pak Mono, Anda benar-benar seorang pencerita yang hebat!
+e11bb368/0/text: Itu juga membuatku teringat kembali kenangan indah masa sekolahku! >q<
+c4b86100/0/text: Sebelum kita akhiri, apakah ada pesan yang ingin Anda sampaikan kepada para pemain?
+4ca9bdd2/0/text: Terima kasih banyak sudah membaca sampai sejauh ini…
+9e4599b0/0/text: Itu pasti berarti kamu tertarik dengan lagu ini, kan?
+a45e99f/0/text: Seperti yang sudah saya sebutkan sebelumnya, ada cerita penting yang terjalin dalam lagu ini—Namun, kisahnya jauh melampaui musiknya sendiri!
+990dd704/0/text: Menulis lagu ini punya ceritanya sendiri, begitu juga saat lagu ini dipilih dalam kompetisi.
+1a805571/0/text: Seniman yang menggambar cover, charter yang membuat pattern not—bahkan saat lagu ini akhirnya hadir di Rotaeno,
+46eec223/0/text: —setiap langkah memiliki cerita uniknya masing-masing untuk diceritakan.
+70db6d48/0/text: Dan tentu saja, Rotaeno sendiri adalah hasil dari begitu banyak kisah yang bersatu.
+2b6a47c7/0/text: Setiap adegan di dalamnya penuh hidup dengan begitu banyak cerita yang berbeda-beda.
+b43d102a/0/text: Jadi, tolong, jangan pernah lupa:
+85a58b8e/0/text: Di zaman di mana segalanya terasa cepat dikonsumsi—entah itu gim, lagu, ilustrasi, atau karya apa pun—masing-masing dari mereka hidup, bernafas dengan ceritanya sendiri!

@@ -1,0 +1,67 @@
+f890030a/0/text: Inhale—— Exhale——
+f890030a/1/text: Inhale—— Exhale——
+2adc21a3/0/text: You can do this Ilot!
+8ad072e4/0/text: Without that annoying bookworm dummy Hoppe,
+8ad072e4/1/text: I can do it on my own!
+d52ddb4e/0/text: Summer Festival, here I come!!!
+d90b510d/0/text: Let's see...
+d90b510d/1/text: This way...
+cef6c5b2/0/text: Stop right there!
+90fe4845/0/text: !!!
+bc9d44cd/0/text: What are you trying to do?
+969f5e76/0/text: No... Nothing...
+969f5e76/1/text: Just... looking...
+2281df02/0/text: This area ahead is for floating island residents only,
+2281df02/1/text: Regular passengers are not allowed.
+8a4414f5/0/text: Where's your guardian?
+8a4414f5/1/text: How could they let a child wander around the spaceport alone?
+5e9885ff/0/text: So- Sorry...!
+f31b1644/0/text: Ugh,
+f31b1644/1/text: So- So scary...!
+581b0bb4/0/text: How can they be so mean to a child?!
+581b0bb4/1/text: Don't people have any compassion these days...!
+3a891856/0/text:  Wah...!!!
+9f8a4688/0/text: Ow... That hurts...
+d1569e53/0/text: Who is it...?!
+d1569e53/1/text: What's covering my face... Is it their thing?
+ea10d148/0/name: ???
+d5b8c0f8/0/text: Oh my?
+f25022c6/0/text: Eh...?
+f25022c6/1/text: Such an elegant——
+293dd731/0/text: ——You're not trying to sneak onto the floating island... are you?
+156c6a1a/0/text: !!!
+9c571512/0/text: Wha- What are you tal, mmph!
+9c571512/1/text: Mmmmmmph——
+47079a59/0/text: Shh——
+a7c7ed9e/0/text: Don't shout, I'm on your side!
+5ac1287f/0/text: On my side...?
+1d17fbb/0/text: I'm trying to sneak onto the festival too!
+96d574f6/0/text: So, follow me!
+d4589a22/0/text: Re- Really?!
+112e990b/0/text: You're not tricking me,
+112e990b/1/text: to turn me over to the police or something...?
+87335320/0/text: I would never do such a thing,
+87335320/1/text: How boring would that be~
+37e51aa3/0/text: Come on, I've already found a way to sneak onto the airship!
+37e51aa3/1/text: Let's go have fun together!
+e5d37297/0/text: !
+545ea9d6/0/text: Should I trust her...?
+545ea9d6/1/text: If she's lying...
+8918ceae/0/text: ......
+8918ceae/1/text: But...
+1f2ab50/0/text: ...Okay...!!!
+94106bae/0/text: That's more like it!
+94106bae/1/text: Here, hold my hand~
+ab42c1b9/0/text: Um, um!
+ab42c1b9/1/text: Oh right, I'm Ilot...!
+b53caa96/0/text: Luna.
+876482e2/0/text: Remember to stick close to me~
+876482e2/1/text: We only have one chance!!!
+3ac3206c/0/text: O-Okay,
+3ac3206c/1/text: Luna!
+17634d8b/0/text: When I count to three, we'll start running~
+165d5c33/0/text: One, two...
+a0dbb663/0/text: ...Three!!!
+eaccada8/0/text: Watch this, Hoppe...
+b38643fb/0/text: Even without you,
+b38643fb/1/text: I can do it...!!!

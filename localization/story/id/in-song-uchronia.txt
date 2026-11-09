@@ -1,0 +1,13 @@
+f393a0cf/0/text: Selamat datang di wawancara kami!
+cd87fd53/0/text: Silakan perkenalkan diri kepada semuanya terlebih dulu!
+5628a181/0/text: Namaku 7mai!
+db06e4ca/0/text: Terima kasih atas perhatiannya pada dua lagu "Chrysanthemum" dan "Cynthia"!
+ad6b9168/0/text: Selamat! Lagu baru darimu telah terpilih sebagai pemenang!
+9edb2c89/0/text: Bisakah kamu menjelaskan secara detail tentang lagu baru "Uchronia" pada kami?
+367529d1/0/text: Arti "Uchronia" adalah tidak ada perubahan atau perkembangan sejarah dalam sebuah utopia yang lengkap, seperti dunia di mana waktu telah berhenti.
+f112fc22/0/text: Musik dimulai dengan aura tenang, tetapi kedatangan "seseorang" mungkin mengganggu ketertiban dan keseimbangan, membuat sejarah yang terhenti mulai bergerak kembali...
+e96da/0/text: Penciptaan musik dengan mempertimbangkan suasana seperti itu.
+f31b86de/0/text: Kedengarannya seperti sebuah cerita yang menarik!
+60e6ee3c/0/text: Terakhir, ada sesuatu yang ingin disampaikan kepada para pemain?
+94a0ee5c/0/text: Diperikirakan ada beberapa kombinasi 16 poin yang relatif cepat dalam chart, akan menjadi chart yang sangat menantang.
+868a5008/0/text: Menarik sekali!

@@ -1,0 +1,60 @@
+d20c3523/0/name: Kalajengking raksasa
+129cf285/0/text: ……
+7e0abdd0/0/text: Salah perhitungan.
+83bbd136/0/text: Aku salah prediksi…
+83bbd136/1/text: Kupikir mulai duluan dari sudut itu, pasti akan menang.
+5f6ea0d7/0/text: ——Ouch.
+5f6ea0d7/1/text: …Sakit banget.
+22f980a/0/text: Kepala dan badan hampir sepenuhnya terlepas…
+8407a609/0/text: Kalau begini terus, nggak lama kemudian aku akan "mati",
+8407a609/1/text: lalu terlepas dari tubuh ini, 'kan.
+7df52eaa/0/name: Vickers (kalajengking raksasa)
+129cf285/1/text: ……
+e4bb249/0/text: Menyebalkan banget.
+38a62590/0/text: Meskipun aku nggak akan benar-benar mati,
+38a62590/1/text: tapi rasa tersobeknya roh dan fisik selalu begitu jelas dan nyata.
+ae612939/0/text: Tersobek, tertolak, lalu mencari wadah baru lagi,
+306e194/0/text: merupakan perjalanan hidup yang unik bagi Vickers.
+2e1b8ea5/0/text: Setiap menghadapi masa "ini", aku selalu bingung——
+397d13bb/0/text: Semua ini yang kami ulangi terus,
+397d13bb/1/text: benaran ada maknanya?
+2d068f04/0/text: Kami dapat merasakan, mengamati, dan mempelajari pengetahuan makhluk hidup lain,
+2d068f04/1/text: tapi apa gunanya semua ini?
+fe45e671/0/text: Nggak, apa gunanya "pengetahuan" itu sendiri?
+3a391261/0/text: !
+86e561a7/0/text: ——Hmm…!
+1b06d978/0/text: Sakit banget…!
+236c2a49/0/text: Akan…segera…terpisah——…!
+83eff1b2/0/text: …?
+a3e697a4/0/text: Apa…itu?
+2d8c0477/0/text: Dulu nggak pernah…Uh——!
+e847d622/0/text: …Ah……
+c3f7e17e/0/text: ……Keluar.
+4b9af1a8/0/name: Vickers
+129cf285/2/text: ……
+a54a9e55/0/text: Apa itu tadi…
+a54a9e55/1/text: Halusinasi akibat rasa sakit yang luar biasa?
+27b5ff4d/0/text: Nggak, tapi……
+277e0466/0/text: …Aku harus mencari tubuh baru.
+277e0466/1/text: Sebelum rohku lenyap……
+129cf285/3/text: ……
+2ff6ceee/0/text: …Nggak.
+406c4ec0/0/text: Mungkin melenyap begitu saja juga bukan hal buruk.
+239ab1ab/0/text: Kelahiran dan kematian yang mengulang terus,
+239ab1ab/1/text: benar-benar nggak ada mak——
+6deae9c5/0/name: ???
+7c8c054d/0/text: Astaga…!!!
+f15e8448/0/text: Ka-kamu nggak apa-apa, 'kan…?!
+129cf285/4/text: ……
+3797c4c8/0/text: …Kamu.
+4577547f/0/text: Kenapa kamu… Bagaimana mungkin kamu
+4577547f/1/text: bisa melihat "aku"?
+625d6272/0/name: Wanita
+793b8558/0/text: Lukanya sangat parah…!
+793b8558/1/text: Pasti sangat sakit, 'kan……
+75061450/0/text: Sama seperti yang di dongeng, kami ini…
+75061450/1/text: "Hantu" yang jahat dan menyedihkan, yang nggak akan pernah disadari keberadaannya.
+3e1b8d0b/0/text: Terlalu aneh.
+1852ec41/0/text: A-aku bantu kamu cari tubuh yang baru!
+fa0ea61e/0/text: Kamu benar-benar…
+fa0ea61e/1/text: Terlalu aneh.

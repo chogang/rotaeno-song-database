@@ -1,0 +1,24 @@
+6d71ae7/0/text: Hoppe, Hoppe!
+6d71ae7/1/text: Cepatan!
+819f1c48/0/text: Hari ini bagian terakhir!
+819f1c48/1/text: Terakhir!!!
+b8907b24/0/text: Iya~iya~
+bfe7839a/0/text: Huh——
+bfe7839a/1/text: Aku benar-benar ingin segera mendapatkan SIM~~~
+6e919540/0/text: Ilot, kamu ada belajar dengan serius, 'kan?
+90d5ddb9/0/text: Tentu saja!
+4d367e90/0/text: Demi menyewa Pesawat Ruang Angkasa suuuuper mewahnya Kepala Sekolah,
+4d367e90/1/text: Aku sudah belajar semaksimal mungkin!
+64fc5beb/0/text: Kalau mau dihitung, jumlahkan semua usahaku selama SMA pun,
+64fc5beb/1/text: nggak sebanding dengan tes SIM kali ini.
+8c90738e/0/text: ...Ha-haha.
+3ab857e1/0/text: ...? ...Ngomong-ngomong,
+3ab857e1/1/text: Ilot, bukankah kamu bilang Direktur Angatu memanggilmu ke ruang konseling sepulang sekolah hari ini?
+61445189/0/text: ... Kamu sudah pergi?
+e0f8a46a/0/text: ?!
+38b03a56/0/text: (Oh,iya, izin sakit kemarin membuat si Kayu itu curiga...)
+8783d67a/0/text: ...IIIILOT...
+7bf9855d/0/text: !!!
+7bf9855d/1/text: Gawat!
+b34f3ebc/0/text: Lari, Hoppe!
+ecfea4f1/0/text: A-apa?!

@@ -1,0 +1,132 @@
+8e7b61f/0/text: Ilot,
+6eb6dcd2/0/text: have you thought about
+6eb6dcd2/1/text: what you will do in the future?
+1a5fe9bc/0/text: What do you mean? A job?
+af293d15/0/text: Mmm... Any job will do?
+af293d15/1/text: A dream job, or any dream goal.
+8b10b9e8/0/text: Ugh.
+440ee128/0/text: Not at all.
+32f56095/0/text: It makes me tired just to think about it.
+33a876ed/0/text: Haha, you are truly a slacker.
+b18e8f2f/0/text: I recently learned the word online.
+b18e8f2f/1/text: Is that right?
+6cc4616a/0/text: Yep!
+6cc4616a/1/text: 10 out of 10!
+9cc1cf61/0/text: I'm the biggest slacker.
+79bf8f29/0/text: What about you, Hoppe? What's your dream?
+79bf8f29/1/text: What do you want to be?
+dd9a46fd/0/text: Doctor? Scientist? Businesswoman?
+cb2093cf/0/text: You are clever, so you can do any job well.
+ab148c21/0/text: Haha, you flattered me.
+9ffba370/0/text: ...
+c16812b0/0/text: But if it is possible,
+c16812b0/1/text: I'd want to find a solution to reduce poverty.
+bac716b4/0/text: Reduce poverty?
+bac716b4/1/text: How?
+b1040880/0/text: I don't know.
+b1040880/1/text: Scholars have made a lot of proposals.
+b1040880/2/text: However, they don't actually work.
+260a7151/0/text: But if there's a dream goal I want to achieve,
+260a7151/1/text: it would be this.
+35d0fb6a/0/text: Hoppe...
+22f1c1c5/0/text: You always act like the protagonist in a cartoon.
+ac62995a/0/text: You care about others and are morally upright.
+a771ee6e/0/text: We should think about ourselves
+a771ee6e/1/text: instead of the poor.
+274f62cc/0/text: Orphans are the most pathetic.
+274f62cc/1/text: We are helpless. Have we ever been asked if we want to be born?
+d4826012/0/text: Hm, because of the orphans, I want poverty to vanish in Aquaria.
+ac7434c5/0/text: Huh? Are orphans connected to poverty?
+eef46b47/0/text: Yes.
+da7f5b9c/0/text: ?
+44541455/0/text: How?
+906ef3db/0/text: Why am I clueless? Is this the difference between a genius and a slacker?
+c3de7012/0/text: We weren't born out of love.
+c3de7012/1/text: Why are there orphans?
+7448443e/0/text: To offset the declining birthrate in Aquaria.
+7448443e/1/text: We are here to fill in the population's gaps.
+f62ffb1e/0/text: Aquaria's low birthrate is due to
+f62ffb1e/1/text: the significant inequality in wealth.
+448d5bef/0/text: The rich live on Floating Island.
+448d5bef/1/text: The poor live on the ground.
+f85bf1b3/0/text: Aquaria has a vast land mass.
+f85bf1b3/1/text: Why are all of the land dwellers so poor?
+9b1a5c1b/0/text: The poor struggle to survive.
+9b1a5c1b/1/text: And loving couples have no plans for having children.
+aa37f7b1/0/text: What are they worried about?
+aa37f7b1/1/text: Are they worried that a new life will suffer with them?
+acef3f8c/0/text: So,
+acef3f8c/1/text: what if there is a solution?
+5dfb5092/0/text: When everyone is free from poverty
+5dfb5092/1/text: and has more time to focus on other things,
+d18ce455/0/text: will the birthrate rise?
+68e2afc/0/text: Will we
+68e2afc/1/text: pathetic orphans
+ee83ce56/0/text: cease to exist?
+7bb86e9a/0/text: Hoppe...
+3ea899f/0/text: ...
+567ff6dc/0/text: She always behaves like an adult
+1bdbe333/0/text: and is so outstanding among us.
+d363e2a5/0/text: However,
+d3fa2c0c/0/text: it must be unavoidable
+535e41b3/0/text: for an orphan to feel lonely.
+ca403746/0/text: Umm,
+ca403746/1/text: Sorry, I said too much.
+38ad201a/0/text: Ilot, are you bored?
+38ad201a/1/text: I didn't mean to...
+489b6f48/0/text: Not at all.
+489b6f48/1/text: Although I didn't really understand what you said.
+8ec5492d/0/text: Solving wealth inequality requires research,
+8ec5492d/1/text: which means being a scholar, right?
+b995da7f/0/text: Professor Hoppe!
+b995da7f/1/text: Remember to put me in a comfortable position.
+36a22005/0/text: The work is to...
+36a22005/1/text: watch cartoons and play video games.
+d57e2efa/0/text: Is there really a job like this?
+e515d16a/0/text: Where there is a will, there is a way!
+2b60ca57/0/text: You can do well when you put your mind to it.
+2b60ca57/1/text: A good use for that saying.
+f1c4e405/0/text: Huh? What did you say?
+f1c4e405/1/text: I didn't hear you.
+34a86563/0/text: Haha...
+1051b38e/0/text: By the way,
+1051b38e/1/text: you asked, "Have we ever been asked if we want to be born?"
+aeb4086a/0/text: Ilot...
+aeb4086a/1/text: don't you wish to be born into this world?
+903bbab3/0/text: Well...
+51f7b3b7/0/text: Being born without asking is a bit annoying.
+51f7b3b7/1/text: But the food in Aquaria is good, and the government subsidies are acceptable.
+51f7b3b7/2/text: What's important is that the Vicovico is fantastic!
+dc5e346b/0/text: Thinking about the future gives me a headache.
+dc1cb8/0/text: I can just ignore it.
+34903711/0/text: All in all...
+34903711/1/text: It's not bad.
+acb755f/0/text: Haha.
+ae9be5d/0/text: That's great.
+da7f5b9c/1/text: ?
+450f987/0/text: I...
+450f987/1/text: It's nice to meet you, Ilot.
+3b41a86e/0/text: Before I met you,
+3b41a86e/1/text: I'd never spoken to anyone my age.
+d636dc35/0/text: My nanny robot urges me to ignore anything else
+d636dc35/1/text: and focus just on my studies.
+13d38792/0/text: Studying is enjoyable,
+13d38792/1/text: but I also feel a little... I'm not sure...
+13d38792/2/text: Empty?
+7633a8c/0/text: Hoppe...
+ce94c9a5/0/text: So I truly appreciate you wanting to be my friend,
+ce94c9a5/1/text: Ilot.
+42b2c421/0/text: I'm happy you were born into this world.
+3ea899f/1/text: ...
+d6f19559/0/text: I wanna cry a little bit.
+30f4b3f1/0/text: No one has ever cherished me like this.
+760e2c82/0/text: I-I'm also happy to meet you, Hoppe.
+bc623558/0/text: But we're not just friends.
+bc623558/1/text: We're besties! !! Do you know about besties? !!
+32b5714c/0/text: Besties?
+d7b36caa/0/text: Ugh, you don't truly surf the internet! !!
+d7b36caa/1/text: Besties are best friends! !!
+2aecba9b/0/text: Come on.
+2aecba9b/1/text: Check this.
+13583564/0/text: Let me see.
+13583564/1/text: The word besties stems from an ancient planet...

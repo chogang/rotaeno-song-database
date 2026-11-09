@@ -1,0 +1,121 @@
+26522376/0/name: Istri Lime
+3adb3500/0/text: Wah, sayang!
+3adb3500/1/text: Sudah janjian sama temanmu?
+fc343a9f/0/text: Ya…! Nanti aku akan pulang buat beres-beres barang dulu,
+fc343a9f/1/text: lalu malamnya langsung pindah ke hotel kalian.
+7da91bda/0/text: Baguslah kalau begitu~ Sudah lama nggak melihat putri kesayangan nih.
+7da91bda/1/text: Ibu kangen banget lho~~~
+8a43da3d/0/text: Nanti malam Ibu ada banyak~hal yang mau~ ditanyakan padamu, ya.
+8a43da3d/1/text: Bersiaplah!
+90acd31f/0/text: He-Hehe……
+3fb9f1f4/0/text: Ibu……
+3fb9f1f4/1/text: Urusan kali ini, membuatku merasa sangat bersalah padanya……
+5d8a684d/0/text: ……
+41560e76/0/text: Hmm? Oh, abaikan saja Ayahmu.
+41560e76/1/text: Dia sedang langka-langkanya mau menggunakan otaknya untuk berpikir!
+6fad2edd/0/text: …Hah?
+6179b553/0/text: ……
+bd53f62a/0/text: …Jolly.
+a096cdc0/0/text: I-iya!
+7f059be7/0/text: Ma-mau marah lagi, ya…?!
+e62956f0/0/text: Waktu muda, kakekmu selalu mengajari Ayah,
+e62956f0/1/text: "Jalani semuanya dengan realistis dan jangan bermimpi nggak jelas seperti anak tetangga sebelah."
+6737807d/0/text: ……
+70577427/0/text: Anak tetangga yang seumuran dengan Ayah, nilai sekolahnya selalu anjlok.
+70577427/1/text: Setiap hari di kelas dia cuma mencoret-coret buku pelajaran,
+70577427/2/text: pulang sekolah pun kerjanya tetap melukis terus.
+8ab0b4e1/0/text: Dia bilang, cita-citanya adalah menjadi seorang pelukis.
+c2d66737/0/text: Orang di sekitar menertawakannya, para orang dewasa berkata dia terlalu kekanak-kanakan,
+c2d66737/1/text: teman-teman seumuran berkata dia terlalu bodoh.
+f9d8d28a/0/text: Bagaimana mungkin melukis bisa menghasilkan uang? Menjadi sumber pendapatannya untuk bertahan hidup?
+5a3659cb/0/text: Karena kami ini tetangga, jadi Ayah pernah diam-diam menasihatinya.
+af5744b3/0/text: "Hal yang bahkan bisa diselesaikan asisten AI cuma dalam tiga detik, kamu serius ingin menjadikannya pekerjaanmu?"
+523ca2a7/0/text: Tapi dia cuman mengangguk, lalu bertanya pada Ayah "Menurutmu, lukisan ini bagus nggak?"
+64ce2838/0/text: Itu pertama kali Ayah melihat lukisannya dengan saksama.
+d0a43151/0/text: Ayah baru sadar, lukisannya memang sangat bagus.
+d0a43151/1/text: sama sekali tidak kalah dari AI.
+8d3f066b/0/text: Setelah mendengarnya, dia tersenyum dan berkata——
+97bb623e/0/text: "Kalau begitu, aku harus melukis lebih baik lagi."
+af7cd466/0/text: Saat itu, akhirnya Ayah mengerti.
+88658a56/0/text: Di dunia ini, Ayah mungkin hanyalah setetes air,
+88658a56/1/text: tapi yang ingin dia capai adalah, lautan.
+f1d5ea87/0/text: ……Lalu… apa dia berhasil menjadi lautan?
+49f4c938/0/text: ……Ayah nggak tahu.
+c86f8dfa/0/text: Mungkin sudah berhasil.
+c86f8dfa/1/text: Lagipula, dia ini Slime yang sangat berbakat.
+79cfd290/0/text: Tapi, Ayah tahu akan satu hal.
+929a2834/0/text: Orang seperti Ayah, hanya bisa patuh pada orang tua.
+929a2834/1/text: Mengikuti jejak orang tua dan menjadi orang yang "hidup realistis"——
+617a9ca8/0/text: Nggak akan pernah bisa menjadi "Lautan".
+951bf6e6/0/text: …Ayah……
+b249955c/0/text: Sejak kapan, ya?
+b249955c/1/text: Apa karena stres mengurus anak? Atau karena takut melihatmu terluka?
+b028a6b/0/text: Perlahan-lahan, Ayah pun menjadi "orang tua",
+b028a6b/1/text: yang memaksa putri sendiri "hidup realistis".
+6737807d/1/text: ……
+9751a10d/0/text: ——Ayah lupa,
+9751a10d/1/text: Padahal dulu Ayah juga pernah mengagumi dirinya yang selalu mendambakan lautan.
+ddef39/0/text: Ayah……
+bd53f62a/1/text: …Jolly.
+c8ad8720/0/text: ! I-iya…!
+172eb9a1/0/text: Kalau kamu ingin menjadi lautan,
+172eb9a1/1/text: maka kejarlah mimpimu!
+a9f20c69/0/text: !!!
+124b2397/0/text: Ma-maksudnya…?!
+a715866b/0/text: …Ibumu dan Ayah,
+a715866b/1/text: akan mendukungmu sebisa mungkin.
+5b7cf370/0/text: A-ayah…!!!
+390066c3/0/text: Tapi!
+390066c3/1/text: Nggak boleh kabur dari rumah lagi, ya!
+ae8c4d38/0/text: Iya, iya! Aku nggak akan kabur lagi…!
+ae8c4d38/1/text: Aku janji!!!
+266cfb5e/0/text: Aduh, aduh, meskipun jarang-jarang kamu berbicara dengan benar dan aku nggak tega memotongmu,
+266cfb5e/1/text: tapi soal kabur dari rumah, kamu juga salah satu penyebabnya lho, sayang!?
+2d7f07f8/0/text: U-uhuk, uhuk, uhuk!
+6adcbfe2/0/text: O-oh, iya, ada lagi!
+6adcbfe2/1/text: Mulai sekarang, Ayah harus benar-benar mengajarimu sisi gelap dunia hiburan dan dunia kerja!
+6e93b1d8/0/text: Kalian harus bisa melindungi diri sendiri,
+6e93b1d8/1/text: kami baru bisa lepas tangan dengan tenang!
+b092596a/0/text: Dalam soal begini, ayahmu ini ahlinya lho.
+b092596a/1/text: Dengarkan Ayah pasti nggak akan salah!
+69233e9f/0/text: Oke! Aku akan mendengarnya dengan serius!
+69233e9f/1/text: Ah…! A-aku boleh memanggil anggota lain juga nggak…?
+a6b2a625/0/text: Karena aku agak bodoh…
+a6b2a625/1/text: Kalau dengarkan bersama-sama……
+4062aa17/0/text: !
+9e4a69cf/0/text: Tentu saja boleh!
+9e4a69cf/1/text: Dengarkan pengalaman orang tua jauh lebih berguna daripada baca seratus buku!!!
+cdfec70e/0/text: Sudah, sudah, hidungmu sudah sama dengan pinokio…
+cdfec70e/1/text: Ayo pergi cari makan dulu. Sambil jalan saja ngobrolnya.
+872995b/0/text: Jolly, malam ini mau makan apa?
+872995b/1/text: Khusus hari ini, kamu bebas memilih makan apa saja lho~
+b925dce7/0/text: Sayang, sayang!
+b925dce7/1/text: Aku mau makan sushi rumput laut!
+bb844ff4/0/text: ! Ka-kalau begitu, aku juga mau makan sushi rumput laut!
+2a7725ae/0/text: Anak bodoh, kok malah ikut Ayahmu sih?
+2a7725ae/1/text: Mana ada sushi rumput laut di Silvano~?
+6b297b38/0/text: ! Oh… iya. Be-benar…!
+8f95e9a6/0/text: Huhu… Baiklah.
+8f95e9a6/1/text: Karena kalian terus saling mengalah, biar Ibu saja yang mengambil keputusan~
+c08fd436/0/text: Bukankah Jolly kemarin-kemarin pernah bilang ingin makan Pancake Soufflé?
+c08fd436/1/text: Ayo ke kafe~!
+79e7d456/0/text: !!
+79e7d456/1/text: …Hidup Ibu!!!
+5c44a2a3/0/text: Ah, rasanya seperti mimpi…
+5c44a2a3/1/text: Semua yang di depan mata benar-benar nyata……!
+70fb4aed/0/text: Semua ini berkat semua yang berada di sisiku,
+70fb4aed/1/text: orang-orang yang pernah mendukungku dan menyemangatiku, serta——
+7a660b6f/0/text: Lady Lulua……!
+d58cd2c4/0/text: Terima kasih……
+36a181c0/0/text: Waduh, Jolly.
+36a181c0/1/text: Kenapa menangis… nanti kalau riasanmu luntur jadi nggak cantik lho!
+5ac2c894/0/text: Terima kasih Ayah dan Ibu!!!
+9053f7a2/0/text: A-aku paling suka sama Ayah dan Ibu!!!
+9053f7a2/1/text: Paling suka!!!
+1ae9865e/0/text: Iya, iya, Ibu tahu kok~
+1ae9865e/1/text: Sini, lap dulu wajahnya. …Sayang~?
+29360052/0/text: …Tisu… Tisu……
+29360052/1/text: …Oh, oh! Ketemu! Nah!!!
+120e4621/0/text: …Hiks—…
+97a51da3/0/text: ……Hehe……
+d4a11451/0/text: Aku yang sekarang, pasti adalah slime yang paling bahagia di dunia!

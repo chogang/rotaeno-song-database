@@ -1,0 +1,110 @@
+cc7c32aa/0/name: Tourist A
+4c3fdd47/0/name: Tourist B
+a7b6b611/0/name: Tourist C
+c34fe86/0/name: Park Staff
+7c0f73c7/0/text: Is this where the finale event is?
+6e3f61ce/0/text: Yes.
+6e3f61ce/1/text: Please head inside.
+d53d9e3b/0/text: Excuse me, is the party thing in here?
+c8984590/0/text: Yes!
+c8984590/1/text: Right this way!
+74c7687e/0/text: Thanks.
+74c7687e/1/text: I'm so excited...!
+339831fc/0/text: The brochure doesn't say a word about it.
+339831fc/1/text: So mysterious!
+fbd3b47c/0/text: Hehe, yes, please look forward to it!
+fbd3b47c/1/text: Come on in!
+a5a1fc5d/0/text: ...
+125530e6/0/text: It's about to start...
+52b4eda3/0/text: Why aren't they here yet...?
+74cb2dee/0/text: Did Ilot lose track of time playing around?!
+74cb2dee/1/text: I told her over and over...!!!
+a6b555bd/0/text: No, even if she did, Hoppe would've reminded her.
+e588bd4/0/text: Then... why?
+c502ef8f/0/text: Could it be...
+c502ef8f/1/text: Ilot figured out the truth about this event?!
+c2c217c0/0/text: No, impossible!
+c2c217c0/1/text: The brochure doesn't say a thing about what it is!
+b226d463/0/text: With a name that flashy,
+b226d463/1/text: she'd never resist taking the bait... would she?!
+9953cb73/0/text: What on earth...
+4142fada/0/text: Mona!
+4142fada/1/text: Get in here and run the crowd!
+210b11b/0/text: Coming!
+1afd6d3d/0/text: Ilot and Hoppe...
+1afd6d3d/1/text: Don't tell me they're not coming...?!
+894076ba/0/text: I worked so hard to lure them here...
+894076ba/1/text: And I'm still the only victim?!
+eddcc361/0/text: Mona, remember.
+eddcc361/1/text: Same as before, okay?
+1fc8bbba/0/text: Let them complain all they want.
+1fc8bbba/1/text: But refunds? Not happening. Got it?
+a56335a1/0/text: Got it...
+819e61dc/0/text: Oh, sure. After an entire month
+819e61dc/1/text: of dealing with this crap every weekend...
+1c647037/0/text: What is the boss even thinking?
+1c647037/1/text: Is this what rich people call "taste"...?
+43fe0b76/0/text: We're starting.
+43fe0b76/1/text: Here, want earplugs?
+25dd1c0b/0/text: Thanks.
+25dd1c0b/1/text: But I'd rather have a blindfold...
+bfa90d89/0/text: Yeah, I get it, but no can do,
+bfa90d89/1/text: you're on crowd control.
+44de9f3f/0/text: Yeah...
+af70382e/0/name: Crowd
+b8df0037/0/text: Ladies and gentlemen!!!
+b8df0037/1/text: Welcome to the hottest event of the summer!
+d6168862/0/text: The "Summer Madness! Hot! Sexy! Adults-Only!
+d6168862/1/text: Limited-Time Dance Party!"
+32fa6348/0/text: Wooooooo!!!
+3d4c87a7/0/text: ...
+74c51528/0/text: Ahhh...
+74c51528/1/text: Not this again...
+f61adc47/0/text: For our honored guests, we've spared no expense to bring in a famous star
+f61adc47/1/text: for a performance guaranteed to get your blood pumping!
+67d38c61/0/text: What?!
+ffe09837/0/text: N-no no no no...
+4b15a417/0/text: Haha, you're excited, right?
+4b15a417/1/text: Without further ado, please welcome the one and only—
+2a0ffd8/0/text: Lime!!!
+af70382e/1/name: Crowd
+2d9635/0/text: Mom...
+2d9635/1/text: I wanna go home—!!!
+d840a06e/0/text: ...?
+20edbc90/0/text: Hup!
+8afeed6d/0/text: ?!
+5262ae1f/0/text: Hahhh!!
+292dda3e/0/text: Ugh—
+507c9e22/0/text: Yeeeeahhh!!!
+bf7e98ff/0/name: Girl
+9e76930b/0/text: Waaahhh—!
+9e76930b/1/text: S-so scary... Mom, I don't wanna watch...!
+b7c01d07/0/name: Boy
+2bbaed25/0/text: That's terrifying!
+2bbaed25/1/text: Help! Dad! Where are you—?!
+3e63b974/0/name: Tourist C
+a303533c/0/text: W-what the hell is this?!
+a303533c/1/text: I can't believe this!
+53febf0f/0/name: Tourist F
+83f0bb3b/0/text: Is this a prank?!
+f3c3f66b/0/name: Tourist R
+1fcf961e/0/text: Where's the staff?!
+1fcf961e/1/text: Get out here!
+6f3a8e07/0/name: Tourist D
+cfb4639/0/text: I came here just for this event.
+cfb4639/1/text: This is false advertising! I'm reporting you!
+49ad598/0/name: Tourist E
+d5a3af83/0/text: Refund!
+d5a3af83/1/text: I want my money back, now!!!
+94e4ee98/0/text: Aaaaaaahhh!
+e5e02554/0/text: Everyone, please calm down!
+aa9f8774/0/text: Help me—!!!
+a2c6a73/0/text: Ohhh, I hear you!
+a2c6a73/1/text: I can feel your passion!
+8745d685/0/text: I...
+8745d685/1/text: am on fire!!!
+5225f431/0/text: This is my gift to you, my dear fans!
+5225f431/1/text: Hhhyahhhhhh!!!
+87a06121/0/text: Get outta here!!!
+c2e13e88/0/text: Mom, Dad...
+c2e13e88/1/text: It's so hard making a living these days!

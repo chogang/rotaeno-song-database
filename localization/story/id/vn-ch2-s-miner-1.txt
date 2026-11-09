@@ -1,0 +1,68 @@
+5cdb3a95/0/text: Bengkel Paman Noah... 
+5cdb3a95/1/text: Di sini, kan?
+848ac414/0/text: Permisi...
+fc269f06/0/text: Oh, bukankah ini Ilot?! 
+fc269f06/1/text: Lama tidak bertemu...
+73b32653/0/text: Apa sudah bermain ke tempat yang bagus?
+7c26da07/0/text: Uh... 
+7c26da07/1/text: Saat ini hanya berjalan-jalan di sekitar desa...
+7d426489/0/text: Karena panas level neraka menyerang saat menginjakkan kaki ke luar desa...
+946f8471/0/text: Tapi masalah ini tidak akan ada lagi mulai sekarang! !!
+fa1a27da/0/text: Itu, paman, 
+fa1a27da/1/text: Ini tanda terima kasih untukmu!
+b382212/0/text: Ha? Tanda terima kasih?
+f8d629cd/0/text: Ya! Terima kasih kamu telah menolongku sebelumnya! 
+f8d629cd/1/text: Juga memberiku batu tambang~
+2d6f8d39/0/text: Ah... 
+2d6f8d39/1/text: Anak ini, 
+2d6f8d39/2/text: Terlalu segan-segan!
+7b82d84e/0/text: Benda apa ini? 
+7b82d84e/1/text: Aku tidak bisa menerima jika terlalu mahal.
+bc5b28f2/0/text: Ini adalah AC portabel. 
+bc5b28f2/1/text: Dapat digunakan seharian setelah mengisi daya!
+7d8bce94/0/text: Dengan begini, paman dapat merasa lebih nyaman saat menggali tambang di luar... 
+7d8bce94/1/text: Ini adalah produk Aquaria, ada diskon untuk penduduk asli, tidak mahal!
+214e68cd/0/text: Aku juga membeli satu untuk diriku, 
+214e68cd/1/text: Dengan begini tidak perlu khawatir kepanasan ♬
+1fc1b798/0/text: Wow, terima kasih! 
+1fc1b798/1/text: Ini sangat bagus!
+c35b831e/0/text: Wah, 
+c35b831e/1/text: Apakah dia gadis Aquaria yang hampir tertimpa di pinggir jalan yang kamu ceritakan sebelumnya?
+fa517092/0/text: Apakah datang mengantarkan hadiah? 
+fa517092/1/text: Bagus, bagus. Sekarang tidak banyak anak yang tahu sopan santun.
+3e1dff64/0/text: Ah... 
+3e1dff64/1/text: Halo.
+f9fa9486/0/text: Karena sudah datang, 
+f9fa9486/1/text: Apa kamu mau melihat proses pengolahan batu tambang?
+43c069c3/0/text: Wah... 
+43c069c3/1/text: Bolehkah? !
+fa9a6cb1/0/text: Orang tua itu paling suka menceritakan hal ini pada orang-orang, 
+fa9a6cb1/1/text: Ikuti dia saja...
+9942a0f8/0/text: Ayo, ini adalah batu mentah yang baru digali.
+fda34d05/0/text: Walau dilihat berkali-kali, tetap terasa sangat indah...
+758aae70/0/text: Hahah, suka kan? 
+758aae70/1/text: Aku tahu dari sinar matamu...
+a1a7516e/0/text: Penampilan batu jatuh sangat mirip dengan permata, sangat populer, 
+a1a7516e/1/text: Karena itu kami juga sering menerima pesanan aksesoris dan pajangan.
+2814b45/0/text: Tapi kegunaan terbesar batu jatuh di Planet Orb adalah menyediakan energi.
+f30a1e38/0/text: Menyediakan energi?
+e3799378/0/text: Sumber energi utama Planet Orb sepertinya adalah...energi panas?
+539f34a5/0/text: Batu jatuh yang telah diolah dapat terus memancarkan panas, 
+539f34a5/1/text: Saat ini 90% dari energi di Planet Orb berasal dari batu jatuh.
+6e31cc52/0/text: Wah...
+aecef9cf/0/text: Sebelum <color=orange>『batu jatuh』</color> muncul, 
+aecef9cf/1/text: Planet ini pernah kekurangan energi dalam waktu yang lama, 
+aecef9cf/2/text: Saat itu harus berhemat menggunakan energi, sungguh merepotkan.
+11372eb9/0/text: Kekurangan energi... 
+11372eb9/1/text: Hal seperti ini tidak pernah terjadi di Aquaria sebelumnya.
+2b187ff2/0/text: Ternyata planet yang berbeda memiliki masalah yang berbeda...
+3a017917/0/text: Walau <color=orange>『Batu Jatuh』</color> cukup berbahaya, 
+3a017917/1/text: Tidak sedikit orang yang mati karenanya setiap tahun, 
+3a017917/2/text: Tapi kemunculan batu jatuh juga sangat membantu kami.
+5fde439b/0/text: Ah... 
+5fde439b/1/text: Bahaya, bahaya, di mana ada bahaya, di sana ada peluang...
+4d87247f/0/text: Ya...
+1a879bb8/0/text: Tampaknya topik pembicaraan menjadi berat... 
+1a879bb8/1/text: Memberikan energi, memberikan produk khas yang indah, tapi juga mengambil nyawa.
+86846557/0/text: ...Tiba-tiba merasa, 
+86846557/1/text: Sepertinya batu tambang menjadi tidak begitu cantik.

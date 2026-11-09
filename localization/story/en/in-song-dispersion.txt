@@ -1,0 +1,20 @@
+59cefb74/0/name: Dxsbond
+23cd138/0/text: Welcome to the interview room! Please introduce yourself to everyone.
+fe19a78a/0/text: Dxsbond, newer in the scene of music licensed for games,
+7d668c51/0/text: but producing electronic music for 6 years.
+6e6160ba/0/text: It's a pleasure to meet you!
+15931ff/0/text: Could you please tell us about your newly released song "Dispersion"?
+d1f98713/0/text: My song is called Dispersion.
+648053a6/0/text: I named it after the fact that,
+b3de6699/0/text:  I used the fx plugin disperser about a million times in the song haha.
+855ab45c/0/text: It was a really fun song to make,
+8bbf8abf/0/text: I feel like it's one of the rarer instances where I am able to step away from conventional composition and formatting,
+b69e40b5/0/text: and come up with something "new" in my head.
+9c13deae/0/text: I'm super glad I get an opportunity to share my music with a wide audience,
+df9610c1/0/text: since this has been my dream since I initially started music.
+6591fdeb/0/text: Wait, a million times?! That sounds both impressive and really interesting...
+cce07d5/0/text: So, is there anything you'd like to say to the players?
+93b815d6/0/text: I think the number one thing to remember as a musician is to always do what you want!
+320a27c8/0/text: If you start limiting yourself based on how profitable you think,
+5c0290dc/0/text: something is then you will eventually lose interest in your art.
+e18d566a/0/text: Just have fun with it at the end of the day.

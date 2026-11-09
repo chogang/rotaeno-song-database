@@ -1,0 +1,55 @@
+26522376/0/name: Lime's Wife
+b4a3037d/0/name: Passerby A
+178c0b9c/0/name: Passerby B
+6179b553/0/text: ...
+48196868/0/text: Sigh...
+f6de36af/0/text: So let me get this straight.
+36a6b59/0/text: I dropped everything and came all the way here
+36a6b59/1/text: because I thought I'd see my precious baby the moment I got off the ship—
+327b6f9/0/text: only for you, you old fool,
+327b6f9/1/text: to tell me you chased our daughter away again?
+67463c7a/0/text: She was the one being difficult! She kept talking back—
+ea0246ce/0/text: Are you sure she was talking back?
+ea0246ce/1/text: Or were you too busy lecturing her to hear a word she said?
+e328f7d/0/text: I-I wasn't...
+6179b553/1/text: ...
+b3c7837e/0/text: Ha.
+e1a228ef/0/text: What's wrong? You had plenty to say in front of our daughter.
+e1a228ef/1/text: Now you're scared?
+d89c1a14/0/text: Out.
+d89c1a14/1/text: Don't come back until you find our daughter!!!
+7fb5d860/0/text: Sigh...
+c31e8326/0/text: Can't even go home now.
+c31e8326/1/text: Being the head of this family is harder than it looks...
+39329f80/0/text: Hm? A new underground idol group?
+39329f80/1/text: Heartbeat Girls...
+4062aa17/0/text: !
+c225ba2d/0/text: Oh, I know them!
+26d1f39b/0/text: Whoa, are they famous already?
+f287e35a/0/text: No, no!
+f287e35a/1/text: But I've got an idol-obsessed friend who went to their debut show!
+5ce311d0/0/text: He said one of the members melted on stage!
+5ce311d0/1/text: Apparently it was hilarious!
+ca3e72e1/0/text: Huh? Melted?
+ca3e72e1/1/text: Like a magic trick?
+bcca565/0/text: No, seriously.
+bcca565/1/text: One of the girls in the group is actually a slime!
+1c36cddc/0/text: A slime...?!
+31e63508/0/text: No way.
+31e63508/1/text: A slime trying to be human? That's a joke, right?
+139d15f/0/text: Right!
+139d15f/1/text: Not just anyone can be an idol—
+8c8cf747/0/text: Gah?!
+7b3fa145/0/text: W-What was that?! Where did all this water come from? The sky's clear!
+f34b12b9/0/text: That was this slime washing your face for you.
+f34b12b9/1/text: How was it? Refreshing? Nice and cool?
+5fda3cc1/0/text: !!
+712b11f7/0/text: Got anything else to say about slimes?
+712b11f7/1/text: Come on. Say it to my face. Well?
+619defda/0/text: H-Hey...
+619defda/1/text: Let's get out of here...
+257989/0/text: Hey, don't run!
+257989/1/text: You were real talkative a second ago!
+6179b553/2/text: ...
+cac13e81/0/text: Even after failing like that...
+cac13e81/1/text: she's still not giving up?

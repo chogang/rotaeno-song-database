@@ -1,0 +1,83 @@
+bbc50f6e/0/text: The spaceship is arriving at:
+bbc50f6e/1/text:  Silvano.
+cdf28e48/0/text: Estimated time of arrival:
+cdf28e48/1/text:  Ten minutes.
+113d4165/0/text: We have entered Silvano's atmosphere.
+359801f0/0/text: We are passing through the atmosphere.
+359801f0/1/text: The ship may experience strong turbulence.
+7f376d15/0/text: Phew...
+9a35059d/0/text: We are finally arriving...
+33b05280/0/text: It's been two weeks since we have stayed on the ship.
+33b05280/1/text: I'm getting claustrophobic just from being cooped up for so long...
+9efcf12d/0/text: I'm getting...
+9efcf12d/1/text: ...quite far from Aquaria.
+46a466f7/0/text: We have passed through the atmosphere.
+7b6a801a/0/text: Wow...
+7b6a801a/1/text: I see the clouds!
+e934d581/0/text: It's so white and fluffy...
+e934d581/1/text: It's gonna be good weather today!
+19494b73/0/text: Aah...
+42961fdf/0/text: It's nice to be stepping on the ground again! ♪
+218fdc39/0/text: This is Silvano...?
+5c3dd8bd/0/text: To the west lies a bustling metropolis filled with technology, it's where the humans dwell.
+b66be36a/0/text: To the east lies a large plot of untouched forest.
+70c79c98/0/text: A massive river flows from north to south, encircling the planet...
+70c79c98/1/text: ...and serving as the natural barrier between the two lands.
+b183acc3/0/text: I didn't feel much when I saw the photos online,
+b183acc3/1/text: but when I saw it for myself on the spaceship, I was utterly amazed!
+682b8539/0/text: It's like day and night!
+682b8539/1/text: The view is so magical that it feels as though I'm playing a fantasy game!～☆ ～♪
+16104d1/0/text: Speaking of which...
+16104d1/1/text: This is a planet plagued by large-scale conflicts between races.
+d75b6582/0/text: According to AI,
+d75b6582/1/text: the races in conflict are humans and...
+3e282cfa/0/text: ...elves?
+69bc2974/0/text: Hmm...?
+8e94b793/0/text: It's understandable why humans are in conflict with other races.
+8e94b793/1/text:  Since we aren't good at anything
+8e94b793/2/text:  but making trouble...
+279cfcde/0/text: But...
+279cfcde/1/text:  Elves...?
+279cfcde/2/text: Isn't it known that elves are the friendliest and peace-loving race?
+279cfcde/3/text:  And that they treat other races with the utmost equality and fairness?
+2eb2a629/0/text: Why would a race like them...
+2eb2a629/1/text: ...be in conflict with others?
+51bdfbcb/0/text: Darn!
+51bdfbcb/1/text: Let me go! Let me go!
+adb652b8/0/text: What's going on...? There's a commotion over there...
+207956ae/0/text: I'm too far away...
+207956ae/1/text: ...to hear what they are saying clearly.
+2a6ee99c/0/text: Hey... No... Ah!
+2a6ee99c/1/text: Are you... going... watch...
+abf89737/0/text: ...your people... chased away... land... by them...?!
+23bb1190/0/name: ???
+76ac4efa/0/text: Silvano doesn't need humans like you...
+76ac4efa/1/text: ...who repeatedly violate the act and lack self-restraint.
+fd00cfd3/0/text: Quick, if this goes on...
+fd00cfd3/1/text: I'll let the wind take your last breath.
+8b388c/0/text: Oh!
+8b388c/1/text: Those ears! That aura! That beautiful face!!!
+e4ea25e3/0/text: That's one elf!
+12fddcd9/0/text: Whoa!
+12fddcd9/1/text: This is my first time seeing an elf in the wild!
+9c963466/0/text: It's live! Right before my eyes!
+4b6c8c4d/0/text: Wow...! ☆
+4b6c8c4d/1/text: It's my lucky day! ♪
+6e9697cb/0/text: ...
+7742fe97/0/text: ...Hmm?
+7742fe97/1/text: Did he take a glance at me just now?
+e6491fb3/0/text: Ah, he turned!
+e6491fb3/1/text: He is definitely looking at me!
+2b5b6720/0/text: That expression...
+2b5b6720/1/text: Isn't it a little... No, it's extremely terrifying!
+10d9b877/0/text: ...H-Hi?
+7f4de951/0/text: T-That's scary!
+6788afae/0/text: Did... Did I do something wrong?
+5531aa50/0/text: Fine, staring at someone...
+5531aa50/1/text: ...seems impolite, after all.
+f23accf0/0/text: Also, he's surrounded by lots of people.
+f23accf0/1/text: They are all in uniform... Are they law enforcers?
+d6e1eaa6/0/text: And the rows of people who are standing orderly behind them...
+d6e1eaa6/1/text: T-They all have handcuffs?!
+b3d56cd8/0/text: T-This is...
+f9c31bc5/0/text: Am I in the middle of something big?!

@@ -1,0 +1,57 @@
+571d05e1/0/text: "Huuff...... Aku sudah kenyang......"
+ce111fd9/0/text: Bolt menaruh alat makan setelah memakan suapan terakhir kue,
+ce111fd9/1/text: lalu mengelus perutnya sendiri dengan puas.
+64fbd63b/0/text: "Tuan muda, Anda ingin minum teh atau kopi untuk minuman setelah makan? "
+64fbd63b/1/text: Kepala Pelayan yang berdiri di ujung meja makan mendekat setelah tuan muda di hadapannya selesai makan,
+64fbd63b/2/text: memimpin para pelayan untuk membereskan alat makan di atas meja.
+6dd7c810/0/text: "Uh...
+6dd7c810/1/text: Teh saja, terima kasih. "
+2b815c8c/0/text: "Dengan senang hati.
+2b815c8c/1/text: Aku akan menyiapkan untuk Anda. "
+55cfde23/0/text: Dia menoleh dan memerintahkan bawahan dengan tatapannya,
+55cfde23/1/text: lalu dengan cepat kembali menghadap tuan muda paling kecil di keluarga ini.
+eb7d56cb/0/text: ...... Lalu dia mengatakan hal yang paling tidak ingin didengar tuan muda.
+ff006515/0/text: "Tuan muda, jadwal sore ini adalah kelas piano. " Tanpa heran mendengar anak laki-laki di depannya mengeluarkan tangisan yang tragis, karena ini yang selalu terjadi sebelum kelas piano. "Harap tuan muda segera pergi setelah makan siang, Guru Glenn sudah menunggu di ruang musik. "
+ecc55fd5/0/text: "Waaahh..." Walau sudah tahu jadwal hari ini sejak semalam, tapi Bolt masih tetap ingin menangis.
+11a73bb/0/text: Dan juga karena kenakalan dia sebelumnya, Kepala Pelayan juga akan menambahkan......
+83e8ceb0/0/text: "Aku mengerti Anda tidak suka pelajaran ini,
+83e8ceb0/1/text: Tapi menghadapi hal yang tidak disukai adalah salah satu pencapaian penting orang kelas atas. Karena itu......"
+999b8932/0/text: "......Tolong jangan mencoba membolos lagi, Tuan Muda. "
+6c18b3e1/0/text: Tidak bolos, itu tidak mungkin!
+6217de8e/0/text: Bolt mengomel sambil melangkah di koridor panjang, memikirkan "tempat kabur" kali ini.
+6442f7fa/0/text: Bahkan jika dia tertangkap dan dibawa kembali ke kelas setiap kali sebelum lima menit, dia tidak mungkin menyerah begitu saja!
+7635c6a5/0/text: "Bersembunyi di mana..." Menggigit kuku jarinya, Bolt sedang berpikir keras.
+d909f176/0/text: Semua tempat persembunyian di rumah sudah dilakukan, ruang penyimpanan di selatan dan tempat latihan luar di timur...
+557eb095/0/text: Aaah! Kenapa rumah dia begitu kecil!!!!!
+9f2d57a6/0/text: Melirik arloji di tangannya, anak muda itu semakin cemas. "Wah...... Waktu hampir habis!!! "
+5b4880ec/0/text: Hanya ada 3 menit sebelum kelas dimulai, Guru Glenn akan memberitahu kakek Butler bahwa aku tidak pergi ke kelas, lalu semua akan diperintahkan untuk menangkapku — Harus segera menemukan tempat persembunyian!!!
+1b33d97c/0/text: Selain tempat ini apakah masih ada tempat persembunyian lain untukku...
+1b33d97c/1/text: Bagian utara tidak bisa karena itu asrama pelayan, bagian barat ada ruang laboratorium kakak yang tidak bisa aku masuki...
+111fdbef/0/text: "......Ah. "
+485b0bfc/0/text: Ngomong-ngomong, sepertinya ada sesuatu di bagian belakang gedung laboratorium...?
+e5be9971/0/text: Jarum jam tidak berhenti bergerak, mengingatkan rencana anak muda kabur dari kelas tinggal beberapa hari.
+8a26231/0/text: Ck! Aku tidak peduli lagi!
+8a26231/1/text: Pokoknya pergi lihat dulu!
+26c8ab4f/0/text: Di sisi barat rumah utama, setelah melewati gedung laboratorium yang tidak ada izin masuk, lalu terus maju, gedung yang menjulang dalam ingatan itu akhirnya muncul di depannya.
+9395ad4c/0/text: "Huh..." Bolt cemberut dan menatap bangunan di depannya yang benar-benar berbeda dari rumah utama.
+e4dfef16/0/text: Dinding yang terbuat dari logam yang sama, dengan jendela tertutup dan pintu berat.
+85948956/0/text: "Dalamnya sama sekali tidak terlihat..."
+ac4a8b77/0/text: Bolt pertama kali datang ke tempat ini.
+ac4a8b77/1/text: Sebelum itu, ketika dia pergi ke laboratorium untuk bermain dengan saudaranya, dari jendela gedung dia melihat sekilas kubus logam besar di tanah rata.
+9f8dc7cd/0/text: Apakah itu gudang untuk menyimpan sesuatu?
+9f8dc7cd/1/text: Mungkinkah itu perlengkapan penelitian kakak?
+9f8dc7cd/2/text: Atau barang antik ayah?
+306434fe/0/text: Tapi, yang paling penting sekarang...
+1b06afbf/0/text: Apa dia bisa masuk?
+1d77b734/0/text: Dengan jantung berdebar tanpa henti, Bolt meraih kerah bajunya dan berjalan dengan gugup menuju gerbang yang menjulang tinggi.
+f89e6191/0/text: Jika tidak bisa masuk, bisa tertangkap ...!
+9ecbc28/0/text: Kumohon...
+f5bdb81f/0/text: "...pengakuan iris berhasil. Selamat datang, Tuan "
+59780f22/0/text: !
+38636d85/0/text: Berhasil!!!
+7bb93ed4/0/text: Kubus terbangun dari tidurnya saat tuannya kembali,
+7bb93ed4/1/text: Pintu yang berat itu bergeser terbuka dari sisi atas dan bawah, dan daun jendela yang tertutup kini terbuka lagi.
+2140fba7/0/text: dengan matahari sore dan lampu pijar yang menyala berurutan di dalam gedung,
+2140fba7/1/text: Bolt akhirnya melihat keberadaan besar yang tersimpan di kotak yang terbuka.
+ecc8e831/0/text: "Ini..."
+e5a74985/0/text: ...pesawat ruang angkasa?

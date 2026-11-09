@@ -1,0 +1,63 @@
+c0ce135c/0/text: Hooooppe!
+e837bbb6/0/text: !!
+3edf5176/0/text: Ilot! You've come!
+1729db8a/0/text: Hm... I bet...
+1729db8a/1/text: Our extra math lessons aren't what's got you so excited, are they?
+88f6609c/0/text: Oh geez!
+88f6609c/1/text: Of course not, duh!
+ec94abab/0/text: Stop bringing up stuff like that, it's a real buzzkill!
+980d057e/0/text: Hoppe! My dear Hoppe!
+980d057e/1/text: The capital's model student of the year!
+11bb29d9/0/text: I've figured out how to put your prize to good use!
+4172fbad/0/text: Huh...?
+f0548040/0/text: "The one and only oasis in the sweltering heat."
+9bf22d96/0/text: "Fully enjoy these heavenly moments—"
+2acdf225/0/text: "From the 23rd to the 28th of this month, at the Radiant Arc Garden on Floating Island. We look forward to your visit."
+bc230e92/0/text: Look!
+bc230e92/1/text: It's the Summer Festival!
+a09eef65/0/text: Fruity shaved ice! Water parks!
+a09eef65/1/text: All things we can only see in TV dramas!!!
+3fe9b73e/0/text: Getting a one-day pass to the floating island just in time for the festival, 
+3fe9b73e/1/text: This must be fate!
+d269133c/0/text: Hey...
+d269133c/1/text: Let's go together, shall we, Hoppe?
+c601d876/0/text: Come on! Let's go let's go let's go...
+9ffba370/0/text: ...
+d604e84a/0/text: Uh, but...
+686f0a98/0/text: Hm? But what?
+686f0a98/1/text: Does the one-day pass come with restrictions or something? Don't tell me it's unavailable during the festival period!
+5c3e6941/0/text: That would be too stingy of the floating island!
+5c3e6941/1/text: It's supposed to be a super-duper-mega grand prize! Only one student in each grade in all schools on the planet can receive it!
+2ea8c3b8/0/text: I-it's not like that...
+970c1d63/0/text: ...So what is it?
+84d802de/0/text: Hm...
+84d802de/1/text: It's just that, since it's a rare opportunity to visit the floating island,
+84d802de/2/text: I kind of want to use it to visit the library there...
+a3ce8626/0/text: Huh?
+a3ce8626/1/text: The library?
+a3ffbdb3/0/text: Don't we already have a library in our school?
+a3ffbdb3/1/text: Why would you go all the way up to the sky just to read?
+d4bd330d/0/text: That's different—
+87272f71/0/text: Ugh, stop always thinking about books books books and study study study,
+87272f71/1/text: It's so bo-ring!
+bdaf44a8/0/text: Remember what happened a couple days ago?
+bdaf44a8/1/text: You spent all your time ignoring me just because you wanted to review your astronomy notes...
+d34b2a17/0/text: The books you're reading are already college-level.
+d34b2a17/1/text: That's way beyond the range of what they teach us at school!
+d34b2a17/2/text: Why would you need to review something like that?
+dd73ff03/0/text: Haha...
+281de6dd/0/text: Um...
+281de6dd/1/text: I understand that you really want to go to the festival...
+de0fa5d/0/text: But could you give me a little bit more time?
+de0fa5d/1/text: We'll set off once I get my reading list sorted out.
+54145600/0/text: They hold festivals all the time on Floating Island.
+54145600/1/text: I'm sure it won't be long until the next festival!
+9cc90f9e/0/text: ...
+764a6b/0/text: ...Books...
+3cbd1fe8/0/text: ...Ilot?
+169a889d/0/text: Books, books, books!
+169a889d/1/text: It's always books for you, huh?
+3a6f28bf/0/text: Hoppe, you big dummy!!!
+96686c4f/0/text: Fine, we won't go, then!
+96686c4f/1/text: It's not like I care!
+547c88f4/0/text: Ilot?!

@@ -1,0 +1,13 @@
+f1404c92/0/name: Se-U-Ra
+77e0a16/0/text: Selamat datang di sesi wawancara! Boleh dong kenalan dulu?
+e445ab3e/0/text: Saya Se-U-Ra. Saya suka bikin macam-macam hal.
+258955a/0/text: Biasanya saya jadi aktif bergerak habis makan sushi.
+ad74a55e/0/text: Haha, sepertinya kamu benar-benar pecinta makanan ya…
+be9c2c8b/0/text: Boleh ceritain tentang lagu barumu "六天照來"?
+6a316975/0/text: Saya ingat, lagu ini terinspirasi dari karakter yang ceria dan nakal, mirip Amaterasu yang bersinar terang.
+95c66485/0/text: Lagu ini punya irama enerjik dengan nuansa triplet yang khas.
+4d674947/0/text: Setelah selesai bikin lagu ini, saya makan sushi lagi.
+4b1d164e/0/text: ...Wah, lagunya memang penuh semangat, sama kayak kamu…!
+ed181095/0/text: Ada pesan khusus untuk para pemain?
+74ef4f26/0/text: Yuk kita makan sushi bareng-bareng.
+ede13c4e/0/text: ...(Waktu itu steak, sekarang sushi lagi...)

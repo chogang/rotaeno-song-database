@@ -1,0 +1,28 @@
+f393a0cf/0/text: Welcome to our interview!
+cd87fd53/0/text: First, please introduce yourself.
+f7e25d77/0/text: Hi~, I'm Raphiiel.
+43212924/0/text: I make various kinds of music, including rhythm game music, of course!
+b3c952b1/0/text: It's great to meet you!
+11a17e49/0/text: Can you introduce your new song, "enter -MAGICAL CODE-" in detail?
+d45f184c/0/text: "enter -MAGICAL CODE-" is a Tech Core track infused with oriental vibes and retro 8-bit elements.
+e0f88fa7/0/text: It tells the story of a player who discovers a mysterious machine.
+d4e03681/0/text: When activating the machine, it malfunctions, throwing the player into random dimensions.
+678750ac/0/text: To fix it, the player must enter a "magical code" to return home.
+b91df215/0/text: I'm so happy that this song was chosen as one of the winners in the Rotaeno music contest.
+48a17cc2/0/text: Huge thanks to the Rotaeno team for this amazing opportunity!
+5b434ff2/0/text: The mysterious machine sounds so intriguing!
+be591166/0/text: What were your thoughts when composing this track?
+7f20695c/0/text: Have you ever imagined a song that could take you to places you've never even dreamed of?
+4195d0fd/0/text: Like tasting all sorts of candy flavors, each one giving you a completely new experience?
+767ff64f/0/text: That's exactly what I envisioned when creating this track.
+1668020f/0/text: I wanted to make a song with a sense of "randomness" that keeps listeners guessing, "What's going to happen next?"
+fe725f5b/0/text: It seems like players will have a fun journey while playing this song!
+e5a160cf/0/text: Does this song have any other unique features?
+29cb37d5/0/text: Oh~ you can actually find the magical code hidden somewhere in this track, try to find it~
+8bec7ae8/0/text: Clue: It's a simple word, and it's related to rotate.
+6248b02d/0/text: So, the code is actually within the song!
+60e6ee3c/0/text: Lastly, do you have anything you'd like to say to the players?
+c6e19efc/0/text: Thank you so much for listening to my work!
+41e014c6/0/text: I'm happy if you enjoyed the experience and the adventure this track offers.
+8245ea41/0/text: I hope you'll look forward to my future works as well!
+c6c52ca2/0/text: I'll do my best!

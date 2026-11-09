@@ -31,3 +31,16 @@ CREATE VIEW localization_canonical_terms AS SELECT * FROM localization_terms WHE
 CREATE VIEW localized_song_names AS SELECT s.song_id,s.title AS original_title,l.code AS language_code,t.term_key,v.text AS translated_title,ref.code AS reference_language,CASE WHEN ref.code IS NOT NULL THEN target.text ELSE v.text END AS resolved_translation,COALESCE(NULLIF(CASE WHEN ref.code IS NOT NULL THEN target.text ELSE v.text END,''),s.title) AS display_title,CASE WHEN ref.code IS NOT NULL THEN 'inferred_language_reference' WHEN v.text IS NULL OR v.text='' THEN 'original_title' ELSE 'localization_table' END AS display_title_source FROM song_objects s CROSS JOIN languages l LEFT JOIN localization_canonical_terms t ON t.term_key='db/song/'||s.song_id||'/name-translation' LEFT JOIN localization_values v ON v.entry_index=t.entry_index AND v.language_code=l.code LEFT JOIN languages ref ON ref.code=v.text LEFT JOIN localization_values target ON target.entry_index=t.entry_index AND target.language_code=ref.code;
 
 CREATE VIEW song_chart_details AS SELECT s.song_id,s.title,s.artist,s.illustrator,s.album,s.release_version,c.asset_file,c.path_id AS chart_path_id,c.name AS chart_name,c.level_id,CASE c.level_id WHEN 0 THEN 'I' WHEN 1 THEN 'II' WHEN 2 THEN 'III' WHEN 3 THEN 'IV' WHEN 100 THEN 'Sp' WHEN 200 THEN 'IV-alpha' END AS difficulty,c.constant,c.legacy_constant,c.override_prefix,c.override_level,COALESCE(NULLIF(json_extract(c.raw_json,'$.override_info.charter.text'),''),s.charter) AS effective_charter,COALESCE(NULLIF(json_extract(c.raw_json,'$.override_info.illustrator.text'),''),s.illustrator) AS effective_illustrator FROM song_objects s JOIN song_charts sc USING(song_id) JOIN chart_objects c ON c.asset_file=sc.asset_file AND c.path_id=sc.path_id;
+
+CREATE TABLE IF NOT EXISTS story_documents (
+ language_code TEXT NOT NULL, script TEXT NOT NULL, source_asset TEXT NOT NULL,
+ path_id INTEGER NOT NULL, sha256 TEXT NOT NULL, language_basis TEXT NOT NULL,
+ PRIMARY KEY(language_code,script)
+);
+CREATE TABLE IF NOT EXISTS story_values (
+ language_code TEXT NOT NULL, script TEXT NOT NULL, entry_key TEXT NOT NULL,
+ text TEXT NOT NULL, line INTEGER NOT NULL, label TEXT NOT NULL, command TEXT NOT NULL,
+ speaker TEXT NOT NULL, reference_id INTEGER NOT NULL, inline_index INTEGER NOT NULL, field TEXT NOT NULL,
+ PRIMARY KEY(language_code,script,entry_key),
+ FOREIGN KEY(language_code,script) REFERENCES story_documents(language_code,script)
+);

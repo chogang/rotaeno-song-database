@@ -1,0 +1,55 @@
+26522376/0/name: Istri Lime
+b4a3037d/0/name: NPC A
+178c0b9c/0/name: NPC B
+6179b553/0/text: ……
+48196868/0/text: …Haih……
+f6de36af/0/text: Jadi?
+36a6b59/0/text: Aku sengaja tinggalkan kerjaanku demi buru-buru ke sini,
+36a6b59/1/text: kiranya begitu sampai, langsung bisa bertemu dengan putri kesayanganku——
+327b6f9/0/text: —tapi ujungnya kamu malah bilang,
+327b6f9/1/text: Kamu! Memarahi! Putriku! Sampai! Kabur! Lagi?!
+67463c7a/0/text: Jelas-jelas semua ini karena dia terlalu nakal dan terus membantah——
+ea0246ce/0/text: Kamu yakin dia terus membantah,
+ea0246ce/1/text: bukan kamu sibuk mengomel sampai nggak dengar omongannya?
+e328f7d/0/text: A-aku… mana ada……
+6179b553/1/text: ……
+b3c7837e/0/text: Huh.
+e1a228ef/0/text: Kenapa? Bukannya tadi masih sok paling benar di depan putrimu?
+e1a228ef/1/text: Sekarang baru ciut?
+d89c1a14/0/text: Keluar.
+d89c1a14/1/text: Kalau nggak menemukan putri kita, kamu jangan pulang juga!!!
+7fb5d860/0/text: Haih……
+c31e8326/0/text: Punya rumah, tapi nggak bisa pulang.
+c31e8326/1/text: Susah banget jadi kepala keluarga ini……
+39329f80/0/text: Hm, Ini grup idola indie yang baru debut?
+39329f80/1/text: <Heartthrob Girls>……
+4062aa17/0/text: !
+c225ba2d/0/text: Oh, aku tahu!
+26d1f39b/0/text: Eh, aslinya grup yang sangat terkenal, ya?
+f287e35a/0/text: Bukan, bukan!
+f287e35a/1/text: Tapi aku punya teman wibu idola yang sempat tonton debut perdana mereka!
+5ce311d0/0/text: Katanya, di grup itu ada member yang bisa meleleh!
+5ce311d0/1/text: Lucu banget lho!
+ca3e72e1/0/text: Ha? Meleleh?
+ca3e72e1/1/text: Sulap?
+bcca565/0/text: Bukan, bukan.
+bcca565/1/text: Ada salah satu anggota mereka yang aslinya slime!
+1c36cddc/0/text: Slime…?!
+31e63508/0/text: Serius nih?
+31e63508/1/text: Slime ingin menjadi manusia? Melawak nih?
+139d15f/0/text: Iya, 'kan~
+139d15f/1/text: Bukan ras apa pun bisa menjadi idola——
+8c8cf747/0/text: Waduh?!
+7b3fa145/0/text: Ke-kenapa tiba-tiba?! Padahal cuacanya cerah, air dari mana ini?!
+f34b12b9/0/text: Air dari aku, Slime, untuk kamu cuci muka!
+f34b12b9/1/text: Bagaimana? Enak nggak? Adem nggak?
+5fda3cc1/0/text: !!
+712b11f7/0/text: Masih ada pendapat apa terhadap Slime?
+712b11f7/1/text: Coba sini ngomong di depanku? Hah——???
+619defda/0/text: Hei, hei…
+619defda/1/text: Ayo pergi……
+257989/0/text: Woi, jangan kabur dong!
+257989/1/text: Bukannya tadi masih ada banyak pendapat?!
+6179b553/2/text: ……
+cac13e81/0/text: Meski akhirnya gagal total pun,
+cac13e81/1/text: masih mau lanjut, ya……

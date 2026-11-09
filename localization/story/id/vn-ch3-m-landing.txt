@@ -1,0 +1,83 @@
+bbc50f6e/0/text: Pesawat ruang angkasa segera tiba:
+bbc50f6e/1/text:  Silvano.
+cdf28e48/0/text: Perkiraan waktu tiba:
+cdf28e48/1/text: 10 menit.
+113d4165/0/text: Telah tiba di rentang atmosfer Silvano.
+359801f0/0/text: Sedang menembus atmosfer,
+359801f0/1/text: Pesawat mungkin akan mengalami guncangan kuat,
+7f376d15/0/text: Huh...
+9a35059d/0/text: Akhirnya sampai...
+33b05280/0/text: Hampir dua minggu ada di dalam pesawat,
+33b05280/1/text: Hampir saja merasa terlalu sesak dan bosan...
+9efcf12d/0/text: Sudah...
+9efcf12d/1/text: Sangat jauh dari Aquaria...
+46a466f7/0/text: Sudah melewati lapisan atmosfer.
+7b6a801a/0/text: Wah...
+7b6a801a/1/text: Lapisan awan sudah terlihat!
+e934d581/0/text: Berwarna putih...
+e934d581/1/text: Rasanya hari ini akan punya cuaca yang baik!
+19494b73/0/text: Hah~~~
+42961fdf/0/text: Rasanya menginjakkan kaki di tanah! Luar biasa ♪
+218fdc39/0/text: Apakah ini Silvano...
+5c3dd8bd/0/text: Kota besar penuh dengan ilmu pengetahuan dan teknologi ada di sebelah barat, tempat tinggal manusia,
+b66be36a/0/text: Lalu hutan besar dan luas ada di sebelah timur.
+70c79c98/0/text: Sungai besar yang mengelilingi planet dari utara ke selatan,
+70c79c98/1/text: Menjadi batas yang alami antara daratan di kedua sisi.
+b183acc3/0/text: Tidak merasakan apa pun saat melihat foto di internet,
+b183acc3/1/text: Tapi saat melihat dari pesawat ruang angkasa, rasanya sungguh mengejutkan!
+682b8539/0/text: Sama seperti medan perang yang terkenal!
+682b8539/1/text: Pemandangan yang luar biasa, rasanya seperti sedang bermain game fantasi! ～☆ ～♪
+16104d1/0/text: Omong-omong...
+16104d1/1/text: Ini adalah planet dengan perselisihan ras berskala besar.
+d75b6582/0/text: Menurut apa yang dikatakan Xiaozhi,
+d75b6582/1/text: Ras yang berselisih seharusnya adalah manusia...
+3e282cfa/0/text: ... dan Elf?
+69bc2974/0/text: ... Hm?
+8e94b793/0/text: Manusia berselisih dengan ras lain, tidak sulit untuk dipahami,
+8e94b793/1/text:  Manusia tidak punya apa pun yang berlebih,
+8e94b793/2/text:  Hanya masalah yang berlebih...
+279cfcde/0/text: Tapi,
+279cfcde/1/text:  Ras Elf...?
+279cfcde/2/text: Semua orang selalu berkata bahwa para Elf sangat suka dengan perdamaian,
+279cfcde/3/text:  Memperlakukan ras lain dengan setara dan adil?
+2eb2a629/0/text: Keberadaan seperti itu,
+2eb2a629/1/text: Apakah bisa berselisih dengan orang lain...?
+51bdfbcb/0/text: Sial!
+51bdfbcb/1/text: Lepaskan aku! Cepat lepaskan aku!
+adb652b8/0/text: Apa yang terjadi...? Ada keributan apa...
+207956ae/0/text: Jaraknya terlalu jauh,
+207956ae/1/text: Tidak terdengar apa yang mereka katakan...
+2a6ee99c/0/text: Hei! ... Jangan!
+2a6ee99c/1/text: Jangan-jangan... Ini tempat di mana...
+abf89737/0/text: Kita menyaksikan... Para rekan diusir... Si busuk?!
+23bb1190/0/name: ???
+76ac4efa/0/text: Silvano tidak membutuhkan kalian yang terus berulang melakukan pelanggaran perjanjian,
+76ac4efa/1/text: Manusia tidak memiliki kendali diri.
+fd00cfd3/0/text: Cepat, jika masih menunggu,
+fd00cfd3/1/text: Aku akan membiarkan angin membawa kalian pada perjalanan terakhir.
+8b388c/0/text: Wah!
+8b388c/1/text: Telinga itu! Aura itu! Wajah itu!!!
+e4ea25e3/0/text: Pasti adalah Elf!!!
+12fddcd9/0/text: Wow~~~
+12fddcd9/1/text: Pertama kalinya dalam hidupku, melihat Elf!
+9c963466/0/text: Yang hidup! Dan ada di depan mataku!
+4b6c8c4d/0/text: Wah... ☆
+4b6c8c4d/1/text: Jackpot ♪
+6e9697cb/0/text: ...
+7742fe97/0/text: ... Hm?
+7742fe97/1/text: Barusan saja, dia melirik ke arahku?
+e6491fb3/0/text: Hm, dia sudah menoleh!
+e6491fb3/1/text: Pasti sedang melihatku!!!
+2b5b6720/0/text: Ekspresi ini...
+2b5b6720/1/text: Rasanya sedikit... salah... sangat menakutkan!!!
+10d9b877/0/text: ... Ha... hai?
+7f4de951/0/text: Hm, sangat menakutkan!
+6788afae/0/text: Aku, aku melakukan kesalahan apa?
+5531aa50/0/text: Hm, baiklah, terus menatap dia,
+5531aa50/1/text: Sepertinya... memang kurang sopan...
+f23accf0/0/text: Oh ya, begitu banyak orang di sisinya,
+f23accf0/1/text: Mengenakan seragam, kelihatannya seperti... sebuah lembaga penegak hukum?
+d6e1eaa6/0/text: Lalu orang yang ada di belakang mereka...
+d6e1eaa6/1/text: Sepertinya, sepertinya diborgol?!
+b3d56cd8/0/text: Hm... ini...
+f9c31bc5/0/text: Jangan-jangan, aku kebetulan menemukan sesuatu yang buruk?!

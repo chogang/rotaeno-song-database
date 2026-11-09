@@ -1,0 +1,137 @@
+9869206f/0/text: The school festival this year was so lively!
+9869206f/1/text: All classes came up with very creative and fun themes!
+c65a4fca/0/text: Alright, now, for the moment you've all been waiting for——
+c65a4fca/1/text: The results of the "Hottest Booth" votes!
+bae613db/0/text: Finally...!
+3b3488e/0/text: I'm so nervous...!
+ca98abea/0/text: Don't worry, calm down,
+ca98abea/1/text: your class is sure to win, Hoppe~
+55d02d63/0/text: What do you mean!
+55d02d63/1/text: My class has the best shot at winning, alright?!
+d7220e74/0/text: Heh, your class did good,
+d7220e74/1/text: but Class A had the great Mona helping them out♪
+20e9e7a6/0/text: The nerve! You abandoned the competition midway to go help out another class.
+20e9e7a6/1/text: How is that allowed?! It should be a violation!
+3f38d91d/0/text: Haven't you ever heard of the saying, if you can't beat 'em, join 'em?
+3f38d91d/1/text: Besides, knowing when to give up is also a type of victory~
+9cca0f13/0/text: Also,
+9cca0f13/1/text: I enjoyed watching you in despair♪
+9ab1b908/0/text: As long as your class doesn't win,
+9ab1b908/1/text: that's more than enough for me☆
+86907d8c/0/text: Oh, you...!
+b4f60861/0/text: Settle down...
+b4f60861/1/text: The results are locked in already,
+b4f60861/2/text: why don't we just wait for the announcement?
+a04fe538/0/text: Typically, we'd announce third place first…
+a04fe538/1/text: But from everyone's eagerness... Why don't we start with first place?
+b9f27afd/0/name: Crowd
+fa9bc1/0/text: Yeah——!!!
+b0ea7a35/0/text: Fir, the first place...!
+72c0964d/0/text: Library pass...!
+8e023c20/0/text: Oh, oh~~
+8e023c20/1/text: Class A, Class A~
+ba98dbdc/0/text: The winner of the "Hottest Booth" goes to——
+beeba21a/0/name: All Three
+243ebd7c/0/text: Is...
+359467fb/0/text: The Junior High Division, Class 1-A!
+359467fb/1/text: Congratulations!!!
+e12745f9/0/name: Junior High Division, Together
+1bc381c8/0/text: Whoo——
+ddc57b2a/0/text: Yeah——!!!
+3e4a3f5a/0/text: We won— we won, yeaaah—
+f9eb4076/0/text: ...Who?
+ded323fe/0/text: ...Class 1... A...?
+7948e7ab/0/text: Junior High... Division?
+39fc9df9/0/text: Junior High Division Class 1-A,
+39fc9df9/1/text: please send your representative to the stage~!
+c8c380ec/0/name: Class 1-A (Junior High) Crowd
+5af11f60/0/text: Woohoo——
+80c0ad73/0/text: Kelut!
+51bcc020/0/text: Kelut——
+80961996/0/text: Kelut! Kelut! Kelut——
+5b46baeb/0/name: Kelut
+bb14ce57/0/text: Wohoo~!
+bb14ce57/1/text: Coming——!
+9426621b/0/text: So, Kelut,
+9426621b/1/text: you're representing Class A? Congratulations again on winning!
+521c22ad/0/text: Thank you!
+521c22ad/1/text: Thank you, everyone!!!
+6613550d/0/text: Let's see...
+6613550d/1/text: Your class's theme was... "Whoosh~Whoosh Spaceship Obstacle Race", was it?
+6613550d/2/text: I heard it generated quite some excitement!
+3e1f11f6/0/text: Spaceship Obstacle...
+3e1f11f6/1/text: That go kart booth?!
+624ad602/0/text: We're flying spaceships every day in class already.
+624ad602/1/text: How can a theme like that... possibly win the festival...?
+27ea106/0/text: That's right...
+27ea106/1/text: Truly baffling, isn't it...??
+a1289bda/0/text: Just what was so special about that race...?
+a1289bda/1/text: Wish I could try...
+7f26e2c/0/text: Well then,
+7f26e2c/1/text: how about sharing a few words, Kelut?
+a544e230/0/text: Sure!
+a9a7d9bd/0/text: Thank you for everyone's support!
+a9a7d9bd/1/text: We worked super hard for the booth, we're really excited to see you guys loved it!
+314db95e/0/text: We hope that our races were able to make
+314db95e/1/text: everyone fall even more in love with spaceships!!!
+a92963f5/0/text: Thank you!!!
+dc6be91f/0/text: Haha,
+dc6be91f/1/text: what a heartfelt speech!
+be88627/0/text: Well, what special privilege does Class A ask for?
+be88627/1/text: Have you guys decided yet?
+cd45cc28/0/text: Sure!
+cd45cc28/1/text: We've got it already!
+9e32199a/0/text: We hope that our spaceships can park inside the campus grounds,
+9e32199a/1/text: not just in the docks!
+7ff7ce57/0/text: Huh...?
+7ff7ce57/1/text: But if I remember correctly, out of all the junior high schoolers,
+7ff7ce57/2/text: only you have a spaceship, right...?
+5e1ebf80/0/text: Not after today!
+5e1ebf80/1/text: I'll buy one for everyone in class!
+c6236e97/0/text: Oh!
+c6236e97/1/text: Of course, that includes everyone who voted for us!
+c6236e97/2/text: I won't forget your support!
+74cc9af2/0/text: …<size=80>?!?!??!?!?!</size>
+aefb0df8/0/text: Wh-WHAT——?!?!?!
+d3f2f1c8/0/text: Buy... Space... Spaceships...?
+258fcff1/0/text: But, this...
+6f66abab/0/text: That can't be right,
+6f66abab/1/text: isn't this——
+327d4f6/0/name: Broadcast
+28f87fa3/0/text: "Bzzt—— Zzt——"
+bf5c9327/0/text: <size=60>"KELUT! CALLING KELUT!"</size>
+3db3cd8/0/text: That voice...
+6fb9bb69/0/text: It's the principal...
+9d425bdb/0/text: Oh, that reminds me,
+9d425bdb/1/text: there was a rumor about a first year in the junior high division...
+f9ad8a52/0/text: Oh, it's brother!
+f9ad8a52/1/text: Hi, big brother~!
+7b1c876d/0/text: We won~ Isn't that awesome?!
+4cff1422/0/text: ...was the principal's younger brother.
+8763a699/0/text: "Come to my office!!!
+8763a699/1/text: Right now!!!"
+ef7a524b/0/text: Principal...
+ef7a524b/1/text: sounded... furious...
+3c61962a/0/text: Eh——
+3c61962a/1/text: Brother, you're not going back on your word, are you——?!
+ce4f82b4/0/text: <size=80>"—!*^($%#@…"</size>
+cf52477c/0/text: He's so mad, he's at a loss for words...
+322e85a7/0/text: "...I'm not taking it back, but <size=60>AS FOR YOU!</size>"
+4b72ce40/0/text: <size=80>"My office!!! NOW!!!"</size>
+875e6c32/0/text: Alrighty~~~
+b763dea3/0/text: Uh...
+b763dea3/1/text: Con-congratulations...?
+4cb92bd/0/text: As the auditorium fell into chaos,
+4cb92bd/1/text: the school festival happily(?) drew to an end.
+6cfec63e/0/text: Also,
+6cfec63e/1/text: since Class A was suspected of using bribery to gain an unfair advantage over other classes,
+6cfec63e/2/text: Kelut's "Spaceship commission" didn't happen, and the privilege he proposed was also denied.
+ee59e92d/0/text: As a means of compensation, the principal used his own money to purchase a batch of spaceships. As long as they attended school,
+ee59e92d/1/text: any student could borrow one from the academy——but of course, you have to earn your License first.
+98ac8116/0/text: All's well that ends well... Right?
+98ac8116/1/text: Well, except for Kelut.
+87b6a6ff/0/text: As a way to make him learn from his mistakes,
+87b6a6ff/1/text: the Principal didn't just revoke Kelut's spaceship for the semester, he even banned Kelut from setting foot in the parking area.
+4d80cf1/0/text: Hehe :)
+7c42b78/0/text: Rotaeno Academy
+7c42b78/1/text: Fin.

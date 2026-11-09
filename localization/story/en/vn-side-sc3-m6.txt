@@ -1,0 +1,68 @@
+9e73dcd1/0/name: Venue Manager
+8a5304ed/0/text: Boss, Boss!
+8a5304ed/1/text: The trash has all been taken care of!
+94ce927a/0/text: Great work, Puno!
+aba9ea9f/0/text: Alright, that about wraps it up for cleanup duty.
+aba9ea9f/1/text: Mister, give everything a final check.
+a363091a/0/text: Mmm...
+fda2d204/0/text: Done.
+fda2d204/1/text: ...Everything checks out just fine.
+6f692bcd/0/text: Thank you, we'll be leaving now.
+6f692bcd/1/text: Goodbye.
+129cf285/0/text: ...
+380c308d/0/text: Phew—
+380c308d/1/text: How exhausting!
+c716452a/0/text: Haha, yeah!
+c716452a/1/text: But it was very fun, right?
+f994d953/0/text: Yeah! Hey, Boss,
+f994d953/1/text: you're the best!
+48a268da/0/text: That geezer was sooooo annoying,
+48a268da/1/text: but you kept your cool while talking to him!
+5723dcb6/0/text: When we were cleaning up, I saw him constantly muttering to himself,
+5723dcb6/1/text: and I had to hold myself back from going over to yell at him so many times!
+9dd551c8/0/text: If you ask me, we should have just called the cops back then,
+9dd551c8/1/text: and had him arrested!!!
+f44cc252/0/text: Hahaha~ What could we do? He showed up right before the opening ceremony.
+f44cc252/1/text: We had to let it slide if we wanted to start the opening ceremony on time.
+d7b82e0f/0/text: But... it's not like we're just letting it go.
+b7285261/0/text: Mr. Erwin should have already contacted the lawyers
+b7285261/1/text: to follow up on the matter.
+8340b03c/0/text: ...Geez, in the end, I always end up relying on my brother.
+a29b1e96/0/text: Mmm~~~ But!
+a29b1e96/1/text: It really was quite a sight!!!
+e82773f1/0/text: All those people! The big race!
+e82773f1/1/text: It was like a dream come true!
+2093db6/0/text: Dream come true...
+f41de12b/0/text: Yeah! Boss and Boss Bro,
+f41de12b/1/text: you two are the best!!!
+3a252fe3/0/text: ...Haha, it's all thanks to my brother.
+cc12ec3a/0/text: If he didn't show up to help...
+cc12ec3a/1/text: This event would have just been a copy of all the past ones, without anyone attending.
+499bb03d/0/text: How frustrating.
+fc131722/0/text: When will I finally become someone that can make my brother
+fc131722/1/text: and my parents proud?
+f9055e36/0/text: That's not true! Sure, Boss Bro is awesome,
+f9055e36/1/text: but Boss is even more awesome!
+fad86dbd/0/text: You managed to learn so much in such a short time!
+fad86dbd/1/text: There's no way I could have done that!
+31c60d22/0/text: You were rummaging day and night,
+31c60d22/1/text: looking at case studies, scouting out locations, and still doing homework that Boss Bro assigned until he accepted it!
+99f84485/0/text: Haha, it's called a project proposal...
+a8fe1570/0/text: Puno, I!
+a8fe1570/1/text: I'm so moved!!!
+925a4830/0/text: If we keep this up, our dream to spread spaceship racing across the universe
+925a4830/1/text: will surely come true, right!!!
+d034c901/0/text: Puno...
+3dc64285/0/text: ...Yeah.
+3dc64285/1/text: Have I made significant improvements this time?
+9769d8d6/0/text: As long as I keep moving forward,
+9769d8d6/1/text: someday, I'll definitely reach where I want to be.
+a11ad82e/0/text: I'll become someone who can achieve my dreams
+a11ad82e/1/text: and make my family proud of me.
+1d8c208d/0/text: I will reach the promised land.
+4055d0b5/0/text: ...Yeah, for sure!
+970903ca/0/text: Alright, let's keep giving it our best!
+6e8fe9d9/0/text: We're going to share the joys of spaceship racing with everyone!!!
+c973a986/0/text: Yay!!!
+b4a91b7b/0/text: In order to do that,
+b4a91b7b/1/text: I'm going to keep going full speed ahead!

@@ -1,0 +1,120 @@
+26522376/0/name: Lime's Wife
+3adb3500/0/text: Hey, baby!
+3adb3500/1/text: All settled with your friends?
+fc343a9f/0/text: Yeah...! I'll go pack my things later,
+fc343a9f/1/text: then move over to your hotel tonight.
+7da91bda/0/text: That's wonderful! I haven't seen my baby in so long.
+7da91bda/1/text: Mommy missed you sooo much!
+8a43da3d/0/text: And tonight, I have a whole lot of questions for you.
+8a43da3d/1/text: So be ready.
+90acd31f/0/text: Hehe...
+3fb9f1f4/0/text: Mom...
+3fb9f1f4/1/text: I still feel really bad about everything that happened...
+5d8a684d/0/text: ...
+41560e76/0/text: Hm? Oh, don't worry about your dad.
+41560e76/1/text: He's using his brain for once!
+6fad2edd/0/text: ...Huh?
+6179b553/0/text: ...
+bd53f62a/0/text: ...Jolly.
+a096cdc0/0/text: Y-Yes!
+7f059be7/0/text: A-Are you going to yell again...?!
+e62956f0/0/text: When I was young, my father used to tell me,
+e62956f0/1/text: "Keep your feet on the ground. Don't end up like that daydreamer next door."
+6737807d/0/text: ...
+70577427/0/text: The kid next door was my age. His grades were always at the bottom.
+70577427/1/text: During class, he doodled all over his textbooks. After school, he went home and kept drawing.
+8ab0b4e1/0/text: He said he wanted to be a painter someday.
+c2d66737/0/text: Everyone laughed at him. Adults said he was immature.
+c2d66737/1/text: Kids our age called him stupid.
+f9d8d28a/0/text: How could drawing make money? How could he ever live off that?
+5a3659cb/0/text: Since we were neighbors, I once tried to talk some sense into him in private.
+af5744b3/0/text: "An AI assistant can make something in three seconds. You really want that to be your job?"
+523ca2a7/0/text: He just nodded. Then he turned the picture around and asked me, "What do you think of this one?"
+64ce2838/0/text: That was the first time I really looked at one of his drawings.
+d0a43151/0/text: And that was when I realized... he was good.
+d0a43151/1/text: Really good. Not worse than AI at all.
+8d3f066b/0/text: After I told him that, he smiled and said—
+97bb623e/0/text: "Then I guess I'll have to get even better."
+af7cd466/0/text: That was when I finally understood.
+88658a56/0/text: Maybe I was only a drop of water in this world.
+88658a56/1/text: But what he wanted to become was the ocean.
+f1d5ea87/0/text: Did he... ever become the ocean?
+49f4c938/0/text: ...I don't know.
+c86f8dfa/0/text: Maybe he did.
+c86f8dfa/1/text: He was an incredibly talented slime.
+79cfd290/0/text: But there is one thing I do know.
+929a2834/0/text: Someone like me—someone who only listened to his father,
+929a2834/1/text: followed the path laid out for him, and called that "being practical"—
+617a9ca8/0/text: could never become the ocean.
+951bf6e6/0/text: ...Dad...
+b249955c/0/text: When did it start?
+b249955c/1/text: Was it the pressure of raising a child? Was it because I was scared you'd get hurt?
+b028a6b/0/text: At some point, I became my father.
+b028a6b/1/text: I became the person telling his daughter to keep her feet on the ground.
+6737807d/1/text: ...
+9751a10d/0/text: And I forgot.
+9751a10d/1/text: I forgot that I once admired someone for wanting to become the ocean.
+ddef39/0/text: Dad...
+bd53f62a/1/text: ...Jolly.
+c8ad8720/0/text: Y-Yes...?
+172eb9a1/0/text: If you want to become the ocean,
+172eb9a1/1/text: then go.
+a9f20c69/0/text: !!!
+124b2397/0/text: D-Does that mean...?!
+a715866b/0/text: ...Your mother and I
+a715866b/1/text: will do everything we can to support you.
+5b7cf370/0/text: D-Dad...!!!
+390066c3/0/text: But!
+390066c3/1/text: No more running away from home. Got it?
+ae8c4d38/0/text: Y-Yeah! I won't!
+ae8c4d38/1/text: I promise!!!
+266cfb5e/0/text: Aww. That was so rare and sweet that I almost didn't want to interrupt.
+266cfb5e/1/text: But the whole "running away from home" thing was partly your fault too, dear.
+2d7f07f8/0/text: Cough, cough!
+6adcbfe2/0/text: R-Right! Also!
+6adcbfe2/1/text: From now on, I'm going to teach you properly about the dark side of show business and workplaces!
+6e93b1d8/0/text: You girls need to learn how to protect yourselves.
+6e93b1d8/1/text: That way, we can let you chase your dream with a little peace of mind!
+b092596a/0/text: And your old man has plenty of experience in that department.
+b092596a/1/text: Trust me, I know what I'm talking about!
+69233e9f/0/text: Okay! I'll listen carefully!
+69233e9f/1/text: Ah...! Can I ask the others to come too?
+a6b2a625/0/text: I'm not that smart by myself...
+a6b2a625/1/text: but if we all learn together...
+4062aa17/0/text: !
+9e4a69cf/0/text: Of course!
+9e4a69cf/1/text: Listening to someone with real experience is better than reading a hundred books!
+cdfec70e/0/text: All right, all right. Your nose is getting so high we could hang laundry from it.
+cdfec70e/1/text: Let's get dinner first. You can lecture her while we walk.
+872995b/0/text: Baby, what do you want for dinner?
+872995b/1/text: Tonight, you can have anything you want.
+b925dce7/0/text: Honey, honey!
+b925dce7/1/text: I want seaweed sushi!
+bb844ff4/0/text: Th-Then I want seaweed sushi too!
+2a7725ae/0/text: Silly girl. Now your dad's got you copying him?
+2a7725ae/1/text: Where are we supposed to find seaweed sushi in Silvano?
+6b297b38/0/text: Oh... Right...
+8f95e9a6/0/text: Hehe. All right, then.
+8f95e9a6/1/text: Since you two are just going to keep passing the choice back and forth, I'll decide.
+c08fd436/0/text: Jolly mentioned wanting soufflé pancakes the other day, didn't she?
+c08fd436/1/text: So, café it is!
+79e7d456/0/text: !!
+79e7d456/1/text: ...Mom is the best!!!
+5c44a2a3/0/text: Ah... This feels like a dream.
+5c44a2a3/1/text: I can't believe all of this is real...
+70fb4aed/0/text: It's all thanks to everyone who stayed by my side,
+70fb4aed/1/text: everyone who supported me and encouraged me, and—
+7a660b6f/0/text: Lulua...!
+d58cd2c4/0/text: Thank you...
+36a181c0/0/text: Oh, baby.
+36a181c0/1/text: Why are you crying? You'll ruin your makeup!
+5ac2c894/0/text: Thank you!!!
+9053f7a2/0/text: I love you, Mom and Dad!!!
+9053f7a2/1/text: I love you so much!!!
+1ae9865e/0/text: Mm-hmm. I know.
+1ae9865e/1/text: Here, wipe your face. Honey?
+29360052/0/text: ...Tissues... Tissues...
+29360052/1/text: ...Oh! Found them! Here!!!
+120e4621/0/text: ...Sniff—
+97a51da3/0/text: ...Hehe...
+d4a11451/0/text: Right now, I must be the happiest slime in the whole world!

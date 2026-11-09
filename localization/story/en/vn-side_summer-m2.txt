@@ -1,0 +1,110 @@
+a08dfce2/0/text: Mm...
+a08dfce2/1/text: Let's see...
+d76e91d0/0/text: I've already figured out the water's density and viscosity.
+d76e91d0/1/text: And got the temperature data too.
+52ce7d37/0/text: Next is velocity and pressure...
+52ce7d37/1/text: Guess I'll need to run an experiment for that...
+6728614d/0/text: Alright, let's do it!
+6728614d/1/text: Here goes!
+95eb28c/0/text: Okay...
+95eb28c/1/text: Huh?! Wha—?!
+9c6fa0be/0/text: No, my hands... they won't move...!
+9c6fa0be/1/text: My legs too...!
+eaef4e3f/0/text: Splutter!
+f37c3521/0/text: Cough cough cough!
+f37c3521/1/text: Cough cough cough!
+fc5a249/0/text: Wh-why...
+fc5a249/1/text: Why won't my arms and legs work?!
+5a5f9909/0/text: I've already done all the calculations...
+a96cd151/0/text: It should've worked exactly like the book said...
+a96cd151/1/text: So why do they just stop cooperating in the water?
+7ad88935/0/text: Ughhh...
+e27ff73d/0/text: I must not have read enough on it!
+e27ff73d/1/text: Time to hit the library for more fluid dynamics books!
+fa367d44/0/text: Ah!
+fa367d44/1/text: Crap, I need to start cleaning the pool...
+a5e2c8fc/0/text: Better do the rest properly.
+4b60cc88/0/text: Gotta move fast.
+4b60cc88/1/text: I'm meeting Ilot later!
+31219690/0/text: Hoppe, Hoppe!
+31219690/1/text: Over here!
+944728f7/0/text: Sorry.
+944728f7/1/text: I'm late...!
+ee5ee1fc/0/text: It's fine, it's fine... huh?
+ee5ee1fc/1/text: Why's your hair wet? Did you just wash it?
+83744136/0/text: Ah, shoot. I rushed to meet you,
+83744136/1/text: and forgot to dry it...
+50e58541/0/text: Uh, yeah...!
+50e58541/1/text: It's hot today, so...
+967de669/0/text: Ahh.
+967de669/1/text: Yeah...
+45c692e9/0/text: So!
+45c692e9/1/text: How about cold noodles for dinner?!
+f7a96ec0/0/text: Yeah, sounds good.
+c2514228/0/text: OK!
+c2514228/1/text: Then let's go, go, go!
+5da4f357/0/text: How about the one on 32nd Street?
+28934a9/0/text: Ah, no!
+28934a9/1/text: Let's go somewhere else... let me think...
+6ae263a3/0/text: Huh?
+6ae263a3/1/text: What's wrong with that place...?
+418b8428/0/text: Oh? You wanna know?
+418b8428/1/text: Mmmm...♪
+92a1a973/0/text: ...?
+979863fe/0/text: That place...
+979863fe/1/text: sells something that makes our Hoppe—
+e16a5337/0/text: —throw up!
+f05781d7/0/text: !!
+6a8ffe76/0/text: Heeheehee, remember when you puked from stinky tofu—
+ae7527f5/0/text: O-okay, that's enough!
+ae7527f5/1/text: That was ages ago. Stop bringing it up!
+93cc543f/0/text: Hahaha, but it was so funny!
+93cc543f/1/text: Little Hoppe, clutching stinky tofu, tears streaming, running for the bathroom, hahaha—
+45d9ed37/0/text: Laugh again and I'm going home!
+8ef1f6c2/0/text: Ha—cough—haha...!
+8ef1f6c2/1/text: Alright, alright, don't go. Ha—cough! I'm done laughing...
+2889794c/0/text: Hmmph...
+21018d64/0/text: Yeah.
+21018d64/1/text: Absolutely...
+9e46e8/0/text: can't let Ilot find out I can't swim...!!
+10e8bf57/0/text: Weekend.
+2221764b/0/text: ...
+b8200f0c/0/text: So...
+b8200f0c/1/text: Still can't swim.
+19d68ae4/0/text: Every time I get in the water,
+19d68ae4/1/text: my arms and legs just stop working.
+643e0e8f/0/text: It's not supposed to be like this...
+f630e919/0/text: Why can't I move the way the books explain...?
+300cd6a8/0/text: Don't even want to go now.
+149fd102/0/text: Maybe... I could make up an excuse...
+818b4d06/0/text: Once in a while, I could be like Ilot...
+818b4d06/1/text: That should be fine... right?
+ff0544c5/0/text: Like... I caught a cold?
+52017ba3/0/text: Mmm...!
+c4fd0bdc/0/text: "Hey, Hoppe!
+c4fd0bdc/1/text: Where are you? I'm at your door!"
+eaab404e/0/text: Uh—ah...
+eaab404e/1/text: I'm still on my way...
+e6a9cf1/0/text: You're early.
+97baeedb/0/text: "Hehe, I'm excited!"
+f43d3c8e/0/text: "Hey hey, guess what,
+f43d3c8e/1/text: I bought a super funny swimsuit!
+f43d3c8e/2/text: You're gonna laugh so hard when you see it!"
+2221764b/1/text: ...
+aaa2bbc/0/text: Oh?
+aaa2bbc/1/text: Then I'll look forward to it.
+b224154c/0/text: I'll be there in about ten minutes.
+b224154c/1/text: See you soon.
+276f5500/0/text: Ugh...
+276f5500/1/text: What am I even doing...
+f3f069ef/0/text: I've basically talked myself into having to go, haven't I?
+2221764b/2/text: ...
+4f39f595/0/text: But Ilot sounded so happy...
+4f39f595/1/text: I really don't want to disappoint her...
+90ca74ff/0/text: Yeah, I'll be fine!
+766086c7/0/text: It's only a few hours.
+766086c7/1/text: As long as I'm careful, it'll be fine!
+b5a5cae3/0/text: Okay...
+b5a5cae3/1/text: You can do this, Hoppe!
+b4b01afb/0/text: Let Ilot have fun,
+b4b01afb/1/text: and keep my "secret" safe...!

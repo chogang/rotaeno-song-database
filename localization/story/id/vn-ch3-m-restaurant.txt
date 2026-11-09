@@ -1,0 +1,50 @@
+825b0ef9/0/text: Ini kari ayam dan Coke dining pesanan Anda, silakan dinikmati~
+bdb2e439/0/text: Terima kasih~~~
+e34f7e29/0/text: Wah~ Kelihatannya sangat lezat ☆
+f435ccb8/0/text: Wah~~<br>Enak~~~ ♡
+d4c567d/0/text: Hah....<br>Makanan lezat panas~Sudah sangat lama~~~
+cd9710d2/0/text: Saat ada di pesawat ruang angkasa, makanan selalu berupa makanan kaleng atau biskuit.
+7d25e3c/0/text: Meski bukan tidak enak, tapi rasanya sudah tidak ingin melihatnya lagi untuk sementara...
+fbc6375f/0/text: Halo, ini adalah rekomendasi dari chef hari ini: Earl Grey Clementine dengan Es Krim Vanilla Nectar.
+71322f87/0/text: Apakah masih ada tambahan lainnya?
+5effff8b/0/text: Tidak perlu.
+cf99886e/0/text: ... Dompetku sudah tidak mengizinkan, terima kasih.
+448bbe6/0/text: Aku masih harus menabung untuk membeli single baru Master Orlan, akan rilis minggu depan!
+5c129100/0/text: Baiklah, maaf mengganggu,<br>Silakan menikmati.
+8e1e4ff2/0/text: Ya!<br>Lezat sekali~
+2378777c/0/text: Oh ya, area kota Silvano,<br>Sangat mirip dengan Aquaria.
+95854547/0/text: Penuh dengan produk teknologi baru, juga banyak robot pelayan,<br>Banyak layar mengambang di jalanan yang menampilkan iklan atau berita.
+c0f65a6e/0/text: Ada sebuah rasa akrab yang sulit dijelaskan.
+36ec3ef1/0/text: Tapi yang paling penting!<br>Internet sama seperti Aquaria, sangat lancar ☆
+e319921/0/text: Akhirnya bisa menyelesaikan semua episode baru yang belum aku tonton ♪
+f155b615/0/text: Sungguh menyebalkan!
+329ec2f6/0/text: ?
+db491446/0/text: Ah, di meja sebelah...<br>Paman itu, mungkin mabuk...
+353d0bfd/0/text: Cukup, jangan terlalu berisik.
+95307bb8/0/text: Aku terlalu berisik ya!!!
+b3793183/0/text: Bukan begitu,<br>Tapi suaramu bisa diperkecil, ini juga adalah masalah sensitif...
+70f2bfbe/0/text: Masalah sensitif? Cih!<br>... Apa...
+6e9a4883/0/text: … <color=yellow>"Hukum Perlindungan Planet"</color>.
+49f3e9b1/0/text: Benar! Hukum perlindungan sialan itu!
+91c29f5e/0/text: Apa hebatnya!<br>Kenapa, kenapa kita sampai diusir... hanya karena melanggar hukum ini?!
+754394f9/0/text: Kamu juga sudah lihat hari ini?!<br>Siapa namanya tadi itu...
+24b43435/0/text: ... Angatu.<br>Hm, aku sebagai penduduk asli Silvano,<br>Setidaknya ingat nama tiga Elf besar...
+3b2085e4/0/text: Siapa yang mau mengingat nama orang itu!<br>Cih! Cih! Dasar sialan!!!
+c4fe09e4/0/text: Mengingat dia mengusir dengan penuh arogan hari ini, sungguh membuat emosi!
+d6904053/0/text: Hanya seorang Elf, kenapa bisa memutuskan kita tinggal atau pergi?!
+f5347db5/0/text: Perjanjian itu sudah ditandatangani bersama oleh manusia dan Elf.<br>Master Angatu hanya melakukan tugasnya...
+eaedb4db/0/text: Cih! Cih!<br>Aku tidak pernah menandatangani hal seperti itu!
+432ff3d1/0/text: ... Benar, kamu tidak,<br>Yang menandatangani adalah menteri dan perlemen, tapi kita juga harus mematuhi perjanjian itu.
+5bd34f5d/0/text: Kenapa begitu!<br>Cih!
+21a73a79/0/text: ...
+b5310223/0/text: Cih! Dasar sialan!!!
+21a73a79/1/text: ...
+89c81242/0/text: ... Baiklah...
+5ce0895b/0/text: Semua sayur di meja ini nanti akan penuh dengan air liurmu.
+b166d9ca/0/text: ... Argh.<br>Makanan ini apakah harus aku makan...
+ec1daca1/0/text: <color=yellow>"Hukum Perlindungan Planet"</color> adalah perjanjian yang merepotkan!<br>Tidak masuk akal! Hukum yang jahat!!!
+1c42ea47/0/text: Benar, ya benar.
+cd2fcc55/0/text: ... Teman paman, terima kasih bantuanmu.
+92553785/0/text: Tapi...<br>Hari ini, Elf yang mengusir orang...?
+ea5a4f08/0/text: Jangan-jangan membicarakan tentang apa yang terjadi di Spaceport hari ini?
+e1f8b9ee/0/text: <color=yellow>"Hukum Perlindungan Planet"</color>...

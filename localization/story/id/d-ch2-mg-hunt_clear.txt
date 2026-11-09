@@ -1,0 +1,8 @@
+6e17b22e/0/name: Tuan
+7faafd8c/0/text: Sudah cukup, ia tidak bisa kabur lagi.
+13b90b65/0/text: Selanjutnya serahkan kepadaku.
+35bb66ef/0/text: Apakah sudah selesai dengan seperti ini…?
+e025c609/0/text: Mengakhiri sebuah kehidupan adalah hal yang sangat berat. Jika orang yang melakukan hal tersebut belum siap, hanya akan menambah penderitaan untuk kamu dan dia.
+9800881f/0/text: Tuan…
+65974d1f/0/text: Baik, ayo pulang.
+13bdba1b/0/text: … Baik.

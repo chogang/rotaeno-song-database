@@ -1,0 +1,8 @@
+6e17b22e/0/name: Innkeeper
+7faafd8c/0/text: OK. There's no escape for it.
+13b90b65/0/text: I'll take it from here.
+35bb66ef/0/text: Just like that?
+e025c609/0/text: Ending the life of a creature is a heavy thing to do. If you do it without getting ready, both you and the creature will suffer more for nothing.
+9800881f/0/text: Boss...
+65974d1f/0/text: All right. Go back.
+13bdba1b/0/text: ... Yeah.

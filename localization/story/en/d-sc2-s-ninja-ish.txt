@@ -1,0 +1,18 @@
+65f2afb/0/name: Student A
+c13258a0/0/name: Student B
+62423c5a/0/text: Did ya hear?
+62423c5a/1/text: Classes 2-A and 2-E are going all out in a feud!
+d82bf84b/0/text: They're practically all over the place,
+d82bf84b/1/text: kinda hard not to notice...
+355851a8/0/text: Haha, but it's pretty fun, no?
+b02cabc5/0/text: Gotta hand it to them. Whenever one side's losing, they pull some new stunt to drag the crowd back♪
+b02cabc5/1/text: Wonder who's gonna win!
+445b9120/0/text: Oh, look over there,
+445b9120/1/text: Class A's spy is making a move on Class E!
+be3f184f/0/text: ...Sending spies to gather intel,
+be3f184f/1/text: like ninjas or something...
+37340102/0/text: Wow wow!
+37340102/1/text: Ninjas? Sounds cool!
+bb031272/0/text: Hattori Hanzo vs Sarutobi Sasuke!
+bb031272/1/text: Who's gonna come out on top? Nobody knows!
+4ed16d06/0/text: You're hopeless...

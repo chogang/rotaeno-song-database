@@ -1,0 +1,144 @@
+1ee28577/0/name: Pegawai Toko
+553707ed/0/name: Wanita
+60cce387/0/name: Pria
+9b354036/0/text: Ini minuman soda madu yuzu dan cola float kalian, silakan diambil~
+47c5819f/0/text: Terima kasih!
+26888598/0/text: Glug glug——
+26888598/1/text: Ha~!
+a35e81bc/0/text: Silvano,
+a35e81bc/1/text: benar-benar tempat bagus!
+6d55daa8/0/text: Internetnya lancar, teknologinya maju,
+6d55daa8/1/text: persis seperti kampung halamanku!
+952faf9b/0/text: Benar banget, bos!
+952faf9b/1/text: Ini adalah planet terbagus dari semua yang pernah kita kunjungi!
+7a3a3d09/0/text: Haha,
+7a3a3d09/1/text: Sesuka itu, ya?
+69312fc7/0/text: Tapi, Puno,
+69312fc7/1/text: sudah kubilang jangan panggil aku bos lagi…
+43c1dda0/0/text: Mana boleh begitu,
+43c1dda0/1/text: bos tetaplah bos!
+902db727/0/text: Sedangkan aku!
+902db727/1/text: Siap menjadi penjaga gerbang bos!!!
+4512e212/0/text: Pe-penjaga gerbang……
+5e07d17/0/text: Tunggu!!!
+5e07d17/1/text: Ini teritori bos!
+2c275b89/0/text: Orang yang nggak berkepentingan, segera pergi dari sini!
+8f90cab9/0/text: Ha-hahaha……
+bed471c/0/text: Ya~ Ngomong-ngomong, tanpa disadari,
+bed471c/1/text: Puno juga sudah mengikutiku mengunjungi banyak tempat!
+3e060d74/0/text: Benar banget, bos!
+3e060d74/1/text: Meskipun setiap kali kita hanya singgah beberapa hari lalu harus pergi……
+e2285a4d/0/text: Ya… Karena batas waktu perjanjian kita dengan orang tuamu hanya empat bulan,
+e2285a4d/1/text: dan aku ingin membawa Puno melihat lebih banyak hal yang berbeda!
+4646ba70/0/text: Be-belajar ke planet lain…?!
+f04c6da2/0/text: Bagaimana bisa!
+f04c6da2/1/text: Ini terlalu bahaya…!
+fa050a1a/0/text: Tenang saja, papa mama Puno!
+fa050a1a/1/text: Bukankah akhir-akhir ini kalian selalu mengamati kami?
+1f8c6bde/0/text: Lagi pula, Puno benar-benar sangat berbakat dalam hal mengendarai pesawat ruang angkasa!
+1db46d47/0/text: Kalau bisa didalami,
+1db46d47/1/text: pasti akan menjadi pengemudi pesawat ruang angkasa yang luar biasa di masa depan!
+2a0e85e0/0/text: Jangan khawatir.
+2a0e85e0/1/text: Saya pasti akan menjaga Puno dengan baik!
+b512235c/0/text: Tapi……
+66f50d39/0/text: …Sayang, anak sudah besar.
+66f50d39/1/text: Ada baiknya juga dia jalan-jalan ke luar.
+f6c0b802/0/text: Beberapa tahun ini Planet Orb sudah semakin gersang, nggak tahu juga……
+f6c0b802/1/text: Ya, biarkan Puno belajar ke planet lain dapat memberikannya pilihan yang lebih baik juga.
+2bd7d346/0/text: ……
+3676edbe/0/text: …Kalau begitu……
+67efb4ad/0/text: !!
+978bb2b4/0/text: Ternyata bos terburu-buru begitu karena aku…?!
+6b4a7c5/0/text: Nggak! Nggak boleh!!!
+9cafdb02/0/text: Ha…?
+652e9af2/0/text: Bos! Kamu ini orang yang bercita-cita tinggi!
+652e9af2/1/text: Mana boleh kamu berhenti hanya gara-gara orang nggak penting sepertiku!
+336918f7/0/text: Ng-nggak penting……
+bc4af51d/0/text: Berhenti…???
+a329d87e/0/text: Bos!!!
+d37e68c8/0/text: I-iya…?
+b99bf6c/0/text: Dengarkan aku!
+b99bf6c/1/text: Jangan mengubah rencana awalmu karena aku!
+8edbb9ad/0/text: Tujuan Bos adalah lautan bintang di angkasa!
+8edbb9ad/1/text: Tolong jangan ragu-ragu, majulah terus!!!
+f7505000/0/text: Ba-baiklah……?
+c63d81f2/0/text: Intinya, Puno berharap aku bisa tinggal lebih lama di setiap planet yang kukunjungi, 'kan…?
+c4b74a4c/0/text: Hmm…… Benar, kalau terlalu terburu-buru,
+c4b74a4c/1/text: sebenarnya juga kurang bermanfaat untuk kegiatan promosi……
+6bb89ed3/0/text: …Oke!
+6bb89ed3/1/text: Aku mengerti. Kalau begitu, kali ini kita akan tinggal sedikit lebih lama!
+d01d83da/0/text: Kebetulan teknologi di sini sangat maju,
+d01d83da/1/text: sangat cocok untuk mempromosikan perlombaan pesawat ruang angkasa!
+b720daab/0/text: Ya, ya~ Begitu saja.
+b720daab/1/text: Bos memang hebat!!!
+a04ae42d/0/text: Ha-haha……
+f9e709d/0/text: Rasanya agak malu…
+6397a79c/0/text: Hmm…
+6397a79c/1/text: Cuman, kali ini bagusnya promosi dengan cara apa, ya……
+3e5f8c0e/0/text: Hmm…sepertinya yang terbaik tetaplah,
+3e5f8c0e/1/text: memasang iklan penuh layar di platform-platform teramai planet ini, ya?
+b13e7b8c/0/text: Bos memang hebat!
+b13e7b8c/1/text: Tapi 99% komentar di iklan sebelumnya adalah makian terhadap kita karena telah mengganggu mereka menonton video. Nggak apa-apa, nih?
+db55936b/0/text: Iya…
+db55936b/1/text: Kalau begitu, bagi brosur saja?
+8e84c4b3/0/text: Bos memang hebat!
+8e84c4b3/1/text: Tapi waktu itu setelah menerima brosur kita, sepertinya mereka langsung membuangnya ke tempat sampah… Nggak apa-apa, nih?
+47ace137/0/text: Benar… ini kurang bagus…
+47ace137/1/text: untuk tujuan promosi atau pun kebersihan lingkungan…
+a6361b1f/0/text: Kalau begitu… Acara trial secara gratis!!
+ea7d71d9/0/text: Bos memang hebat!
+ea7d71d9/1/text: Berkat kelas trial penerbangan akrobatik yang kamu adakan di Orb, aku jadi bisa bertemu dengan bos dan menemukan tujuan hidupku!
+240866eb/0/text: Walaupun yang berpartisipasi dalam trial itu cuman aku seorang,
+240866eb/1/text: tapi rasa terkejut dan terharu yang kurasakan waktu itu malah semakin besar, bukan berkurang!!!
+5f7d835b/0/text: ……
+5632e37a/0/text: Aku benar-benar… sangat gagal……
+ef265873/0/text: Bos?!
+ef265873/1/text: Kamu kenapa?!
+25b02642/0/text: Nggak apa-apa……
+c41963de/0/text: Kalau dipikir-pikir, memang benar kini sudah semakin banyak orang yang mengenal penerbangan akrobatik,
+c41963de/1/text: Tapi jika dibandingkan dengan usaha yang telah kita kerahkan……
+de22723b/0/text: Kecepatan perkembangan ini, bisa dibilang, malah berbanding terbalik……
+259b37e4/0/text: Aku harus lebih berusaha lagi…!
+99e91572/0/text: Hmm…
+99e91572/1/text: Bagaimana baru bisa mencapai efek promosi yang luar biasa, ya…?
+8a7c7ab7/0/name: Iklan
+52f3644a/0/text: "Acara Seleksi "Calon Idola",
+52f3644a/1/text: mencari dirimu yang luar biasa di antara yang biasa. Batas akhir seleksi……"
+1520aa3/0/text: Seleksi… Lomba…!
+8edd7244/0/text: Benar!!!
+7a71e993/0/text: Jarang-jarang kita bisa datang ke Silvano, tempat sebagus ini.
+7a71e993/1/text: Bagaimana kalau kita adakan acara besar saja?!
+d7878230/0/text: Wah!
+d7878230/1/text: Bos ada ide baru, nih!!!
+e2c2af5e/0/text: Ya!
+e2c2af5e/1/text: Puno, ayo kita adakan!
+bd95993a/0/text: "Whoosh~ Whoosh Perlombaan Pesawat Ruang Angkasa Berkecepatan Tinggi"!!!
+67964743/0/text: Wah——!!! Bos memang hebat!!!
+67964743/1/text: Aku bersumpah akan mengikuti bos sampai akhirat!!!
+7d057b47/0/text: Kalau begitu, bos!
+7d057b47/1/text: Apa yang harus kita lakukan sekarang?!
+11a91307/0/text: ……
+52264772/0/text: ……?
+66c11412/0/text: Nggak……
+13f11a8d/0/text: Nggak?
+850d80bf/0/text: …Nggak… tahu……
+6197f568/0/text: Apa yang harus kita lakukan dulu? Promosi? 
+6197f568/1/text: Kalau promosi, bagaimana caranya? Pasang iklan, takut dikritik. Bagikan brosur, belum tentu ada yang baca dan nggak ramah lingkungan juga, acara trial gratis……
+6e957739/0/text: Hehe,
+6e957739/1/text: Bos benar-benar hobi bercanda!
+61bf2833/0/text: Bukan, benaran bukan……
+f6263fa9/0/text: Di mata Puno,
+f6263fa9/1/text: aku ini sehebat apa, ya…?
+91702712/0/text: Rencana yang bos pikirkan pasti sangat sempurna!
+91702712/1/text: Karena bos 'kan genius!!!
+5f977bc4/0/text: Ge-genius……
+7c3f6178/0/text: …Hmm?
+fdb6abc5/0/text: Genius… Sempurna…
+8677c274/0/text: Benar!
+8677c274/1/text: Bos adalah genius yang sempurna!!!
+69c4be67/0/text: Aku tahu!!!
+d3a7f880/0/text: Oh, oh, oh!!!
+64429e7b/0/text: Aku tahu kita harus meminta tolong pada siapa!!!
+673873e6/0/text: …Ha??? Meminta tolong???
+16332cc0/0/text: Benar, Puno!
+8d0ba681/0/text: Kita bisa mencari "Bantuan Luar"…!!!

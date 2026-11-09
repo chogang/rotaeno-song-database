@@ -1,0 +1,20 @@
+f393a0cf/0/text: Selamat datang di wawancara kami!
+cd87fd53/0/text: Silakan perkenalkan diri kepada semuanya terlebih dulu!
+ae15a59e/0/text: Halo!
+7d78a254/0/text: Namaku INuya, utamanya menciptakan musik dengan tema imut >o<
+b3c952b1/0/text: Senang berkenalan denganmu!
+4eca7026/0/text: Bisakah kamu menjelaskan secara detail tentang lagu baru "Love Splash" pada kami?
+a728fdd6/0/text: "Love Splash" adalah lagu dengan genre elektro house dengan vokal wanita yang manis.
+e5ac0c0/0/text: Liriknya menggambarkan perasaan seorang gadis yang bingung di hadapan orang yang disukainya.
+aed12e58/0/text: Aku rasa akan menarik menggunakan kata "Splash" untuk mengekspresikan perasaannya, lalu muncul judul "Love Splash".
+1c5b0083/0/text: Ternyata itu makna dari judul lagunya!
+be591166/0/text: Apa yang Anda pikirkan saat sedang menciptakan lagu?
+266137b/0/text: Aku ingin menciptakan musik yang dapat dinikmati di berbagai level, dari awal hingga akhir.
+2dc4fc11/0/text: Dengan memperhatikan konfigurasi suara dan instrumen, aku yakin pendengar akan dapat menikmati beragam hal.
+d8e2b496/0/text: Lagu ini kedengarannya sangat menarik!
+e8bb9012/0/text: Bisa berbagi apa keistimewaan lagu ini dengan kami?
+6e05aa1d/0/text: Dari awal hingga akhir, lagu ini penuh dengan suara yang aku pribadi sukai, seperti piano bergaya glitch dan bass, nada synth yang tebal, dan garis bass yang kompleks dalam gaya Complextro... Sungguh luar biasa!
+7540cba1/0/text: Ternyata begitu!
+60e6ee3c/0/text: Terakhir, ada sesuatu yang ingin disampaikan kepada para pemain?
+571d314a/0/text: Semoga semuanya bisa menyukai lagu ini seperti aku.
+7569fc07/0/text: Terus bermain, dan aku juga akan terus bekerja keras untuk menciptakan musik yang semakin keren dan imut... Splash!

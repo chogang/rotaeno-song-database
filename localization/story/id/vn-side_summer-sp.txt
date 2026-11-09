@@ -1,0 +1,110 @@
+cc7c32aa/0/name: Wisatawan A
+4c3fdd47/0/name: Wisatawan B
+a7b6b611/0/name: Wisatawan C
+c34fe86/0/name: Staf Taman
+7c0f73c7/0/text: "Pertunjukan Final" di sini, ya?
+6e3f61ce/0/text: Benar~
+6e3f61ce/1/text: Silakan jalan ke dalam~
+d53d9e3b/0/text: Halo, pesta apaan itu di sini, ya?
+c8984590/0/text: Benar!
+c8984590/1/text: Silakan masuk~
+74c7687e/0/text: Terima kasih.
+74c7687e/1/text: Aku sangat menantikannya…!
+339831fc/0/text: Brosurnya nggak menyebut konten apa pun.
+339831fc/1/text: Terlalu misterius nggak sih!
+fbd3b47c/0/text: …Hehe, iya. Nantikan saja~
+fbd3b47c/1/text: Silakan masuk!
+a5a1fc5d/0/text: ……
+125530e6/0/text: Sudah mau mulai…
+52b4eda3/0/text: Kenapa mereka berdua masih belum kemari…?
+74cb2dee/0/text: Jangan-jangan si Ilot main sampai lupa waktu?!
+74cb2dee/1/text: Padahal aku sudah mengingatkannya berulang kali…!!!
+a6b555bd/0/text: Eh, harusnya Hoppe juga akan mengingatkannya…
+e588bd4/0/text: Jadi, kenapa belum datang…
+c502ef8f/0/text: Jangan-jangan si Ilot,
+c502ef8f/1/text: sudah mengetahui "Rahasia" pertunjukan ini?!
+c2c217c0/0/text: Nggak, bagaimana mungkin?!
+c2c217c0/1/text: Jelas-jelas kami nggak menjelaskan apa pun di brosur!
+b226d463/0/text: Judul acara yang begitu spektakuler,
+b226d463/1/text: nggak mungkin dia nggak tergoda…?!
+9953cb73/0/text: Sebenarnya…
+4142fada/0/text: Mona!
+4142fada/1/text: Sudah mau mulai, cepat masuk dan kendalikan suasana!
+210b11b/0/text: Aku datang~!
+1afd6d3d/0/text: Ilot dan Hoppe…
+1afd6d3d/1/text: Benaran, nggak datang, ya…?!
+894076ba/0/text: Aku bersusah payah baru berhasil mengajak mereka berdua kemari…
+894076ba/1/text: Masa cuman aku korbannya?!
+eddcc361/0/text: Mona, ingat.
+eddcc361/1/text: Seperti sebelumnya, ya~
+1fc8bbba/0/text: Orang kalau mau marah, biarkan saja mereka marah.
+1fc8bbba/1/text: Tapi jangan pernah setuju untuk ganti rugi tiket mereka. Mengerti?
+a56335a1/0/text: Mengerti…
+819e61dc/0/text: Mengerti banget. Bagaimanapun, sepanjang bulan ini,
+819e61dc/1/text: aku harus menghadapi hal konyol begini setiap minggu…
+1c647037/0/text: Apa yang sebenarnya bosku pikirkan?
+1c647037/1/text: Inikah selera estetikanya orang kaya…?
+43fe0b76/0/text: Sudah mulai.
+43fe0b76/1/text: …Nah, mau penyumbat telinga nggak?
+25dd1c0b/0/text: Terima kasih.
+25dd1c0b/1/text: Tapi aku lebih membutuhkan penutup mata…
+bfa90d89/0/text: Haih… Meskipun bukan nggak mengerti, tapi apa boleh buat.
+bfa90d89/1/text: Tetap harus kendalikan suasana.
+44de9f3f/0/text: Baik……
+af70382e/0/name: Kerumunan
+b8df0037/0/text: Ladies And Gentlemen!!!
+b8df0037/1/text: Selamat datang di kegiatan ter-pa-nas taman air hari ini!
+d6168862/0/text: "Karnaval Musim Panas! Pesta!
+d6168862/1/text: Tarian Seksi♡ Terbatas! Dalam Waktu Terbatas☆!"!
+32fa6348/0/text: Wow, wow, wow, wow——!!!
+3d4c87a7/0/text: ……
+74c51528/0/text: Waduh…
+74c51528/1/text: Mulai "lagi"……
+f61adc47/0/text: Demi para tamu terhormat, taman kami telah menghabiskan biaya besar untuk mengundang bintang pria terkenal,
+f61adc47/1/text: untuk membawakan pertunjukan memukau yang menggairahkan!
+67d38c61/0/text: Wah——?!
+ffe09837/0/text: Huhuhu, jangan…
+4b15a417/0/text: Haha, sangat menantikan, 'kan?
+4b15a417/1/text: Tanpa basa-basi, mari kita persilakan pria yang paling terkenal sedunia——
+2a0ffd8/0/text: ——Lime!!!
+af70382e/1/name: Kerumunan
+2d9635/0/text: Mama,
+2d9635/1/text: aku mau pulang——!!!
+d840a06e/0/text: …?
+20edbc90/0/text: Heh!
+8afeed6d/0/text: ?!
+5262ae1f/0/text: Hah!!
+292dda3e/0/text: Iuhh…
+507c9e22/0/text: Hiyaaa——!!
+bf7e98ff/0/name: Gadis
+9e76930b/0/text: Huwaaa…!
+9e76930b/1/text: Me-nakutkan sekali… Mama, aku nggak mau tonton lagi…!
+b7c01d07/0/name: Anak Laki-laki
+2bbaed25/0/text: Mengerikan!
+2bbaed25/1/text: Papa! Di mana papa…!?
+3e63b974/0/name: Wisatawan C
+a303533c/0/text: A-ada apa ini?!
+a303533c/1/text: Apa-apaan ini?!
+53febf0f/0/name: Wisatawan F
+83f0bb3b/0/text: Lelucon?!
+f3c3f66b/0/name: Wisatawan R
+1fcf961e/0/text: Di mana karyawannya?!
+1fcf961e/1/text: Keluar sini!
+6f3a8e07/0/name: Wisatawan D
+cfb4639/0/text: Aku sengaja datang demi pertunjukan ini.
+cfb4639/1/text: Ini penipuan, 'kan?! Aku mau komplain ke Biro Advokasi Perdagangan!!!
+49ad598/0/name: Wisatawan E
+d5a3af83/0/text: Ganti rugi!
+d5a3af83/1/text: Cepat kembalikan uangku!
+94e4ee98/0/text: Aahhhhhhhh——
+e5e02554/0/text: Semuanya, tenang dulu…!
+aa9f8774/0/text: To-tolong!!!
+a2c6a73/0/text: Oh, aku mendengarnya!
+a2c6a73/1/text: Dukungan hangat kalian!
+8745d685/0/text: Aku,
+8745d685/1/text: menjadi semakin bersemangat!!!
+5225f431/0/text: Ini bonus untuk para penggemarku!
+5225f431/1/text: Hoah~~~!!!
+87a06121/0/text: Minggirlah——!!!
+c2e13e88/0/text: Mama, Papa,
+c2e13e88/1/text: mencari rezeki benar-benar nggak mudah——!!!

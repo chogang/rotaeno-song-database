@@ -1,0 +1,140 @@
+a27d306c/0/text: Woooahhh~~~!
+2b6c7b50/0/text: Hahaha, asyik banget.
+2b6c7b50/1/text: Jauh lebih seru dari yang kubayangkan♪
+f1cf2f65/0/text: Eh? Hoppe?
+f1cf2f65/1/text: Kok kamu lebih duluan sampai daratan?
+4ed03910/0/text: Bukannya kamu mengantre di belakangku tadi…?
+242805a3/0/text: Ya! Karena… saat kamu bersiap-siap,
+242805a3/1/text: Seluncuran di sisi lain baru saja dibuka, ja-jadi aku turun hampir bersamaan denganmu!
+be2ccce0/0/text: Oh, oh~
+46ebab6b/0/text: …Tapi, sepertinya napasmu sedikit berat…?
+46ebab6b/1/text: Seluncuran ini terlalu mengerikan bagimu, ya?
+a9b9253a/0/text: Hmm… I-iya…
+a9b9253a/1/text: Eh, aku mungkin perlu… istirahat sebentar…
+ab97d475/0/text: Seluncuran air setinggi 3 lantai dan aku harus berlari kembali ke daratan menggunakan tangga.
+ab97d475/1/text: Harus lebih duluan sampai daripada Ilot pula, benar-benar……
+f3d793f6/0/text: Huh, jantungku berdebar sangat kencang,
+f3d793f6/1/text: nggak nyaman banget……
+ebee6ad9/0/text: Oke, istirahat sebentar!
+ebee6ad9/1/text: Bagaimana kalau kita pergi ke area istirahat di sana?
+4e79a124/0/text: Hmm, oke.
+d12eb0b/0/text: Tertolong……
+227d92f4/0/text: Kamu duduk di sini dulu.
+227d92f4/1/text: Kali ini, ganti aku yang pergi beli minuman, ya~
+33747c40/0/text: Hoppe ingin minum apa?
+33747c40/1/text: Atau mau minuman isotonik?
+8bbe3383/0/text: Boleh, tolong, ya.
+4b8876de/0/text: Oke~
+4b8876de/1/text: Aku akan segera kembali!
+730b058d/0/text: ……
+3e2f5460/0/text: Coba kulihat…
+3e2f5460/1/text: Waktu sekarang…
+a81383f5/0/text: …Jam 3!
+f8eb644b/0/text: Syukurlah, 1 jam lagi!
+f8eb644b/1/text: Hanya perlu bertahan 1 jam lagi…!
+debb83d/0/text: Semuanya akan berakhir sempurna!
+5cd7e9f4/0/text: Tapi…
+835eba87/0/text: Berpura-pura berenang dengan membasahkan rambut dan badan saat Ilot nggak memperhatikan,
+835eba87/1/text: mengantre di belakang Ilot dan berlari ke daratan saat Ilot main seluncuran…
+6af08a41/0/text: Selanjutnya, apa masih bisa seperti ini…?
+27b51c97/0/text: Rasanya staminaku sudah nggak kuat……
+aec06c1e/0/text: Sepertinya setelah ini,
+aec06c1e/1/text: aku harus memikirkan cara lain…
+32059784/0/text: Hmm? Cara apa?
+32059784/1/text: Apa yang sedang kalian mainkan?
+7e71773f/0/text: !!
+e3fc9ecc/0/text: Mo-mona!
+e3fc9ecc/1/text: Kamu mengagetkanku……
+483ff962/0/text: Dia harusnya nggak dengar omonganku, 'kan?
+e03c0e92/0/text: Oh, oh, ada yang datang nih~~~
+e03c0e92/1/text: Ada karyawan yang sedang bermalas-malasan~~~
+48539757/0/text: Ilot…!
+48539757/1/text: Kamu sudah kembali.
+d8d408f3/0/text: Hehe, cepat, 'kan?
+d8d408f3/1/text: Pas banget tokonya sedang sepi, sangat beruntung☆
+d758b81e/0/text: Maaf, Ilot.
+d758b81e/1/text: Sebenarnya arus orang di toko itu memang… nggak banyak…
+be71f7a0/0/text: Nah, kamu pasti kehausan, 'kan?
+86cb7e42/0/text: Terima kasih.
+119c1a6b/0/text: Hei, bocah kecil.
+119c1a6b/1/text: Kamu bilang siapa bermalas-malasan?
+cb9f2308/0/text: Aku sengaja datang melihat apakah kedua tamu pentingku sudah bersenang-senang~
+71171a71/0/text: Seru banget!!!
+b7821409/0/text: Serius, ya. Tempat ini benar-benar surga di musim panas!
+b7821409/1/text: Kalau aku kaya, pasti akan datang setiap hari!
+5660f16d/0/text: Ya, 'kan, Hoppe?!
+30df36b6/0/text: Ya… tempat ini sangat seru,
+30df36b6/1/text: tapi kalau datang tiap hari, sepertinya…
+bbe0273f/0/text: Aku mungkin… akan meninggal……
+25cb5a70/0/text: Hmm~~~
+fe49ea1b/0/text: Ilot…
+fe49ea1b/1/text: Sepertinya benar-benar sangat menyukai tempat ini.
+2b474a73/0/text: …Setelah kembali, aku harus lanjut belajar berenang!
+2b474a73/1/text: Selama aku berusaha terus, pasti akan bisa!
+87cd811a/0/text: Ya, ya. Bekerja di sini pasti sangat seru, 'kan?
+87cd811a/1/text: Ada tunjangan tiket gratis untuk karyawan nggak? Masih membuka lowongan nggak?!
+f0bc8841/0/text: Pffft——
+f0bc8841/1/text: Anak bodoh, nggak ada yang namanya uang mudah di dunia ini~~~…
+f8d0ab72/0/text: Datang untuk bekerja berbeda dengan bermain.
+f8d0ab72/1/text: Lagi pula, sudah nggak buka lowongan. Jangan berharap lagi, ya♪
+334cefb1/0/text: Baiklah, karena kalian sudah bersenang-senang~
+334cefb1/1/text: Aku kembali bekerja dulu.
+a1d076b3/0/text: Ingat, ya!!!
+a1d076b3/1/text: Jangan lupa jam 4 nanti akan ada Pertunjukan Su-per di panggung utama!
+93bd6b18/0/text: Ini mungkin satu-satunya kesempatan dalam hidup kalian untuk menyaksikan pertunjukan spektakuler begini.
+93bd6b18/1/text: Kalau kelewatan, kalian pasti akan menyesal☆
+8684cf47/0/text: …Mona sepertinya sangat yakin dengan kegiatan perusahaannya.
+8684cf47/1/text: Kira-kira pertunjukan sehebat apa, ya…
+15845c96/0/text: Ya, tapi brosurnya selain menyebut nama kegiatan,
+15845c96/1/text: nggak ada konten lain sama sekali!
+25dbc650/0/text: Cih! Aku penasaran banget——
+25dbc650/1/text: Kita harus pergi tepat waktu nanti!
+8b719d5f/0/text: Oke.
+354f9338/0/text: Kalau begitu, sebelum ini~~~
+354f9338/1/text: Mari kita main sepuasnya!
+5d28c000/0/text: Kamu sudah cukup istirahatnya?
+223e19ad/0/text: I-iya…!
+223e19ad/1/text: Sudah, ayo lanjut…
+1e9db4df/0/text: Hore~
+1e9db4df/1/text: Ayo, ayo!
+dadcfe35/0/text: Plong!!!
+6e8f0cb4/0/text: Wo~~~ah!
+33682f6e/0/text: Hahaha~!
+33682f6e/1/text: Serunya♪
+725931bb/0/text: Hehe, Hoppe, kamu lihat nggak?
+725931bb/1/text: Tempat yang setinggi itu, bisa langsung seluncur ke bawah!
+f9f878f6/0/text: Hmm, iya…!
+fc2812c8/0/text: Me-mengerikan…!
+1e66ec4e/0/text: Kalau begitu, selanjutnya kamu, ya?
+1e66ec4e/1/text: Kita mengantre lagi？
+56590e48/0/text: A-aku nggak deh.
+56590e48/1/text: Wahana ini terlalu ramai. Antre lagi pasti akan menghabiskan banyak waktu, 'kan?
+96b45a03/0/text: Hei~——
+96b45a03/1/text: Kamu jadi nggak dapat main dong?
+4f8a2ba5/0/text: Hmm~~~
+4f8a2ba5/1/text: Semua ini salahmu. Keluar bermain masih nggak lupa dengan penelitian.
+4f8a2ba5/2/text: Bersikeras melihatku main untuk melakukan pengamatan mekanika fluida apaan…
+86b3406a/0/text: Ha-haha…
+86b3406a/1/text: Karena jarang-jarang main ke taman air… jadi bisa sekalian melihat postur tubuh manusia yang sebenarnya saat bertabrakan dengan air…
+7e9077b1/0/text: Maaf, Ilot…!
+b7af09b1/0/text: Hmm~~~
+48b6b2fa/0/text: Rasanya sepanjang hari ini,
+48b6b2fa/1/text: aku nggak pernah bersenang-senang denganmu——
+2546df53/0/text: Ha-haha!
+2546df53/1/text: Se-sepertinya benar juga… sering kali kita berpapasan doang…
+d03e02ee/0/text: Meskipun aku melakukan semua ini dengan sengaja…
+700a5240/0/text: Wah…!
+d26c8186/0/text: Sudah waktunya!!!
+9d264e4d/0/text: Eh? Alarm-mu?
+56c0271c/0/text: Benar!
+56c0271c/1/text: "Pertunjukan Final" akan segera dimulai!!!
+d3e399dd/0/text: Akhirnya!
+d3e399dd/1/text: Berhasil!
+cbb5f64f/0/text: Rencanaku——berakhir dengan,
+cbb5f64f/1/text: lancar dan sempurna!!!
+77cbce76/0/text: Ini kegiatan yang paling Ilot nantikan, 'kan?
+77cbce76/1/text: Ayo kita pergi ke panggung utama!
+758a81e0/0/text: ……
+d8fbc750/0/text: Hoppe, terimalah jurusku!!!
+bb9235dc/0/text: Hmm?
+94feaf4/0/text: !?

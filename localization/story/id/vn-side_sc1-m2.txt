@@ -1,0 +1,86 @@
+1dff2f8/0/text: Lampu gantung sudah ada...
+1dff2f8/1/text: Topi pesat juga sudah ada...
+e7ba40c6/0/text: Berikutnya adalah soda persik... hm...
+17401f2/0/text: 2 set saja!
+a88b5b00/0/text: Ilot, di daftar belanja tertulis 1 set...
+1c065a8d/0/text: 1 set tidak akan cukup!
+1c065a8d/1/text: 2 set saja... 2 set~~~
+a99a9ab6/0/text: ... Kalau tidak kembalikan coklat jari itu?
+a4b52622/0/text: Tidak bisa!!!
+7a4f2278/0/text: Hah...
+7eba819c/0/text: Tapi terus membeli lebih dari rencana awal, mungkin akan menghabiskan biaya hidup untuk dua minggu berikutnya...
+e333ec2f/0/text: Habis ya habis!
+e333ec2f/1/text: Paling hanya akan dimarahi!
+3074c3c9/0/text: Agar dapat bersenang-senang di pesta,
+3074c3c9/1/text: Aku bersedia menanggung omelan dari bibi itu!
+245b26ad/0/text: ... Jika didengar oleh kakak pengasuhan anak,
+245b26ad/1/text: Dia mungkin tidak akan hanya bergumam...
+e9fd22ee/0/text: ... Tapi bulan depan itu pertemuan langsung, bukan online?
+e9fd22ee/1/text: Jika kakak melihat kita menghabiskan uang lebih dari yang seharusnya, pasti tidak akan lolos hanya dengan omelan?
+21a7ebf3/0/text: Mungkin...
+21a7ebf3/1/text: Akan memutuskan internet kita satu bulan?
+da20f6b/0/text: !!
+da20f6b/1/text: Tidak boleh, aku masih menunggu dram baru Mina-chan di awal bulan depan!
+6595edff/0/text: Mungkin semua yang ada di rumah Ilot... akan disita?
+68c0c91d/0/text: Jika tidak...
+71f68d49/0/text: Sudah! Cukup! Jangan menakutiku lagi! Huhuhuhu! Wanita jahat itu seharusnya bisa melakukan hal tanpa perasaan dan kejam seperti itu, ahhh!
+4d2843f/0/text: ...
+6b637a4/0/text: Hehe. Jadi,
+6b637a4/1/text: Masih mau beli 2 set?
+9a63c67c/0/text: Huhuhu...
+973641e8/0/text: 1 set saja cukup...
+973641e8/1/text: Kalau tidak cukup tambahkan air saja...
+94a188ff/0/text: Tambah air, ke minuman soda...?
+87c058f2/0/text: Hm...
+87c058f2/1/text: Menyebalkan... Ini adlaah pesta tahun baru pertama kita!!!
+43b5ee00/0/text: Susah payah bisa mengadakan pesta malam tahun baru di akhir pekan, tidak perlu disuruh mengerjakan PR, mandi dan tidur cepat.
+43b5ee00/1/text: Kenapa masih tidak bisa bebas, bermain hingga lelah!
+976a7422/0/text: Makan semua yang diinginkan! Minum sampai perut sakit!
+976a7422/1/text: Kapan bisa ada hari seperti itu, haih~~~
+5fbe6ca9/0/text: Ilot...
+81ea94b0/0/text: Tidak apa-apa,
+81ea94b0/1/text: Masih ada pesta malam tahun baru berikutnya.
+31785d18/0/text: Tapi tahun depan ada di hari kerja...
+6f9da209/0/text: Tapi di tahun berikutnya lagi,
+6f9da209/1/text: Ada di akhir pekan lagi!
+afc2a309/0/text: !
+d0233fa6/0/text: Hanya perlu disiapkan terlebih dulu,
+d0233fa6/1/text: Misalnya mulai tahun depan, kita bisa menabung sedikit setiap bulan untuk persiapan pesta tahun depan...
+e9168aa6/0/text: Dan pada waktunya, kita bisa membeli apa pun yang diinginkan Ilot,
+e9168aa6/1/text: Mengadakan pesta meriah sebebasnya!
+7bb86e9a/0/text: Hoppe...
+b5e75598/0/text: Ah, yang mungkin terjadi di tahun depan,
+b5e75598/1/text: Apakah terlalu cepat dibicarakan sekarang...?
+baf6c089/0/text: Aku ternyata,
+baf6c089/1/text: Kurang bisa menghibur orang lain...
+608dbd14/0/text: Kamu pintar sekali!!!
+ab628153/0/text: ...!
+8f7ba488/0/text: Basiklah~!
+8f7ba488/1/text: Untuk persiapan dua tahun ke depan, mulai tahun depan aku akan mengurangi minum... 1 Coco setiap bulan!
+8f07de1e/0/text: ... Haha!
+bf2a9d11/0/text: Eh, tidak cukup?
+bf2a9d11/1/text: Kalau begitu... 2 kaleng! Tidak boleh lebih!
+1792666/0/text: Hm~ Cukup tidak?
+1792666/1/text: Ayo pulang dan coba hitung.
+9d60c5cc/0/text: Eh~~~ Harus dihitung?!
+9d60c5cc/1/text: Hm, Hoppe, kamu saja yang hitung, aku akan menurut saja...?
+c141d2c9/0/text: Jika aku sendiri,
+c141d2c9/1/text: Tidak bisa merancang rencana yang membuat Ilot tidak merasa tidak nyaman, dan juga bisa menghemat uang.
+1f14bef/0/text: Tidak apa, mengurangi 1 kaleng Coco bagiku tidak terlalu menyiksa...
+4ff9c429/0/text: Mungkin ada cara untuk tidak mengurangi konsumsi Coco...?
+b11cb411/0/text: !!
+b11cb411/1/text: Oh ya?!
+512f47ec/0/text: Jika dipelajari, seharusnya sangat mungkin?
+4b1c7326/0/text: Baik!!!
+4b1c7326/1/text: Kalau begitu ayo cepat belanja lalu pulang!!!
+a0d0b8db/0/text: Ya.
+59e219ff/0/text: Baguslah.
+2de4158f/0/text: Saat merancang rencana nanti,
+2de4158f/1/text: Juga bisa diam-diam menerapkan teori matematikan yang dipelajari semester ini ke dalam proses kalkulasi...?
+dee2feac/0/text: Hah~ Sudah tidak sabar~
+dee2feac/1/text: Pesta~ malam tahun baru~♪
+bb769767/0/text: Oh ya, ayo buat boneka hari cerah saat tiba di rumah?
+7cce401e/0/text: Malam tahun baru harus cerah,
+7cce401e/1/text: Kalau tidak, kembang api tidak akan terlihat bagus!
+b602bfad/0/text: Hari cerah...
+b6ffc696/0/text: Ya, tentu saja.

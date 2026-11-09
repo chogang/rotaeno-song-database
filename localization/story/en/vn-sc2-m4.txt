@@ -1,0 +1,228 @@
+6055cabd/0/name: Class 2-A Student B
+b7d966bc/0/name: Class 2-A Student C
+369e91f0/0/name: Class 2-A Student A
+d2d55774/0/name: Class 2-A Student D
+e3e554f1/0/name: Class 2-A Student E
+3dfc0ce/0/name: Class 2-A Students, together
+8f67b635/0/name: Student I
+112556be/0/name: Class 2-A Student Y
+1d02bed8/0/name: Class 2-A Student F
+1f35ea11/0/name: Class 2-E Student S
+9b031153/0/name: Class 2-E Students, together
+fc2c7d73/0/name: Class 2-E Student D
+72ad2eb5/0/name: Class 2-E Student A
+263dbb02/0/name: Class 2-E Student B
+228900e5/0/name: Class 2-E Student T
+3a7ee33e/0/name: Class 2-E Student O
+e199e591/0/name: Student R
+310d8621/0/name: Student U
+cd75b2bc/0/name: Student W
+fe1fe656/0/name: Student J
+1aaed5e0/0/name: Student N
+3cf981c8/0/name: Student P
+8168b068/0/name: Class 2-E Student U
+4a722b50/0/name: Class 2-E Student H
+5660b9c8/0/text: Welcome to... Oh,
+5660b9c8/1/text: it's you, Ilot~
+c7fb8da0/0/text: What is this?
+c7fb8da0/1/text: Ilot?! What's she planning now?
+8eb764de/0/text: Ugh...
+8eb764de/1/text: So much hostility...
+5a8b2516/0/text: Now now, calm down, everyone~
+5a8b2516/1/text: We need to keep an open, friendly attitude~
+ed1d4022/0/text: Even if the competition is a scheming little weasel...
+ed1d4022/1/text: Right?
+289548de/0/text: !!
+88d51328/0/text: Wh-what...
+88d51328/1/text: kind of fancy insult is that...
+659409db/0/text: I don't even know how to retaliate——
+659409db/1/text: Damn it!!!
+c96492d/0/text: Hehe,
+c96492d/1/text: how's that working out for you~
+6706c770/0/text: Going around, making deals,
+6706c770/1/text: and you still can't beat our honest to goodness strategy!
+aa292154/0/text: Wh-what deals and strategies!
+aa292154/1/text: If it works, it works!
+253a40f8/0/text: More importantly,
+253a40f8/1/text: what is your class's theme——
+766b98ad/0/text: Hoppe!
+766b98ad/1/text: We're out of crepe batter!
+c08c3282/0/text: ?!
+1304a953/0/text: Already...?!
+1304a953/1/text: Alright, I'll make more right away!
+472ffb07/0/text: Still haven't figured it out?
+472ffb07/1/text: Today, our theme——
+ae968fb1/0/text: Is "Hoppe's Sweets"!
+f0812d01/0/text: ?!
+f0812d01/1/text: Hoppe's... Sweets?!
+88c4c3ee/0/text: That's right!
+88c4c3ee/1/text: The Jane-of-all-trades Hoppe!
+f0c7362e/0/text: The straight-A student Hoppe!
+d4b8ad1f/0/text: The only one whose Valentine's Day chocolates can turn Director Angatu's frown upside-down!
+fb3aade/0/text: Your one and only chance to taste this legendary treat for yourself!
+66d52fc0/0/text: If you're ever going to get a chance in this lifetime to try out Hoppe's handmade delicacy,
+66d52fc0/1/text: it's TODAY!
+f2af15f6/0/text: Welcome, everyone, to "Hoppe's Sweets"!!!
+5d79c199/0/text: You, you guys...
+1d8801d6/0/text: This is cheating!!!
+14398fe5/0/text: To weaponize Hoppe's cooking skills,
+14398fe5/1/text: how... how dirty...!
+eae3ad3c/0/text: ?!
+eae3ad3c/1/text: Hey, my menu...!
+829badb8/0/text: !!
+829badb8/1/text: Molten lava chocolate cake...!
+39f9d1a3/0/text: It's delicious, but because of the oven time,
+39f9d1a3/1/text: Hoppe rarely ever makes this...!!!
+4fa50911/0/text: Strawberries and cream crepes...
+4fa50911/1/text: Hoppe's batter and whipped cream taste even better than those of professional cafes!!!
+3551d1cb/0/text: I'm craving it...
+937afc5f/0/text: It's called resource management.
+937afc5f/1/text: As for you, your methods are called CHEATING!
+e809194c/0/text: Oh, my god,
+e809194c/1/text: this souffle pancake...!
+cf1a8242/0/text: It tastes lighter than air,
+cf1a8242/1/text: Amazing!
+f14e7b9f/0/text: Hurry, try it~
+b7003d1/0/text: ...Mhmm,
+b7003d1/1/text: it's good.
+43ac0258/0/text: Right?
+43ac0258/1/text: Hoppe's really good at this!
+bf543e60/0/text: Let's visit again after the festival
+bf543e60/1/text: and see if she can teach us how to make it!
+8c5b8dfa/0/text: Alright.
+5807ac98/0/text: !!
+5807ac98/1/text: It's the university's stars, the "walking disco ball" couple, Kakari and Rumil!
+97479102/0/text: Even the university's celebrity duo came...
+55f1ed8/0/text: Of course! This is our Hoppe we're talking about!
+84b24723/0/text: But it's a good thing that
+84b24723/1/text: the university division's upperclassmen don't care too much for the title...
+d78f58da/0/text: But even if they did join the battle,
+d78f58da/1/text: they would same lose to our Hoppe!
+7999011d/0/text: That's right~
+e99393c2/0/text: Pssh...! Acting like you guys are so close to Hoppe...
+e99393c2/1/text: Don't forget, I'm Hoppe's best,
+e99393c2/2/text:  bester, and bestest bestie!!!
+c52c120b/0/text: Oh wow~
+c52c120b/1/text: So what?
+e84ad8dc/0/text: Wh...
+48312623/0/text: In case you forgot,
+48312623/1/text: today, you, not, your class——
+f4d0dac0/0/text: are our greatest enemy!!!
+b4d492dc/0/text: !!!
+a5208551/0/text: Sasha, about the butter——
+a5208551/1/text: ...Huh? Ilot?
+ba8742d/0/text: H-Hoppe...
+ae5ea46d/0/text: Wow... I heard everyone talk about your class's maid cafe,
+ae5ea46d/1/text: I never expected you'd dress up as a maid too.
+a371fa1/0/text: Did you come to see me?
+a371fa1/1/text: But I'm a bit busy right now...
+26a4704e/0/text: Hoppe, snap out of it,
+26a4704e/1/text: she's here to spy on us!
+8b2f2540/0/text: That's right!
+8b2f2540/1/text: I saw her snooping around other classes earlier
+8b2f2540/2/text: with a notebook in hand!
+f15b6ac4/0/text: !!
+22fc6e2d/0/text: Wh-when did they notice?!
+22fc6e2d/1/text: Since when did Class A students get so good at counter-recon...?!
+bbe8de78/0/text: That's right, Hoppe,
+bbe8de78/1/text: you're our star player today, you can't leave!
+33c52b8d/0/text: Yeah, don't be fooled by her charm,
+33c52b8d/1/text: she's the enemy spy!
+4b6bd09c/0/text: W-why are they all attacking me?!
+4b6bd09c/1/text: I never said I was taking Hoppe...
+4b6bd09c/2/text: But hey, that's not a bad idea?
+bcd9bc87/0/text: Without the ace Hoppe,
+bcd9bc87/1/text: they won't be able to continue, and our class will...!
+70970f79/0/text: Don't listen to them, Hoppe,
+70970f79/1/text: I— Sniff! Boohoohoo——
+2f97da36/0/text: Let me go...!!!
+7ef5bb5b/0/text: Hoppe, don't listen to her!
+d80b803a/0/text: Um...
+bdffee41/0/text: Hoppe,
+bdffee41/1/text: think carefully!
+a5bb48d2/0/text: Think about our goal,
+a5bb48d2/1/text: Hoppe...!
+d29683/0/text: For the unlimited library pass!
+e7e006e5/0/text: !
+4ac59e1f/0/text: That's right, Hoppe!
+447d4e5d/0/text: To fulfill our dream for unlimited library access,
+447d4e5d/1/text: today, is our only chance...!
+b2497da8/0/text: The library pass…
+b2497da8/1/text:  th-that's right...!
+b2497da8/2/text: This is war... For all of us...
+d5b644f7/0/text: ...I'm sorry, Ilot!
+d5b644f7/1/text: Until the festival's over, we... Shouldn't see each other!
+7ac5dde7/0/text: Boohoohoohoo——!!!
+c740f261/0/text: That's it, Hoppe,
+c740f261/1/text: that's the right thing to do!
+32aa31b7/0/text: We'll send her out right now!
+32aa31b7/1/text: You get back to work, Hoppe!!!
+31c4b1de/0/text: Ilot...
+31c4b1de/1/text: I'm sorry...!
+bc2e75c7/0/text: Waaah——!
+bc2e75c7/1/text: I won't— give up— so— easily————!!!
+ac091b3f/0/text: Huff... Huff...
+2d2a8e73/0/text: Ilot,
+2d2a8e73/1/text: you're back? How was your——
+35d3cce4/0/text: Guys, it's terrible!
+a26a8520/0/text: We've got competition!
+d5efb06d/0/text: ?!
+5705e0f9/0/text: What?!
+5705e0f9/1/text: Class A did what?!
+426a855b/0/text: What do we do...?
+426a855b/1/text: I heard Hoppe's cooking is legendary...
+54ad48eb/0/text: I want to try it too...
+1a787f8/0/text: Hey, snap out of it!
+1a787f8/1/text: Forget about food, focus!
+84e77e71/0/text: Don't forget our goal!
+26388e2b/0/text: Oh, yeah, yeah!
+26388e2b/1/text: But... What can we do?
+26388e2b/2/text: Didn't Ilot say they've got a massive crowd...?
+4f033082/0/text: ...So,
+4f033082/1/text: we have to come up with a plan to bring them here!
+642b9279/0/text: Hmm...?
+642b9279/1/text: Why does it feel like the line's dying down...?
+19723bf1/0/text: Hey, everyone,
+19723bf1/1/text: terrible news, Class E's line is getting longer...!
+31d923d6/0/text: ?!
+31d923d6/1/text: What's going on?
+8fa5139a/0/text: Welcome home, Master!
+8fa5139a/1/text: To show our gratitude, let's take a photo together♡
+47f3dd68/0/text: ?!
+47f3dd68/1/text: Is the photo for free...!
+be5794c4/0/text: Wow, that's great,
+be5794c4/1/text: I want one too!
+d3a15aea/0/text: Yeah,
+d3a15aea/1/text: I want to go visit too!
+3e1bbb67/0/text: Damn it...
+3e1bbb67/1/text: Class E is resorting to every trick...!
+36834dcd/0/text: That's awesome...
+36834dcd/1/text: Yeah, they made a heart-shape and everything...
+c17e7519/0/text: Shut up!!!
+c17e7519/1/text: Focus!
+8ef619f7/0/text: We must fight back!
+4d90535a/0/text: Thank you for coming,
+4d90535a/1/text: here is a little gift for you~
+e9ef79a9/0/text: "Tutoring Voucher"...?
+4a23353b/0/text: Just bring this voucher to any student from Class A,
+4a23353b/1/text: and we'll do our best to solve any problem you have in 10 minutes!
+3d0158c/0/text: A free tutoring session with the best and the smartest...!
+3d0158c/1/text: I'm going to the sweets shop!
+e3c849ba/0/text: Me too!!
+192dd1fa/0/text: Gah——!! The line's dying down again...!
+c7c7a344/0/text: I have to think of something...!
+4707c7f5/0/text: Class E is at it again!
+1804ce6a/0/text: What?!
+22b7e030/0/text: Master!
+22b7e030/1/text: Now——
+c5b9ba09/0/text: Hello, student,
+c5b9ba09/1/text: We——
+66206d82/0/text: Ilot——
+a44d8c2a/0/text: Here!!!
+ff8bcb6/0/text: Hoppe,
+ff8bcb6/1/text: we——
+becf65c0/0/text: Alright, good...!
+366f995b/0/text: "Dear guests, parents, and members of Rotaeno, thank you for coming to Rotaeno's school festival.
+366f995b/1/text: The festival has now concluded."
+b9dd2f41/0/text: "Please follow the exit guidelines in your pamphlets
+b9dd2f41/1/text: and proceed to the auditorium for the closing ceremonies."

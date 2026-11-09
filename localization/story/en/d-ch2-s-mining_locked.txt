@@ -1,0 +1,11 @@
+2ac024c0/0/text: ... Are you interested in mining, Ilot?
+3580a409/0/text: Oh, am I being so obvious?
+2cd05e0f/0/text: Yes. You have been staring at my pickaxe.
+db74a86d/0/text: Well, it's because I've never seen a pickaxe before.
+8502815f/0/text: And the Orb pickaxes can become bigger and smaller as needed. Cool!
+6d2fa5a8/0/text: If you're interested, why don't you come and do some mining with me sometime?
+1a40b7a0/0/text: Me? Is that okay?
+d725fc10/0/text: Yes. The pickaxe is much less heavy than it looks.
+26b43828/0/text: But you need to have a pickaxe of your own. I can't lend mine to you.
+6d873d67/0/text: You can rent or buy a pickaxe from the Ore Workshop.
+e8578576/0/text: There are souvenir pickaxes for travelers, which are more beautifully designed than our pickaxes.

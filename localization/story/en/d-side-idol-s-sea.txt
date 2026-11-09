@@ -1,0 +1,26 @@
+e90aca21/0/text: Dad, that neighbor who wanted to become the ocean... did you ever hear from him again?
+1af3b827/0/text: Not after high school. His whole family moved away without saying a word.
+1af3b827/1/text: Honestly, thinking back on it, his parents were pretty rude!
+88258143/0/text: Oh...
+3b0c26a7/0/text: I wonder if your friend ever became a painter.
+eb470a/0/text: You really don't have any clues?
+1b55967c/0/text: Hmm... Hmmm...
+742e5c0/0/text: ...Oh! Wait, I remember something.
+742e5c0/1/text: He used a pen name back then. What was it again...
+f07d3d28/0/text: Bun... "Bunbun Isn't Bunbun"...?
+14e4ba99/0/text: B-Bunbun Isn't Bunbun?
+1112f94a/0/text: Dad!
+1112f94a/1/text: Look at this! Is this him?!
+8d57e61c/0/text: Oh! Yes, yes, that's him!
+8d57e61c/1/text: Wow, that's my daughter. So smart—
+168f5281/0/text: Dad's childhood neighbor was Bunbun?!
+f1368b91/0/text: Huh? Is he famous now?
+54bae7d0/0/text: Incredibly famous!!!
+c21571ba/0/text: Dad, you know that super popular boys' manga, Reborn as a Slime, I Conquered the Ancient Moon?
+c21571ba/1/text: That's by Bunbun!
+dcf2ac50/0/text: Reborn as what now? Why is the title so long...
+b557c5b/0/text: And there's After My First Love Rejected Me, I Became a Beggar, and Thirty Years of Training and I'm Still Useless—
+f3bb75a4/0/text: W-Wait...
+f3bb75a4/1/text: Sweetie, breathe...
+b6f72b1b/0/text: Dad, how are you the calm one right now?!
+b6f72b1b/1/text: This is huge!

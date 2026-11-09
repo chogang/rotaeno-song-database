@@ -1,0 +1,140 @@
+3d43fcbd/0/text: Selamat datang di perpustakaan Aquaria L28,
+3d43fcbd/1/text: Jika perlu mengurus... Eh?
+e47f9ac0/0/text: ... Mona?
+d2512673/0/text: Ternyata Hoppe?
+d2512673/1/text: Lama tidak bertemu~
+48ade0b1/0/text: Lama tidak bertemu.
+72f9a3a6/0/text: Mona...
+72f9a3a6/1/text: Datang membantu ibu...?
+de69f0e4/0/text: Benar!
+de69f0e4/1/text: Ibu menemukan pekerjaan freelance dengan bayaran tinggi hari ini,
+de69f0e4/2/text: Jadi aku di sini untuk menggantikannya~
+eea3e3e4/0/text: Ternyata begitu...
+eea3e3e4/1/text: Cukup bekerja keras.
+97c899c1/0/text: Tidak masalah kok~
+97c899c1/1/text: Di saat seperti ini juga tidak banyak yang datang ke perpustakaan,
+97c899c1/2/text: Jumlah pengunjung seharian bahkan dapat dihitung dengan sepuluh jari!
+f4cc399a/0/text: Oh ya, kamu datang ingin meminjam buku?
+f4cc399a/1/text: Berikan aku daftar bukunya, perlu meminjam berapa lama?
+f162a7a4/0/text: Ah... Bukan,
+f162a7a4/1/text: Aku hari ini datang mencari sebuah buku fisik.
+86c9f3e4/0/text: Buku fisik?!
+bb01f910/0/text: Ya.
+9e994a31/0/text: Ada sedikit...
+9e994a31/1/text: Yang ingin diselidiki.
+6b0b1fa6/0/text: Hah~~
+6b0b1fa6/1/text: Tidak ada versi elektronik?
+ec7f507f/0/text: Hm,
+ec7f507f/1/text: Sistem perpustakaan menunjukkan versi fisik hanya ada di sini dan di cabang O63.
+f396f46a/0/text: Hm... Begitu ya...
+f396f46a/1/text: Hoppe, kamu ternyata membaca buku yang hanya bisa dipahami orang jenius...
+923a28e5/0/text: Baiklah~!
+923a28e5/1/text: Apa nama buku dan pengarangnya?
+b4d67968/0/text: Coba aku lihat, halaman koleksi fisik~ Halaman koleksi fisik~
+b4d67968/1/text: Hm... Di mana? Sistem pencarian di sini sangat rumit...
+11999dde/0/text: Mona...
+11999dde/1/text: Tampaknya sangat terganggu...
+62f11880/0/text: Hm... tidak apa,
+62f11880/1/text: Aku langsung masuk saja.
+7117a0f1/0/text: Bisakah? Maaf ya...
+1e7125c9/0/text: Tidak apa kok!
+1e7125c9/1/text: Area buku fisik juga tidak terlalu besar.
+e269e7b7/0/text: Benar juga...
+e269e7b7/1/text: Hm, area buku fisik akan ditutup pukul 4 hari ini!
+e269e7b7/2/text: Jangan lupa keluar sebelum itu!
+5756ff80/0/text: Ya, baiklah,
+5756ff80/1/text: Kalau begitu... sampai jumpa.
+3ea899f/0/text: ...
+61571ad1/0/text: Karan, Kavansi, Kirie... Ah,
+61571ad1/1/text: Di sini. Coba aku lihat...
+ae4cd033/0/text: ... Ini dia!
+ae4cd033/1/text: "Log Pemantauan Astronomi Planet B283"
+3ea899f/1/text: ...
+7c5af73c/0/text: ...
+3ea899f/2/text: ...
+2b76c7a5/0/text: ... 72 hari. 17092.96 mm.
+a8df196a/0/text: Planet dengan curah hujan tahunan rata-rata tertinggi dalam sejarah,
+a8df196a/1/text: Hujan terpanjang adalah... 72 hari.
+d60fe37f/0/text: Dari segi waktu... masih kurang dari 3 minggu,
+d60fe37f/1/text: Seharusnya aku yang khawatir berlebihan.
+b16b9078/0/text: Tapi curah hujan sekarang meningkat setiap hari...
+8cdd6323/0/text: Rasanya ada yang tidak tepat...
+c067dfe4/0/text: Atau mungkin,
+c067dfe4/1/text: Harus meminta pendapat profesor...?
+b3803e19/0/text: Oh~
+b3803e19/1/text: Ternyata Ilot!
+f07a652a/0/text: Ilot...?
+a33295f5/0/text: Hehe...!
+a33295f5/1/text: Kamu Mona?! Lama tidak bertemu!
+1c01c22/0/text: Hei, kamu!
+1c01c22/1/text: Tidak boleh bersuara kencang di perpustakaan, tahu tidak!
+8efae9f4/0/text: Hah!
+8efae9f4/1/text: Lihat ini!
+f2c80057/0/text: ?!
+f2c80057/1/text: Sakit sekali...!!!
+c6906c77/0/text: Kamu seorang pustakawan, kenapa menggunakan buku sebagai senjata!
+ebc4bdba/0/text: Huh, dasar bocah bodoh,
+ebc4bdba/1/text: Senjata seorang pustakawan tentu adalah buku~♪
+dbb892ed/0/text: ... Hm, tolong kalian jangan berisik lagi...
+dbb892ed/1/text: Juga jangan memperlakukan buku fisik yang berharga dengan kasar...
+ebd934b8/0/text: Ah, Hoppe!
+ebd934b8/1/text: Kamu ternyata ada di sini!
+d34c8025/0/text: Sudah mencari ke sekitar tapi tidak bertemu,
+d34c8025/1/text: Aku penasaran apakah kamu ke sini untuk meminjam buku, dan benar saja!
+d34c8025/2/text: BINGO☆
+d566f38e/0/text: Kamu tidak berniatn mengecilkan volume suara ya...
+d566f38e/1/text: ... Untung saja sepertinya tidak ada orang lian selain kita di dalam perpustakaan...
+1ba1a7b3/0/text: Ilot...
+1ba1a7b3/1/text: Sedang mencariku?
+d1b2e0af/0/text: Ya ya!
+d1b2e0af/1/text: Hehe, kita jadi membuat kue lusa malam~?
+96a8c340/0/text: Kue?
+96a8c340/1/text: Ulang tahun siapa? Aku kenal tidak?
+b9c5b7c0/0/text: Bukan begitu~
+b9c5b7c0/1/text: Kue untuk pesta☆
+e9d30791/0/text: Kue besar untuk pesta malam tahun baru!
+5163bf7d/0/text: Salah,
+5163bf7d/1/text: Hanya ada kita berdua, porsinya seharusnya tidak perlu terlalu besar...
+d9c21c95/0/text: Pesta malam tahun baru?
+606b0c0f/0/text: Benar!
+606b0c0f/1/text: Malam thaun baru tahun ini jatuh di hari Sabtu, aku dan Hoppe akan mengadakan pesta malam tahun baru yang menyenangkan bersama para sahabat!
+15ebd89/0/text: Bagaimana dengan Mona?
+15ebd89/1/text: Pesta seperti apa untuk anak yang punya orang tua?
+cc5087d1/0/text: Sama seperti drama di TV?
+cc5087d1/1/text: Kue tiga tingkat, menara champagne, jamuan makan?!
+69209a9d/0/text: Lalu yang terakhir sesuatu untuk Natal...
+64ed8845/0/text: Hah~~~?
+64ed8845/1/text: Ilot, kamu kira aku tinggal di Pulau Floating?
+b1bd436e/0/text: Sebagai keluarga imigran berpenghasilan rendah,
+b1bd436e/1/text: Apa yang paling penting dalam festival?
+e6274460/0/text: Jamuan makan...?
+b57ddd86/0/text: Kumpul keluarga...?
+f5d42f66/0/text: Salah! Semua salah!
+15f28bf7/0/text: Yang penting uang!
+2b9594d1/0/text: Cari uang! Cari uang! Cari uang!!!
+52935e84/0/text: Hari libur dan festival adalah waktu para pekerja sementara mendapatkan gaji tinggi,
+52935e84/1/text: Orang kaya bermain dengan senang, dan orang miskin mencari uang dengan senang!
+b9c15f45/0/text: Di malam tahun baru dan hari tahun baru, jadwal orang tuaku sudah penuh dan padat,
+b9c15f45/1/text: Tidak akan pulang sampai larut malam~!
+557c33e8/0/text: Sungguh sulit...
+b0ca1478/0/text: Memang begitu, kami tidak sama denganmu,
+b0ca1478/1/text: Bisa menghabiskan uang saku setiap hari tanpa kekhawatiran~
+59348abe/0/text: Jika bukan karena aku masih terlalu muda untuk bekerja malam hari,
+59348abe/1/text: Aku juga ingin mencari uang bersama orang tuaku, sungguh bosan berbaring sendirian di rumah...
+ea902739/0/text: Mona...
+409c4421/0/text: Hm, kalau tidak...
+380ae15c/0/text: Hm~?
+50cf176e/0/text: Jika Mona tidak punya rencana di malam tahun baru,
+50cf176e/1/text: Mungkin bisa menghadiri pesta bersama kami...?
+d1eeef52/0/text: !
+ea8aade/0/text: ... Ah?
+1ac76e52/0/text: Tentu saja, tergantung pada Ilot juga...
+3e8a5c/0/text: Ide bagus!!!
+3e8a5c/1/text: Wah~~~ Bertiga, pesta bertiga~~~
+1de40b70/0/text: Hehe, Hoppe!
+1de40b70/1/text: Kalau begitu~ Kita harus beli snack lagi kan?!
+f2016bbd/0/text: Sekarang sudah menjadi bertiga!
+f2016bbd/1/text: Bertiga!
+6c85b684/0/text: ... Baiklah, aku tahu,
+6c85b684/1/text: Bagaimana kalau pergi sekarang?
+86a6a1a/0/text: Baik!!!

@@ -1,0 +1,120 @@
+2104dea/0/text: Where is... where is this...?!
+3973633b/0/text: I was wondering why I felt such a wave of terror,
+3973633b/1/text: it's "him" again...
+e52aa70f/0/text: Where can I find a body...
+e52aa70f/1/text: Agh, I can't think of anything...!
+5e6dfd43/0/text: Why do it keep taking "me" to meet "him" over and over again?
+5e6dfd43/1/text: Is it because it wants me to save "him"? ...Or is it actually that "I" want to save "him"?
+a5bac35f/0/text: Could "he" be the answer "I" have been looking for?
+72723c52/0/text: ...Now's not the time for this!
+624926/0/text: Where——ah!
+253d81f1/0/text: Found one!
+746f0739/0/text: Are you kidding...
+746f0739/1/text: A rockfall now, of all times...?!
+e34e8318/0/text: Was the weather forecast wrong?
+e34e8318/1/text: I didn't bring my blocker...!
+2c5eb62/0/text: Will I make it in time?
+2c5eb62/1/text: I might get hit...
+ff7497d5/0/text: Aaaaah—
+ff7497d5/1/text: Whatever, I'm going for it...!!!
+4b9af1a8/0/name: Vickers
+129cf285/0/text: ......
+1687805d/0/text: Help me find a body...
+2a311df4/0/text: Why?
+2a311df4/1/text: There's nothing to gain... from helping a "ghost" like me.
+14359510/0/text: I can't even do that "show of affection" act some animals typically do after being rescued.
+738d138d/0/text: And why is she crying?
+6c52e407/0/text: Is it fear? Pity? Sadness?
+162d633b/0/text: What use are those emotions to her?
+129cf285/1/text: ......
+cbc1b04f/0/text: Whatever.
+cbc1b04f/1/text: It's not like we'll meet again anyway.
+f266734e/0/text: It's about to rockfall,
+f266734e/1/text: that person wouldn't possibly return.
+57765d88/0/text: Guess this is where I perish.
+129cf285/2/text: ......
+efc45994/0/text: Freedom at last.
+8a62fa22/0/text: Phew.
+22a58d28/0/text: God, I don't know if you actually exist or not.
+cc41ed88/0/text: But next time you decide to play creator,
+cc41ed88/1/text: do me a favor and leave me out of it.
+cea6cc80/0/text: Seriously, it's too tiring.
+625d6272/0/name: Human Woman
+2c7e514/0/text: I'm back...!
+8920bb31/0/text: What... How...?
+69ca986f/0/text: Hehe... It wasn't easy,
+69ca986f/1/text: but I found one!
+2967b276/0/text: ...Does she know what she's doing?
+6e389a2c/0/text: There are rocks falling everywhere?!
+8c7b978d/0/text: Phew~ Luckily this spot has some cover, so we're safe.
+8c7b978d/1/text: I wasn't sure what I'd do otherwise!
+689e1c78/0/text: Aside from when the landslide first started,
+b020e9a4/0/text: when was the last time since I've seen an idiot walking around during a rockfall?
+8b2c08f9/0/text: A 50% injury rate, 30% fatality rate.
+cd6c11ce/0/text: How stupid do you have to be
+b8576883/0/text: to take that kind of risk for a ghost you just met?
+9fc15401/0/text: This little one must have just passed away and been left by its mother.
+9fc15401/1/text: It's still warm... it—it should work, right...?
+129cf285/3/text: ......
+a322a9a8/0/text: This warmth I'm feeling...
+a322a9a8/1/text: Is it a side effect of my spirit being exposed for too long?
+baa7da4e/0/text: I've never felt this sensation before...
+e6e70295/0/text: Is it not suitable...?!
+e6e70295/1/text: Or is it too young? What do I do...?
+e0de896d/0/text: ...A kitten.
+eb444a8/0/text: A perfect, brand-new shell, obtained without any effort.
+eebd9b9b/0/text: Ripe for the taking.
+9f05b38/0/text: ——But.
+b9bf9a33/0/text: Do I really want to continue this pointless cycle...
+a7aca9b0/0/text: ...Looks like this body isn't suitable...
+a7aca9b0/1/text: I'm sorry, I don't understand how Vickers work... What do I do, what do I do......
+bb7dcb6b/0/text: Whatever. If I disappear here and now,
+bb7dcb6b/1/text: this human is going to cry again.
+c5b39051/0/text: There's nothing else nearby,
+c5b39051/1/text: there's hardly anything living in this desert... What do I do...
+75144853/0/text: Better set the kitten aside for now,
+75144853/1/text: and find a new body——
+7ea495f7/0/text: !
+231412a/0/text: It, it moved...!?
+c0b9f973/0/text: ......
+bf7d4055/0/text: Meow——
+8661c35b/0/text: !!
+73ed243f/0/text: Great...!
+73bbc6eb/0/text: ...I managed to survive,
+73bbc6eb/1/text: but why is she still crying?
+74fa0767/0/text: Is it pain from an old injury?
+74fa0767/1/text: Does it hurt entering a new body?
+fd9eb579/0/text: Meow——...
+8ebf35da/0/text: No, I'm used to it.
+d7050088/0/text: You must have gone through something terrifying...
+971e760a/0/text: Meow~...
+29bc316/0/text: The "terrifying" things I've experienced
+29bc316/1/text: are probably longer than your entire lifetime.
+e1e28526/0/text: You've endured so much...
+a258b945/0/text: Even after all that, "you" still choose to live...
+a258b945/1/text: The Vickers really are an amazing race!
+c0b9f973/1/text: ......
+37f51fed/0/text: Amazing... huh.
+25125583/0/text: A being who doesn't even know why he exists...
+25125583/1/text: is amazing?
+af3281a6/0/text: ......
+8cd313f9/0/text: How strange.
+db22c18b/0/text: Meow?
+7137bb55/0/text: After seeing how brave you are,
+7137bb55/1/text: everything else suddenly seems so clear.
+df8b6b07/0/text: ...I've finally made up my mind.
+70d8df29/0/text: Your mind?
+93733c06/0/text: I knew it... Even though I'm not the main heroine,
+93733c06/1/text: I still want to make a difference, even if it's only in one tiny corner of the world.
+bc63f53d/0/text: I... want to build a place,
+bc63f53d/1/text: where any weary or wounded soul can find their strength again!
+38da37d2/0/text: Hmm, let me think...
+38da37d2/1/text: What kind of place should it be... Oh!
+472f8dcf/0/text: I've got it! I'll open an inn!
+59e2698e/0/text: And I know just the spot...
+59e2698e/1/text: My hometown, Geo Village!
+8de204f0/0/text: Hey, Mr. Vickers!
+f5f9a839/0/text: If you ever want to see what being human is all about,
+f5f9a839/1/text: come find me at Geo Village!
+692aa941/0/text: Meow——
+2733bed3/0/text: Not a chance.

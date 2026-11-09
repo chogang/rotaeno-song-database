@@ -1,0 +1,47 @@
+1ee28577/0/name: Shop Clerk
+5a98f410/0/text: Here's your honey beer,
+5a98f410/1/text: please enjoy!
+21b53c4e/0/text: Thanks, here's the money for the drink~
+2bda5bf0/0/text: Oh, you can just settle the tab once you're done!
+4eac84c7/0/text: It's fine,
+4eac84c7/1/text: I've got a feeling we won't stay for too long~
+79dc6d09/0/text: Oh? Is that so?
+79dc6d09/1/text: Alright, then...
+e3707a51/0/text: Thank you~
+83d12f68/0/text: Whew~ Hmm...
+709948ba/0/text: Wow, that beer was strong!
+21b1a2f/0/text: Should have just ordered some juice...
+2078b9a2/0/text: Hm~~~
+f93c03b8/0/text: Ever since I got here,
+f93c03b8/1/text: that intense "pull" I felt has totally vanished...
+83bdba89/0/text: But what's this weird, bad feeling I have instead...?
+83bdba89/1/text: Is something about to happen?
+fd08da01/0/text: Mmm...
+fd08da01/1/text: Well, it's rude to enter a tavern and not have a drink, right...?
+25c133c3/0/text: The beer seems fine, and the staff don't look suspicious...
+3d6dbf60/0/text: Could it be... the customers?
+3d6dbf60/1/text: Or maybe the building itself?
+35131a0f/0/text: Hmm, I can't tell—
+35131a0f/1/text: ...Huh?
+e5585551/0/text: Up there on the beam...
+12241dff/0/text: That mouse...
+b8b4b6ec/0/text: Something's off about it.
+a3f037f0/0/text: It's almost like...
+1a243907/0/text: ?!
+d84107b2/0/name: Tavern Guest B
+a569fba4/0/text: Hah!
+a569fba4/1/text: Watch me knock that thing down!
+f7be578e/0/text: Those guys!
+ed619f42/0/name: Tavern Guest A
+2c3f0a62/0/text: Are they drunk and causing trouble? That' not good...!
+2c3f0a62/1/text: I've got to stop them!
+8c2c651c/0/text: Hey, the rat's getting away!
+d84107b2/1/name: Tavern Guest B
+d0c2fd3f/0/text: Hah! Check this out——
+8d11e767/0/text: Look out, Mr. Mouse!!!
+fb88f107/0/text: Aaaaaah, boss,
+fb88f107/1/text: I'm so sorry——!
+1a702615/0/text: Oh my!!!
+66c07438/0/text: Where did all these clouds come from?!
+66c07438/1/text: Is a rockfall about to happen?
+ad715dd5/0/text: ...Alright, now's my chance!

@@ -1,0 +1,183 @@
+4add8ad/0/text: Day of the School Festival——
+fdfac199/0/name: Class 2-E Student A
+744c98fd/0/name: Class 2-E Student B
+985412ea/0/name: Class 2-E Student C
+3e7a11c0/0/name: Class 2-E Student D
+3a09e050/0/name: Student A
+f652ae1c/0/name: Class 2-E Students, together
+46dec000/0/name: Class 2-A Student A
+4889e19b/0/name: Lime
+6905ea51/0/text: Welcome,
+6905ea51/1/text: please take a seat~!
+f8f53a22/0/text: The one hosting you today is... Huh?
+f8f53a22/1/text: Ah, sorry, seems like everyone's...
+fc3ce707/0/text: Ah! Ilot!
+69a99954/0/text: Coming~
+a8dfa70c/0/text: I'll leave this table to you!
+45382841/0/text: Alright!
+7a4fe1c0/0/text: Welcome home, Master!
+7a4fe1c0/1/text: You must be exhausted?
+7a16e4a/0/text: This is the chef's special menu for today.
+7a16e4a/1/text: Please take your time and pick something you like, meow~♡
+13fed704/0/text: A-alright...!
+13fed704/1/text: Then...
+e96bacc3/0/text: Can someone help out here?
+dc733b9d/0/text: On my way~!
+554fe241/0/text: Master, I must go help out the chef...
+1e53a631/0/text: Parting is always such sweet sorrow,
+1e53a631/1/text: but once glance from you, Master, and all my fatigue is gone, meow!
+9f9612ca/0/text: ...!
+8942d935/0/text: I'll excuse myself now,
+8942d935/1/text: have a purr-fect day!
+f9a43ae0/0/text: Ilot, here's table 3's order!
+73736d7b/0/text: Got it, meow!
+462e994a/0/text: Haha,
+462e994a/1/text: you're really into this, aren't you?
+6b5d4be9/0/text: Hah, you don't get it,
+6b5d4be9/1/text: it's called method acting!
+525f893d/0/text: Today, I'm the "cat girl maid" Ilot,
+525f893d/1/text: so I've got to give it my all!
+f9284301/0/text: For the sake of snacks!
+4bde7fae/0/text: Yeah, for the snacks!!!
+37e2739c/0/text: Sorry for the wait,
+37e2739c/1/text: here's your banana parfait and mille-feuille~
+95afd2e9/0/text: Oh...
+2f70d66e/0/text: Oh, finally!
+2c1f7a74/0/text: Wow——
+2c1f7a74/1/text: Whew, finally made it... 
+2c1f7a74/2/text: Why's it so hot today——
+662ee68e/0/text: It's the legend in the flesh, the student destined to repeat senior year forever,
+662ee68e/1/text: Noah!!!
+27621150/0/text: Munch, munch——
+7d3c214a/0/text: Hmm... the cream in the mille-feuille...
+7d3c214a/1/text: so mid.
+9482c04b/0/text: And the upperclassman who hangs around him all the time, Lime the senior!
+47500c43/0/text: Noah, don't eat so quickly,
+47500c43/1/text: it's bad for your stomach.
+1aa9a04/0/text: Don't *mums* woorry... it's *mums* fine...
+1aa9a04/1/text: My *mums* stomach...*mums* great...!
+1b886a27/0/text: Sigh, kids these days...
+f4468e43/0/text: ......
+a694d1ea/0/text: What a funny duo.
+e405db4d/0/text: Ops! I heard that, during their last simulation training class,
+e405db4d/1/text: they screwed up some settings and caused a huge mess?
+663d4110/0/text: I heard Miss Cheri almost cried from the stress...
+e8e4f5e0/0/text: Whoa~~~
+e8e4f5e0/1/text: If only I weren't in character, I'd ask them to get some juicy details——
+c42e6ab3/0/text: Ilot!
+c42e6ab3/1/text: A little help!
+7eb95d60/0/text: Okay——
+7eb95d60/1/text: Well then, please enjoy, masters.
+7ec5a686/0/text: Whew——
+70bb41e/0/text: Finally, break time~☆
+dca94a8b/0/name: Student C
+4a7c9202/0/name: Student B
+b147f5c8/0/name: Student F
+41166440/0/text: How much longer...
+6d22d523/0/text: Soon, almost.
+9444ad6f/0/text: I heard the maids here are all dressed super cute!
+9444ad6f/1/text: Just be patient for a while.
+5406531f/0/text: That's right, we're all super cute♪
+5406531f/1/text: We put sooo much effort into these outfits and accessories!
+a02fcd4/0/text: Mhmm~...
+a02fcd4/1/text: The line is craaazy long☆
+776fc54a/0/text: That's great,
+776fc54a/1/text: just the way I like it♡
+3f78a5a4/0/text: I-Ilot!
+3f78a5a4/1/text: Perfect, I've been looking for you!
+d0505954/0/text: Hm?
+7f0b31b3/0/text: Oh, you're here!
+81f6acbb/0/text: Y-yeah...
+81f6acbb/1/text: Um... Will she, really...
+18b37b12/0/text: Of course~
+18b37b12/1/text: You're just in time, she's just back from her break!
+d7e83e71/0/text: Oh my,
+d7e83e71/1/text: perfect timing. Why not confess your love while you're at it?
+e756c100/0/text: !! What are you saying!
+e756c100/1/text: I, we're not like that yet...
+7da73bda/0/text: Ooh——
+7da73bda/1/text: Not yet, huh?
+de22b7e7/0/text: !!!
+1be4dd0c/0/text: Hehehe, hurry on in,
+1be4dd0c/1/text: good luck~
+be64a658/0/text: Th-thanks...
+16db699e/0/text: You're welcome,
+16db699e/1/text: but——
+f2a38dc/0/text: don't forget our deal☆
+888d0ab0/0/text: I convinced Mina to be a maid,
+888d0ab0/1/text: so you gotta——
+5261517a/0/text: Yeah, yeah, no problem!
+5261517a/1/text: My bros and I will all vote for your class!
+c53afaa0/0/text: Enough chit chat, I'm heading in.
+c53afaa0/1/text: See you!
+5a8472f6/0/text: Alrighty then☆
+63ec19d/0/text: Thank you for your patronage♡
+c540480a/0/text: Come one, come all,
+c540480a/1/text: Everyone, come to our class!
+cd53f0f8/0/text: Give us all of your votes!!!
+417d8113/0/text: Yeah~~~!
+2e486830/0/text: After scouting some of the rival classes,
+2e486830/1/text: there's no way they can compete with us!
+f12bc2fc/0/text: Hehe, we've got this in the bag♪
+578235f9/0/text: To think the theme for Mona's class is some "MoeMoe Photo Booth"...
+578235f9/1/text: Tsk, that's so outdated.
+81b2e7be/0/text: It's the era of smartphones,
+81b2e7be/1/text: who still bothers with a photo booth?
+e7d49c97/0/name: Student G
+75b416ca/0/name: Student H
+ad708614/0/text: Hey, let's go check out the junior high division.
+9218c0db/0/text: Huh? Why?
+9218c0db/1/text: Wouldn't their themes be kinda childish...?
+ddd891ce/0/text: No way~ I heard there's a class doing a Spaceship Obstacle Race.
+ddd891ce/1/text: Everyone's crashing into each other, it's fun!
+12e40df1/0/text: Obstacle Race... crashing into each other?
+12e40df1/1/text: Is it like go kart racing?
+74c2beeb/0/text: Is that so...
+69f32ad1/0/text: Also, I heard that
+69f32ad1/1/text: they have... prizes...
+35d1cf8c/0/text: That does sound fun.
+35d1cf8c/1/text: Maybe I should check it out a bit later?
+4a4a3bfe/0/text: ...Better recon the competition first!
+1b5c0add/0/text: Next up... Ah,
+1b5c0add/1/text: last but not least, Hoppe's class.
+7a0e1677/0/text: A bunch of nerds shouldn't be any competition...
+7a0e1677/1/text: But I should still check them out, just in case.
+a428d6eb/0/text: Hm... I wonder what theme they picked?
+fc916955/0/text: These honor roll students don't know how to do anything other than study.
+fc916955/1/text: It's probably a simple theme, maybe related to studying...?
+51eb0b95/0/text: ...?
+f446357f/0/text: What's with this line...?
+b5c62cc7/0/text: There's no class up ahead, is there?
+b5c62cc7/1/text: What's everyone in line for...?
+4e1871fc/0/text: ...Even around the corner,
+4e1871fc/1/text: the line is still going?!
+8ea5434b/0/text: This is...!
+27b0da61/0/text: Well, well~
+27b0da61/1/text: If it isn't Ilot~
+f5c04e2b/0/text: This, you guys...
+897c02fd/0/text: The ridiculously long line
+897c02fd/1/text: leads to Hoppe's class?!
+4fe3f0d4/0/text: Surprised?
+610064be/0/text: Hehe,
+610064be/1/text: guess you underestimated us!
+1a0811c2/0/text: Did you think that we were just a bunch of bookworms
+1a0811c2/1/text: that wouldn't be any competition?
+5d79c199/0/text: You, you guys...
+b045a558/0/text: I'm telling you now——
+e998c79b/0/text: That's right!
+e998c79b/1/text: We're bookworms!
+d2653e78/0/text: And since we're bookworms,
+d2653e78/1/text: we'd do anything for that unlimited library pass!
+f860a2e8/0/text: ...!!!
+79bad066/0/text: I, I can't believe that...
+d6ca3de0/0/text: I underestimated how badly nerds would crave books...
+bc2cf46c/0/text: What's the theme...
+bc2cf46c/1/text: for your class...?
+b6b1d93e/0/text: What?
+b6b1d93e/1/text: Don't you...
+b6b1d93e/2/text: Oh, you can't see it... The crowd's blocking the view,
+b6b1d93e/3/text: sorry about that~
+eb1013e8/0/text: ...How annoying.
+9fc05517/0/text: Why not go see for yourself~
+9fc05517/1/text: But just to let you know, Hoppe's busy, so don't bother her!
+8433013f/0/text: Hoppe...?

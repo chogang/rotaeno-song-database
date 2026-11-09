@@ -1,0 +1,34 @@
+7eea926a/0/text: Bolt
+7eea926a/1/text: "With this much snowfall overnight, it's the perfect time to go snow sledding! We need to find a hill that has a long, open run.
+7eea926a/2/text: It's got to be steep enough for speed, but not dangerously so, and free of obstacles like rocks and bushes!"
+e881c0ce/0/text: Tommy
+e881c0ce/1/text: "Through the many years of my foraging adventures deep into the forest, I know a perfect place up above the eastern trail, similar to what you described."
+1496b383/0/text: Puno
+1496b383/1/text: "Snow sledding, Boss? But can we really afford to waste precious practice time? I was thinking about practicing the latest stunt that you taught me..."
+31903d4e/0/text: Tommy
+31903d4e/1/text: "Well, I had heard that diversification of athletic training is imperative for developing competency and preventing overuse injuries."
+28687fa2/0/text: Puno
+28687fa2/1/text: "Hey, elf-boy...C-could you speak in simpler language, please?"
+bb075237/0/text: Tommy
+bb075237/1/text: "It's really not that hard, kiddo. You should really brush up on your vocabulary."
+90bf8684/0/text: Puno
+90bf8684/1/text: "Ugh..."
+9bf0d6f8/0/text: Bolt
+9bf0d6f8/1/text: "Actually, he's right. What he really means is that cross-training will help us work all our muscles, so we don't wear out the same body parts and train new skills at the same time. Resting from practice is just another weapon in our arsenal!"
+f5f932b7/0/text: Puno
+f5f932b7/1/text: "Wow, Boss, you are as wise as ever! I see that you had a grand plan all along! No wonder you had already prepared these sleds ahead of time. How could we get the permit into the forest, though?"
+5120bbeb/0/text: Tommy
+5120bbeb/1/text: "I could petition with Grandpa Angatu to let you both into the Elf forest. Since I have to vouch for your entry, I trust you all will be on your best behavior?"
+a5bc8e77/0/text: Bolt
+a5bc8e77/1/text: "Ooh, definitely! And we'll be sure to thank him if he allows it! Is there anything we should do in return?"
+dcdf0fbe/0/text: Tommy
+dcdf0fbe/1/text: "Truthfully, I have been intrigued by your human training regime, so I want you to locate the best vantage point for me to observe your training."
+36333e34/0/text: Bolt
+36333e34/1/text: "Now, now, you must join us in the fun too! After you get the elder's permission, won't you please lead us to that hill you mentioned? I will share with you my best sledding tricks!"
+f0c6010a/0/text: Tommy
+f0c6010a/1/text: "...Hmm. Since you put it that way, I will take you up on your offer. Stand by here and wait for my instructions upon my return."
+1e38db16/0/text: Puno
+1e38db16/1/text: "Oh, there he goes into the forest...Aww, can't he just be honest for once, that he is actually excited too, eh?
+1e38db16/2/text: Count me in, Boss! I will try to ace this cross-training thing too!"
+e2f13de8/0/text: Bolt
+e2f13de8/1/text: "You bet! Let's make this break time count towards our next performance!"

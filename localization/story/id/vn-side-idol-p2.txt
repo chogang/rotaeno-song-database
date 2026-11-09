@@ -1,0 +1,150 @@
+554168b9/0/text: Tarik napas－－ Lepas－－
+554168b9/1/text: Tarik napas－－ Lepas－－
+2fbdef1/0/text: Tarik napas dalam-dalam－－
+2fbdef1/1/text: Nggak masalah…!
+f4a308d0/0/text: …Huhuhu!
+f4a308d0/1/text: Benaran masih sangat gugup!
+e0e857e1/0/text: Aku terlalu nggak berguna…!
+529fe2d3/0/name: Anggota Girl Group A
+2f966ecb/0/text: Jolly, kamu nggak apa-apa, 'kan…?
+319c7b82/0/text: A-aku nggak apa-apa!
+85f8e6f3/0/text: Ha-hanya sedikit…… gugup……
+c8c5908e/0/name: Anggota Girl Group C
+1ebe8f73/0/text: Santai saja. Yang kuajarkan, kamu masih ingat, 'kan?
+1ebe8f73/1/text: Tulis kata "berani" di telapak tangan, lalu telan dengan lahap!
+1fd7933d/0/text: Tadaaa!
+1fd7933d/1/text: Kamu mendapatkan keberanian~!
+474a9ac8/0/name: Anggota Girl Group B
+467e5c47/0/text: Semangat Jolly, ini penampilan perdana kita.
+467e5c47/1/text: Ng-nggak boleh gagal!
+3670d697/0/text: !!
+c8c5908e/1/name: Anggota Girl Group C
+29d01afd/0/text: Hei, jangan memberinya tekanan lagi!
+29d01afd/1/text: Kamu nggak lihat dia sudah hampir pingsan ditelan kegugupannya?
+474a9ac8/1/name: Anggota Girl Group B
+67609f7d/0/text: Hah? Bukankah tekanan itu sumber motivasi, ya…?
+c8c5908e/2/name: Anggota Girl Group C
+c6ce6c0a/0/text: Itu tergantung orangnya, bodoh!
+474a9ac8/2/name: Anggota Girl Group B
+2424efa8/0/text: Aduh! Sakit banget…!
+c8c5908e/3/name: Anggota Girl Group C
+cbe79332/0/text: Nggak usah pura-pura! Bedak di wajahmu saja bahkan nggak luntur sedikit pun!
+529fe2d3/1/name: Anggota Girl Group A
+35e29c74/0/text: Jolly, santai saja.
+35e29c74/1/text: Nggak perlu terlalu tegang, anggap saja kita sedang latihan seperti biasa.
+c8c5908e/4/name: Anggota Girl Group C
+2d38ba2b/0/text: Benar, benar~
+2d38ba2b/1/text: Kalau sampai ada masalah, pasti gara-gara dia!
+474a9ac8/3/name: Anggota Girl Group B
+88378a05/0/text: Hei~?！ Kok begitu~~~
+88378a05/1/text: Bagus, kalian semua menindasku!
+5f52f1ca/0/text: Aku sudah bukan si imut kesayangan kalian lagi, ya~?
+5f52f1ca/1/text: Huhuhuhuhu——
+78ae95c9/0/text: Jolly~~~
+78ae95c9/1/text: Kamu lihat mereka!
+8f83c973/0/text: Semuanya……
+1cae2a59/0/text: sedang berusaha…
+1cae2a59/1/text: menyemangatiku dengan berbagai cara……
+348ebe58/0/text: …Haha!
+44bf9712/0/text: Demi mereka,
+44bf9712/1/text: aku juga harus berusaha!
+8176471c/0/text: Demi impian kita,
+8176471c/1/text: penampilan debut kali ini… Kita harus tampil sebaik mungkin!
+a742d46/0/text: Hah, akhirnya senyum~!
+c8c5908e/5/name: Anggota Girl Group C
+48d81b7e/0/text: Ini baru benar.
+48d81b7e/1/text: Kita ini idola, nggak boleh pasang muka murung dong!
+698528fb/0/name: Pembawa Acara
+ab24a3be/0/text: Selanjutnya,
+ab24a3be/1/text: mari kita persilakan <Heartthrob Girls>!!!
+474a9ac8/4/name: Anggota Girl Group B
+f6addc36/0/text: Wah, giliran kita tampil nih!
+f6addc36/1/text: Pas banget waktunya☆
+529fe2d3/2/name: Anggota Girl Group A
+aae1f02b/0/text: Haha,
+aae1f02b/1/text: Kalau begitu—— Ayo siap-siap tampil?
+a7b0f016/0/name: Tiga lainnya
+e27b8705/0/text: Ayo!!!
+1d3966cb/0/name: Semua
+5b1c2c37/0/text: "Heartthrob Girls－－Fighting Fighting Fighting!"
+5e6cdc93/0/name: Anggota A Heartthrob Girls
+8303e659/0/text: Apa motto grup kita?
+1d3966cb/1/name: Semua
+937481b4/0/text: "Menjadi gadis yang paling membuat orang berdebar!"
+5e6cdc93/1/name: Anggota A Heartthrob Girls
+d31652cd/0/text: Apa target kita?
+1d3966cb/2/name: Semua
+b295f52e/0/text: "Menjadi girl group hebat seperti 
+b295f52e/1/text: !!!"
+974ece5d/0/text: "Heartthrob Girls, mulai sekarang,
+974ece5d/1/text: Operasi bikin jantung berdebar－－ Resmi dimulai!"
+140130b2/0/name: Anggota C Heartthrob Girls
+61aa015d/0/text: Itu, ya~
+61aa015d/1/text: Sepertinya aku sedikit kehilangan arah, hehe☆
+cdc822bf/0/name: Anggota A Heartthrob Girls
+e080b685/0/text: Jadi~
+e080b685/1/text: Bisakah kamu membantuku?
+9bc95a95/0/text: Wah, ra-ramai banget…
+a840e6e3/0/text: Nggak disangka penontonnya sebanyak ini……
+efb182a7/0/name: Anggota B Heartthrob Girls
+f6859d29/0/text: Serius?!
+f6859d29/1/text: Huh~ Syukurlah, selamat!
+da500f90/0/text: !!
+fc636f98/0/text: Se-selanjutnya, giliranku…!
+96973a3e/0/text: …St…e…
+92b32db1/0/text: Gawat…!
+92b32db1/1/text: Tenggorokanku… Terlalu gugup sampai nggak bisa mengeluarkan suara…!!!
+2e729b9/0/text: Step by step ♪～ on the platform, hear the engines running ♫
+a07865bb/0/text: !!
+478e78f5/0/text: Berhasil disambung…!
+478e78f5/1/text: Syukurlah… refleks panggungnya keren banget, bener-bener pantas jadi ketua kita…!
+6278ed47/0/text: Asalkan selanjutnya nggak membuat kesalahan lagi…!
+fd69e6cc/0/name: Penonton A
+c351397c/0/text: Tuh, gadis yang berdiri di sebelah kiri,
+c351397c/1/text: agak aneh nggak sih?
+ae003548/0/text: !!
+e0ff8c55/0/text: Me-membicarakan aku…?
+abcfe097/0/name: Penonton B
+f896ca79/0/text: Memangnya aneh? Biasa saja.
+f896ca79/1/text: Tapi dia keringatannya banyak banget. Apa mungkin terlalu gugup…?
+fd69e6cc/1/name: Penonton A
+8574b529/0/text: Iya, ini yang kumaksud~
+8574b529/1/text: Dia kelihatannya sudah hampir "meleleh"——
+6b924568/0/text: !!
+6b924568/1/text: Me-meleleh…?!
+2a9ce2ce/0/text: Jangan-jangan aku sudah segugup itu sampai nggak bisa mempertahankan wujud manusia lagi…?
+ef0515e6/0/text: Ga-gawat…!
+abcfe097/1/name: Penonton B
+7d4b283/0/text: Hei, hei… Sepertinya ada yang nggak beres. Dia benaran nggak enak badan?
+7d4b283/1/text: Kok sepertinya benaran——Wa-wah!!!
+fd69e6cc/2/name: Penonton A
+e653b638/0/text: Eh?
+e653b638/1/text: Manusia… meleleh…?!
+91c3132e/0/text: Jo-Jolly…!
+91c3132e/1/text: Sadarlah…!!!
+77afc3b3/0/text: Ah……
+77afc3b3/1/text: …Meleleh……
+7a0abee9/0/text: Aku… mengacaukan semuanya……
+7a0abee9/1/text: Padahal ini penampilan yang sangat penting, penampilan yang sama sekali nggak boleh gagal……
+fb106c3a/0/text: Ma-maaf…!!!
+27950794/0/text: Jolly…!
+335abb3/0/text: Maaf!!!
+335abb3/1/text: Anggota grup kami nggak enak badan, penampilan hari ini——
+a8eb9258/0/text: Hu…Huhu……
+68dc7cd8/0/text: Aku benar-benar…Hu……
+68dc7cd8/1/text: Terlalu nggak berguna……
+42b5d0e5/0/text: Sok berkata…
+42b5d0e5/1/text: Mau menampilkan yang terbaik……
+d9a6696e/0/text: Aku bahkan nggak bisa melakukan gerakan dasar dengan benar…!!!
+8acd37d2/0/text: Lebih parahnya, pas panik aku malah langsung kabur…
+8acd37d2/1/text: Sebenarnya… Apa yang sedang kulakukan……
+ac6d4c17/0/text: Mereka semua pasti sangat marah……
+5d8a684d/0/text: ……
+5ed2fc0e/0/text: ……Aku… harus pergi meminta maaf……
+8a0e030f/0/name: ???
+f72fe299/0/text: Hah! Untung saja aku nggak salah ingat.
+f72fe299/1/text: Benar ada di sini!
+3d44710b/0/text: !
+222a4929/0/text: A-ayah…?
+2c6b8d24/0/text: Ayah,
+2c6b8d24/1/text: kok bisa ada di Silvano…?!

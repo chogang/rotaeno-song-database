@@ -1,0 +1,120 @@
+29453bbf/0/text: Terakhir, ayo nyalakan lilin...
+c6185639/0/text: Se... le... sai!!!
+e7f44e71/0/text: Huh... hah...
+e7f44e71/1/text: Hampir saja, untung bisa menyelesaikan semua setengah jam sebelum tahun baru!
+4f393d54/0/text: Dekorasi,
+4f393d54/1/text: Butuh waktu lebih dibandingkan yang aku kira...
+1fbc243c/0/text: Juga lebih melelahkan dibanding yang aku kira...
+1fbc243c/1/text: Sekarang aku hanya ingin berbaring dan santai di sofa...
+db138716/0/text: Hei,
+db138716/1/text: Apa yang kamu bicarakan, dasar wanita tua!
+b64f148c/0/text: Kesenangan baru akan dimulai!
+598c3862/0/text: Sebagai bocah yang hampir jatuh dari kursinya tadi,
+598c3862/1/text: Kamu ternyata masih penuh semangat...
+1f4778c6/0/text: Ah~
+1f4778c6/1/text: Aku ini baik-baik saja!
+1375df9e/0/text: Itu karena kamu yang datang menyelamatkan saat terjadi krisis robot pengasuh,
+1375df9e/1/text: Kalau tidak, mungkin kamu ada di rumah sakit di malam tahun baru.
+1b620b77/0/text: Benar... Barusan tadi sangat berbahaya...
+1b620b77/1/text: Aku merasa jantungku hampir melompat keluar dari dada...
+d39d9c01/0/text: Ilot harus lebih memperhatikan keamanan di masa depan...!
+a73ab14b/0/text: Baik, baiklah...
+38bbf832/0/text: Robot ini sungguh hebat,
+38bbf832/1/text: Baguslah~
+5900347e/0/text: Terima kasih atas pujian Anda.
+5900347e/1/text: Aku adalah robot pengasuh terbaru yang dibuat dengan teknologi terkini Aquaria,
+5900347e/2/text: Membantu dalam bimbingan, pendidikan, dan perlindungan individu, adalah fungsi dasar kami.
+1f462c5d/0/text: Anda saja aku juga punya satu di rumah...
+7cd77455/0/text: Tidak perlu 999999999, hanya perlu 99999999,
+7cd77455/1/text: Segera beli mesin butler versi deluxe...
+76de3626/0/text: Minum! Diam!
+76de3626/1/text: Tenang! Tenang tenang tenang!!!
+4d2843f/0/text: ...
+92b4e956/0/text: Hei, mute, bukan dimatikan!!!
+92b4e956/1/text: Hei, beraninya marah padaku!
+2d3f98f2/0/text: Hidup! Hidup! Hidup!!!
+55bc1fb/0/text: Ilot, tenang dulu...
+55bc1fb/1/text: Sepertinya kehabisan baterai, sedang mengisi daya...
+1866b570/0/text: Tidak, kamu tidak mengerti, Hoppe,
+1866b570/1/text: Yang ini berbeda dengan yang kamu miliki, dia ini sengaja!!!
+63e8465/0/text: ...
+71cbc814/0/text: Setiap hari berhadapan dengan kamu, bocan nakal dan kasar,
+71cbc814/1/text: Tampaknya wajar jika dia kesal.
+3d6c5fda/0/text: Hah? Aku ini pemiliknya!
+3d6c5fda/1/text: Tentu harus dengar kata-kata pemilik!
+2e310db6/0/text: Ah.
+3c211eac/0/text: !!
+3c211eac/1/text: Lihat Hoppe! Sudah aku katakan!!!
+4d2843f/1/text: ...
+19fadd47/0/text: Hahahahaha... Baiklah, baiklah~
+19fadd47/1/text: Bagaimana pun juga, yang penting sekarang ini ya?
+bfa7b9cd/0/text: Ayo,
+bfa7b9cd/1/text: Kita harus menonton siaran malam tahun baru yang mana~?
+156c6a1a/0/text: !!!
+3d19133/0/text: Dari Pulau Floating! Pulau Floating!
+3d19133/1/text: Tahun ini mereka mengundang Hua Ling dan Kang dari versi live-action "Cinta dalam Takdir✧ Malaikat Donut ♡"!
+243a5598/0/text: Kita menonton itu saja!
+243a5598/1/text: Baik, baiklah~~~
+999cce54/0/text: Boleh~? Baguslah,
+999cce54/1/text: Hoppe, kamu OK?
+3ccad8c1/0/text: Hm,
+3ccad8c1/1/text: Aku bebas saja.
+ff490dea/0/text: Yey~~~
+ff490dea/1/text: Love you guys, MUACH MUACH MUACH~~~♡♡♡
+94fe51d8/0/text: Eh, awas~
+94fe51d8/1/text: Menjijikkan~♪
+feaeee20/0/text: Hahaha.
+c94de24a/0/text: Melihat interaksi Ilot dan Mona,
+c94de24a/1/text: Sungguh menarik.
+ad6f7256/0/text: Apakah aku juga harus mencoba lebih...
+ad6f7256/1/text: Lebih aktif?
+17277f35/0/text: Dengan begitu,
+17277f35/1/text: Bisa bergaul lebih baik dengan teman kelas...?
+dde26e09/0/text: Oh ya!
+dde26e09/1/text: Mungkin kita bisa membuat permohonan?
+e73f2ed2/0/text: Permohonan?
+4a68babc/0/text: Benar,
+4a68babc/1/text: Harapan untuk tahun baru, keinginan yang ingin dicapai, atau semacamnya?
+23ee4cc4/0/text: Hm~ Kalau begitu aku ingin punya semakin banyak uang!
+23ee4cc4/1/text: Bagus sekali jika bisa melunasi semua pinjaman keluarga sebelum akhir tahun depan!
+7efc2166/0/text: ?! Bukankah permohonan tidak boleh diucapkan?!
+7efc2166/1/text: Eh, lalu bagaimana!!!
+d6250c86/0/text: Begini saja, kami akan menutup telinga,
+d6250c86/1/text: Kamu katakan lagi?
+7baecc09/0/text: Haha, itu semuanya takhayul~~~
+7baecc09/1/text: Yang penting harus berhati tulus, tidak masalah jika dikatakan atau tidak!
+b59a53ee/0/text: Oh, oh ya...?
+a407511c/0/text: Baiklah,
+a407511c/1/text: Agar adil, aku juga akan mengatakan permohonanku...!
+958d465d/0/text: Semoga tahun depan Lulua bisa datang ke Aquaria untuk bertemu dengan para penggemar!
+958d465d/1/text: Ah, bukan pergi ke Pulau Floating, tapi datang ke dataran!!!
+4181f2c8/0/text: Hoppe, bagaimana dengan kamu?
+602ba239/0/text: Uh...
+ffb38fb3/0/text: Permohonan...
+dcc2a967/0/text: Itu...
+e06f0e1b/0/text: Aku berharap permohonan semua orang dapat terwujud.
+9cc90f9e/0/text: ...
+5f1ee7fe/0/text: ...
+6849e09a/0/text: ...? Kenapa...?
+b9883df4/0/text: Hoppe yang baik.
+9b0abcd0/0/text: Ya, Hoppe super.
+fb3b7a6a/0/text: ...???
+2da46f9b/0/text: Ke... kenapa...
+2da46f9b/1/text: ... Apakah permohonanku aneh?
+3cf93f89/0/text: Hm, tidak apa,
+3cf93f89/1/text: Juga tidak ada masalah~
+d5ab0ecf/0/text: Benar, wajar saja jika orang biasa akan merasa malu di hadapan malaikat,
+d5ab0ecf/1/text: Tidak apa! Tidak apa!
+3fb7a34c/0/text: ???
+1af9b8ef/0/text: Ah, sudah mau mulai!
+1af9b8ef/1/text: Hitungan 10 detik!
+836ce24c/0/text: Apa?! Ayo cepat!
+836ce24c/1/text: Nyalakan lilin!
+3836e9c6/0/text: Kita tiup lilin bersama saat hitungan 1!
+7fbe473f/0/text: ...4, 3!
+7fbe473f/1/text: Ayo semua ke sini!
+6137f4ff/0/text: Ah, ya...!
+26eb00bc/0/text: 2!
+9d7cf268/0/text: ... 1!!!
+c3aea7db/0/text: Huhhhh...
+8bb72034/0/text: Selamat tahun baru!!!

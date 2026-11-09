@@ -1,0 +1,38 @@
+c7d24f7e/0/name: Turbo
+b64eff7e/0/name: Moon Jelly
+c2d4cdd5/0/text: We're back at our interview location again!
+7bbd6d65/0/text: This time, we have a duo with us! Could both of you please start by introducing yourselves?
+bddad764/0/text: Hello, I'm Turbo, and...
+91cb1b0b/0/text: I'm Moon Jelly, but you can call me Jelly! (˵>ᗜ<˵) !!
+39e72f7/0/text: This was the first song we've ever made together, which makes me even happier the work was chosen by the Rotaeno team!
+fa10992d/0/text: Haha, it seems like you two have quite different personalities. Welcome!
+550eb92b/0/text: Could you please introduce your new song, "ALL☆NIGHTER!" to us?
+36b06d8f/0/text: Though it was my first time participating in a rhythm game song contest, I'm mostly known for my Eurobeat arrangements,
+710b8a75/0/text: so of course our song, ALL☆NIGHTER！ had to be Eurobeat.
+4b668307/0/text: Not that you'd know how to make anything else!
+248d661e/0/text: Besides, what would fit better for a game with mechanics like "drifting" and "flicking"
+b49f433c/0/text: LOL!
+5fa62ab0/0/text: Eurobeat used to be a premier genre in rhythm gaming,
+89040b7c/0/text: but it has fallen out of favor in the recent years due to artists not really making it anymore,
+9195fdd7/0/text: so I wanted to bring a beloved genre back for the players who still love it!
+6184a3b1/0/text: When I first heard of Rotaeno, it was through the song "On And On!!" by ETIA.
+1193c580/0/text: and hearing such a brilliant track with a Eurobeat influenced riff really spoke to me!
+fe23aa54/0/text: Since I was working with a very talented vocalist, my dream of bringing the denpa eurobeat style into life in english was wonderfully realized.
+ca658b15/0/text: I also wanted to modernize the style, so despite its retro roots, it would still sound fresh today!
+709861c9/0/text: It also tells a very familiar story from modern day, doesn't it?
+db2c2304/0/text: We always worked on the song at the worst times imaginable!
+6dca5a0d/0/text: Who sends vocal files at 2AM?
+6aba7b99/0/text: I can't be alone in never getting any work done during the day, right?
+bff1cefe/0/text: Didn't you send an update on the arrangement at 6am?
+81bfd92d/0/text: It's relatable!
+17bc2be2/0/text: For all the wrong reasons...
+872feb1b/0/text: You guys' routines sound a bit worrying, honestly…
+6e0011e/0/text: Anyway, please make sure to take care of your health!
+a18ec694/0/text: So, before we wrap things up, is there anything you'd like to say to our pilots?
+653a50fe/0/text: We would like to thank you for listening to our song!
+dd58d389/0/text: We also want to thank all the staff involved for making the song into a complete rhythm game work.
+c9097879/0/text: It would still be just a sound file on my hard drive if not for the artist(s) creating a jacket to catch the eyes of the players, and the charter(s) mapping the song for the players to play,
+eb102040/0/text: and of course, the Rotaeno team for choosing the song among so many other brilliant entries and making it all possible and bringing the work to life!
+a9f2bfb0/0/text: Otherwise, it might still just be an audio file sitting on my hard drive.
+d290c4c8/0/text: Rhythm games are fun, Rotaeno is fun, so we wanted to make a really fun song!
+ac55f8ff/0/text: I just hope the song is challenging enough that the players don't get bored of me... uuu...

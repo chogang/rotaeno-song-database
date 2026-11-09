@@ -1,0 +1,20 @@
+68d56d4c/0/name: Turis A
+1dc15c05/0/name: Turis B
+3e5c2923/0/text: Festival musim panas tahun ini rasanya biasa saja~
+76ab641e/0/text: Yang tahun lalu jauh lebih menyenangkan...
+7283509e/0/text: Hah~~~
+cde3cb9e/0/text: Betapa indahnya jika bisa kembali ke masa lalu~~~
+9c80d613/0/text: Hahaha,
+3b6d1fa/0/text: Bukankah terlalu berlebihan?
+8c572244/0/text: Uh...
+5fa92d03/0/text: Tapi meski kembali ke masa lalu, bukankah kita juga tidak akan tahu?
+8a0e811a/0/text: Hah? Maksudnya?
+34d0f9c7/0/text: Karena~
+79b736f4/0/text: Jika kita kembali ke masa lalu, bukankah ingatan kita juga akan diulang kembali?
+8381fb78/0/text: Kita yang tidak memiliki ingatan saat kembali,
+6d8f33e2/0/text: Bukankah juga tidak akan ingat telah kembali ke masa lalu?
+ac68aef4/0/text: Jadi~ ☆
+d6aadf92/0/text: Kita mungkin saja... Sudah mengulang percakapan ini berulang kali?
+ec1c624e/0/text: Menyebalkan...
+84f8c2f9/0/text: Jangan dibicarakan lagi, sungguh menakutkan...
+79cc7dab/0/text: Hahaha~~~

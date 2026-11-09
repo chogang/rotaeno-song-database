@@ -1,0 +1,32 @@
+e9354ac5/0/text: You remember everything I told you, right?
+57d3399/0/text: Yep! Video call Dad at five,
+57d3399/1/text: back at the hotel before seven...
+201e31e/0/text: And—
+1cbdc61c/0/text: Yes, yes, in bed before ten!
+1cbdc61c/1/text: I really do remember!
+c8adde61/0/text: Dad, please relax.
+c8adde61/1/text: We're only staying in Silvano for a few more days.
+d93dc923/0/text: Once all the events are over, we'll go home.
+d93dc923/1/text: And Mom's with me too!
+aa6e6b8e/0/text: Sigh... That's exactly why I'm sad...
+aa6e6b8e/1/text: My beautiful wife and my precious daughter are both away from me...
+f0ec3d08/0/text: If I hadn't used up all my vacation days...
+63fdb8f0/0/text: ...?
+676f29de/0/text: Huh? Whoa, this arcade machine is ancient!
+2078f34a/0/text: Oh wow... now that takes me back.
+2078f34a/1/text: I used to play this with my friends after school.
+437026a6/0/text: My favorite was... Oh! This guy!
+c44792bd/0/text: His super move was so hard to pull off!
+c44792bd/1/text: Up, up, down, down, left, right, left, A, B...
+5d8a684d/0/text: ...
+b772673c/0/text: (Dad looks so happy...!)
+cc4a48b6/0/text: Hey, Dad!
+cc4a48b6/1/text: Why don't you teach me how to play?
+18bc2d1/0/text: Wait, Jolly, you're interested in fighting games?!
+37d6dc88/0/text: Yeah!
+37d6dc88/1/text: I've never played before, but it looks really fun!
+a60c9a70/0/text: ...Hehe! Well, well, well.
+a60c9a70/1/text: That's my girl. You've got taste!
+4e883806/0/text: Fighting games are a whole world of their own, you know.
+4e883806/1/text: Come on, sit down!
+4459f94d/0/text: First things first, we need to talk about...

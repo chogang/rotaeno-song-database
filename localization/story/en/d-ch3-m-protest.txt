@@ -1,0 +1,57 @@
+194c6c24/0/text: Is this where they're protesting?
+4a034323/0/text: (So many old people...)
+e18bfaa6/0/text: Protest!
+ce2de053/0/text: Protest!
+baaf0c1e/0/text: End the evil law!
+4dbcb989/0/text: (So loud)
+5b02d0f2/0/text: Huh?
+93f3eedd/0/text: You're a good girl.
+93f3eedd/1/text: Finally, a good kid who's aware of how evil this law is!
+776853a0/0/text: What?
+776853a0/1/text: No, I'm just here to have a look...
+395f51e8/0/text: Hey, little girl.
+395f51e8/1/text: You, too, think it's unacceptable, right?
+27cfe8da/0/text: They can't put a limit on water consumption, can they?
+95d7791c/0/text: Um...
+95d7791c/1/text:  Well...
+95d7791c/2/text: That does sound...
+cad6227/0/text: Right. No more than 20 tons of water a month? That's ridiculous!
+8f921855/0/text: (20 tons?)
+c8616c2d/0/text: How many times did I tell you, huh?
+c8616c2d/1/text: You don't talk to barbarians...
+b57e8c62/0/text: You make them fear you with your fists!
+1a4623a8/0/text: (It sounds more like the words...
+1a4623a8/1/text: that a barbarian would say...)
+f9ae1831/0/text: AI, convert 20 tons of water to liters for me?
+7d1d3013/0/text: Master Ilot, 20 tons is equal to 20,000 kilograms.
+7d1d3013/1/text: Water's density is 1 kg/L, so 20 tons equals 20,000 liters.
+83ef84ca/0/text: ...
+2c375c67/0/text: And the electricity limit is absurd as well.
+2c375c67/1/text: 4,000 kWh per month cannot be enough!
+8245e221/0/text: ...You need 4,000 kWh per month?
+7652982f/0/text: Actually, it's only enough for a week.
+7652982f/1/text: Kiddo, don't be thrifty. Life is all about enjoyment.
+765d13ff/0/text: Right. Time has changed.
+765d13ff/1/text: Don't live like a caveman, okay?
+81e191d3/0/text: ...Dear aunt and uncle,
+81e191d3/1/text: Do you live in a very large house,
+b4915b6d/0/text: Like a castle?
+b4915b6d/1/text: With a mine in the mountain behind?
+982710ce/0/text: Haha, you really have a way with words, dear.
+982710ce/1/text: Nah, my home is around 20 square meters in size.
+82b51da1/0/text: (Is that really necessary? Such a waste in energy consumption...)
+12cb3fec/0/text: Come, girl.
+12cb3fec/1/text: You think it's unacceptable too, don't you? Just join us.
+bce59752/0/text: End the evil law!
+83ef84ca/1/text: ...
+c91f94f9/0/text: What's wrong with you?!
+13a94e07/0/text: Huh?
+e093a385/0/text: You are not with us, huh?
+fce27920/0/text: I thought you were a good young man.
+f28cccea/0/text: No good young man would join you!
+75a1a0f4/0/text: Oh, no! I can't help myself...)
+2a18c23/0/text: What do you mean?
+2a18c23/1/text: Bad girl!
+60e1982c/0/text: You bad girl.
+60e1982c/1/text: I'll teach you a lesson!
+373a4537/0/text: Ah!

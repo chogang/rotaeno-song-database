@@ -1,0 +1,27 @@
+f393a0cf/0/text: Welcome to our interview!
+cd87fd53/0/text: First, please introduce yourself.
+bf709cd3/0/text: Hello everyone, I'm Cansol, a composer from South Korea!
+c561aeb9/0/text: I've been working hard to create songs that are fun and emotionally touching.
+a1ec5d90/0/text: Whether it's your first time meeting me or you already know me, welcome, everyone!
+b3c952b1/0/text: It's great to meet you!
+28511007/0/text: Could you introduce your new song "Innocence Keeper" in detail?
+19cee672/0/text: "Innocence Keeper" is a Future Core track that tells the story of protecting a world of innocence and purity from external threats.
+3a46f4dd/0/text: The song combines beautiful and delicate sounds with intense and stimulating elements.
+7bf11ced/0/text: So this song describes such a story!
+be591166/0/text: What were your thoughts when arranging this piece?
+67945d84/0/text: While composing, I wanted listeners to visualize the story I just described as they listened to the song.
+81f9cfc4/0/text: I tried to juxtapose opposing sounds and naturally merge them in music while striving for the clarity of a pure world. This process involved lots of trial and error!
+4e34a979/0/text: It sounds like an interesting challenge!
+e8bb9012/0/text: Can you share what makes this song special to you?
+d73e3156/0/text: Among various composition techniques, I particularly enjoy reintroducing specific sections with variations later in the track.
+f8795bf2/0/text: In this song, you can pay attention to how the Intro melody and the Drop section change when they reappear in the latter part, which I believe makes the listening experience more enjoyable.
+318ffbcc/0/text: Also, I have a secret weapon(?)—did anyone notice there's a "rotating" sound in the song?
+1d6e7f06/0/text: I specifically emphasized this to the Rotaeno team. I wonder if they captured it in the chart :)
+65ff31ce/0/text: Wow~ There really is a "spinning" sound effect in the music!
+e341d3d0/0/text: The chart also includes lots of rotate notes and cool effects in the spinning parts. Let's spin it up!! (>w<)
+1a90d52a/0/text: It seems like this chart will be super fun!
+60e6ee3c/0/text: Finally, is there anything you'd like to say to the players?
+43a60688/0/text: I've been a rhythm game player for a long time and will continue to be one in the future.
+4393b827/0/text: Perhaps my journey as a composer started because of my deep love for rhythm games. Before I realized it, my songs were being featured in games!
+f9ca5ad7/0/text: Thank you all for your unwavering love for rhythm games.
+7a7a8a24/0/text: As this is also a field I adore, I will continue working hard and hope to leave you with wonderful memories.

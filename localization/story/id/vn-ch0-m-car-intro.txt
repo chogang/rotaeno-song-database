@@ -1,0 +1,119 @@
+41d20fb5/0/text: Argh...
+b4b62ae2/0/text: ...?
+1eb247d0/0/text: Orang itu,
+1eb247d0/1/text:  apakah sedang berlari ke arahku...?
+1eb247d0/2/text: Tunggu! Bukankah dia berlari terlalu cepat? !
+dd8e7ce5/0/name: ???
+a7aa9d7c/0/text: Itu...
+b55e55c5/0/text: <size=50>Nona ini! </size>Kamu ingin menjadi...
+86c8467f/0/text: Tidak ingin.
+86c8467f/1/text: Tidak mau.
+86c8467f/2/text: Tidak perlu.
+86c8467f/3/text: Terima kasih.
+b5c36b40/0/text: Aku menolak untuk mendengarkan rekomendasi seorang pria yang berniat membunuhku.
+81e1e19a/0/text: Tolong permisi, sekadar mengingatkan bahwa penjualan offline sudah tidak bisa,
+81e1e19a/1/text: Jangan buang waktu mencoba menghemat uang, gunakan uang untuk iklan online.
+b43c4c98/0/text: <size=45>Aku sudah beli! !! </size>
+b43c4c98/1/text: Aku telah menempati halaman utama dari tiga situs berita utama Aquaria selama beberapa hari...
+c9daaf97/0/text: Tapi sangat sedikit yang datang...
+6eb9a8c/0/text: Halaman utama dari tiga situs berita utama?
+6eb9a8c/1/text: Berapa biayanya?
+6eb9a8c/2/text:  Berapa biayanya?
+6eb9a8c/3/text:  ...Apakah kamu gila?
+6eb9a8c/4/text:  Mau membodohiku?
+cc9e00e6/0/text: Aku...
+cc9e00e6/1/text: Aku...
+cc9e00e6/2/text: Hu...
+cc9e00e6/3/text: Huhu...
+6558c70f/0/text: Jelas-jelas aku sudah berusaha sangat keras...
+6558c70f/1/text: Ingin berbagi kegembiraan kompetisi dengan seluruh dunia...
+9753e711/0/text: Tidak mungkin...
+9753e711/1/text: Dan mulai menangis... Aku sungguh sial...
+e6bf95dd/0/text: Emm... kompetisi?
+e477893e/0/text: Argh, berpura-pura tertarik,
+e477893e/1/text: Mari tipu.
+d8590fe8/0/text: <size=50>Betul! </size>
+d8590fe8/1/text: Kalau kamu coba sekali, pasti akan suka!
+4e06cb49/0/text: Suara deru mesin!
+4e06cb49/1/text: Pemandangan yang berkedip cepat di luar kokpit!
+4e06cb49/2/text: Ekstrim... sensasi kecepatan!
+31f0aa3/0/text: Ini adalah...! !!
+c5ad588/0/text: Arti sebenarnya dari pesawat ruang angkasa yang sedang dibuat!
+cdb346fe/0/text: Gadis muda! Anak muda!
+cdb346fe/1/text: Bergabunglah dengan Bolt di jalan kompetisi pesawat ruang angkasa!
+5923b94f/0/text: Bagaimana, terkesan, kan?
+5923b94f/1/text: Apakah hatimu terbakar?
+82bff01a/0/text: Tidak baik.
+82bff01a/1/text: Rasanya malu sekali.
+af5c8ea2/0/text: Kalau kamu ingin mempromosikan kompetisi pesawat ruang angkasa...
+af5c8ea2/1/text: Seharusnya pergi ke Spaceport, kan?
+5ee2ecf1/0/text: Salah menempatkan lokasi promosi sejak awal,
+5ee2ecf1/1/text: Orang ini.
+e113a7e5/0/text: Tidak bisa di Spaceport,
+e113a7e5/1/text: Satu-satunya tempat di mana dapat beriklan adalah area persewaan.
+86b20339/0/text: ...Kalau tidak?
+86b20339/1/text: Apa kamu masih ingin promosi di area VIP?
+51eea6a3/0/text: Tentu saja,
+51eea6a3/1/text: Kalau tidak, bagaimana bisa menemukan tamu yang punya pesawat ruang angkasa?
+714a97ff/0/text: ...Tamu-yang-punya-pesawat-ruang-angkasa? !
+823d0bf3/0/text: Apakah anak ini mabuk?
+1574e1de/0/text: ...Pertama-tama, apakah kamu punya pesawat ruang angkasa?
+92e8171e/0/text: Hmm? Tentu ada?
+92e8171e/1/text: Kali ini aku datang ke Aquaria dengan Merek F model UCI8937624,
+92e8171e/2/text: Memiliki stabilitas terbaik, performa akselerasi instan juga sangat bagus, tapi kerugiannya adalah konsumsi energinya yang besar...
+a4ead111/0/text: Kutarik kembali ucapanku, anak ini mungkin tidak bodoh,
+a4ead111/1/text: Tapi sebuah tambang besar.
+94c429b6/0/text: Jika seperti itu, berbagai pernyataan luar angkasanya barusan sangat masuk akal.
+7296f1e1/0/text: Ah, orang kaya yang jahat,
+7296f1e1/1/text: Selamanya tidak akan pernah mengerti penderitaan orang miskin.
+18c92435/0/text: Itu, Bo...lt?
+18c92435/1/text: Itu namanya, kan?
+1949cfbb/0/text: Hmm? Ya!
+3ecb14da/0/text: Aku rasa, kamu datang ke Aquaria belum lama ini kan?
+bed108e5/0/text: Benarkah?
+bed108e5/1/text: Minggu kemarin baru sampai!
+8e1c7d17/0/text: Jadi izinkan aku, penduduk asli Aquaria, memberitahumu satu hal.
+c4e000e2/0/text: ? ??
+a2bbe0f7/0/text: Kamu ingin mencari seseorang dengan pesawat ruang angkasa di tanah ini...
+66fc8f5/0/text: adalah sesuatu yang mustahil.
+78d556a1/0/text: Eh? ! Kenapa? !
+52f9bcbc/0/text: Orang-orang miskin Aquaria menduduki 80% dari total populasi planet ini?
+d6836f59/0/text: Dan orang-orang miskin ini tinggal di tanah tempatmu dan aku berdiri sekarang.
+12e89938/0/text: Dan orang kaya...
+595dfcef/0/text: Semua tinggal di Pulau Floating di atas.
+f48d632e/0/text: Jadi kalau kamu mencari seseorang dengan pesawat ruang angkasa,
+f48d632e/1/text: seharusnya pergi ke atas sana.
+5e2d621c/0/text: Namun, prosedur memasuki Pulau Floating tampaknya cukup merepotkan,
+5e2d621c/1/text: Ada berbagai ulasan seperti pekerjaan, keluarga, dan lain-lain.
+f4f9c14d/0/text: Menurutku kamu harus terus beriklan di situs berita, itu jauh lebih mudah,
+a8cd610a/0/text: Tapi jangan berkecil hati kalau tidak ada kemajuan berapa lama pun memasang iklan,
+a8cd610a/1/text: Karena sangat mungkin orang kaya di Aquaria sebenarnya hanya sedikit.
+81d5ffc1/0/text: Bagaimanapun, kami adalah bintang malang dari planet teknologi.
+61dae0d8/0/text: ......
+e228c23c/0/text: Ah,
+e228c23c/1/text: Tampang yang terkejut.
+f9d24366/0/text: Begitu kah...
+f03d6239/0/text: Ramai sekali...
+174c3820/0/text: Meskipun aku melihat orang kaya yang lebih muda, kebencian terhadap orang kaya tiba-tiba muncul,
+174c3820/1/text: Tapi aku tidak mengatakan sesuatu yang kelewatan, kan?
+49a498b8/0/text: Aku...
+49a498b8/1/text: Kamu...
+cb5d9138/0/text: Itu bukan urusanku... kan?
+cb5d9138/1/text: Aku hanya menyatakan fakta?
+7c121165/0/text: ...Kamu...
+7c121165/1/text: Siapa namamu?
+beadb0c3/0/text: ...Ilot.
+b53c2ff4/0/text: Ilot...
+b53c2ff4/1/text: Ya...
+b53c2ff4/2/text: Terima kasih...
+b53c2ff4/3/text: Terima kasih telah memberitahuku ini...
+ea54c5ac/0/text: Aku...
+ea54c5ac/1/text: Aku...
+ea54c5ac/2/text: Ingin pergi lihat...
+39072c1b/0/text: ...Ok?
+8384e8a/0/text: Baik... Ya...
+8384e8a/1/text: Sampai jumpa...
+26c62503/0/text: ......
+1b1198c3/0/text: Sudah pergi.
+51d62d8c/0/text: ...Seharusnya,
+51d62d8c/1/text: Tidak apa, kan?

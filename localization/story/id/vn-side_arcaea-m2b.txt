@@ -1,0 +1,86 @@
+5cc91f97/0/text: Berhasil!
+5cc91f97/1/text: Berhasil!!!
+d8852c3a/0/text: Ilot, kamu jangan jalan-jalan sembarangan lagi!
+d8852c3a/1/text: Nanti akan ketahuan!
+33bb31db/0/text: Kenapa tidak ada jendela?
+33bb31db/1/text: Aku ingin melihat keluar...!
+6f33a9c7/0/text: Kapal besar yang terbang di langit,
+6f33a9c7/1/text: Sedang membawaku pergi ke Pulau Floating...!!!
+544fd3d9/0/text: Apakah ini sebuah mimpi?
+544fd3d9/1/text: Bukan mimpi?
+8c1e699e/0/text: Bagaimana mungkin ada jendela di ruang kargo?
+20e3b300/0/text: Eh, ini ruang kargo...?
+4055604b/0/text: Kamu...
+4055604b/1/text: Sama sekali tidak sadar...?
+4eafe946/0/text: Ha... haha...
+4eafe946/1/text: Karena... Aku hanya terus mengikutimu...
+3592ef1c/0/text: ... Hebat sekali,
+3592ef1c/1/text: Kamu.
+32a259f/0/text: Hehe...
+36efcc52/0/text: Ayo duduk,
+36efcc52/1/text: Seharusnya masih cukup lama untuk sampai, kita mengobrol dulu.
+1f22d40b/0/text: Jadi, ternyata benar kamu~
+da7f5b9c/0/text: ?
+e01fd74/0/text: Tidak, tidak apa,
+e01fd74/1/text: Kamu lalu memutuskan untuk menyelinap ke pulau sendirian?
+77ee368c/0/text: Ya!
+5870d7ea/0/text: Lihat,
+5870d7ea/1/text: Kali ini sudah berhasil!
+a2c18b88/0/text: Itu karena kamu bertemu denganku,
+a2c18b88/1/text: Jika tidak...
+8ed93e67/0/text: Tentu... tentu saja tidak!
+8ed93e67/1/text: Meski aku hanya sendirian...
+905087b2/0/text: Hm~
+905087b2/1/text: Tidak mungkin, tidak mungkin~ ♪
+4da40df4/0/text: Apa-apaan?
+4da40df4/1/text: Kamu sedang meremehkanku...!
+d7cef6dd/0/text: Bukan begitu~
+8967b69f/0/text: Tapi aku memang tahu ♪
+aa5b30eb/0/text: Hei...!!!
+aa5b30eb/1/text: Jelas-jelas kamu meremehkanku!!!
+2f5760d3/0/text: ...♪～♪♪～
+dc3ba41/0/text: Juga mengabaikanku...!
+dc3ba41/1/text: Keterlaluan...
+d85fb168/0/text: ～♪～♫♪～～
+eeee84a1/0/text: Wah...!
+eeee84a1/1/text: Suara yang sangat bagus...!!!
+3fba709e/0/text: Luna...
+3fba709e/1/text: Kamu... jangan-jangan seorang idol...?!
+802ca7db/0/text: Idol? Apa itu?
+802ca7db/1/text: Sebuah patung?
+409386df/0/text: Kamu tidak tahu tentang idol?
+d8ad2a7d/0/text: Psst!
+d8ad2a7d/1/text: Pelan-pelan!!!
+6b4dfc1c/0/text: Oohh...!
+6b4dfc1c/1/text: Maaf... maaf...
+ce24fe87/0/text: Tapi... Kamu tidak tahu tentang idol?!
+ce24fe87/1/text: Kalau Tuan Orlan?
+427ea932/0/text: ?
+c8495a15/0/text: Luluya?
+d524cfa0/0/text: ...?
+f059328c/0/text: Astaga...!!!
+f059328c/1/text: Kamu benar-benar tidak tahu tentang idol!!!
+5d7fe4c0/0/text: Bagaimana bisa tidak tahu tentang idol?!
+5d7fe4c0/1/text: Aku jelaskan, idol itu...
+938278d4/0/text: Oh~
+2c022fd7/0/text: Hebat sekali kan,
+2c022fd7/1/text: Lagu Tuan Orlan...!
+681d6911/0/text: Hm... Memang benar,
+681d6911/1/text: Cukup menarik...
+c1c34d71/0/text: Ini seperti idol...
+5ff15048/0/text: Hehe,
+5ff15048/1/text: Luna, kamu mau tidak berpartisipasi dalam pertunjukan bakat?!
+f914313a/0/text: Jika kamu,
+f914313a/1/text: Debutmu pasti akan sangat lancar!!!
+19c46cc1/0/text: Aku?
+75d7a96a/0/text: Ya ya!
+75d7a96a/1/text: Lalu aku akan menjadi fans pertamamu!!!
+2559785f/0/text: "Berikut pengumuman dari Ruang Kapten. Pesawat Ruang Angkasa akan tiba di tujuan dalam 5 menit,
+2559785f/1/text: Para penumpang diharapkan kembali ke tempat duduk dan mengencangkan sabuk pengaman, terima kasih atas kerja sama Anda."
+6c81f11d/0/text: Sepertinya akan segera mendarat.
+9ced21/0/text: Ayo pergi,
+9ced21/1/text: Tapi kita tidak boleh sampai ketahuan!
+b3dd8906/0/text: Hm~ Seharusnya tidak masalah sudah sampai di sini?
+9586e9b6/0/text: Baik, pintu keluar seharusnya ada di...
+58ac2c2f/0/text: Di sini!
+eedecb2e/0/text: Wah...

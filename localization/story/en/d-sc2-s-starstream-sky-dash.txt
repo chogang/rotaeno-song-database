@@ -1,0 +1,21 @@
+78178db3/0/name: Class 1-A (Jr) Student A
+e3829a62/0/name: Class 1-A (Jr) Student B
+bf7570df/0/name: Crowd
+5b46baeb/0/name: Kelut
+8c21a65/0/text: Whoaaa——
+52d26469/0/text: That guy's insane...!
+52d26469/1/text: He's got five wins in a row!
+d0e6dd8e/0/text: He's totally crushing second place...
+8f8872b4/0/text: Guess that's a senior for you!
+8f8872b4/1/text: Man, so cool...
+9ff1cf46/0/text: Hm? What's that?
+9ff1cf46/1/text: 5 wins in a row? Wow, he's pretty good...!
+3a391261/0/text: !
+e3dcedb3/0/text: Kay, you're back!
+21610056/0/text: Hey, Kelut's back!
+e1e2fa8b/0/text: Ooh! Kelut!
+e1e2fa8b/1/text: Get out there and help us retake the field!
+f06b7688/0/text: Heh! Not a prob~
+f06b7688/1/text: Leave it to me!
+b6c705da/0/text: Hey senior,
+b6c705da/1/text: Go easy on me, 'kay!

@@ -1,0 +1,116 @@
+5e6cdc93/0/name: 심쿵 걸스 멤버 A
+5574bf7b/0/name: 심쿵 걸스 멤버 B
+d5f7bcc7/0/name: 심쿵 걸스 멤버 C
+471e628f/0/name: 라임의 아내
+554168b9/0/text: 후우... 하아...
+554168b9/1/text: 후우... 하아...
+4754134c/0/text: 심호흡...!
+19396848/0/text: ......
+989453e/0/name: 상냥한 손님
+880e1bc5/0/text: 그렇게 훌륭한 아이돌을 롤모델로 삼고 있다면,
+880e1bc5/1/text: 당신도 분명 그녀의 그 멋진 점들을 이미 닮아 있을 거예요.
+6d8e46f5/0/text: 그러니까 다음번에 또 긴장될 때는,
+6d8e46f5/1/text: 과연 루루아라면 어떻게 행동했을까, 한 번 상상해 봐요.
+e2dd2b78/0/text: 루루아 님이라면...
+e2dd2b78/1/text: 어떻게 하셨을지...
+5d8a684d/0/text: ......
+c9a30b44/0/text: 루루아 님이라면,
+c9a30b44/1/text: 분명...
+5f68368d/0/text: 아무리 떨리고 실수를 하더라도...
+5f68368d/1/text: ——절대 흔들리지 않았을 거야!
+d98cf214/0/text: 왜냐하면——
+1179a133/0/text: ..."아이돌은 내 운명"이니까.
+129cf285/0/text: ......
+7b7288b6/0/text: 줄리, 방금 표정 완전 좋았어!
+8eb1497b/0/text: 응응! 뭔가 엄청 듬직해 보이던걸?
+2c8479dd/0/text: ...응!
+28749324/0/text: 얘들아, 이번 무대는...
+3166f52d/0/text: 절대로 너희도,
+3166f52d/1/text: 관객분들도 실망시키지 않을 거야...!
+c2aeeb19/0/name: 세 사람
+5f1e7c3/0/text: ......
+d19a1828/0/text: 응!!!
+556e8331/0/text: 헤헤♪
+556e8331/1/text: 그럼 무대로 출격해 볼까~!
+c9740cd0/0/name: 다 함께
+94e63e18/0/text: "심쿵 걸스, 파이팅, 파이팅, 파이팅!"
+8303e659/0/text: 우리 그룹의 모토는?
+5a6fd4b/0/text: "세상에서 제일 심쿵하게 만드는 소녀들이 되자!"
+d31652cd/0/text: 우리의 목표는?
+b403c4/0/text: "스윗 걸스처럼 최고로 멋진 걸그룹이 되자!!!"
+f874f970/0/text: "심쿵 걸스, 지금부터,
+f874f970/1/text: 심쿵 대작전, 스타트!"
+eaca576d/0/text: 저기 있잖아~
+eaca576d/1/text: 나 완전 길 잃어버린 것 같아, 헤헤☆
+977eb784/0/text: 그래서 말인데~
+977eb784/1/text: 나 좀 도와주지 않을래?
+4aba8d44/0/text: 지난번 무대 때보다... 관객이 많이 줄었네...
+226b9f74/0/text: 역시 저번 무대 사고 때문이겠지...
+adbb6a99/0/text: ...!
+9a99e356/0/text: 저 분, 첫 무대 때도 와주셨던 분이잖아...!
+9d4b7630/0/text: 그렇게 한심한 모습만 보여드렸는데,
+9d4b7630/1/text: 다시 와주셨어...!
+544ca4a3/0/text: 정말?
+544ca4a3/1/text: 휴~ 다행이다, 이제 살았네!
+3b4a2fb9/0/text: ——이렇게 다정하신 분들을 두 번이나 실망시킬 순 없어!!!
+8f5e6639/0/text: Step by step ♪~ on the platform, hear the engines running ♫
+c2aeeb19/1/name: 세 사람
+d93d0f23/0/text: !
+54ffcf56/0/text: Hearts are led～by the ringing bell I hear you coming♪～
+37ba0552/0/text: You take my hand～feel the weight pull off and now we're speeding♫
+7b562946/0/text: Through the metro melodies, singing loud——
+69e0d5ca/0/text: ——나, 해냈어...!
+8a0e030f/0/name: ???
+9e85ebf5/0/text: 줄---리---!
+605c4aff/0/text: ...?!
+7a0f315b/0/text: 줄리! 줄리야--!
+7a0f315b/1/text: 천하무적---!!!
+ddd695b6/0/text: 심쿵 걸스--
+ddd695b6/1/text: 만세!!!
+a52c8de1/0/name: 행인 A
+5f509633/0/text: 응? 저쪽은 왜 저렇게
+5f509633/1/text: 시끌벅적해...?
+fdc58f42/0/name: 행인 B
+8e16891a/0/text: 야, 저기 좀 봐.
+8e16891a/1/text: 사람들 사이에 슬라임이 엄청 많잖아!
+a52c8de1/1/name: 행인 A
+ff9fb3a9/0/text: 슬라임이랑 인간이 다 좋아하는 공연인가?
+ff9fb3a9/1/text: 엄청 재밌어 보이는데... 우리도 가볼까?
+b4b7c05b/0/text: 아, 아빠...?!
+e2ec4d1c/0/text: 한 명, 두 명... 아, 아빠가 엄청 많잖아...!!!
+98b545c3/0/text: 아빠가... 슬라임 분열을 하고 있어...?!
+ee379a6c/0/text: !
+ee379a6c/1/text: 엄마도 있잖아...!!!
+db5eb1a4/0/text: 헤에, 열혈 팬이 오셨네, 줄리~?
+d73eacb3/0/text: 완전 부럽다~
+1abbd66f/0/text: 진짜 행복하겠다~
+507ea5d7/0/text: 너희 진짜......
+c49b1361/0/text: 우리 엄마 아빠인 거 다 알면서 놀리기는...!
+a59175fa/0/text: ...응!!!
+c8688139/0/text: 나 지금,
+c8688139/1/text: 너무너무 행복해!
+537e36c3/0/text: 이 행복에 보답하기 위해서라도——
+537e36c3/1/text: 최선을 다해야지!!!
+c9740cd0/1/name: 다 함께
+3c0f5d53/0/text: "Take a trip far away☆
+3c0f5d53/1/text: Ticket's punched, we're on the way~ ♫"
+4bf90f3f/0/text: "Board the party train♫
+4bf90f3f/1/text: The fun is here to stay!"
+592e8ebe/0/text: 오오오-- 줄리! 줄리야!
+592e8ebe/1/text: 평, 평생 덕질할게!!! ...팬들은 다들 이렇게 말하는 거 맞지?
+cbf35cb3/0/text: 어머, 전에는 애들 소꿉장난 같은 거라고 콧방귀 뀌더니?
+13de6c26/0/text: 아주 응원하는 거 보니까,
+13de6c26/1/text: 누구보다 진심이네, 진심이야. 좋다고 분열까지 다 하고~?
+d302a8f8/0/text: ...!
+d302a8f8/1/text: 내, 내가 언제 그랬다고...!
+c1d41ac6/0/text: ......
+c7e24ad3/0/text: ...우리 애도 이제 다 컸으니까,
+c7e24ad3/1/text: 자기만의 생각이 있는 거겠지.
+90cef122/0/text: 세상도 많이 변했고,
+90cef122/1/text: 요즘 애들한텐 우리가 상상도 못 할 무궁무진한 미래가 열려 있잖아.
+5c09da75/0/text: 당신이 우리 딸 걱정하는 맘은 잘 알지만...
+5c09da75/1/text: 그래도... 한 걸음 물러서서 생각해 봐.
+6d5d42/0/text: 애가 좋아하는 걸 곁에서 이해해 보려고 노력하고,
+6d5d42/1/text: 저 녀석이 자기 꿈을 위해 얼마나 애쓰는지 잠자코 지켜봐 주는 거......
+68952a17/0/text: 그게 바로 우리 부모가 해야 할 일이잖아. 안 그래?
+7b56daae/0/text: ......

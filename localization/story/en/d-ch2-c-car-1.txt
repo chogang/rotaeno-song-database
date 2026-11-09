@@ -1,0 +1,42 @@
+4ca103b3/0/name: Kid
+2ff94b08/0/text: Boss! Boss!
+b156326b/0/text: Your friend, a pretty and great lady, has come to visit you!
+48bf47ac/0/text: Oh?
+a266fe75/0/text: Why, if it isn't Ilot!
+701611d9/0/text: It's been a while!
+c45c9f87/0/text: I was wondering why you suddenly disappeared. So you came to Orb!
+19100a0d/0/text: So, Boss... is Bolt.
+c7c2dcdf/0/text: (Well, Bolt does sound like the name of someone who is popular among kids.)
+a08782a0/0/text: Hahah... I told Puno to just call me by my name. But he wouldn't listen.
+164dd673/0/text: I must respect Boss!
+d3120b85/0/text: Hahah... Alright, if you insist.
+bb3e29d7/0/text: Anyway, you're here to challenge my newly designed stunt challenges. Right, Ilot?
+9a8584a8/0/text: Let's get started, shall we?
+32033544/0/text: (What?!)
+7092b63c/0/text: Hold on! No, no, no!!
+f52c7ffd/0/text: ?
+98ce6962/0/text: I heard some rumor in the market and came here to take a look...
+f24e1353/0/text: I was curious! That's all!
+688f599d/0/text: (There's no way I'm going to go through it again! It's as terrifying as a jet coaster ride!!!)
+6a48a386/0/text: Didn't you come here because you saw the poster I stuck on the notice board?
+26bc8739/0/text: What poster?
+9d55f48c/0/text: Well... looks like my ad campaign fails once again...
+124b1d0/0/text: It's been a week since the campaign began on Orb. But no one has come here except Ilot.
+ab51bfc7/0/text: I thought... finally someone had noticed my passionate poster.
+eff3aa20/0/text: (Oh, my God. That about-to-cry face again!)
+672c82c1/0/text: Eh... I'm sure people saw it... Right! You still have Puno, right?!
+e79d8b54/0/text: When Boss just arrived in Orb, I saw him and decided to follow him my whole life.
+b5aa772e/0/text: Unlike those ordinary people, I don't need a poster to know my Boss!
+c29cea14/0/text: Yes. When I got off the spaceship, Puno happened to be around there.
+83ef84ca/0/text: ...
+cb23ffad/0/text: Well, seems like I'm not cut out for advertising.
+70b36dd7/0/text: Or, perhaps because the challenges I designed are dull?
+83ef84ca/1/text: ...
+b1c5c518/0/text: (Ugh, I hate it.)
+eb057952/0/text: Fine. Stunt Flying just like before, right? I'll try it.
+757308b3/0/text: !!!
+f75cb915/0/text: Ilot...
+80341dcd/0/text: Thank you! You're such a nice person!!!
+88204077/0/text: You're addicted to the Stunt Flying, right?!
+b022736b/0/text: I know you can't say no to spaceships!!!
+8252400/0/text: (It's just that I can't ignore the voice of my conscience, okay...)

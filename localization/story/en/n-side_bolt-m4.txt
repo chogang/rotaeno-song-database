@@ -1,0 +1,67 @@
+ca0ce4ce/0/text: "Wow!" Looking at his boss in excitement, Puno could hardly hold back his feeling of admiration. "So, you managed to fly a spaceship at first attempt without learning anything about it!"
+7300028a/0/text: "Well," Scratching his cheeks, Bolt answered with a forced smile, "In terms of the outcome, you're right about it."
+1592cee4/0/text: But that is not my point...
+981bf5dc/0/text: "Fantastic! Boss rocks!"
+2b227143/0/text: "Nah, that's not fantastic at all."
+2b227143/1/text: Giving Puno a gentle flick on the forehead, the brown-haired boy began to warn him in earnest.
+a377ccd4/0/text: "That was plain dumb luck. Had I pressed any other buttons at the moment,
+a377ccd4/1/text: I could not possibly live to stand in front of Puno, and become your teacher."
+861db739/0/text: "As a result!"
+5f52c373/0/text: "Keep in mind, Puno. Don't take the liberty of trying stunts I haven't taught you."
+c124af13/0/text: "Safety comes first. Do you understand?"
+acbb48a6/0/text: "Well," though feeling reluctant, Puno recalled his mother's worried look when he got out every time. And the boss seemed so serious right now. Puno had to answer obediently with a nod, "Got it!"
+412f72d8/0/text: "Okay, that's my boy!"
+9d8682c8/0/text: What a promising and excellent student!
+e091175/0/text: "Hey," The kid from Orb brought up another topic to avoid more preaching, "Did you become fond of spaceships right after that incident?"
+daf2c8ab/0/text: "That's right. I began to study spaceship stuff seriously ever since that."
+ad2bd20e/0/text: "Wow!"
+3ab545ea/0/text: "All right, that's the end of my story. Break time is over!
+3ab545ea/1/text: It's almost sunset. You should go home now."
+3ab545ea/2/text: Noticing that it was getting dark, Bolt stopped the boy from asking more questions.
+3ab545ea/3/text: He pushed the latter's shoulder to force him to return.
+1cf6828d/0/text: "Aha, how time flies!" Looking up to the sky, Puno frowned with a long face, "See you next week, boss!"
+9de682c6/0/text: "See you then. Take care!"
+b2323ee7/0/text: "I'll definitely master high-speed spinning the next week!"
+37cc342e/0/text: "Wow, what a great drive.
+37cc342e/1/text: I'm looking forward to that."
+c19e55a2/0/text: Bolt watched as Puno left, and then tapped his wrist with his finger
+c19e55a2/1/text: to summon his own vehicle.
+eede8332/0/text: Within a short while, a customized and well-equipped single-piloted spaceship appeared before this brown-haired boy.
+eede8332/1/text: The silver shell made of light metal shimmered underneath the afterglow like a garnet.
+a8b32736/0/text: Jumping into the cockpit swiftly, Bolt buried his body deep in the pilot seat.
+a8b32736/1/text: He closed his eyes and took a deep breath.
+beada431/0/text: What a nostalgic feeling.
+af58f638/0/text: Every time he closed his eyes and tried to recall what happened at that moment,
+af58f638/1/text: he felt as if he was still on that ship as a child. Right on that seat,
+af58f638/2/text: he would visualize all kinds of feelings he experienced when the spaceship darted right across the sky.
+fa9d35bb/0/text: Fear, panic and helplessness.
+fa9d35bb/1/text: Apart from these negative feelings, what was buried deep within--
+e0c09c46/0/text: was actually a sense of pleasure.
+62717563/0/text: It was this kind of pleasure that made Bolt become who he was.
+33752b57/0/text: Piloting the ship, he watched as everything around him flashed away like meteors.
+33752b57/1/text: He felt like an elf shuttling back and forth in the universe and dancing in the void.
+350f630/0/text: "Once I get on the spaceship, all of my worries are behind me..."
+350f630/1/text: Opening his eyes once again, Bolt whispered.
+c50d7e14/0/text: Let go of pains.
+b11c6269/0/text: Stay carefree!
+81622ffa/0/text: Isn't that what we need most in this era?
+b302e6b5/0/text: "Ah, just as expected!" The brown-haired boy abruptly rose from his seat with a loud cry.
+9e03a500/0/text: If his belief could be visualized, we could probably see flames burning right behind him.
+9e03a500/1/text: They could never go unnoticed just like the manic eyes of this boy.
+12c1e844/0/text: "Every being in this universe should experience the pleasure of speed!"
+d4bf67ef/0/text: After shouting out these words, the brown-haired boy felt as if taking dozens of shots within a few seconds.
+d4bf67ef/1/text: All the fatigue from teaching just disappeared in a moment.
+ebc84d05/0/text: Taking out a journal from his pocket,
+ebc84d05/1/text: the enthusiastic boy picked up a pen and started writing and drawing.
+5bfda0f4/0/text: "I must hurry to carry forward the beauty of speed race..."
+7c5af73c/0/text: ...
+cf9c9784/0/text: "Should I set up a novice pilot class?
+cf9c9784/1/text: But it seems to be included in the compulsory education system of most planets. Ah, they don't have it on Orb..."
+7c5af73c/1/text: ...
+259311dc/0/text: "Well, few people have come here to try it out...
+259311dc/1/text: Is there anything wrong with advertising?
+7c5af73c/2/text: ...
+bf4f8dab/0/text: "Should I pay for another all-round ad on vicovico?"
+3ea899f/0/text: ...
+6127336b/0/text: Living on the barren land north of Geo Village, Bolt was an enthusiastic boy crazy about spaceships.
+6127336b/1/text: Just as usual, he was full of fighting spirits on this day.

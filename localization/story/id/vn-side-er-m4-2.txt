@@ -1,0 +1,120 @@
+2104dea/0/text: Di mana… Di mana, ya…?!
+3973633b/0/text: Tadinya masih bingung kenapa tiba-tiba ada rasa takut yang begitu kuat.
+3973633b/1/text: Ternyata "dia" lagi……
+e52aa70f/0/text: Tempat yang bisa menemukan jasad…
+e52aa70f/1/text: Arghhh! Aku nggak tahu di mana…!
+5e6dfd43/0/text: Kenapa "aku" dipertemukan dengan "dia" terus?
+5e6dfd43/1/text: Karena ingin aku menyelamatkan "dia"?… Atau sebenarnya, "aku" ingin menyelamatkan "dia"?
+a5bac35f/0/text: Mungkinkah "dia" ini jawaban "aku"?
+72723c52/0/text: …Sekarang bukan saatnya memikirkan hal-hal begini!
+624926/0/text: Di mana, ya——Oh!
+253d81f1/0/text: Aku tahu!
+746f0739/0/text: Ng-nggak mungkin, 'kan…
+746f0739/1/text: Kebetulan banget, terjadi longsoran batu sekarang…?!
+e34e8318/0/text: Ramalan cuacanya salah, ya?
+e34e8318/1/text: Aku nggak bawa alat peredam, lho…!
+2c5eb62/0/text: Kalau lewati sekarang, apa masih sempat?
+2c5eb62/1/text: Mungkin akan kena batunya……
+ff7497d5/0/text: Aarrrgghhhhhh——
+ff7497d5/1/text: Bo-bodoh amat…!!!
+4b9af1a8/0/name: Vickers
+129cf285/0/text: ……
+1687805d/0/text: Bantu aku cari tubuh……
+2a311df4/0/text: Kenapa?
+2a311df4/1/text: Membantu "Hantu" sepertiku… Jelas-jelas nggak ada untungnya sama sekali.
+14359510/0/text: Aku bahkan nggak bisa bersikap manja sebagai tanda terima kasih seperti yang biasa dilakukan hewan lain pada penyelamatnya.
+738d138d/0/text: Lagi pula, kenapa harus menangis?
+6c52e407/0/text: Karena ketakutan? Kasihan? Sedih?
+162d633b/0/text: Apa gunanya perasaan-perasaan ini untuknya?
+129cf285/1/text: ……
+cbc1b04f/0/text: Ya sudahlah.
+cbc1b04f/1/text: Bagaimanapun, nggak akan bertemu lagi.
+f266734e/0/text: Bakal ada longsoran batu,
+f266734e/1/text: manusia itu nggak mungkin kembali lagi.
+57765d88/0/text: Sedangkan aku, juga akan melenyap di sini.
+129cf285/2/text: ……
+efc45994/0/text: Akhirnya, aku bebas.
+8a62fa22/0/text: Huh.
+22a58d28/0/text: Meskipun aku nggak tahu apa benaran ada Dewa di dunia ini.
+cc41ed88/0/text: Tapi jika benaran ada, lain kali kalau mau main permainan menciptakan makhluk hidup,
+cc41ed88/1/text: tolong jangan mengajakku.
+cea6cc80/0/text: Ini benar-benar terlalu melelahkan.
+625d6272/0/name: Wanita
+2c7e514/0/text: Aku kembali…!
+8920bb31/0/text: Bagaimana… mungkin……?
+69ca986f/0/text: Hehe… Meskipun prosesnya agak berantakan,
+69ca986f/1/text: tapi aku berhasil menemukannya, lho!
+2967b276/0/text: …Dia tahu apa yang sedang dia lakukan, 'kan?
+6e389a2c/0/text: Ini longsoran batu, lho?!
+8c7b978d/0/text: Huh~ Untungnya tempat ini ada tempat berteduh yang cukup aman.
+8c7b978d/1/text: Kalau nggak, aku bahkan nggak tahu apa yang harus kulakukan setelah kembali!
+689e1c78/0/text: Selain pada masa awal ketika longsoran batu baru mulai muncul,
+b020e9a4/0/text: sudah berapa lama aku nggak melihat orang bodoh yang berjalan di luar tanpa persiapan terhadap longsoran batu?
+8b2c08f9/0/text: Tingkat cacat 50%, tingkat kematian 30%.
+cd6c11ce/0/text: Tindakan yang berisiko setinggi ini.
+b8576883/0/text: Sebodoh apa dia sampai mau melakukan ini untuk "Hantu" yang hanya kebetulan ditemuinya?
+9fc15401/0/text: Anak kucing ini sepertinya baru saja mati muda dan ditinggal oleh induknya.
+9fc15401/1/text: Tubuhnya masih hangat… Ha-harusnya masih bisa, 'kan…?
+129cf285/3/text: ……
+a322a9a8/0/text: Rasa hangat ini,
+a322a9a8/1/text: apa ini efek samping roh terekspos terlalu lama?
+baa7da4e/0/text: Perasaan yang nggak pernah ada……
+e6e70295/0/text: Jangan-jangan nggak bisa, ya…?!
+e6e70295/1/text: Apa karena usianya terlalu kecil? Bagaimana ini…?
+e0de896d/0/text: …Anak kucing, ya.
+eb444a8/0/text: Wadah sempurna yang didapatkan tanpa harus bersusah payah.
+eebd9b9b/0/text: Sangat mudah didapatkan.
+9f05b38/0/text: ——Tapi.
+b9bf9a33/0/text: Apa aku masih mau mengulang kehidupan yang nggak berguna ini……
+a7aca9b0/0/text: …Tampaknya, tubuh ini kurang cocok, ya…
+a7aca9b0/1/text: Maaf, aku kurang paham dengan ekosistem Vickers… Bagaimana, ya……
+bb7dcb6b/0/text: Ya sudahlah. Kalau benaran melenyap di sini,
+bb7dcb6b/1/text: manusia ini pasti akan menangis.
+c5b39051/0/text: Tadi aku melihat sekitar sini sudah nggak ada apa-apa.
+c5b39051/1/text: Di gurun ini hampir nggak ada makhluk yang beraktivitas…Aku harus bagaimana… Bagaimana…?
+75144853/0/text: Intinya, aku taruh anak kucing ini dulu.
+75144853/1/text: Kini cari tubuh baru——
+7ea495f7/0/text: !
+231412a/0/text: Be-bergerak…!?
+c0b9f973/0/text: ……
+bf7d4055/0/text: …Meong——…
+8661c35b/0/text: !!
+73ed243f/0/text: Syukurlah…!
+73bbc6eb/0/text: …Jelas-jelas aku sudah hidup,
+73bbc6eb/1/text: kenapa tetap menangis?
+74fa0767/0/text: Luka sebelumnya masih terasa sakit nggak?
+74fa0767/1/text: Apa ada rasa nggak nyaman di tubuh baru?
+fd9eb579/0/text: Meong——…
+8ebf35da/0/text: Nggak sakit, aku sudah terbiasa.
+d7050088/0/text: Kamu pasti telah mengalami hal yang sangat mengerikan, 'kan…
+971e760a/0/text: Meong~…
+29bc316/0/text: Hal "mengerikan" yang pernah kualami,
+29bc316/1/text: harusnya jauh lebih banyak dari jumlah usiamu.
+e1e28526/0/text: Kasihan sekali…
+a258b945/0/text: Meskipun begitu, "kamu" tetap memilih untuk hidup…
+a258b945/1/text: Vickers, benar-benar spesies yang luar biasa~!
+c0b9f973/1/text: ……
+37f51fed/0/text: Luar biasa…ya.
+25125583/0/text: Aku yang bahkan nggak tahu apa makna hidupku,
+25125583/1/text: sangat luar biasa?
+af3281a6/0/text: ……
+8cd313f9/0/text: Sungguh menakjubkan.
+db22c18b/0/text: Meong?
+7137bb55/0/text: Setelah melihat kamu yang begitu berani,
+7137bb55/1/text: sepertinya semuanya menjadi begitu jelas.
+df8b6b07/0/text: …Aku tiba-tiba jadi bisa mengambil keputusan.
+70d8df29/0/text: Mengambil keputusan?
+93733c06/0/text: Benar… Meskipun bukan karakter utama,
+93733c06/1/text: aku juga mau menyelamatkan sebagian kecil dari dunia ini.
+bc63f53d/0/text: Aku… mau membangun suatu tempat.
+bc63f53d/1/text: Tempat yang bisa menyemangati semua roh yang kelelahan dan terluka!
+38da37d2/0/text: Hmm~ Coba kupikirkan dulu.
+38da37d2/1/text: Bangun apa, ya… Oh!
+472f8dcf/0/text: Benar, ayo buka tempat penginapan!
+59e2698e/0/text: Lokasinya…
+59e2698e/1/text: Di tempat kelahiranku saja, Desa Geo!
+8de204f0/0/text: Nah, Tuan Vickers!
+f5f9a839/0/text: Kalau suatu hari nanti, kamu ingin merasakan kehidupan manusia,
+f5f9a839/1/text: ingat datang mencariku di Desa Geo, ya!
+692aa941/0/text: Meong——
+2733bed3/0/text: Aku nggak akan pergi.

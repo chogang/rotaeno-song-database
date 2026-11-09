@@ -1,0 +1,63 @@
+c0ce135c/0/text: Hop... pe...!!!
+e837bbb6/0/text: !!
+3edf5176/0/text: Ilot, kamu sudah datang.
+1729db8a/0/text: Hm... Aku rasa,
+1729db8a/1/text: Kamu sepertinya bukan bersemangat karena les matematika kita...?
+88f6609c/0/text: Eh! Cih cih cih!
+88f6609c/1/text: Tidak mungkin!!!
+ec94abab/0/text: Jangan mengucapkan hal-hal yang mengecewakan itu!
+980d057e/0/text: Hoppe! Hoppe-ku tersayang!
+980d057e/1/text: Murid terbaik tahun ini di ibu kota!!!
+11bb29d9/0/text: Aku sudah tahu cara memakai hadiahmu!!!
+4172fbad/0/text: Eh...?
+f0548040/0/text: "Satu-satunya oasis di musim panas terik."
+9bf22d96/0/text: "Nikmati masa-masa surgawi ini..."
+2acdf225/0/text: "Selama tanggal 23-28 bulan ini, Taman String Light di Pulau Floating, menantikan kunjungan Anda."
+bc230e92/0/text: Lihat!
+bc230e92/1/text: Festival musim panas!!!
+a09eef65/0/text: Es serut! Taman air!
+a09eef65/1/text: Semuanya~ Yang hanya bisa dilihat di serial TV!!!
+3fe9b73e/0/text: Barusan saja mendapatkan tiket harian ke Pulau Floating, ternyata diadakan festival,
+3fe9b73e/1/text: Ini pasti adalah takdir!
+d269133c/0/text: Hehe~
+d269133c/1/text: Hoppe, ayo pergi bersama?
+c601d876/0/text: Baik, ayo pergi...
+9ffba370/0/text: ...
+d604e84a/0/text: Hm, tapi...
+686f0a98/0/text: Hm? Ada apa?
+686f0a98/1/text: Jangan-jangan ada batasan untuk tiket? Mungkin tidak bisa digunakan saat festival?
+5c3e6941/0/text: Kalau begitu, Pulau Floating terlalu pelit...
+5c3e6941/1/text: Ini gabungan semua sekolah yang ada di planet ini! Hanya satu untuk setiap kelas! Hadiah yang super mewah...
+2ea8c3b8/0/text: Tidak, bukan begitu...!
+970c1d63/0/text: ? Jadi?
+84d802de/0/text: Hm...
+84d802de/1/text: Karena sulit mendapatkan kesempatan pergi ke Pulau Floating,
+84d802de/2/text: Aku berharap dapat mengunjungi perpustakaan di pulau...
+a3ce8626/0/text: Ha?
+a3ce8626/1/text: Perpustakaan?
+a3ffbdb3/0/text: Bukankah ada perpustakaan di sekolah?
+a3ffbdb3/1/text: Kenapa harus jauh-jauh hingga ke langit? Hanya untuk melihat buku?
+d4bd330d/0/text: Bukan begitu...
+87272f71/0/text: Hei, kamu jangan hanya selalu memikirkan buku dan belajar,
+87272f71/1/text: Sungguh membosankan...
+bdaf44a8/0/text: Beberapa hari lalu juga begitu,
+bdaf44a8/1/text: Berkata ingin belajar astronomi, lalu meninggalkanku sendiri seharian...
+d34b2a17/0/text: Jelas-jelas buku yang kamu baca sekarang sudah buku yang hanya dibaca mahasiswa,
+d34b2a17/1/text: Sudah jauh melebihi kurikulum dari sekolah kita,
+d34b2a17/2/text: Lalu apa yang sedang dipelajari???
+dd73ff03/0/text: Haha...
+281de6dd/0/text: Uh...
+281de6dd/1/text: Meskipun aku mengerti perasaan Ilot yang ingin menikmati festival...
+de0fa5d/0/text: Tapi bisakah menungguku sebentar lagi...?
+de0fa5d/1/text: Tunggu aku menyusun daftar buku, lalu kita berangkat.
+54145600/0/text: Pulau Floating sering mengadakan perayaan festival.
+54145600/1/text: Festival berikutnya pasti tidak akan lama lagi!
+9cc90f9e/0/text: ...
+764a6b/0/text: ... Buku...
+3cbd1fe8/0/text: ... Ilot?
+169a889d/0/text: Buku! Buku!
+169a889d/1/text: Setiap kali selalu buku!
+3a6f28bf/0/text: Hoppee bodoh!!!
+96686c4f/0/text: Baiklah jika tidak pergi!!!
+96686c4f/1/text: Aku juga tidak peduli!!!
+547c88f4/0/text: Ilot?!

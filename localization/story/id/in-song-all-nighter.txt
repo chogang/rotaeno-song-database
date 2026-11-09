@@ -1,0 +1,38 @@
+c7d24f7e/0/name: Turbo
+b64eff7e/0/name: Moon Jelly
+c2d4cdd5/0/text: Kami kembali lagi di lokasi wawancara!
+7bbd6d65/0/text: Kali ini, kita kedatangan duo sekaligus! Bisa tolong kalian berdua memperkenalkan diri dulu?
+bddad764/0/text: Halo, aku Turbo, dan...
+91cb1b0b/0/text: Aku Moon Jelly, tapi kalian bisa panggil aku Jelly! (˵>ᗜ<˵) !!
+39e72f7/0/text: Ini adalah lagu pertama yang kami buat bersama, jadi aku makin senang karena karya kami terpilih oleh tim Rotaeno!
+fa10992d/0/text: Haha, sepertinya kepribadian kalian berdua cukup berbeda ya. Selamat datang!
+550eb92b/0/text: Bisakah kalian memperkenalkan lagu baru kalian, "ALL☆NIGHTER!" kepada kami?
+36b06d8f/0/text: Meskipun ini adalah pengalaman pertamaku ikut kontes lagu game ritme, aku sendiri lebih dikenal lewat aransemen Eurobeat,
+710b8a75/0/text: jadi tentu saja, lagu kami "ALL☆NIGHTER!" harus bergenre Eurobeat dong.
+4b668307/0/text: Kamu emang bisa bikin genre lain, ya?
+248d661e/0/text: Lagian, apa ada yang lebih cocok untuk game dengan mekanik kayak "drifting" dan "flicking" selain Eurobeat?
+b49f433c/0/text: LOL!
+5fa62ab0/0/text: Dulu, Eurobeat itu salah satu genre utama di game ritme,
+89040b7c/0/text: tapi sekarang sudah agak redup karena tidak banyak artis yang bikin musiknya lagi,
+9195fdd7/0/text: makanya aku ingin membawa kembali genre favorit ini khusus buat para pemain yang masih mencintainya!
+6184a3b1/0/text: Pertama kali aku tahu tentang Rotaeno itu lewat lagu "On And On!!" dari ETIA.
+1193c580/0/text: Dan saat dengar lagu sekeren itu, dengan riff Eurobeat yang benar-benar keren, aku jadi sangat terinspirasi!
+fe23aa54/0/text: Ditambah lagi, aku bisa bekerja dengan vokalis yang sangat berbakat, jadi impianku membawa gaya denpa eurobeat versi bahasa Inggris akhirnya terwujud dengan sempurna di lagu ini.
+ca658b15/0/text: Aku juga ingin memberi sentuhan modern, jadi walaupun akarnya retro, lagunya tetap terdengar fresh dan kekinian!
+709861c9/0/text: Lagu ini juga bercerita tentang kisah kehidupan masa kini yang relatable banget, ya kan?
+db2c2304/0/text: Kami berdua selalu mengerjakan lagu ini di waktu-waktu paling aneh!
+6dca5a0d/0/text: Siapa sih yang kirim file vokal jam 2 pagi?
+6aba7b99/0/text: Aku nggak sendirian kan, nggak pernah bisa ngerjain apa-apa pas siang hari?
+bff1cefe/0/text: Bukannya kamu sendiri kirim update aransemen jam 6 pagi?
+81bfd92d/0/text: Iya, relatable banget!
+17bc2be2/0/text: Tapi kayaknya bukan contoh yang baik deh...
+872feb1b/0/text: Jadwal kerja kalian cukup bikin khawatir, lho…
+6e0011e/0/text: Pokoknya, jangan lupa jaga kesehatan juga ya!
+a18ec694/0/text: Nah, sebelum kita akhiri, ada pesan untuk para pilot Rotaeno?
+653a50fe/0/text: Kami ingin berterima kasih karena sudah mendengarkan lagu kami!
+dd58d389/0/text: Kami juga berterima kasih banget untuk seluruh staf yang sudah membuat lagu ini menjadi karya lengkap di game ritme.
+c9097879/0/text: Tanpa para artis yang membuat jacket art yang keren buat menarik perhatian pemain, dan charter yang memetakan lagu ini biar bisa dimainkan,
+eb102040/0/text: dan tentu saja, tim Rotaeno yang memilih lagu kami di antara banyak karya luar biasa lainnya — semuanya telah mewujudkan dan menghidupkan karya ini!
+a9f2bfb0/0/text: Kalau tidak, mungkin lagu ini masih cuma jadi file audio di hard disk-ku saja.
+d290c4c8/0/text: Game ritme itu menyenangkan, Rotaeno seru banget, jadi kami beneran pengen buat lagu yang fun juga!
+ac55f8ff/0/text: Aku cuma harap lagunya cukup menantang, biar para pemain nggak bosan sama aku... uuu...

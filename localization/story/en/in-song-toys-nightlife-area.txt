@@ -1,0 +1,25 @@
+f393a0cf/0/text: Welcome to our interview!
+cd87fd53/0/text: First, could you introduce yourself to everyone?
+659790ef/0/text: Hello, everyone, I'm ShiBa!
+f1bb66c6/0/text: Although I'm still a total beginner in composing for rhythm games, I'll keep working hard.
+9f16a992/0/text: Nice to meet you all!
+b3c952b1/0/text: It's a pleasure to meet you!
+3b7c05e5/0/text: Could you tell us more about your new song, "Toys' Nightlife Area"?
+8f63c69a/0/text: This song was one of the first works I created when I started composing on a computer, so it holds a lot of meaning for me (though now, listening to it, I feel more embarrassed about my lack of skill at the time than nostalgic…).
+711e9976/0/text: I was both thrilled and surprised that Rotaeno included this song.
+32e633c9/0/text: I'm truly grateful to them for giving me this opportunity.
+98fb752e/0/text: We heard that the song has a unique world concept. Could you share more details about that?
+f65448b5/0/text: The song is themed around a cute and magical scene where, after children fall asleep, their toys come to life, singing and dancing to enjoy their time.
+1a328596/0/text: I incorporated toy sound effects and added various elements such as cuteness, fantasy, and liveliness to create a detailed expression of this scene. I also aimed to provide players with an adventure that won't feel boring.
+871b534f/0/text: It sounds like a fun adventure for the players!
+f3bc05f1/0/text: Is there anything special about the rhythm in the song?
+b3496bed/0/text: The BPM of this song is 111, which is relatively slow for rhythm games.
+d8ca451/0/text: However, this lower BPM allows the song's details to shine through and enhances the immersion. Even slight rhythm changes have a significant impact, increasing the challenge. I think these elements make rhythm games more interesting.
+99aa2607/0/text: So, this song was created with a focus on both the "world concept" and the "fun of playing."
+7540cba1/0/text: I see!
+60e6ee3c/0/text: Finally, is there anything you'd like to say to the players?
+1a21630a/0/text: First, I want to thank everyone who has listened to this song, the illustrator for the cover art, the chart creators... Thank you all so much!
+eacd2a82/0/text: If anyone enjoys this song, I'd be delighted…!
+f8d03e0f/0/text: I hope this experience can be a stepping stone for greater achievements in the future. Please support me!
+b6b86a03/0/text: (One more time… My name is ShiBa…)
+9f38832e/0/text: I hope you can also transform into a toy secretly enjoying yourself at night and immerse yourself in the world of this song!

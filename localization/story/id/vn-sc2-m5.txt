@@ -1,0 +1,137 @@
+9869206f/0/text: Festival Sekolah hari ini sangat ramai.
+9869206f/1/text: Tema dari masing-masing kelas juga sangat unik dan menarik!
+c65a4fca/0/text: Dan sekarang, saatnya kita umumkan apa yang paling kalian pedulikan——
+c65a4fca/1/text: Hasil pemungutan suara "Kelas Populer"!
+bae613db/0/text: Akhirnya...!
+3b3488e/0/text: Aku gugup banget...!
+ca98abea/0/text: Jangan khawatir! Tenang,
+ca98abea/1/text: kelasmu pasti menang, Hoppe~
+55d02d63/0/text: Apa maksudmu?!
+55d02d63/1/text: Kelas kami memiliki peluang menang yang lebih besar, tahu?!
+d7220e74/0/text: Hei, meskipun kelasmu cukup bagus,
+d7220e74/1/text: tapi Kelas A ada bantuan dari aku, Nona Mona yang mulia♪
+20e9e7a6/0/text: Kamu masih berani bilang! Selama kompetisi berlangsung malah membantu kelas lain,
+20e9e7a6/1/text: Bagaimana ini diizinkan?! Ini melanggar peraturan!
+3f38d91d/0/text: Pernahkah kamu mendengar pepatah jika nggak bisa mengalahkannya, bergabunglah pada timnya?
+3f38d91d/1/text: Mengetahui kapan saatnya menyerah juga sejenis kemenangan~
+9cca0f13/0/text: Lagi pula,
+9cca0f13/1/text: Aku senang melihatmu gagal♪
+9ab1b908/0/text: Selama kelasmu nggak menang,
+9ab1b908/1/text: aku sudah senang☆
+86907d8c/0/text: Kamu...!
+b4f60861/0/text: Sudah...
+b4f60861/1/text: Nggak peduli apa hasilnya, Festival juga sudah berakhir.
+b4f60861/2/text: kita nantikan pengumumannya saja, ya?
+a04fe538/0/text: Biasanya, kita akan mengumumkan juara tiga dulu...
+a04fe538/1/text: Namun, melihat tatapan kalian yang begitu penuh harapan... bagaimana kalau kali ini kita mulai dari juara pertama?
+b9f27afd/0/name: Semuanya
+fa9bc1/0/text: Hore——!!!
+b0ea7a35/0/text: Pemenang...!
+72c0964d/0/text: Akses perpustakaan...!
+8e023c20/0/text: Oh, oh~~
+8e023c20/1/text: Kelas A~ Kelas A~
+ba98dbdc/0/text: Pemenang "Kelas Populer" tahun ini——
+beeba21a/0/name: Bertiga
+243ebd7c/0/text: adalah...
+359467fb/0/text: Kelas 1-A divisi SMP!
+359467fb/1/text: Selamat!!!
+e12745f9/0/name: Seluruh divisi SMP
+1bc381c8/0/text: Wah——
+ddc57b2a/0/text: Hore——!!!
+3e4a3f5a/0/text: Kita menang— Kita menang! Hore—
+f9eb4076/0/text: ...Siapa?
+ded323fe/0/text: ...Kelas 1... A...?
+7948e7ab/0/text: Divisi... SMP?
+39fc9df9/0/text: Kelas 1-A Divisi SMP,
+39fc9df9/1/text: silakan mengutus perwakilan ke atas panggung~!
+c8c380ec/0/name: Seluruh Kelas 1-A (SMP)
+5af11f60/0/text: Hore——
+80c0ad73/0/text: Kairoth!
+51bcc020/0/text: Kairoth——
+80961996/0/text: Kairoth! Kairoth! Kairoth——
+5b46baeb/0/name: Kairoth
+bb14ce57/0/text: Wohoo~!
+bb14ce57/1/text: Aku datang——!
+9426621b/0/text: Jadi, Kairoth,
+9426621b/1/text: kamulah perwakilan dari kelas A? Sekali lagi, selamat atas kemenangan kalian!
+521c22ad/0/text: Terima kasih!
+521c22ad/1/text: Terima kasih, semuanya!!!
+6613550d/0/text: Coba kulihat...
+6613550d/1/text: Tema Kelas 1-A divisi SMP adalah... "Whoosh~ Whoosh Kompetisi Rintangan Pesawat Ruang Angkasa", ya?
+6613550d/2/text: Kudengar telah menimbulkan banyak kehebohan, ya!
+3e1f11f6/0/text: Kompetisi Rintangan Pesawat Ruang Angkasa...
+3e1f11f6/1/text: Balap gokar itu?!
+624ad602/0/text: Kita sudah menerbangkan pesawat ruang angkasa di kelas setiap hari.
+624ad602/1/text: Tema seperti itu... bagaimana bisa memenangkan festival...?
+27ea106/0/text: Benar...
+27ea106/1/text: Ini terlalu aneh, 'kan...??
+a1289bda/0/text: Apa yang membuat tema ini begitu istimewa...?
+a1289bda/1/text: Aku jadi penasaran...
+7f26e2c/0/text: Oke,
+7f26e2c/1/text: Maukah kamu memberikan pidato singkat tentang kemenangan ini, Kairoth?
+a544e230/0/text: Tentu saja!
+a9a7d9bd/0/text: Terima kasih atas dukungan semuanya!
+a9a7d9bd/1/text: Kami telah menyiapkan festival kali ini semaksimal mungkin dan sangat senang kalian semua menyukainya!
+314db95e/0/text: Kami berharap kompetisi yang kami selenggarakan,
+314db95e/1/text: bisa membuat semuaya lebih mencintai pesawat ruang angkasa!!!
+a92963f5/0/text: Terima kasih!!!
+dc6be91f/0/text: Haha,
+dc6be91f/1/text: pidato yang sangat menyentuh hati!
+be88627/0/text: Kalau begitu, apa hak istimewa yang kelas A inginkan?
+be88627/1/text: Apakah sudah kalian pikirkan?
+cd45cc28/0/text: Tentu saja!
+cd45cc28/1/text: Kami sudah memikirkannya!
+9e32199a/0/text: Kami berharap Pesawat Ruang Angkasa kami dapat parkir di dalam area sekolah,
+9e32199a/1/text: tidak hanya di area parkir luar!
+7ff7ce57/0/text: Eh...?
+7ff7ce57/1/text: Tapi seingatku, dari seluruh anak SMP,
+7ff7ce57/2/text: hanya kamu yang mengemudi Pesawat Ruang Angkasa, 'kan...?
+5e1ebf80/0/text: Mulai hari ini, tidak cuman aku lagi!
+5e1ebf80/1/text: Aku akan membelikan satu untuk semua orang di kelas!
+c6236e97/0/text: Wah!
+c6236e97/1/text: Tentu saja, termasuk teman-teman yang memberikan suaranya kepada kami!
+c6236e97/2/text: Aku nggak akan melupakan dukungan kalian!
+74cc9af2/0/text: …<size=80>?!?!??!?!?!</size>
+aefb0df8/0/text: A-apa——?!?!?!
+d3f2f1c8/0/text: Membeli... Pesawat... Ruang Angkasa...?
+258fcff1/0/text: Tapi, ini...
+6f66abab/0/text: Ini bercanda, 'kan?!
+6f66abab/1/text: Ini 'kan——
+327d4f6/0/name: Siaran
+28f87fa3/0/text: "Bzzt—— Zzt——"
+bf5c9327/0/text: <size=60>"KELUT! Panggilan untuk KAIROTH!"</size>
+3db3cd8/0/text: Suara itu...
+6fb9bb69/0/text: Kepala sekolah...
+9d425bdb/0/text: Oh, iya, aku tiba-tiba ingat.
+9d425bdb/1/text: Ada rumor yang mengatakan di antara junior SMP kelas 1...
+f9ad8a52/0/text: Oh, kakakku!
+f9ad8a52/1/text: Halo, kak~!
+7b1c876d/0/text: Kami menang lho~ Hebat, 'kan?!
+4cff1422/0/text: ...ada adiknya Kepala Sekolah.
+8763a699/0/text: "Datanglah ke ruanganku!!!
+8763a699/1/text: Sekarang!!!"
+ef7a524b/0/text: Suara kepala sekolah...
+ef7a524b/1/text: terdengar... sangat marah...
+3c61962a/0/text: Eh——
+3c61962a/1/text: Kak, kamu nggak akan mengingkari janjimu, 'kan——?!
+ce4f82b4/0/text: <size=80>"—!*^($%#@…"</size>
+cf52477c/0/text: Dia marah sampai nggak bisa berkata dengan jelas lagi...
+322e85a7/0/text: "...Nggak mengingkari janji, tapi <size=60>kamu!</size>"
+4b72ce40/0/text: <size=80>"Datanglah ke ruanganku! SEKARANG!!!"</size>
+875e6c32/0/text: Baiklah~~~
+b763dea3/0/text: Hmm...
+b763dea3/1/text: Se-selamat...?
+4cb92bd/0/text: Beriring dengan kekacauan di auditorium,
+4cb92bd/1/text: Festival Sekolah berakhir dengan sukses (?).
+6cfec63e/0/text: Dan juga,
+6cfec63e/1/text: karena kelas A diduga menang dengan menyuap kelas lain dan nggak adil terhadap peserta lain,
+6cfec63e/2/text: "Hadiah Pesawat Ruang Angkasa" dari Kairoth nggak dipenuhi. Hak istimewanya juga ditolak.
+ee59e92d/0/text: Sebagai kompensasi, Kepala Sekolah telah membeli sejumlah Pesawat Ruang Angkasa dengan uangnya sendiri. Selama di sekolah,
+ee59e92d/1/text: semua siswa boleh menyewanya——dengan syarat sudah memiliki SIM.
+98ac8116/0/text: Sepertinya ini termasuk akhir yang baik...'kan?
+98ac8116/1/text: Ah, selain Kairoth.
+87b6a6ff/0/text: Kudengar supaya dia menyadari kesalahannya,
+87b6a6ff/1/text: Selain melarangnya menaiki pesawat ruang angkasa di semester ini, Kepala Sekolah juga melarangnya menapak ke area parkir untuk melihat pemandangan terkait.
+4d80cf1/0/text: Hehe :)
+7c42b78/0/text: Sekolah Rotaeno
+7c42b78/1/text: Tamat

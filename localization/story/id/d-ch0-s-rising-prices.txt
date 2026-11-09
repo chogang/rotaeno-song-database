@@ -1,0 +1,13 @@
+b81c0899/0/text: Aku sedang bersiap pindah rumah,
+b81c0899/1/text: Jangan terlalu banyak beli mie instan...
+d3c4b7a2/0/text: Kari,
+d3c4b7a2/1/text:  Mala,
+d3c4b7a2/2/text:  Seafood...
+92d3baf2/0/text: Masing-masing sekotak.
+13467db3/0/text: <size=50>Tidak mungkin? !</size>
+13467db3/1/text: <size=50>Harga kakao instan naik lagi? !</size>
+e0ccfbc7/0/text: Harga ini sudah tidak terjangkau lagi bagi masyarakat miskin...
+7d9b954f/0/text: Ini jelas hanya air gula rasa kakao,
+7d9b954f/1/text: Bahan-bahan di dalamnya bahkan tidak mengandung kakao sama sekali.
+9b8411f8/0/text: Sungguh Menyebalkan.
+98276c1f/0/text: <size=50>Dasar kapitalis jahat di pulau Floating! </size>

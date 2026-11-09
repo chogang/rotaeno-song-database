@@ -1,0 +1,34 @@
+cb79d5dd/0/text: Hoppe, Hoppe!
+5ef5f746/0/text: Hm?
+a2fe817f/0/text: Bagaimana kabarmu dan teman kelas belakangan ini?
+a2fe817f/1/text: Ada perkembangan? Caraku efektif?
+276fc2dd/0/text: Ah... Ya,
+276fc2dd/1/text: Ada! Oh ya...
+fa1d5eb6/0/text: Kemarin aku kebetulan mendengar dua teman kelas bernyanyi,
+fa1d5eb6/1/text: Kedengarannya mirip dengan lagu "Pity Pita" yang akan kamu catat dalam top 10 season itu...
+e420cf5e/0/text: Oh, lagu Coco!
+e420cf5e/1/text: Bagus juga, orang yang punya selera☆
+c0073b49/0/text: Haha...
+c0073b49/1/text: Aku mencoba ini sebagai titik awal, dan bertanya: "Permisi, ini "Pity Pita" dari Coco?"
+95eacd7f/0/text: (Saat itu sungguh sangat gugup...)
+e10152af/0/text: Mereka awalnya terkejut, tapi saat mendengar temanku juga sangat suka dengan lagu ini,
+e10152af/1/text: Lalu perlahan mulai mengobrol...
+d53b52e5/0/text: Cara dari Ilot,
+d53b52e5/1/text: Sangat efektif, terima kasih...!
+18f44238/0/text: Hehehe, hal seperti ini,
+18f44238/1/text: Aku tentu yang terbaik, tidak salah lagi tanya padaku!
+38e87bdb/0/text: Tapi,
+38e87bdb/1/text: Hoppe, lain kali seharusnya kamu berkata "kamu" yang suka, bukan "temanmu" yang suka!
+beea9c9b/0/text: Dengan begitu kalian akan lebih cepat akrab!
+903b27a4/0/text: Ini... sepertinya...
+903b27a4/1/text: Sedikit sulit...?
+2f50a782/0/text: Kenapa?
+2f50a782/1/text: Karena malu?
+3209d7d7/0/text: Meski memang sedikit malu dan gugup,
+3209d7d7/1/text: Tapi...
+bc8ed445/0/text: (Bagi orang sepertiku yang hanya mengenal idola melalui data dari Ilot dan VIKI,
+bc8ed445/1/text: Jika mengaku sebagai fans, pasti akan langsung ketahuan...)
+35a3ea2a/0/text: Tapi pokoknya,
+35a3ea2a/1/text: Aku akan terus berusaha...!
+f5f6db06/0/text: (Aku bahkan belum menyelesaikan 10% dari "Paket Wajib Pemalas - Penyanyi" yang diberikan oleh Ilot,
+f5f6db06/1/text: Harus cari cara untuk mempercepat semuanya...)

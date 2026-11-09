@@ -1,0 +1,228 @@
+6055cabd/0/name: Kelas 2-A Siswa B
+b7d966bc/0/name: Kelas 2-A Siswa C
+369e91f0/0/name: Kelas 2-A Siswa A
+d2d55774/0/name: Kelas 2-A Siswa D
+e3e554f1/0/name: Kelas 2-A Siswa E
+3dfc0ce/0/name: Kelas 2-A Seluruh Siswa
+8f67b635/0/name: Siswa I
+112556be/0/name: Kelas 2-A Siswa Y
+1d02bed8/0/name: Kelas 2-A Siswa F
+1f35ea11/0/name: Kelas 2-E Siswa S
+9b031153/0/name: Kelas 2-E Seluruh Siswa
+fc2c7d73/0/name: Kelas 2-E Siswa D
+72ad2eb5/0/name: Kelas 2-E Siswa A
+263dbb02/0/name: Kelas 2-E Siswa B
+228900e5/0/name: Kelas 2-E Siswa T
+3a7ee33e/0/name: Kelas 2-E Siswa O
+e199e591/0/name: Siswa R
+310d8621/0/name: Siswa U
+cd75b2bc/0/name: Siswa W
+fe1fe656/0/name: Siswa J
+1aaed5e0/0/name: Siswa N
+3cf981c8/0/name: Siswa P
+8168b068/0/name: Kelas 2-E Siswa U
+4a722b50/0/name: Kelas 2-E Siswa H
+5660b9c8/0/text: Selamat da... Ah,
+5660b9c8/1/text: Kamu toh, Ilot~
+c7fb8da0/0/text: Apa?
+c7fb8da0/1/text: Ilot?! Untuk apa dia ke sini?
+8eb764de/0/text: Huh...
+8eb764de/1/text: Aku dianggap musuh...
+5a8b2516/0/text: Hei, hei, tenang semuanya~
+5a8b2516/1/text: Kita tetap harus saling bersikap ramah~
+ed1d4022/0/text: Sekalipun lawan kita adalah musang yang suka menggunakan trik kotor...
+ed1d4022/1/text: Iya, 'kan?
+289548de/0/text: !!
+88d51328/0/text: A-apa...
+88d51328/1/text: Cara menghinanya berkelas sekali...
+659409db/0/text: Aku bahkan nggak tahu bagaimana membalasnya——
+659409db/1/text: S*alan!!!
+c96492d/0/text: Hehe,
+c96492d/1/text: Bagaimana~
+6706c770/0/text: Kamu membuat perjanjian kemana-mana,
+6706c770/1/text: berkomplot dengan kelas lain, pada akhirnya~ juga kalah dari strategi kami yang transparan!
+aa292154/0/text: Ng-nggak peduli perjanjian atau strategi!
+aa292154/1/text: Yang penting menang...!
+253a40f8/0/text: Jadi,
+253a40f8/1/text: apa tema kelas kalian——
+766b98ad/0/text: Hoppe!
+766b98ad/1/text: Kulit krepnya hampir habis!
+c08c3282/0/text: ?!
+1304a953/0/text: Cepat sekali habisnya...?!
+1304a953/1/text: Oke, aku segera buat lagi!
+472ffb07/0/text: Masih belum mengerti?
+472ffb07/1/text: Tema kami hari ini——
+ae968fb1/0/text: adalah "Hidangan Penutup Hoppe"!
+f0812d01/0/text: ?!
+f0812d01/1/text: Hidangan Penutup... Hoppe?!
+88c4c3ee/0/text: Benar!
+88c4c3ee/1/text: Hoppe kami yang multitalenta!
+f0c7362e/0/text: Hoppe yang selalu dapat nilai A di kelas ekonomi rumah tangga!
+d4b8ad1f/0/text: Hoppe yang bisa membuat cokelat Valentine yang membalikkan ekspresi cemberutnya Direktur Angatu!
+fb3aade/0/text: Satu-satunya kesempatan untuk mencicipi hidangan impian yang legendaris!
+66d52fc0/0/text: Hidangan Hoppe yang wajib dicoba sekali seumur hidup,
+66d52fc0/1/text: hanya HARI INI!
+f2af15f6/0/text: Selamat datang di "Hidangan Penutup Hoppe"!!!
+5d79c199/0/text: Ka-kalian...
+1d8801d6/0/text: Ini curang!!!
+14398fe5/0/text: Kalian memanfaatkan keterampilan memasaknya Hoppe!
+14398fe5/1/text: Ke-keterlaluan...!
+eae3ad3c/0/text: ?!
+eae3ad3c/1/text: Hei, menuku...!
+829badb8/0/text: !!
+829badb8/1/text: Kue lava cokelat...!
+39f9d1a3/0/text: Meskipun enak, tapi karena harus menggunakan oven,
+39f9d1a3/1/text: jadi Hoppe jarang membuatnya...!
+4fa50911/0/text: Krep Krim Stroberi...
+4fa50911/1/text: Krep dan krim buatan Hoppe yang jauh lebih enak dari toko-toko di luar!!!
+3551d1cb/0/text: A-aku juga mau makan...
+937afc5f/0/text: Ini namanya memanfaatkan sumber daya kelas.
+937afc5f/1/text: Kalian yang berkomplot dengan kelas lain baru disebut CURANG!
+e809194c/0/text: Oh, sayang,
+e809194c/1/text: Pancake Soufflé ini...!
+cf1a8242/0/text: rasanya yang jauh lebih empuk dari bantal!
+cf1a8242/1/text: Luar biasa!
+f14e7b9f/0/text: Cepat cobain~
+b7003d1/0/text: ...Mhmm,
+b7003d1/1/text: Enak.
+43ac0258/0/text: Iya, 'kan?
+43ac0258/1/text: Hoppe benar-benar hebat!
+bf543e60/0/text: Ayo datang lagi setelah festival berakhir.
+bf543e60/1/text: Mana tahu bisa menanyakan resepnya!
+8c5b8dfa/0/text: Oke.
+5807ac98/0/text: !!
+5807ac98/1/text: Pasangan terkenal divisi universitas, "Bola Disko Berjalan", Kakari dan Rumil!
+97479102/0/text: Bahkan bintang universitas pun datang...
+55f1ed8/0/text: Tentu saja! Hoppe kebanggaan kami!
+84b24723/0/text: Tapi untungnya,
+84b24723/1/text: kakak-kakak universitas nggak tertarik dengan "Kelas Populer", kalau nggak, lawan kita akan semakin banyak...
+d78f58da/0/text: Tapi kalaupun mereka berpartisipasi,
+d78f58da/1/text: mereka juga nggak akan bisa mengalahkan Hoppe!
+7999011d/0/text: Benar~
+e99393c2/0/text: Cuih...! Jangan sok kenal sok dekat dengan Hoppe...
+e99393c2/1/text: Jangan lupa! 
+e99393c2/2/text: Akulah sahabat terbaiknya Hoppe!!!
+c52c120b/0/text: Wow~
+c52c120b/1/text: Terus kenapa?
+e84ad8dc/0/text: Ap...
+48312623/0/text: Kamu yang jangan lupa,
+48312623/1/text: hari ini, kamu, salah, kelas kalian——
+f4d0dac0/0/text: adalah lawan terbesar kami!!!
+b4d492dc/0/text: !!!
+a5208551/0/text: Sasha, kamu tahu krim——
+a5208551/1/text: ...Eh? Ilot?
+ba8742d/0/text: H-Hoppe...
+ae5ea46d/0/text: Wah... kudengar kelas kalian memakai tema kafe pelayan,
+ae5ea46d/1/text: Aku nggak nyangka kamu juga memakai kostum pelayan.
+a371fa1/0/text: Kamu datang mencariku, ya...?
+a371fa1/1/text: Tapi sekarang aku sedikit...
+26a4704e/0/text: Hoppe, sadarlah,
+26a4704e/1/text: Dia datang mengintai kelas kita!
+8b2f2540/0/text: Benar!
+8b2f2540/1/text: Aku melihatnya pergi ke kelas lain juga tadi.
+8b2f2540/2/text: Dia bahkan membawa buku catatan!
+f15b6ac4/0/text: !!
+22fc6e2d/0/text: Se-sejak kapan aku ketahuan mereka?!
+22fc6e2d/1/text: Siswa kelas A bahkan jago dalam kontra-pengintaian...?!
+bbe8de78/0/text: Benar, Hoppe.
+bbe8de78/1/text: Kamu ini tokoh utama kelas kita hari ini. Nggak boleh pergi, ya!
+33c52b8d/0/text: Ya, jangan tergoda oleh karismanya.
+33c52b8d/1/text: Dia ini mata-mata dari lawan!
+4b6bd09c/0/text: Ke-kenapa kalian semua menyerangku?!
+4b6bd09c/1/text: Aku nggak bilang mau membawa pergi Hoppe lho...
+4b6bd09c/2/text: Eh, ide ini bagus juga?
+bcd9bc87/0/text: Dengan kehilangan Hoppe,
+bcd9bc87/1/text: kelas A nggak akan bisa melanjutkannya lagi, kelas kami pun akan...!
+70970f79/0/text: Jangan dengarkan mereka, Hoppe.
+70970f79/1/text: A-aku!! Hmmmmm——
+2f97da36/0/text: Lepaskan aku...!!!
+7ef5bb5b/0/text: Jangan dengarkan dia, Hoppe!
+d80b803a/0/text: Ini...
+bdffee41/0/text: Hoppe,
+bdffee41/1/text: pikirkan baik-baik!
+a5bb48d2/0/text: Ingat tujuan kita,
+a5bb48d2/1/text: Hoppe...!
+d29683/0/text: Demi akses perpustakaan tanpa batas!
+e7e006e5/0/text: !
+4ac59e1f/0/text: Benar, Hoppe!
+447d4e5d/0/text: Demi mewujudkan impian bebas meminjam semua buku,
+447d4e5d/1/text: hanya hari ini...!
+b2497da8/0/text: Akses perpustakaan... 
+b2497da8/1/text: Be-benar...!
+b2497da8/2/text: Kompetisi ini... demi kita semua...
+d5b644f7/0/text: ...Maaf, Ilot!
+d5b644f7/1/text: Kita sebaiknya jangan bertemu dulu hingga Festival Sekolah berakhir!
+7ac5dde7/0/text: Ummmmmm——!!!
+c740f261/0/text: Ini baru benar, Hoppe,
+c740f261/1/text: bagus!
+32aa31b7/0/text: Kami akan mengusirnya sekarang juga!
+32aa31b7/1/text: Kamu kembali bekerja saja, Hoppe!!!
+31c4b1de/0/text: Ilot...
+31c4b1de/1/text: Maaf...!
+bc2e75c7/0/text: Ummm——!!!
+bc2e75c7/1/text: Aku—nggak akan—menyerah—begitu saja————!!!
+ac091b3f/0/text: Huh... Huh...
+2d2a8e73/0/text: Ilot,
+2d2a8e73/1/text: kamu sudah kembali? Bagaimana istirahat——
+35d3cce4/0/text: Gawat, teman-teman!
+a26a8520/0/text: Ada lawan hebat!
+d5efb06d/0/text: ?!
+5705e0f9/0/text: Apa?!
+5705e0f9/1/text: Bisa-bisanya Kelas A?!
+426a855b/0/text: Bagaimana ini...?!
+426a855b/1/text: Kudengar masakan Hoppe sangat luar biasa...
+54ad48eb/0/text: Aku ingin mencobanya juga...
+1a787f8/0/text: Hei! Hei!
+1a787f8/1/text: Apa yang kamu pikirkan?! Fokus!
+84e77e71/0/text: Jangan lupa dengan tujuan kita!
+26388e2b/0/text: !Eh, iya!
+26388e2b/1/text: Tapi... apa yang bisa kita lakukan?
+26388e2b/2/text: Bukankah kata Ilot mereka sana super ramai...?
+4f033082/0/text: ...Makanya,
+4f033082/1/text: kita harus mencari cara untuk merebut keramaian itu ke sini!
+642b9279/0/text: Hmm...?
+642b9279/1/text: Sepertinya antriannya mulai berkurang...?
+19723bf1/0/text: Hei, hei,
+19723bf1/1/text: Gawat, antrian kelas E menjadi lebih panjang...!
+31d923d6/0/text: ?!
+31d923d6/1/text: Apa yang terjadi?
+8fa5139a/0/text: Selamat datang, Tuaan.
+8fa5139a/1/text: Demi menunjukkan cintaku kepada Tuan, mari kita foto mesra bersama♡
+47f3dd68/0/text: ?!
+47f3dd68/1/text: Difoto secara gratis...!
+be5794c4/0/text: Wah, baguslah.
+be5794c4/1/text: Aku juga mau!
+d3a15aea/0/text: Boleh.
+d3a15aea/1/text: Aku mau ke sana juga!
+3e1bbb67/0/text: S*alan...
+3e1bbb67/1/text: Kelas E menggunakan trik licik lagi...!
+36834dcd/0/text: Tapi bagus banget...
+36834dcd/1/text: Benaran foto mesra bentuk hati lho...
+c17e7519/0/text: Diam!!!
+c17e7519/1/text: Fokus!
+8ef619f7/0/text: Kita harus melawan balik!
+4d90535a/0/text: Terima kasih atas kedatangannya,
+4d90535a/1/text: ini sedikit hadiah kecil untukmu~
+e9ef79a9/0/text: "Voucher Jawaban"...?
+4a23353b/0/text: Berikan voucher ini kepada salah satu siswa kelas kami,
+4a23353b/1/text: maka kami akan berusaha menjawab pertanyaanmu dalam waktu 10 menit!
+3d0158c/0/text: Voucher untuk belajar dengan siswa berprestasi...!
+3d0158c/1/text: Aku mau ke Hidangan Penutup!
+e3c849ba/0/text: Aku juga!!
+192dd1fa/0/text: Waduh——!! Kenapa antriannya berkurang lagi...!
+c7c7a344/0/text: Aku harus segera mencari cara...!
+4707c7f5/0/text: Kelas E mengambil langkah baru lagi!
+1804ce6a/0/text: Apa?!
+22b7e030/0/text: Tuan!
+22b7e030/1/text: Sekarang——
+c5b9ba09/0/text: Halo, kawan,
+c5b9ba09/1/text: kami——
+66206d82/0/text: Ilot——
+a44d8c2a/0/text: Aku datang!!!
+ff8bcb6/0/text: Hoppe!
+ff8bcb6/1/text: Kami——
+becf65c0/0/text: O-oke...!
+366f995b/0/text: "Terima kasih kepada semua tamu, orang tua, guru, dan siswa yang hadir di Festival Sekolah Rotaeno
+366f995b/1/text: Festival telah berakhir."
+b9dd2f41/0/text: "Silakan ikuti paduan keluar di buku petunjuk kegiatan Anda
+b9dd2f41/1/text: dan menuju auditorium untuk menghadiri upacara penutupan."

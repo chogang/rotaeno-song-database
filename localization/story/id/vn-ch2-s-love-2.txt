@@ -1,0 +1,49 @@
+65f377f2/0/text: Aa...! 
+65f377f2/1/text: Aku kesal sekali!!!
+3e84aa76/0/text: Meski sudah lewat beberapa hari, 
+3e84aa76/1/text: Tapi tetap terasa kesal...!!!
+f84c079a/0/text: Walau mengatakan aku 『lucu dan menarik』, 
+f84c079a/1/text: Tapi pasti maksud dari Vickers itu adalah menertawakan aku bodoh, kan?!
+a8fe9fd9/0/text: Walau cantik, tapi tidak bisa dimaafkan...!
+c1f6c7e2/0/text: Piuh piuh, masih tidak tahu apakah sungguh cantik! 
+c1f6c7e2/1/text: Karena Vickers tidak memiliki tubuh nyata, yang cantik hanya gadis manusia Orb!
+3965193/0/text: Omong-omong... 
+3965193/1/text: Apakah Vickers membedakan jenis kelamin...?
+84d7143d/0/name: Nyonya 
+6c87f54e/0/text: Ilot, ada apa? 
+6c87f54e/1/text: Apakah coklatnya tidak enak?
+bd8b6e5a/0/text: Ah, 
+bd8b6e5a/1/text: Tidak! 
+bd8b6e5a/2/text: Enak sekali!
+49eb6087/0/text: Hanya sedang memikirkan tentang Vickers... 
+49eb6087/1/text: Pertama kali bertemu klan yang begitu ajaib, 
+49eb6087/2/text: Informasi di kepala terlalu banyak... 
+49eb6087/3/text: Hehe.
+2996e709/0/text: Ah, benarkah? 
+2996e709/1/text: Vickers ya...
+5c633610/0/name: Kucing Gunung Raksasa 
+338179b7/0/text: Miao...
+4c925086/0/text: Ah, sayangku, 
+4c925086/1/text: Kamu sudah kembali.
+285cce1/0/text: Aduh, tubuhmu penuh lumpur... 
+285cce1/1/text: Apakah mau mandi setelah lelah berburu?
+abdbc978/0/text: Miao...
+11792c3/0/text: Aku akan menyiapkan air panas...
+97c762e/0/text: Maaf Ilot, 
+97c762e/1/text: Bersantai saja. Jika butuh sesuatu, kamu bisa minta bantuan orang di dapur.
+a1f13798/0/text: Baik.
+ad461ea2/0/text: Peliharaan Nyonya banyak sekali...
+38a4143/0/text: Tapi jika dipanggil 『sayangku』, 
+38a4143/1/text: Apakah tidak membuat kebingungan?
+d08ea0c7/0/text: Nyonya... 
+d08ea0c7/1/text: Sepertinya tidak memiliki perasaan buruk pada Vickers.
+44847f8d/0/text: Sepertinya tidak semua orang di Planet Orb membenci Vickers.
+53cc0e96/0/text: Orang cantik Vickers hari itu juga... 
+53cc0e96/1/text: Walau menertawakanku sangat membuat kesal, 
+53cc0e96/2/text: Tapi rasanya dia tidak memiliki maksud buruk terhadapku.
+525e2b92/0/text: Tapi jika memang begitu, 
+525e2b92/1/text: Sungguh keterlaluan mengatakan aku bodoh!!!
+6298173e/0/text: Paling benci dengan yang bermulut tajam!
+ee03e304/0/text: Tapi... 
+ee03e304/1/text: Ternyata, di setiap klan ada orang baik dan orang jahat... 
+ee03e304/2/text: Kan?

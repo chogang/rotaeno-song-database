@@ -1,0 +1,67 @@
+f890030a/0/text: Hii...huuff...
+f890030a/1/text: Hii...huuff...
+2adc21a3/0/text: Ilot! Kamu pasti bisa!
+8ad072e4/0/text: Tidak butuh Hoppe si kutu buku yang menyebalkan,
+8ad072e4/1/text: Aku sendiri pasti bisa!
+d52ddb4e/0/text: Festival musim panas, aku akan datang!!!
+d90b510d/0/text: Coba aku lihat...
+d90b510d/1/text: Di sini...
+cef6c5b2/0/text: Berhenti!
+90fe4845/0/text: !!!
+bc9d44cd/0/text: Kamu mau apa?
+969f5e76/0/text: Tidak... tidak...
+969f5e76/1/text: Hanya... melihat-lihat...
+2281df02/0/text: Di depan adalah jalur eksklusif untuk penduduk Pulau Floating,
+2281df02/1/text: Penumpang umum tidak boleh masuk.
+8a4414f5/0/text: Walimu ada di mana?
+8a4414f5/1/text: Kenapa membiarkan kamu berkeliaran sendirian di Spaceport?
+5e9885ff/0/text: Ma... Maaf...!
+f31b1644/0/text: Huh,
+f31b1644/1/text: Sungguh... menakutkan...!
+581b0bb4/0/text: Kenapa begitu kejam terhadap anak kecil?!
+581b0bb4/1/text: Orang sekarang sudah tidak punya simpati...!
+3a891856/0/text: Wah...!!!
+9f8a4688/0/text: Aduh, sakit sekali...
+d1569e53/0/text: Siapa itu...?!
+d1569e53/1/text: Yang menutupi wajah... milik orang lain?
+ea10d148/0/name: ???
+d5b8c0f8/0/text: Eh?
+f25022c6/0/text: Hah...?
+f25022c6/1/text: Sungguh indah...
+293dd731/0/text: ... Kamu jangan-jangan sedang mencari cara menyelinap ke Pulau Floating?
+156c6a1a/0/text: !!!
+9c571512/0/text: A... apa...!
+9c571512/1/text: Huhuhuhuhu...
+47079a59/0/text: Psst...
+a7c7ed9e/0/text: Jangan berteriak terlalu kencang, Kita berasal dari negara yang sama!
+5ac1287f/0/text: Negara yang sama...?
+1d17fbb/0/text: Aku juga ingin menyelinap untuk menonton festival!
+96d574f6/0/text: Jadi, ikuti aku!
+d4589a22/0/text: Be... benarkah?!
+112e990b/0/text: Jangan-jangan hanya membohongiku,
+112e990b/1/text: Lalu akan menyerahkanku ke polisi...?
+87335320/0/text: Aku tidak akan melakukan hal itu,
+87335320/1/text: Sangat membosankan~
+37e51aa3/0/text: Ayo, aku sudah menemukan jalan untuk memasuki pesawat!
+37e51aa3/1/text: Ayo bermain bersama!
+e5d37297/0/text: !!
+545ea9d6/0/text: Percaya padanya...?
+545ea9d6/1/text: Jika dia sedang berbohong...
+8918ceae/0/text: ...
+8918ceae/1/text: Tapi...
+1f2ab50/0/text: ... Baiklah...!!!
+94106bae/0/text: Benar begitu!
+94106bae/1/text: Ayo, pegang tanganku~
+ab42c1b9/0/text: Ya... Baik!
+ab42c1b9/1/text: Oh ya, namaku Ilot...!
+b53caa96/0/text: Luna.
+876482e2/0/text: Jangan lupa, ikuti aku dengan seksama~
+876482e2/1/text: Kita hanya punya satu kesempatan!!!
+3ac3206c/0/text: Ba... baik,
+3ac3206c/1/text: Luna!
+17634d8b/0/text: Hitung sampai tiga, lalu mulai berlari~
+165d5c33/0/text: Satu, dua...
+a0dbb663/0/text: ... Tiga!!!
+eaccada8/0/text: Lihat saja, Hoppe...
+b38643fb/0/text: Meski tanpa kamu,
+b38643fb/1/text: Aku juga pasti bisa...!!!
