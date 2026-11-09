@@ -1,5 +1,5 @@
 {
-  "objects": 1301,
+  "objects": 1302,
   "source_asset": "resources.assets",
   "script_pointer": {
     "file_id": 1,
@@ -33,19 +33,19 @@
       "entries": 10418
     },
     "zh-TW": {
-      "documents": 185,
-      "entries": 10433
+      "documents": 186,
+      "entries": 10444
     }
   },
   "command_types": {
     "OverrideDisplayNameCommand": 1843,
-    "OverridePrintCommand": 71098,
+    "OverridePrintCommand": 71109,
     "OverrideAppendLineBreakCommand": 20202,
     "OverrideModifyCharacter": 12148,
     "AnimsetCommand": 1411,
-    "Wait": 2319,
+    "Wait": 2321,
     "SkipInput": 119,
-    "ModifyTextPrinter": 505,
+    "ModifyTextPrinter": 506,
     "HideAllActors": 287,
     "SetOSAuthorCommand": 105,
     "FadeOutCommand": 457,
@@ -55,7 +55,7 @@
     "ModifyCamera": 1350,
     "OverridePlayBgmCommand": 211,
     "FadeInCommand": 348,
-    "HidePrinter": 1303,
+    "HidePrinter": 1306,
     "EmoteCommand": 1570,
     "EnablePlaceOnTopCommand": 29,
     "DestroySpawned": 77,
@@ -67,7 +67,7 @@
     "StopSfx": 81,
     "OverrideSpeakerTintColorCommand": 30,
     "HideAllCharacters": 95,
-    "Stop": 57,
+    "Stop": 58,
     "LoopBgmPresetCommand": 9,
     "ResetText": 474,
     "DestroyAllSpawned": 12,
@@ -80,5 +80,14 @@
     "ShowPrinter": 14
   },
   "unknown": [],
-  "format_note": "JSON and keyed TXT export of compiled dialogue and display-name fields; not original .nani source or a repackable Unity asset."
+  "format_note": "JSON and keyed TXT export of compiled dialogue and display-name fields; not original .nani source or a repackable Unity asset.",
+  "addressable_bundles_scanned": 186,
+  "bundle_only_documents": [
+    {
+      "script": "vn-sc3-secret-kai-2",
+      "language": "zh-TW",
+      "entries": 11,
+      "bundle": "assets/aa/Android/naninovel_assets_naninovel/scripts/vn-sc3-secret-kai-2_97567d0a1957c0583628a65bd052d1b4.bundle"
+    }
+  ]
 }

@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "metadata_file": "global-metadata.dat",
+    "metadata_sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a",
+    "binary_file": "libil2cpp.so",
+    "binary_sha256": "257941c2ea1be78980721f4b7005ddab7bc0d9610fe0290ede36e220f7823d23",
+    "metadata_version": 31
+  },
+  "entries": [
+    {
+      "literal_index": 205,
+      "text": " +",
+      "contexts": [
+        {
+          "method_index": 16451,
+          "declaring_type_index": 3765,
+          "method_name": "get_Name",
+          "address": "0x42c8d00",
+          "load_address": "0x42c8d38",
+          "literal_slot_address": "0x5ab36c8"
+        }
+      ]
+    },
+    {
+      "literal_index": 1829,
+      "text": "4K",
+      "contexts": [
+        {
+          "method_index": 16287,
+          "declaring_type_index": 3721,
+          "method_name": "get_Name",
+          "address": "0x42c0f68",
+          "load_address": "0x42c0f98",
+          "literal_slot_address": "0x5ab6980"
+        }
+      ]
+    },
+    {
+      "literal_index": 1835,
+      "text": "6K",
+      "contexts": [
+        {
+          "method_index": 16294,
+          "declaring_type_index": 3723,
+          "method_name": "get_Name",
+          "address": "0x42c115c",
+          "load_address": "0x42c118c",
+          "literal_slot_address": "0x5ab69b0"
+        }
+      ]
+    },
+    {
+      "literal_index": 1838,
+      "text": "8K",
+      "contexts": [
+        {
+          "method_index": 16301,
+          "declaring_type_index": 3725,
+          "method_name": "get_Name",
+          "address": "0x42c1394",
+          "load_address": "0x42c13c4",
+          "literal_slot_address": "0x5ab69c8"
+        }
+      ]
+    },
+    {
+      "literal_index": 3166,
+      "text": "Bullet",
+      "contexts": [
+        {
+          "method_index": 16308,
+          "declaring_type_index": 3727,
+          "method_name": "get_Name",
+          "address": "0x42c15cc",
+          "load_address": "0x42c15fc",
+          "literal_slot_address": "0x5ab9348"
+        }
+      ]
+    },
+    {
+      "literal_index": 4406,
+      "text": "DJ SPIN",
+      "contexts": [
+        {
+          "method_index": 16315,
+          "declaring_type_index": 3729,
+          "method_name": "get_Name",
+          "address": "0x42c18b8",
+          "load_address": "0x42c18e8",
+          "literal_slot_address": "0x5abb9f8"
+        }
+      ]
+    },
+    {
+      "literal_index": 4407,
+      "text": "DJ Scratch",
+      "contexts": [
+        {
+          "method_index": 16426,
+          "declaring_type_index": 3757,
+          "method_name": "get_Name",
+          "address": "0x42c7920",
+          "load_address": "0x42c7950",
+          "literal_slot_address": "0x5abba00"
+        }
+      ]
+    },
+    {
+      "literal_index": 4935,
+      "text": "Endless Rain",
+      "contexts": [
+        {
+          "method_index": 16389,
+          "declaring_type_index": 3749,
+          "method_name": "get_Name",
+          "address": "0x42c4eec",
+          "load_address": "0x42c4f1c",
+          "literal_slot_address": "0x5abca80"
+        }
+      ]
+    },
+    {
+      "literal_index": 5712,
+      "text": "Funky",
+      "contexts": [
+        {
+          "method_index": 16462,
+          "declaring_type_index": 3767,
+          "method_name": "get_Name",
+          "address": "0x42c9684",
+          "load_address": "0x42c96b4",
+          "literal_slot_address": "0x5abe2c0"
+        }
+      ]
+    },
+    {
+      "literal_index": 7636,
+      "text": "Mine Fun",
+      "contexts": [
+        {
+          "method_index": 16336,
+          "declaring_type_index": 3735,
+          "method_name": "get_Name",
+          "address": "0x42c2798",
+          "load_address": "0x42c27c8",
+          "literal_slot_address": "0x5ac1ed8"
+        }
+      ]
+    },
+    {
+      "literal_index": 7646,
+      "text": "Mirror",
+      "contexts": [
+        {
+          "method_index": 16351,
+          "declaring_type_index": 3741,
+          "method_name": "get_Name",
+          "address": "0x42c2d90",
+          "load_address": "0x42c2dc0",
+          "literal_slot_address": "0x5ac1f28"
+        }
+      ]
+    },
+    {
+      "literal_index": 8579,
+      "text": "Parkour",
+      "contexts": [
+        {
+          "method_index": 16369,
+          "declaring_type_index": 3747,
+          "method_name": "get_Name",
+          "address": "0x42c3c3c",
+          "load_address": "0x42c3c6c",
+          "literal_slot_address": "0x5ac3c50"
+        }
+      ]
+    },
+    {
+      "literal_index": 9054,
+      "text": "Rectangle",
+      "contexts": [
+        {
+          "method_index": 16480,
+          "declaring_type_index": 3773,
+          "method_name": "get_Name",
+          "address": "0x42c9950",
+          "load_address": "0x42c9980",
+          "literal_slot_address": "0x5ac4b18"
+        }
+      ]
+    },
+    {
+      "literal_index": 9115,
+      "text": "Relativity",
+      "contexts": [
+        {
+          "method_index": 16278,
+          "declaring_type_index": 3719,
+          "method_name": "get_Name",
+          "address": "0x42c0b00",
+          "load_address": "0x42c0b30",
+          "literal_slot_address": "0x5ac4d00"
+        }
+      ]
+    },
+    {
+      "literal_index": 12057,
+      "text": "VTuber",
+      "contexts": [
+        {
+          "method_index": 16513,
+          "declaring_type_index": 3780,
+          "method_name": "get_Name",
+          "address": "0x42cac58",
+          "load_address": "0x42cac88",
+          "literal_slot_address": "0x5aca8e0"
+        }
+      ]
+    },
+    {
+      "literal_index": 12058,
+      "text": "VTuber (Easy)",
+      "contexts": [
+        {
+          "method_index": 16519,
+          "declaring_type_index": 3782,
+          "method_name": "get_Name",
+          "address": "0x42cae28",
+          "load_address": "0x42cae58",
+          "literal_slot_address": "0x5aca8e8"
+        }
+      ]
+    },
+    {
+      "literal_index": 12216,
+      "text": "Waves",
+      "contexts": [
+        {
+          "method_index": 16490,
+          "declaring_type_index": 3775,
+          "method_name": "get_Name",
+          "address": "0x42ca074",
+          "load_address": "0x42ca0a4",
+          "literal_slot_address": "0x5acadd0"
+        }
+      ]
+    },
+    {
+      "literal_index": 12230,
+      "text": "Weeeeeeeee",
+      "contexts": [
+        {
+          "method_index": 16404,
+          "declaring_type_index": 3755,
+          "method_name": "get_Name",
+          "address": "0x42c5710",
+          "load_address": "0x42c5740",
+          "literal_slot_address": "0x5acae40"
+        }
+      ]
+    }
+  ],
+  "unresolved_methods": [
+    {
+      "method_index": 16322,
+      "declaring_type_index": 3731,
+      "method_name": "get_Name",
+      "address": "0x42c1f34"
+    },
+    {
+      "method_index": 16329,
+      "declaring_type_index": 3733,
+      "method_name": "get_Name",
+      "address": "0x42c2510"
+    },
+    {
+      "method_index": 16343,
+      "declaring_type_index": 3739,
+      "method_name": "get_Name",
+      "address": "0x42c2ab0"
+    },
+    {
+      "method_index": 16359,
+      "declaring_type_index": 3743,
+      "method_name": "get_Name",
+      "address": "0x42c3458"
+    },
+    {
+      "method_index": 16397,
+      "declaring_type_index": 3751,
+      "method_name": "get_Name",
+      "address": "0x42c5294"
+    },
+    {
+      "method_index": 16433,
+      "declaring_type_index": 3759,
+      "method_name": "get_Name",
+      "address": "0x42c7e20"
+    },
+    {
+      "method_index": 16440,
+      "declaring_type_index": 3762,
+      "method_name": "get_Name",
+      "address": "0x42c8444"
+    },
+    {
+      "method_index": 16468,
+      "declaring_type_index": 3769,
+      "method_name": "get_Name",
+      "address": "0x42c9798"
+    },
+    {
+      "method_index": 16474,
+      "declaring_type_index": 3771,
+      "method_name": "get_Name",
+      "address": "0x42c9874"
+    }
+  ],
+  "key_policy": "App IDs lab/code/<literal_index> are analysis identifiers, not original I2 translation keys. Korean edits are separate review proposals, not a native code patch."
+}

@@ -44,3 +44,5 @@ CREATE TABLE IF NOT EXISTS story_values (
  PRIMARY KEY(language_code,script,entry_key),
  FOREIGN KEY(language_code,script) REFERENCES story_documents(language_code,script)
 );
+
+CREATE TABLE IF NOT EXISTS code_texts(literal_index INTEGER PRIMARY KEY,source_text TEXT NOT NULL,contexts_json TEXT NOT NULL,source_json TEXT NOT NULL);

@@ -1,0 +1,73 @@
+{
+  "game_version": "2.99.0",
+  "i2": {
+    "source_terms": 2462,
+    "text_terms": 2439,
+    "lab_keys": 11,
+    "empty_korean_text_cells": 473
+  },
+  "unity": {
+    "text_assets_examined": 32,
+    "story_documents": 1302,
+    "story_fields": 72952
+  },
+  "addressable_script_bundles": {
+    "examined": 186,
+    "existing_source_scripts_with_identical_fields": 185,
+    "additional_source_script": "vn-sc3-secret-kai-2",
+    "additional_fields": 11
+  },
+  "lab_code_literals": {
+    "recovered": 18,
+    "source": {
+      "metadata_file": "global-metadata.dat",
+      "metadata_sha256": "91c74f933e83904e0b642515fb2b0a9fad4ef07893f1edd10965d5c9a1e64a0a",
+      "binary_file": "libil2cpp.so",
+      "binary_sha256": "257941c2ea1be78980721f4b7005ddab7bc0d9610fe0290ede36e220f7823d23",
+      "metadata_version": 31
+    },
+    "methods_without_recognized_literal_load": 9,
+    "labels": [
+      " +",
+      "4K",
+      "6K",
+      "8K",
+      "Bullet",
+      "DJ SPIN",
+      "DJ Scratch",
+      "Endless Rain",
+      "Funky",
+      "Mine Fun",
+      "Mirror",
+      "Parkour",
+      "Rectangle",
+      "Relativity",
+      "VTuber",
+      "VTuber (Easy)",
+      "Waves",
+      "Weeeeeeeee"
+    ],
+    "not_an_i2_translation_table": true
+  },
+  "app": {
+    "review_entries_before": 13208,
+    "review_entries_after": 13227,
+    "reference_only_story_keys": [
+      {
+        "script": "vn-sc2-m1",
+        "key": "763931ea/0/text",
+        "languages": [
+          "en",
+          "ja"
+        ]
+      }
+    ],
+    "preserves_previous_review_ids": true
+  },
+  "scope_limits": [
+    "Static file analysis; in-game branches and server-delivered text were not exercised.",
+    "Lab native slices cover selected name getters, not every code literal.",
+    "Android SDK resource tables were not decoded because apktool was unavailable.",
+    "Text baked into textures is outside this text-data comparison."
+  ]
+}

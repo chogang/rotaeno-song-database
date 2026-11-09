@@ -1,5 +1,5 @@
 """Read Naninovel managed-reference scripts without executing game code."""
-import os,sys,pathlib,struct,re,json,hashlib,collections
+import os,sys,pathlib,struct,re,json,hashlib,collections,zipfile
 root=pathlib.Path(os.environ['ROTAENO_WORKDIR'])
 sys.path.insert(0,str(root/'tools/python-libs'))
 import UnityPy
@@ -31,10 +31,17 @@ def records(b,start,count):
  for i,r in enumerate(rows):r['end']=rows[i+1]['start'] if i+1<len(rows) else len(b)
  return rows
 docs=[];types=collections.Counter();samples={};unknown=[]
-for o in env.objects:
- if o.type.name!='MonoBehaviour' or o.assets_file.name!='resources.assets':continue
+objects=[(o,None) for o in env.objects if o.type.name=='MonoBehaviour' and o.assets_file.name=='resources.assets' and struct.unpack_from('<iq',o.get_raw_data(),16)==(1,2017)]
+streaming_apk=os.environ.get('ROTAENO_STREAMING_APK')
+if streaming_apk:
+ with zipfile.ZipFile(streaming_apk) as archive:
+  for path in archive.namelist():
+   if 'naninovel/scripts/' not in path or not path.endswith('.bundle'):continue
+   bundle=UnityPy.load(archive.read(path))
+   objects.extend((o,path) for o in bundle.objects if o.type.name=='MonoBehaviour')
+for o,source_bundle in objects:
  b=o.get_raw_data()
- if struct.unpack_from('<iq',b,16)!=(1,2017):continue
+ if source_bundle and any(d['script']==o.peek_name() and d['code']=='zh-TW' for d in docs):continue
  name,p=string(b,28);n=integer(b,p);p+=4
  roots=[long(b,p+i*8) for i in range(n)];p+=n*8
  assert integer(b,p)==2;p+=4
@@ -87,7 +94,8 @@ for o in env.objects:
      except (AssertionError,UnicodeError,struct.error):speaker=''
     label=line['label'] if match else line['hash'];ordinal=occurrences[(label,field)];occurrences[(label,field)]+=1
     entries.append(dict(key=label+f'/{ordinal}/{field}',text=text,line=line['line'],label=label,command=r['type'],speaker=speaker,reference_id=rid,inline_index=j,field=field))
- doc=dict(script=name,code=code,language_basis='localization-header' if match else 'source-locale-configuration',source_asset='resources.assets',path_id=o.path_id,sha256=hashlib.sha256(b).hexdigest(),entries=entries)
+ doc=dict(script=name,code=code,language_basis='localization-header' if match else 'source-locale-configuration',source_asset=o.assets_file.name,path_id=str(o.path_id) if abs(o.path_id)>2**53-1 else o.path_id,sha256=hashlib.sha256(b).hexdigest(),entries=entries)
+ if source_bundle:doc['source_bundle']=source_bundle
  docs.append(doc)
 print('DOCS',len(docs),'LANGS',collections.Counter(d['code'] for d in docs),'ENTRIES',collections.Counter({c:sum(len(d['entries']) for d in docs if d['code']==c) for c in {d['code'] for d in docs}}))
 assert not unknown,unknown
@@ -99,3 +107,7 @@ for d in docs:
  (folder/(d['script']+'.txt')).write_text(''.join(e['key']+': '+e['text'].replace('\r\n','\\n').replace('\r','\\n').replace('\n','\\n')+'\n' for e in d['entries']),encoding='utf8')
 (out/'story-scripts.json').write_text(json.dumps(dict(schemaVersion=1,documents=docs),ensure_ascii=False),encoding='utf8')
 (out/'story-report.json').write_text(json.dumps(dict(objects=len(docs),source_asset='resources.assets',script_pointer=dict(file_id=1,path_id=2017),source_locale='zh-TW',source_locale_configuration_path_id=16077,languages={c:dict(documents=sum(d['code']==c for d in docs),entries=sum(len(d['entries']) for d in docs if d['code']==c)) for c in sorted({d['code'] for d in docs})},command_types=types,unknown=unknown,format_note='JSON and keyed TXT export of compiled dialogue and display-name fields; not original .nani source or a repackable Unity asset.'),ensure_ascii=False,indent=2),encoding='utf8')
+report=json.loads((out/'story-report.json').read_text(encoding='utf8'))
+report['addressable_bundles_scanned']=len({path for _,path in objects if path})
+report['bundle_only_documents']=[dict(script=d['script'],language=d['code'],entries=len(d['entries']),bundle=d['source_bundle']) for d in docs if 'source_bundle' in d]
+(out/'story-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf8')

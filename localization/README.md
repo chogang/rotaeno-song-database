@@ -37,11 +37,19 @@ Rotaeno 2.99.0의 `resources.assets`에서 읽은 번역 데이터입니다. 원
 
 ## 스토리 대본
 
-`story-scripts.json`과 `story/<code>/*.txt`에는 `resources.assets`의 컴파일된 Naninovel Script 객체 1,301개에서 추출한 대사·표시 이름 72,941개가 있습니다. 한국어·영어·일본어·간체·태국어·인도네시아어는 각 186개 대본, 기본 번체는 185개 대본입니다. 한국어는 빈 문자열을 포함해 10,418개 항목입니다. 본편·외전·곡 인터뷰·대화 대본을 포함합니다.
+`story-scripts.json`과 `story/<code>/*.txt`에는 `resources.assets` 및 별도 스크립트 번들의 컴파일된 Naninovel Script 객체 1,302개에서 추출한 대사·표시 이름 72,952개가 있습니다. 7개 언어 모두 각 186개 대본입니다. 한국어는 빈 문자열을 포함해 10,418개 항목입니다. 본편·외전·곡 인터뷰·대화 대본을 포함합니다. 별도 번들에만 있던 기본 번체 `vn-sc3-secret-kai-2`의 11개 항목도 포함합니다.
 
 언어는 번역 문서 머리말에 기록된 코드로 확인하며, 머리말 없는 기본 대본은 LocalizationConfiguration의 원본 언어 `zh-TW`를 적용했습니다. 객체 ID·해시·문서 행·명령 참조 ID·인라인 순서를 보존했습니다. 문장 키는 원문 라벨과 해당 라벨 안의 필드별 조각 순서로 구성합니다. 한국어 모든 키는 영어에 대응하며 일본어에 대응 키가 없는 한국어 조각은 4개입니다.
 
 JSON과 TXT는 컴파일된 대사 필드의 내보내기 형식입니다. TXT는 `문장키: 텍스트` 형식이며 원본 `.nani` 소스나 실행 명령 전체를 복원한 파일이 아닙니다. 에셋 재패킹은 포함하지 않습니다. 원본 위치·언어별 개수·전체 명령 유형은 `story-report.json`에서 확인할 수 있습니다. 라이브 번역 서버나 외부 스프레드시트에는 접속하지 않았습니다.
+
+## 실험실 코드 문구
+
+`code-texts.json`은 네이티브 모드 이름 메서드에서 참조한 메타데이터 문자열 18개를 보존합니다. DJ SPIN, DJ Scratch, Funky, Mine Fun, Rectangle, Relativity, VTuber, VTuber (Easy), Weeeeeeeee 등을 포함하며 ` +` 접미사도 있습니다. 이 문자열들은 I2의 `lab/*` 번역 테이블에 없습니다. 원래 번역 키나 언어별 공식 번역을 임의로 만들지 않았습니다.
+
+각 항목의 문자열 인덱스, 참조 메서드 인덱스·주소, 문자열 슬롯 주소와 원본 파일 해시를 기록했습니다. `tools/extract_lab_code_texts.py`는 고정된 2.99.0 ARM64 빌드에서 ELF 상대 재배치와 ADRP/ADD/LDR 구간을 읽습니다. 27개 이름 메서드 중 18개에서 이 방식으로 문자열 참조를 관찰했으며, 나머지 9개는 미해결로 별도 보존합니다. 이는 전체 게임의 코드 문자열을 모두 회수했다는 뜻은 아닙니다.
+
+`text-coverage-report.json`에는 번역실 대조 결과와 남은 범위를 정리했습니다.
 
 ## DB
 
@@ -52,6 +60,7 @@ JSON과 TXT는 컴파일된 대사 필드의 내보내기 형식입니다. TXT�
 - `localization_values`: 원본 항목·언어별 문자열과 플래그.
 - `managed_localization_values`: Naninovel 문서의 키·언어별 문자열.
 - `story_documents`, `story_values`: 언어·대본·문장 키별 스토리 대사와 원본 객체 정보.
+- `code_texts`: 기존 번역 테이블과 구분한 실험실 코드 원문·참조 정보.
 - `localization_canonical_terms`: 키별 첫 항목을 선택한 뷰.
 - `localized_song_names`: 번역 원문과 추론한 언어 참조를 구분한 곡명 뷰. 이 뷰는 기존 곡 DB에만 있습니다.
 
